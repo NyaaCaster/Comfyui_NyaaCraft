@@ -5,6 +5,7 @@ description = "ComfyUI custom node tools for Prompts with Nyaa."
 license = "Apache-2.0"
 requires-python = ">=3.10"
 readme = "README.md"
+dependencies = ["requests>=2.31.0"]
 
 [project.urls]
 Repository = "https://github.com/NyaaCaster/Comfyui_NyaaCraft"

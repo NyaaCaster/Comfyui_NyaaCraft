@@ -1,0 +1,2 @@
+# 🐈Nyaa_FreeLLM Chat 节点需要（其余依赖 torch / numpy / Pillow / aiohttp 均为 ComfyUI 自带）
+requests>=2.31.0

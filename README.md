@@ -10,6 +10,26 @@ ComfyUI custom node tools for Prompts with Nyaa.
 | 🐈Nyaa_NSFW-Market | `NSFWPromptSelector` | 结构化 NSFW 提示词选择器，输出正面 / 负面 / 完整提示词 |
 | 🐈Nyaa_FreeLLM Chat | `OpenAI_Chat_API` | OpenAI 兼容 Chat API，文本对话 / 图像分析 |
 
+## 安装
+
+进入 ComfyUI 的 `custom_nodes` 目录，克隆本仓库：
+
+```bash
+cd ComfyUI/custom_nodes
+git clone https://github.com/NyaaCaster/Comfyui_NyaaCraft.git
+```
+
+安装依赖（Windows 便携版请使用内置 `python_embeded`，下面用相对路径执行）：
+
+```powershell
+cd Comfyui_NyaaCraft
+& "..\..\..\python_embeded\python.exe" -m pip install -r requirements.txt
+```
+
+重启 ComfyUI，三个节点都在菜单 `🐈Comfyui_NyaaCraft` 分类下。
+
+> 依赖仅 `requests`（🐈Nyaa_FreeLLM Chat 调用 API 用）。其余 torch / numpy / Pillow / aiohttp 均为 ComfyUI 自带，通常无需安装。
+
 ## 目录结构
 
 ```
@@ -25,13 +45,10 @@ Comfyui_NyaaCraft/
 ├── data/library.json        # 运行时提示词库（由 build_library.py 从 library_src/ 生成）
 ├── build_library.py         # 构建：library_src/*.json → data/library.json
 ├── tools/gen_library_src.py # 一次性：从 library.json 反向生成 library_src/（已用过，备查）
+├── requirements.txt         # 仅 requests
 ├── LICENSE                  # Apache-2.0
 ├── pyproject.toml / README.md
 ```
-
-## 安装
-
-放入 `ComfyUI/custom_nodes/`，重启 ComfyUI，三个节点都在菜单 `🐈Comfyui_NyaaCraft` 分类下。
 
 ## 提示词库维护（仅 PromptLibrary）
 
@@ -42,11 +59,10 @@ Comfyui_NyaaCraft/
 - `p` / `n` 留空即可（构建时自动省略）；非空内容会自动补半角逗号结尾，无需手动加。
 - 下拉 id 和首位的 `Null` 选项由构建脚本自动生成，**不要手写**。
 
-编辑后用项目内置 Python 重新构建：
+编辑后在本目录（`ComfyUI/custom_nodes/Comfyui_NyaaCraft`）用便携版内置 Python 重新构建：
 
 ```powershell
-& "I:\ComfyUI_windows_portable\python_embeded\python.exe" `
-  "I:\ComfyUI_windows_portable\ComfyUI\custom_nodes\Comfyui_NyaaCraft\build_library.py"
+& "..\..\..\python_embeded\python.exe" build_library.py
 ```
 
 节点按 `library.json` 的修改时间自动重载，无需重启 ComfyUI。
