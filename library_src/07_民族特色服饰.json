@@ -1,0 +1,850 @@
+{
+  "name": "民族特色服饰",
+  "children": [
+    {
+      "name": "中国",
+      "options": [
+        {
+          "name": "随机标准古装",
+          "p": "(multiple view:1.10),(1girl:1.10),(traditional ancient chinese imperial guards costume:1.16),full body,",
+          "n": ""
+        },
+        {
+          "name": "长裤旗袍",
+          "p": "tassel earrings,chinese clothes,china dress,green dress,aqua dress,vietnamese dress,long dress,shoulder cutout,short sleeves,frilled sleeves,wrist cuffs,pants under skirt,white pants,baggy pants,bloomers,high heels,black footwear,pumps,frills,tassel,chinese knot,black bow,dragon print,red ribbon,collar,embroidery,gold trim,",
+          "n": ""
+        },
+        {
+          "name": "夜行衣刺客",
+          "p": "1girl,indifferent expression,sharp eyes,serious,studio lighting,realistic,face mask,han dynasty warrior clothing,simplified black battle garments,tight waist sash,practical combat pants,detailed craftsmanship,holding dagger,night,outdoors,squatting,one hand support,chinese architecture,on rooftop,",
+          "n": ""
+        },
+        {
+          "name": "账房先生",
+          "p": "holding brush,writing,looking down,serious expression,focused,closed mouth,chinese clothes,long sleeves,round eyewear,desk,abacus,ledger,inkstone,indoors,",
+          "n": ""
+        },
+        {
+          "name": "金鳞刀客",
+          "p": "1girl,gentle smile,confident,looking at viewer,white dress,china dress,cheongsam,fantasy clothes,plunging neckline,cleavage,large breasts,detached sleeves,wide sleeves,high slit,pelvic curtain,sheer pantyhose,patterned pantyhose,(white pantyhose:2.0),standing,hand on hip,stands elegantly with a regal demeanor,gold embroidery resembling dragon scales,holding weapon,blurry background,makeup,holding sword,tassel,forehead marklooking at viewer,blurry,blurry background,depth of field,weapon,indoors,sword,facial mark,katana,sheath,sheathed,architecture,dragon print,",
+          "n": ""
+        },
+        {
+          "name": "仙侠华裙",
+          "p": "1girl,solo,elaborate fantasy costume,xianxia style blended with lolita heavy industry,gray-blue gradient tulle,navy chiffon layers,gold filigree metal decoration,organza dress,chiffon dress,chemical lace,lace trimming,butterfly-shaped chest ornament with gemstone,hollow out waist design,flowing wide sleeves with tassels,vine pattern metal chain,ruffled tulle skirt,off-the-shoulder strapless top,delicate jewelry,ethereal and luxurious atmosphere,soft light,realistic fabric texture,complex craftsmanship details,white background,(see-through:1.22),transparent clothes,east asian architecture background,",
+          "n": ""
+        },
+        {
+          "name": "灵狐长袍",
+          "p": "bare feet,detailed,soft shading,character design,fantasy,floating posture,ethereal aura,(seductive expression:1.16),ninja suit,dark black and silver hanfu with fox patterns,(fingerless lace gloves:1.05),(footed socks:1.05),female model catwalk,",
+          "n": ""
+        },
+        {
+          "name": "青花瓷连衣裙",
+          "p": "lolita fashion,chinese ancient costume,double buns,a girl wearing a traditional-inspired white dress decorated with delicate blue and white porcelain pattern throughout the fabric,the dress features dark navy blue trim along the edges and hem,long sleeves in solid dark navy blue color with floral embellishments on the shoulders. white ankle socks and shiny black patent leather mary jane shoes with a strap across the instep. blue butterfly hair ornament.,",
+          "n": ""
+        },
+        {
+          "name": "短款分层汉服",
+          "p": "1girl,solo,erotic hanfu,ruqun style,sheer silk fabric,low-cut collar,deep v-neckline,off-shoulder sleeves,wide flowing sleeves,high thigh slits,layered pleated skirt,lace-trimmed hems,ornate floral embroidery,gold thread accents,beaded sash belt,pearl tassel ornaments,jade hairpin accessories,silk ribbon ties,exposed midriff,corset waist cinch,fishtail hem design,",
+          "n": ""
+        },
+        {
+          "name": "汉服",
+          "p": "blue robe,blue sash,chinese hairpin,hair bun,hanfu,high collar,long eyelashes,maple leaf print,sidelocks,single hair bun,tassel,【holding umbrella,oil-paper umbrella,looking at viewer,】（撑伞附件）,",
+          "n": ""
+        },
+        {
+          "name": "浅绿汉服",
+          "p": "(hanfu:1.28),(chinese clothes:1.22),acient,wuxia,pale green,white clothes,(pale green:1.10),",
+          "n": ""
+        },
+        {
+          "name": "禅杖主母",
+          "p": "1girl,frilled dress holding staff,material growth,chinese clothes,china dress,single thighhigh,kneehighs,detached sleeves,cleavage cutout,clothing cutout,asymmetrical legwear,white thighhighs,white dress,single kneehigh,bare shoulders,wide sleeves,long sleeves,uneven legwear,cross-laced clothes,wrist cuffs,white sleeves,cross-laced slit,pelvic curtain,sleeveless dress,back bow,frills,side slit,",
+          "n": ""
+        },
+        {
+          "name": "原版杂项",
+          "p": "looking at viewer,leaning forward,standing,hand up,hand on own chin,feet out of frame,blurry background,",
+          "n": ""
+        },
+        {
+          "name": "赏雪季服",
+          "p": "(hanfu,elegant:4.0),eyeliner,eyelashes,eyeshadow,wide hips,(curvy,plump:1.10),sagging breasts,expressionless,pink lips,puffy lips,thick thighs,tall,white clothes,(rabel,red cape,fur trim,red surcoat,tender,tassel,long sleeves,blue print,thighhighs,half-closed eyes,snow,sunlight,light and shadow,looking at viewer,hand on own chin,arm on another arm,pale skin,",
+          "n": ""
+        },
+        {
+          "name": "蛇纹身",
+          "p": "arm tattoo,black skirt,chinese clothes,feet out of frame,floral background,floral print,flower tattoo,hand up,inset border,irezumi,leg tattoo,lips,looking at viewer,looking over eyewear,miniskirt,puffy short sleeves,puffy sleeves,red flower,red shirt,round eyewear,seal impression,short sleeves,skull tattoo,snake,snake tattoo,solo,sunglasses,tattoo,",
+          "n": ""
+        },
+        {
+          "name": "竹林印花汉服",
+          "p": "hanfu,modernized chinese clothes,aoqun,white top,standing collar,pankou,frog buttons,wide sleeves,ink wash painting print,bamboo print on sleeves,black pleated skirt,mamianqun,layered skirt,light green sash,embroidered belt,long tassels,",
+          "n": ""
+        },
+        {
+          "name": "星座印花旗袍",
+          "p": "thick thighs,black china dress,2:2.0)white constellation print thighhighs,see-through thighhighs,shiny constellation print,hair flower,white garter straps,gold trim,tassel,lace-trimmed gloves,kanzashi,red eyeshadow,long eyelashes,black high heels,wide shot,impossible dress,feather boa,clothing cutout,underboob,underboob cutout,sideboob,",
+          "n": ""
+        },
+        {
+          "name": "原版杂项 (2)",
+          "p": "half-closed eyes,skindentation,indoors,holding tanghulu,pelvic curtain,from side,lying,on bed,full body,moon,night,night sky,smile,round window,looking at viewer,fireworks,",
+          "n": ""
+        },
+        {
+          "name": "星光汉服",
+          "p": "hanfu,flowing fabric,wide sleeves,layered clothing,galaxy print,starry sky print,nebula patterns,iridescent sheen,ethereal glow,shimmering material,long skirt,pleated skirt,inner tunic,outer robe,embroidered details,intricate patterns,silk sash,jade pendant,traditional chinese footwear,embroidered shoes,patterned socks,hair ornaments,jeweled hairpin,delicate earrings,elegant posture,serene expression,smile,subtle makeup,pearl hairpins,floral hairpiece,veil,sheer fabric,high collar,traditional chinese clothing,celestial theme,cosmic patterns,draped fabric,luminous threads,intricate embroidery,",
+          "n": ""
+        },
+        {
+          "name": "飞天舞女",
+          "p": "chinese ancient costume,dunhuang style,dancer,bangle,bracelet,anklet,detached sleeves,earrings,frilled shawl,hagoromo,revealing clothes,harem outfit,lotus hair ornament,neck ring,stomach,no panties,groin,partially visible vulva,cleft of venus,bare shoulders,bare back,bare legs,barefoot,jewelry,",
+          "n": ""
+        },
+        {
+          "name": "裁剪唐装",
+          "p": "white pantyhose,long sleeves,black footwear,hair flaps,bell,pleated skirt,red shirt,closed mouth,white skirt,chinese clothes,pom pom hair ornament,pom pom (clothes),tangzhuang,midriff peek,neck bell,cowlick,jingle bell,waist jade pendant,",
+          "n": ""
+        },
+        {
+          "name": "双刀刺客",
+          "p": "black thighhighs,bare shoulders,red dress,bridal gauntlets,chinese clothes,side slit,detached sleeves,holding dagger,holding knife,sword,white flower,double holding,",
+          "n": ""
+        },
+        {
+          "name": "原版杂项 (3)",
+          "p": "looking at viewer,looking back,blue background,from side,gradienstanding,t background,cowboy shot,floating hair,ass,blush,reverse grip,",
+          "n": ""
+        },
+        {
+          "name": "触手道士",
+          "p": "black hanfu,black shoes,chinese clothes,closed mouth,creature,full body,half updo,holding scroll,long sleeves,looking at viewer,messy hair,open coat,red coat,robe,standing,tentacles,tentacles under clothes,wide sleeves,",
+          "n": ""
+        },
+        {
+          "name": "难民",
+          "p": "bare legs,barefoot,blood,blood on leg,blush,bruise,child,chinese clothes,dirty,dirty clothes,dirty face,dirty feet,eating,feet,full body,grey robe,hanfu,holding food,injury,knees up,long sleeves,male focus,messy hair,off shoulder,robe,single bare shoulder,sitting,snow,snowing,steamed bun,toes,torn clothes,wide sleeves,",
+          "n": ""
+        },
+        {
+          "name": "短款黑色龙纹旗袍",
+          "p": "long sleeves,jewelry,bare shoulders,standing,earrings,black dress,sleeveless dress,bell,chinese clothes,short dress,slit pupils,tassel,china dress,jingle bell,gold trim,black sleeves,tassel earrings,print dress,dragon print,leg tattoo,black shorts,",
+          "n": ""
+        },
+        {
+          "name": "常规剑仙",
+          "p": "sword smith,(hanfu,white silk robe,elegant,china sword,white shoes:1.16),",
+          "n": ""
+        },
+        {
+          "name": "白虎拳师",
+          "p": "(tiger girl:1.10),chinese clothes,feet,fighting stance,glaring,purple rope,stirrup legwear,striped hair,striped tail,tassel,toeless legwear,white gloves,white loincloth,white shirt,white tiger,",
+          "n": ""
+        },
+        {
+          "name": "绒毛披肩白丝旗袍侠女",
+          "p": "indoors,white hanfu,chinese clothes,blue hair ribbon,fur cloak,(long scabbard behid back:1.16),side cleavage,hairpin,side-tie,sideboob,flowers pattern,white thighhighs,puckered lips,cyan lipstick,oiled shinny skin,cowboy shot,from side,",
+          "n": ""
+        },
+        {
+          "name": "带刀侍卫",
+          "p": "cowboy shot,holding sword,dress with white dragon patterns,black trousers,(black cloak:1.05),white tiger print,red ribbon,expressionless,outdoors,chinese architecture,",
+          "n": ""
+        },
+        {
+          "name": "富豪商女",
+          "p": "ink wash painting,zhongguo hua,calligraphy,inkblot,indoors,folding screen with floral pattern,round window,peony (flower),bonsai,ink-gold pavilions,hanging scroll,jade-inlaid mahogany counters,bead curtain,choko (cup)，sakazuki,vermilion lacquer columns wrapped in gold leaf clouds,treasure,ink (medium),ink wash painting,spot color,seductive smile,open mouth,(sharp teeth:1.05),slit pupils,gold trim,gold jade pendant,jewelry,holding smoking pipe,sitting,crossed legs,gold hair ornament,green jade bangle,ink-silk hanfu with liquid gold embroidery,yunjian,print collar,ace-trimmed thighhighs,tassel,",
+          "n": ""
+        },
+        {
+          "name": "毛披贵妇",
+          "p": "tassel,expressionless,ancient china,with a white cloth belt,(single hair bun:1.10),feather boa,china dress,white cheongsam,highleg,white hanfu,chinese clothes,fur cloak,side tie,hairpin,cold expression,indifferent,aloof,icy stare,",
+          "n": ""
+        },
+        {
+          "name": "原版背景组件",
+          "p": "blue background,oval background,upper body,",
+          "n": ""
+        },
+        {
+          "name": "民国学生",
+          "p": "indoors,chinese house,chinese window,plants,wooden chair,sunlight,wooden table,head tilt,light blue chinese clothes,head tilt,short shirt,long skirt,black skirt,round eyewear,books,side tie,",
+          "n": ""
+        },
+        {
+          "name": "侧裙分离袖旗袍",
+          "p": "long dress,white dress,short dress,china dress,detached sleeves,white sleeves,wide sleeves,frilled sleeves,layered sleeves,black gloves,half gloves,miniskirt,showgirl skirt,frilled skirt,see-through skirt,groin,high heels,dragon print,",
+          "n": ""
+        },
+        {
+          "name": "室内贵妇",
+          "p": "chinese clothes,china dress,hand fan,holding fan,black gloves,red dress,covered navel,high heels,looking at viewer,black footwear,smile,bare shoulders,sleeveless dress,pelvic curtain,sleeveless,bare legs,thighs,standing,folding fan,tattoo,side slit,paper fan,fur trim,hand up,table,shawl,single earring,jewelry,indoors,foliage,vase,hanging scroll (ink wash painting),window,white theme,cinematic lighting,tyndall effect,background light,light particles,unbuttoned clothes,cleavage,breasts apart,stiletto heels,toe cleavage,solo focus,groin,(ink:0.86),(calligraphy brush:0.86),vase,ceramics,blue and white porcelain,wooden floor,reflective floor,seductive smile,",
+          "n": ""
+        },
+        {
+          "name": "吹笛",
+          "p": "closed eyes,hair stick,half updo,tied hair,hair rings,mandarin collar gown,silk organza wide-sleeved robe,translucent organza overskirt printed with fluttering butterflies,sitting on railing,holding dizi,transverse flute,playing flute,tassel,",
+          "n": ""
+        },
+        {
+          "name": "古筝",
+          "p": "cowboy shot,upper body,collarbone,(cross-collar ruqun:1.16),(playing pipa:1.16),quqin sleeves,flowing ribbons,silk brocade,moon-shaped soundhole,pearl inlaid tuning pegs,crane feather picks,resonance aura,floating scroll,ink wash strings,finger position closeup,silk cushion seat,vibrating strings,ancient score scroll,acoustic reflection,silk embroidery,plum blossoms,fire butterfly,fire energy,(purple light,backlight,soft backlighting:1.16),floating petals,jade bracelet,pearl hairpin,gentle gaze,(satin sheen:1.16),golden hour glow,",
+          "n": ""
+        },
+        {
+          "name": "白虎剑侠",
+          "p": "cowboy shot,holding sword,pale skin,expressionless,(black cloak:1.05),cape,black trousers,red ribbon,outdoors,chinese architecture,dress with white dragon patterns,white tiger print,dark shadow,hand on hilt,chinese sword,",
+          "n": ""
+        },
+        {
+          "name": "虎纹汉服",
+          "p": "(pale skin:1.28),white colored tips,cleavage,expressionless,looking to the side,fine fabric emphasis,jiaoling ruqun,hair flower,tiger print hanfu,yellow hanfu,white wide sleeves,(long skirt:1.10),chinese hairpin,hagoromo,white sash,golden trim,steaming body,steam,shiny skin,very sweaty,oiled skin,(curvy:1.16),narrow waist,hand on own arm,outdoors,bamboo forest,",
+          "n": ""
+        },
+        {
+          "name": "枫叶印花运动款汉服",
+          "p": "pom pom hair ornament,wrist scrunchie,maple leaf print,high collar,sleeveless,blue robe,hanfu,tassel,visor cap,blue sash,shorts,bare arms,navel,",
+          "n": ""
+        },
+        {
+          "name": "渔家少女",
+          "p": "(earphones:1.10),(bamboo hat,jade lock collar,tassel earrings,folding fan phone case,tie-dye embroidered collar shirt,ink-wash crack leather jacket,side slit tai chi pants,cloud pattern leggings,split-toe slippers,sachet pendant,copper coin belt,qing porcelain crack nail polish:1.05),",
+          "n": ""
+        },
+        {
+          "name": "临危抵抗残损汉服少女",
+          "p": "long sleeves,bandaged arm,(torn clothes:1.22),collarbone,bandaged head,red dress,bandaged arm,bleeding from mouth,(blood:1.05),(there’s blood everywhere:1.05),(a lot of blood:1.10),(covered in blood:1.05),rain,hanfu,wet,streaming tears,knife,spitting blood from mouth,",
+          "n": ""
+        },
+        {
+          "name": "电法修行",
+          "p": "white shirt,chinese clothes,rice hat,glowing eyes,electricity,electrokinesis,amulet,brown headwear,sash,open mouth,bandaged arm,wrist wrap,",
+          "n": ""
+        },
+        {
+          "name": "棍棒学徒",
+          "p": "chinese clothes,dark blue hanfu,bo staff,gold headband,standing,arm wrap,leg wrap,",
+          "n": ""
+        },
+        {
+          "name": "练功劲装",
+          "p": "(yellow trim:1.05),(white kimono:1.05),white hanfu,long sleeves,wide sleeves,(yellow loincloth:1.05),white pelvic curtain,white waist apron,white waist cape,long waist cape,(pelvic curtain:1.05),(waist cape:1.05),waist apron,(puffy pants:1.05),(white pants:1.05),knee boots,white boots,(simple clothes:1.22),",
+          "n": ""
+        },
+        {
+          "name": "踩脚袜练功服",
+          "p": "from below,chinese clothes,feet,leg up,black fingernails,black toenails,fighting stance,purple rope,stirrup legwear,tassel,toeless legwear,white loincloth,white shirt,",
+          "n": ""
+        },
+        {
+          "name": "黄色汉服持扇少女",
+          "p": "hand fan,long sleeves,wide sleeves,holding fan,hair flower,red footwear,looking at viewer,sitting,yellow dress,chinese clothes,branch,shoes,full body,folding fan,hanfu,paper fan,smile,sleeves past wrists,hair rings,round window,vase,window,closed mouth,frills,white flower,",
+          "n": ""
+        },
+        {
+          "name": "摘桃仙女",
+          "p": "facial mark,forehead mark,grin,hagoromo,hair flower,hair rings,hand up,holding fruit,huadian,necklace,peach,pink flower,purple flower,purple hanfu,white shawl,wide sleeves,",
+          "n": ""
+        },
+        {
+          "name": "敦煌舞女（实际效果可能更像孔雀舞娘）",
+          "p": "(dunhuang style:1.22),(body markings:1.22),shiny skin,sweat,steaming body,(abstract background:1.16),(close-up:1.10),(peacock feathers,feathers,breast curtain,harem outfit,pelvic curtain,showgirl skirt:1.10),see-through,jewelry,belly chain,dancing,knee up,armlet,mouth veil,floating,floating clothes,floating hair,covered nipples,no shoes,toes,shawl,navel,arm up,feet out of frame,",
+          "n": ""
+        },
+        {
+          "name": "深色古装",
+          "p": "(fine fabric emphasis:1.16),silver earrings,hair clip,plain clothes,(black clothes:1.05),(black hanfu:1.05),(right lapel:1.16),long sleeves,black plum dress pattern,red edging,pleated skirt,barefoot,",
+          "n": ""
+        },
+        {
+          "name": "书香之家",
+          "p": "hanfu,long sleeves,forehead mark,paintbrush,wide sleeves,sitting,branch,sash,facial mark,red dress,holding brush,earrings,lantern,book,holding paintbrush,finger on lips,dripping,",
+          "n": ""
+        },
+        {
+          "name": "华贵绒毛汉服",
+          "p": "hair ring,(hanfu:1.16),blue upper shan,mandarin collar,white pleated skirt,layered dress,lightcyan fur capelet,wide sleeves,overlapping collar,tassel,embroidery,gold trim,chinese style,blue waistband,hair bobbles,hair flower,white transparent thighhighs,lace-trimmed legwear,toeless legwear,white pibo,",
+          "n": ""
+        },
+        {
+          "name": "连体黑丝汉服",
+          "p": "chinese clothes,bare legs,gold high heels,shawl,shiny skin,(dudou:1.10),fan,off shoulder,(see-through cleavage:1.10),(bodystocking,hanfu:1.10),",
+          "n": ""
+        },
+        {
+          "name": "古典美人",
+          "p": "shiny skin,closed mouth,hair flower,hand fan,necklace,holding fan,long sleeves,upper body,folded fan,(hanfu,chinese clothes:1.10),hair bun,wide sleeves,shawl,facial mark,tassel,ring,x hair ornament,from side,cleavage,",
+          "n": ""
+        },
+        {
+          "name": "国风大小姐",
+          "p": "white hanfu,chinese clothes,blue hair ribbon,fur cloak,(long scabbard:1.16),side cleavage,hairpin,side-tie,sideboob,flowers pattern,white thighhighs,",
+          "n": ""
+        },
+        {
+          "name": "出水芙蓉",
+          "p": "(close-up:1.05),(hanfu:1.16),(see-through:1.05),(white dress:1.10),long dress,layered sleeves,wide sleeves,chinese clothes,chinese hairpin,tassel,(shawl:1.05),(nsfw:1.05),(see through water surface:1.16),perspective water surface,lying,(coming out of the water:1.10),(lower body submerged in water:1.10),(upper body out of water:1.05),(half water surface photography:1.10),",
+          "n": ""
+        },
+        {
+          "name": "剑仙",
+          "p": "shiny skin,blush,holding sword,chinese sword,(dynamic angle:1.10),(hanfu:1.28),chinese clothes,transparent clothes,tassel,chinese knot,bare shoulders,kanzashi,draped silk,gold trim,wind,bokeh,scattered leaves,flying splashes,waterfall,splashed water,looking at viewer,(close-up:1.16),face focus,from side,sunrise,",
+          "n": ""
+        },
+        {
+          "name": "剑仙 (2)",
+          "p": "mountains,standing,sword,dancing,kuji-in,hanfu,feixianji (hairstyle),see-through shawl,see-through,no bra,loose clothes,hanfu,qixiong ruqun,closed mouth,unsheathing,see-through hanfu,gold trim,hair flower,(orchid:1.10),smile,cowboy shot,jian(weapon),two-finger salute,",
+          "n": ""
+        },
+        {
+          "name": "阴阳法衣",
+          "p": "(hanfu:1.16),crop top overhang,yin yang,black and white,(shawl,hagoromo:1.10),short skirt,midriff,toeless boots,bridal gauntlets,bare shoulders,yin yang print,",
+          "n": ""
+        },
+        {
+          "name": "仙子",
+          "p": "(hair up,chinese clothes,hanfu:1.10),black dress,strapless,ribbon,white dress,two-tone dress,see-through shawl,tassel,chinese knot,floral print hanfu,gold trim,",
+          "n": ""
+        },
+        {
+          "name": "其他版本",
+          "p": "hair flower,half-closed eyes,light smile,naked (hanfu:1.10),chinese clothes,wide sleeves,see-through shawl,off shoulder,long dress,pastel ink,shuimo,petals,bare shoulders,necklace,",
+          "n": ""
+        },
+        {
+          "name": "吹笛人",
+          "p": "chinese clothes,closed mouth,flute,hair stick,half-closed eyes,playing flute,long sleeves,looking down,tassel on flute,tassel hair ornament,(chinese instrument,wooden flute,bamboo flute:1.10),",
+          "n": ""
+        },
+        {
+          "name": "古筝弹奏",
+          "p": "ink wash painting,chinese clothes,greyscale,hair stick,hand up,long sleeves,looking at viewer,monochrome,(transparent clothing:1.16),silk dress,(koto (instrument):1.28),koto on the table,(playing instrument:1.28),seiza,(wariza:1.28),bare shoulders,see-through sleeves,",
+          "n": ""
+        },
+        {
+          "name": "舞扇旗袍",
+          "p": "chinese clothes,short sleeves,breast cutout,side slit,belly chain,chinese knot,earrings,bracelet,bare legs,holding fans,opened fans,paper fans,spread arms,dynamic pose,floral patterns,fold fans,flowing fabric sleeves,fan tassels,dual wielding,",
+          "n": ""
+        },
+        {
+          "name": "中式婚服1",
+          "p": "bride,focusing on the face,parted bangs,red veil,bridal veil,china dress,long sleeves,red dress,chinese clothes,wedding dress,earrings,forehead mark,red flower,tassel,",
+          "n": ""
+        },
+        {
+          "name": "中式婚服2",
+          "p": "chinese wedding,bride,(red veil:1.16),china dress,hanfu,chinese clothes,wedding dress,earrings,red flower,tassel,gold trim,smile,",
+          "n": ""
+        },
+        {
+          "name": "凤凰印花中式婚服",
+          "p": "(chinese wedding dress:1.10),(red wedding veil:1.10),(phoenix crown:1.10),red embroidered dress,traditional chinese wedding attire,",
+          "n": ""
+        },
+        {
+          "name": "闺房新娘",
+          "p": "red ballet slippers,red rope,choker,sitting,chinese-ancient-chair,bridal veil,(covered head,covered face:1.10),chinese clothes,red chinese wedding dress,facing viewer,honggaitou,long sleeves,long dress,sitting,red veil,front view,indoor,wodden box,red curtain,dim lighting,gloomy environment,ray tracing,red candles,red petals,changmingsuo,coins,tassel-trimmed capelet,ofuda,ofuda on head,red lantern,legs together,red theme,r18组件,arms behind back,terror scenes,bound legs,ofuda on nipples,restrained,bound together,bound torso,",
+          "n": ""
+        },
+        {
+          "name": "道袍（附带一点龙女）",
+          "p": "sleeveless dress,long dress,china dress,purple sash,indigo dress,detached sleeves,wide sleeves,side slit,barefoot,bare legs,pointy ears,ankletsingle person standing painting,【black dragon horns,dragon,tail】（龙女部分）,",
+          "n": ""
+        },
+        {
+          "name": "其他版本 (2)",
+          "p": "chinese clothes,(duster:1.05),green robe,hair bun,hands up,hanfu,holding duster,red shirt,",
+          "n": ""
+        },
+        {
+          "name": "红袍道士",
+          "p": "(copper coins:1.05),(taoist priest:1.05),(black underwear:1.10),wide sleeves,long sleeves,tassel,(bandages:1.10),china clothes,hanfu,sash,ponytail,arm wrap,red ribbon,(red robes:1.10),coat,messy hair,(black short dress:1.05),",
+          "n": ""
+        },
+        {
+          "name": "挥毫",
+          "p": "(huge brush,writing brush,on shoulder:1.16),black taoist robe,china clothes,(talisman earring,hairpin,(control ink splashing:1.16),upper body,",
+          "n": ""
+        },
+        {
+          "name": "仙侠服饰",
+          "p": "(ear rings,light makeup,large breast,lipstick:1.05),(hanfu,white silk robe,elegant,china sword,white shoes:1.16),(flying,kendo,sword image:1.10),(xianxia,mountain,floating buildings,floating islands,outdoor,lightning,temple:1.10),",
+          "n": ""
+        },
+        {
+          "name": "仙女",
+          "p": "kimono,kimono dress,backless outfit,crystal high heels,bridal gauntlets,earrings,frilled dress,frills,waist cape,laurel crown,leaf on head,aqua shawl,white dress,cross-laced corset,golden bangle,blue bow,clothing cutout,",
+          "n": ""
+        },
+        {
+          "name": "侠客",
+          "p": "ancient china,white and red clothes,tang attire,wielding sword,holding sword,bamboo hat,with a white cloth belt,tied hair,",
+          "n": ""
+        },
+        {
+          "name": "异妆女侠",
+          "p": "(china sword,sword on back:1.10),long sleeves,black taoist robe,magatama,magatama earrings,necklace,shoulder guard,forehead mark,facial mark,blue eyeshadow,blue lips,silver jewelry,long sword,",
+          "n": ""
+        },
+        {
+          "name": "古装剪短无袖版",
+          "p": "pom pom hair ornament,wrist scrunchie,maple leaf print,high collar,sleeveless,blue robe,hanfu,tassel,visor cap,blue sash,shorts,bare arms,navel,",
+          "n": ""
+        },
+        {
+          "name": "春节儿童服",
+          "p": "animal hat,aoqun,arm up,bag,blush,chinese clothes,chinese new year,mindress,red dress,fur-trimmed boots,fur-trimmed sleeves,fur trim,hanfu,hongbao,hutou hat,lion dance,long sleeves,red footwear,shoulder bag,smile,solo,standing,tanghulu,winter clothes,new year,short skirt,confetti,",
+          "n": ""
+        },
+        {
+          "name": "肚兜（几乎不能出）",
+          "p": "bare shoulders,(collarbone,naked red chinese hanfu:1.05),breasts strap,bare arms,(shoulder strap,side-tie:1.16),(short dress:1.10),covering breasts,covering pussy,bottomless,",
+          "n": ""
+        },
+        {
+          "name": "原版",
+          "p": "bare shoulders,sweat,(naked red chinese hanfu:1.05),hanfu neck strap,breasts strap,bare arms,erotic lingerie,(side-tie:1.16),(very short hanfu:1.10),belt,blush,covering breasts,covering pussy,looking at viewer,navel,panties,sitting,smile,topless,",
+          "n": ""
+        },
+        {
+          "name": "研究初版",
+          "p": "(naked red chinese hanfu:1.05),hanfu neck strap,breasts strap,bare arms,erotic lingerie,(side-tie:1.16),(very short hanfu,panties,off back:1.10),",
+          "n": ""
+        },
+        {
+          "name": "女帝",
+          "p": "(hanfu:1.16),mature female,(dragon robe,longpao,eastern dragon,elegant:1.10),close-up,loose hair,expressionless,queen,layered sleeves,wide sleeves,(china palace:1.16),(yellow clothe,dragon print:1.16),sitting,close-up,china crown,china throne,hair stick,chinese hairpin,tassel,golden dragon,",
+          "n": ""
+        },
+        {
+          "name": "原版 (2)",
+          "p": "(hanfu:1.16),mature female,(dragon robe,longpao,elegant:1.10),close-up,long hair,loose hair,expressionless,queen,layered sleeves,wide sleeves,(china palace:1.16),(yellow clothe,dragon print:1.16),sitting,(hand on own face:1.16),serious,close-up,china crown,china throne,hair stick,yellow eye shadow,chinese clothes,huge breast,chinese hairpin,tassel,golden dragon,colorful,detailed light,light leaks,sunlight,shine on girl’s body,bokeh,blurry foreground,ray tracing,lens flare,cinematic lighting,absurdres,(sunshine:1.10),",
+          "n": ""
+        },
+        {
+          "name": "采药医师",
+          "p": "(holding plant:1.16),(light green hanfu,chinese clothes:1.16),(white coat:1.05),glasses,tanding,hair flower,white flower,walking stick,(backpack basket:1.05),",
+          "n": ""
+        },
+        {
+          "name": "包子店老板",
+          "p": "white chef suit,steamed bun restaurant,in restaurant,landspace,making baozi,smiling,",
+          "n": ""
+        },
+        {
+          "name": "包子少女",
+          "p": "panda,bamboo steamer,black thighhighs,long sleeves,wide sleeves,depth of field,chinese clothes,black skirt,bun cover,frills,baozi,pleated skirt,blush,food,sleeves past wrists,frilled sleeves,",
+          "n": ""
+        },
+        {
+          "name": "包子店服务员/截断旗袍",
+          "p": "midriff,navel,double bun,bun cover,pelvic curtain,baozi,bamboo steamer,hair flower,mouth hold,holding tray,cleavage cutout,sleeveless,bare shoulders,crop top,white dress,steam,",
+          "n": ""
+        },
+        {
+          "name": "国风女仆厨娘",
+          "p": "looking at viewer,parted lips,holding tray,holding chopsticks,knee up,bare legs,maid,chinese style,hanfu,white chest pleated skirt,pinafore,detached sleeves,wide sleeves,light yellow sleeves,gold trim,lace,bare shoulders,frilled,chinese knot,anklet,mary janes,hoop earrings,maid headwear,hair stick,bangle,indoors,table,close-up,dynamic angle,from side,light particles,",
+          "n": ""
+        },
+        {
+          "name": "佛家服装",
+          "p": "sangha,chinese ancient style,lotus terrace,(kasaya:1.05)topless,buddhist beads,indian style,golden lotus,",
+          "n": ""
+        },
+        {
+          "name": "少数民族服饰",
+          "p": "(chinese lolita dress:1.10),(intricate embroidery:1.10),(flowing tassels:1.34),(chinese knot decorations:1.48),(elegant lace:1.34),(pearl embellishments:1.34),(silk fabric:1.63),(voluminous skirt:1.05),(delicate ruffles:1.05),(ornate headpiece:1.05),(traditional chinese motifs:1.28),",
+          "n": ""
+        },
+        {
+          "name": "苗族服饰",
+          "p": "ethnic style,silver headdress,hanging beads,red top,colorful patterns,silver decorations,blue shawl,dark skirt,ethnic style patterns,tassels,bracelets,",
+          "n": ""
+        },
+        {
+          "name": "苗族服装",
+          "p": "1girl,chinese clothes,crown,floral print,miao clothes,miao hat,tassel,white crown,wide sleeves,crop top,detached sleeves,dizi,forehead jewel,petals,tassel,turtleneck,fashion,flower,hoop earrings,jewelry,midriff,navel,chinese clothes,chinese hairpin,(hagoromo:1.10),(purple hanfu:1.05),shawl,bracelet,arm under breasts,(floating clothes:1.05),cowboy shot,floating clothes,",
+          "n": ""
+        },
+        {
+          "name": "其他版本1",
+          "p": "1girl,black nails,looking at viewer,solo,upper body,chinese clothes,crown,floral print,miao clothes,miao hat,tassel,white crown,wide sleeves,underboob,crop top,detached sleeves,petals,tassel,turtleneck,fashion,hoop earrings,jewelry,midriff,navel,chinese clothes,chinese hairpin,purple hanfu,bracelet,cowboy shot,floating clothes,backlight,soft light,high contrast,colorful,detailed light,sunlight,shine on girl’s body,cinematic lighting,",
+          "n": ""
+        },
+        {
+          "name": "舞狮服（n3不可出）",
+          "p": "lion dance,wide pant,detached sleeves,long sleeves,chinese clothes,",
+          "n": ""
+        },
+        {
+          "name": "节日舞狮",
+          "p": "smile,lion dance,lion head mask,dynamic pose,leaping motion,silk fabric,golden tassels,red and gold,flowing ribbons,martial arts stance,festive atmosphere,firecrackers,paper lanterns,acrobatic movement,partial mask visibility,embroidered shoes,lion fur texture,eye contact,cloud patterns,smoke effect,motion blur,fabric billowing,festive makeup,exposed midriff,dragon embroidery,team coordination,ceremonial stage,",
+          "n": ""
+        },
+        {
+          "name": "黑/红旗袍",
+          "p": "【黑】,eastern dragon,flute,chinese clothes,china dress,pelvic curtain,black thighhighs,hair flower,bead bracelet,earrings,tassel,black footwear,bare shoulders,【红】,china dress,red dress,sleeveless dress,white thighhighs,bead bracelet,earrings,tassel,pelvic curtain,bare shoulders,happy new year,",
+          "n": ""
+        },
+        {
+          "name": "附带各种旗袍变式",
+          "p": "abnormal cheongsam,backless cheongsam,low cut cheongsam,halter cheongsam,bare hip cheongsam,lace-up cheongsam,（依次为畸形旗袍、露背旗袍、低胸旗袍、挂脖旗袍、露臀旗袍、系带旗袍,可叠加）,",
+          "n": ""
+        },
+        {
+          "name": "毛披旗袍",
+          "p": "tassel,ancient china,feather boa,china dress,white cheongsam,highleg,white hanfu,chinese clothes,fur cloak,side tie,hairpin,sect entrance,clan gate,traditional architecture,grand entrance,eastern fantasy,arms crossed,looing at viewer,",
+          "n": ""
+        },
+        {
+          "name": "蓝红双色打伞旗袍",
+          "p": "(blue long sleeves:1.10),short skirt,red chinese dress,standing,leaning forward,hands on hips,tight dress,(white pantyhose:1.10),side slit,flower hairpin,ribbon,high heels,cloud patterned dress,thigh strap,umbrella,",
+          "n": ""
+        },
+        {
+          "name": "端茶旗袍女",
+          "p": "looking at viewer,blush,smile,open mouth,cleavage,sitting,:d,sweat,indoors,elbow gloves,white gloves,white dress,off shoulder,white thighhighs,cup,sleeveless,covered navel,upper teeth only,double bun,skindentation,arm support,chinese clothes,cleavage cutout,table,china dress,pelvic curtain,side slit,teacup,bun cover,cross-laced clothes,armpit crease,asymmetrical gloves,tea,saucer,single elbow glove,sideless outfit,on table,cross-laced dress,cross-laced slit,",
+          "n": ""
+        },
+        {
+          "name": "乘凉",
+          "p": "fair skin,curvy,wide hips,traditional chinese dress,pale green dress,high slit,short sleeves,floral pattern,hair accessory,pearl earrings,pearl necklace,pearl bracelet,holding fan,outdoor,daylight,natural lighting,summer,garden,trees,stone bridge,sitting,crossed legs,high heels,beige heels,elegant,serene expression,soft focus background,shallow depth of field,rule of thirds,leading lines,symmetrical composition,soft textures,natural environment,calm atmosphere,traditional fashion,beauty,delicate features,medium skin tone,slim physique,subtle makeup,",
+          "n": ""
+        },
+        {
+          "name": "浣纱女",
+          "p": "chinese ancient beauty,delicate features,willow-leaf eyebrows slightly furrowed,pale complexion with faint blush,translucent silk dress,in celadon green,washing gauze by stream,carp diving underwater,slender jade-like fingers,flowing black hair with bamboo hairpin,soft morning light,misty riverside with lotus flowers,traditional ink-wash painting style,elegant posture,subtle melancholic expression,ethereal beauty,intricate warring states bronze hair accessories,layered deep garment with curved hem,natural plant-dyed fabric texture,handwoven bamboo basket with mulberry leaves,fragile collarbones visible through thin silk,semi-transparent veil over shoulders,slightly parted pale lips,shadow under almond-shaped eyes,ripples around submerged fish,strands of hair floating in breeze,wet silk clinging to ankles,lotus petals falling on water surface,",
+          "n": ""
+        },
+        {
+          "name": "白虎旗袍",
+          "p": "1girl,looking at viewer,blush,smile,open mouth,long sleeves,navel,cleavage,bare shoulders,sitting,flower,thighs,earrings,parted lips,lying,detached sleeves,choker,indoors,hair flower,wide sleeves,on back,armpits,nail polish,collar,fingernails,legs,groin,fur trim,strapless,clothing cutout,sleeveless dress,feet out of frame,bare legs,detached collar,sideboob,makeup,night,no bra,no panties,hair intakes,chinese clothes,facial mark,floral print,white dress,crossed legs,white flower,tassel,revealing clothes,china dress,couch,skin fang,white nails,pelvic curtain,strapless dress,hand fan,side slit,hair rings,fur collar,shawl,lantern,dragon tail,center opening,folding fan,black collar,cross-laced clothes,antlers,chinese zodiac,horn ornament,holding fan,on couch,architecture,white collar,east asian architecture,tassel earrings,reclining,paper lantern,vase,print dress,paper fan,flower knot,gourd,red sleeves,sideless outfit,feather boa,dragon print,tassel hair ornament,side cutout,chinese knot,fur scarf,stomach cutout,fake antlers,year of the dragon,cutout above navel,heart facial mark,clothes between thighs,cross-laced dress,cross-laced slit,side-tie peek,animal,tiger,white tiger,big cat,animal companion,white fur,black stripes,lying down,",
+          "n": ""
+        },
+        {
+          "name": "黑白双色版本",
+          "p": "(white dress:1.10),black dress,(two-tone dress:1.16),layered clothing,china dress,cross-laced clothes,highleg,",
+          "n": ""
+        },
+        {
+          "name": "阴阳旗袍",
+          "p": "white dress,black dress,china dress,chinese clothes,daxiushan,hair bow,long dress,jewelry,leaf,outdoors,white bow,yin yang,yin yang earring,side slit,",
+          "n": ""
+        },
+        {
+          "name": "功夫少女",
+          "p": "(standing on one leg,crane stance,fighting stance,kung fu,martial arts:1.05),cloud pattern,china dress,pelvic curtain,double bun,dragon print,holding fan,folding fan,",
+          "n": ""
+        },
+        {
+          "name": "水蓝色旗袍（阮梅cos）",
+          "p": "aqua dress,white gloves,fur trim,bare shoulders,china dress,elbow gloves,cleavage,sash,thigh strap,pelvic curtain,twintails,",
+          "n": ""
+        },
+        {
+          "name": "喜庆旗袍",
+          "p": "halter dress,china floral print,small breasts,china dress breast curtain,cleavage cutout,necklace,red dress with golden pattern,silk,skinny,",
+          "n": ""
+        },
+        {
+          "name": "折扇旗袍",
+          "p": "china dress,holding fan,hand fan,earrings,bridal gauntlets,black dress,pelvic curtain,folded fan,cleavage cutout,sleeveless,looking away,black panties,elbow gloves,coat,cowboy shot,blush,thigh gap,uncut,",
+          "n": ""
+        },
+        {
+          "name": "白旗袍贵族大小姐",
+          "p": "hanging breasts,cleavage,halter cheongsam,cleavage cutout,white cheongsam,golden pattern,white feather boa,highleg,dragon print,bare legs,sleeveless,light blush,closed mouth,seductive smile,looking at viewer,sitting,cross legs,(see-through shoes,glass high heels:1.10),shoe dangle,head rest,hand under head,head tilted,hand on own knee,on chair,indoors,living room,groin,close-up,",
+          "n": ""
+        },
+        {
+          "name": "绒毛披肩旗袍",
+          "p": "(shiny skin:1.10),blue dress,crossed legs,sitting,black gloves,cleavage,garter straps,black thighhighs,hair flower,feather boa,china dress,blue rose,lace-trimmed thighhighs,bare shoulders,white high heels,side slit,holding fan,hand fan,table,lace trim,petals,sleeveless dress,holding cup,",
+          "n": ""
+        },
+        {
+          "name": "其他版本 (3)",
+          "p": "focus,close-up,china dress,cleavage,garter straps,earrings,looking at viewer,black thighhighs,black gloves,elbow gloves,cleavage cutout,bare shoulders,blue dress,sleeveless,hair flower,outdoors,side slit,petals,feather boa,cherry blossoms,parted lips,pelvic curtain,pink flower,cowboy shot,grin,",
+          "n": ""
+        },
+        {
+          "name": "丝绸飘带侧开旗袍",
+          "p": "china dress,earrings,sideboob,white panties,sleeveless,bare shoulders,white thighhighs,standing,shawl,sideless outfit,blue dress,snowflake print,no bra,covered navel,",
+          "n": ""
+        }
+      ]
+    },
+    {
+      "name": "日本",
+      "options": [
+        {
+          "name": "英语中的日语罗马音释义",
+          "p": "okobo（日本木屐）、hikimayu（黛眉，即剃掉眉毛后画上去的眉毛）、obi（和服腰带）、obiage（装饰腰带顶部的一块长方形布）、obijime（和服腰带的绳子）、tasuki（收起固定和服长袖所用的系带）、kine（日语中的木槌）、kimono,（和服）、hakama（袴，即巫女装所着笔直的裙(裤？:0.95)）、serafuku（水手服）、ofuda （符纸）、hitodama （人魂鬼火）、yukata（浴衣）、zouri （和风拖鞋/木屐）、miko（巫女(服:0.95)）、uchiwa（圆扇）、veranda（日系木走廊）、shimenawa（注连绳，外貌近编织绳，为神道信仰中用于洁净的咒具，多见于神社）、uchikake（打掛、即更为华丽高贵的一种和服款式，所谓的白无垢为此类之一）、wataboushi（綿帽子，即御寒用棉质兜帽，也称新娘婚礼的头纱）、haori（羽织，即和服外的短款外套）、nakadashi（中出）、torii（鸟居）、onee-shota（指小孩开大车）、furisode（振袖，即更为长款的和服长袖）、tabi（足袋，二趾袜）、yokozuwari（侧坐，即手一侧撑地，双腿向另一侧稍微舒展平放的坐姿）、mesugaki（雌小鬼）、tareme（下垂眼角，常用于表现弱气角色）、tsurime（上挑眼角、常用来表现强气角色）、uwabaki（室内鞋，类似国内小学的小白布鞋）、randoseru（书包，实际英语而非罗马音，一种由缝合的硬皮革或类皮革合成材料制成的硬边背包）、netorare（ntr）、shota（正太控）、wagashi（和菓子，对日本传统的麻糬、冰品、水果制品、甜味内馅、咸味零食、油炸小点心、蛋糕和饼干的一个总称）、taiyaki（鲷鱼烧）、zettai ryouiki（绝对领域，即大腿袜与裙底之间的露出肌肤部分）、konpeitou（金平糖）、donbei （どん兵衛，咚兵卫，日清下属泡面品牌）、nissin（日清，日本著名食品品牌）、kitsune udon（狐狸乌冬面、特指带有一整块油炸豆腐的乌冬面）、jitome（锐利目光，多含负面情感）、mecha musume（メカ娘，mecha shōjo，即机甲女孩，机娘；与兵器娘【兵器娘，heiki musume，即军武娘化】不同，本身就是一种军械）、nengajo（贺年卡）、plugsuits（实际英语，プラグスーツ，eva协助操纵机甲的紧身衣作战服）、mizura（美豆良、角髪，用来形容日本弥生（yayoi）时代人的那种把头发环绕扎成几圈在耳朵旁边的发型）、ahoge（呆毛）、shouji（用作墙壁、隔断或推拉门的纸屏风）、2koma（指一页内一格正常一格瞬间败北的超短漫画）、egasumi（江户幕，一种云纹）、doyagao（沾沾自喜的表情）、Iaido（居合道）、battoujutsu（拔刀术）、tsurara-onna（冰柱女，与雪女有别）、mizu happi（水法被，一种形似短款和服的庆典礼服）、enpera（亦称mafumoko，当头发蓬松地垂在围巾或类似服饰上方时的样子）、kouhaku nawa（特指红白相间的注连绳）、shide（纸垂，锯齿状的纸幡，通常附在注连绳或玉剣上，以划定空间）、jirai kei（地雷系，此处特指服装风格）、kanzashi（日语簪子）、hadanugi dousa（一种服装款式，和服的左上或右上部分被脱至腰部）、kodomo doushi（特指儿童间性行为）、kyuubi（九尾）、bishounen（美少年）、mojyo（丧女）、jimiko（土妹子、指外貌不张扬且内向的少女）、,",
+          "n": ""
+        },
+        {
+          "name": "粉白和服",
+          "p": "wedding kimono,short kimono,alt white kimono,white coat,open coat,japanese clothes,alt sash,yellow sash,red colored inner coat,white ribbon,bell,flower-trimmed thighhighs,alt white thighhighs,white tassel,tassel earrings,long sleeves,white sleeves,pink skirt,blush,pink lips,pink nails,",
+          "n": ""
+        },
+        {
+          "name": "草莓和服",
+          "p": "1girl,solo,see through bangs,long bangs,hair between eyes,sidelocks,double ahoge strands,blue hair ornament,butterfly hair ornament blush,embarrassed face,wavy mouth,open mouth,long sleeves,sitting,frills,food,japanese clothes,hair flower,wide sleeves,kimono,floating hair,fruit,wariza,eating,holding food,bug,butterfly,strawberry,holding fruit,pink theme,red theme,floating hair,",
+          "n": ""
+        },
+        {
+          "name": "花边和服",
+          "p": "wedding kimono,short kimono,alt white kimono,white coat,open coat,japanese clothes,alt sash,yellow sash,red colored inner coat,white ribbon,bell,flower-trimmed thighhighs,alt white thighhighs,white tassel,tassel earrings,long sleeves,white sleeves,pink skirt,blush,pink lips,pink nails,",
+          "n": ""
+        },
+        {
+          "name": "短挎和服",
+          "p": "squatting,japanese clothes,hakama skirt,white pleated skirt,frills,cleavage,detached sleeves,long sleeves,red wide sleeves,frilled sleeves,bare shoulders,detached collar,bare legs,thighs,black sash,black bow,tassel,ankle boots,black high heel boots,",
+          "n": ""
+        },
+        {
+          "name": "西式贵族和服",
+          "p": "short hair with long locks,sidelocks,single hair bun,single glove,aqua sleeves,black gloves,floral print,frilled kimono,japanese clothes,lace-trimmed gloves,lace-trimmed headwear,lace-trimmed sleeves,lace bowtie,lace shawl,lace trim,obi,see-through bowtie,see-through shawl,long sleeves,unworn gloves,vertical-striped headwear,vertical stripes,white bow,white bowtie,aqua headwear,aqua kimono,aqua ribbon,white sash,white shawl,wide sleeves,yellow nails,striped headwear,striped ribbon,tassel earrings,triangle print,",
+          "n": ""
+        },
+        {
+          "name": "日式服务员",
+          "p": "(tenugui,headscarf,white apron,tasuki,japanese clothes,black kimono,furisode,floral print kimono,red sash obiage,obijime,tabi,zouri:1.16),",
+          "n": ""
+        },
+        {
+          "name": "绿色印花和服",
+          "p": "1girl,:d,ankle boots,brown boots,clover hat ornament,floral print,floral print kimono,full body,green kimono,hand up,japanese clothes,long sleeves,looking at viewer,open mouth,print kimono,smile,standing,waving,white hat,",
+          "n": ""
+        },
+        {
+          "name": "毛绒批圣诞和服",
+          "p": "1girl,frilled dress,santa hat,santa costume,red dress with white fur trim,capelet,winter clothes,wearing oversized knitted sweater,off shoulder,black plaid skirt,smile,indoors,living room,1girl,solo,smile,holding bag,looking at viewer,closed mouth,standing,hair flower,japanese clothes,white kimono,floral print kimono,boots,white footwear,hakama skirt,wide sleeves,black bow,high heels,full body,tachi-e,black bag,handbag,",
+          "n": ""
+        },
+        {
+          "name": "火刀剑客",
+          "p": "1girl held a single,massive samurai sword that was engulfed in flames.japanese clothes,hakama,hakama skirt,kimono,wide sleeves,haori,hitodama,black hakama,ribbon,white kimono,long sleeves,white kimono,samurai,black ribbon,outstretched arm,white hakama,wakizashi,standing,oekaki,fighting stance,coat,red coat,feet out of frame,",
+          "n": ""
+        },
+        {
+          "name": "持枪巫女",
+          "p": "assault rifle,kalashnikov rifle,maebari,holding gun,ofuda,magazine (weapon),white thighhighs,japanese clothes,nontraditional miko,red skirt,wide sleeves,looking at viewer,microskirt,navel,revealing clothes,ribbon trim,closed mouth,talisman,hakama skirt,pleated skirt,ribbon-trimmed sleeves,ribbon-trimmed legwear,standing,cross,omikuji,outdoors,",
+          "n": ""
+        },
+        {
+          "name": "枫叶和服",
+          "p": "1girl,solo,black nails,obiage,shelf,furisode,red nails,smile,holding leaf,holding umbrella,sitting,closed mouth,single glove,looking at viewer,falling leaves,black hat,hair flower,mini top hat,tilted headwear,black headwear,earrings,ear piercing,japanese clothes,fingerless gloves,lace gloves,sash,obi,black gloves,multiple rings,floral print,red kimono,tassel,wide sleeves,lace trim,long sleeves,print kimono,piercing,obijime,black sash,black choker,black belt,floral print kimono,asa no ha (pattern),seigaiha,egasumi,oil-paper umbrella,maple leaf,hat flower,umbrella over shoulder,cake,autumn leaves,black rose,autumn,chair,red rose,red umbrella,",
+          "n": ""
+        },
+        {
+          "name": "名妓",
+          "p": "black open kimono,(bangs pinned back,sidelocks,single hair bun:1.05),(hair flower,kanzashi,obi,obiage,sash:1.10),areola slip,cleavage,large breasts,collarbone,kiseru,asymmetrical bangs,smoke,(makeup,half-close eyes,red eyeshadow,lipstick:1.10),wide hips,spider lily print,fur,tassel earrings,(on side:1.10),holding smoking pipe,looking at viewer,seductive smile,come hither,naughty face,evil grin,parted lips,head tilt,",
+          "n": ""
+        },
+        {
+          "name": "皇女和服",
+          "p": "hirabitai,japanese clothes,karaginu mo,kimono,layered kimono,long sleeves,looking at viewer,parted lips,pink flower,red lips,round window,white flower,wide sleeves,window,yellow flower,",
+          "n": ""
+        },
+        {
+          "name": "印花白金渐变和服",
+          "p": "(parted lips,smiley face,bright pupils,makeup,long eyelashes,red eyeshadow,thick eyelashes:1.16),(cowboy shot,all fours,on side,looking at viewer,yokozuwari,full body:1.16),(tabi,feet,hair bun,hair flower,white flower:1.22),(furisode,japanese clothes,gold kimono,white kimono,two-tone kimono,black trim,gradient kimono,floral print kimono,fur collar,cherry blossoms print,gold trim,ribbon trim,gold sash,obiage,obijime,very long sleeves,wide sleeves:1.28),",
+          "n": ""
+        },
+        {
+          "name": "艳妆和服",
+          "p": "dynamic pose,(bright pupils,red lips:1.10),(tabi,hair bun:1.16),(uchikake,furisode,pink kimono,white kimono,gradient kimono:1.16),(florl print kimono,cherry blossom print:1.16),(long eyelashes,red eyeliner,red eyeshadow:1.16),(purple belt,obi,obiage,obijime,sash,kanazashi:1.16),(hair flower,hair stick,nail polish:1.05),(very long sleeves,wide sleeves,no shoes:1.10),(wedding ring,gold bracelet,gold earrings:1.10),(torii:1.10),",
+          "n": ""
+        },
+        {
+          "name": "伤残饮酒和服少女",
+          "p": "bandages,bandaid,bandaged leg,alcohol,sakazuki,bottle,sitting,eyepatch,obi,blush,sash,smile,choker,closed mouth,white kimono,looking at viewer,barefoot,holding cup,sake,bandage over one eye,knee up,no panties,bandaid on face,spread legs,black choker,long sleeves,bandaid on cheek,",
+          "n": ""
+        },
+        {
+          "name": "刺客武士",
+          "p": "looking at viewer,closed mouth,jewelry,japanese clothes,hood,kimono,necklace,armor,mask,capelet,black pants,holding sword,squatting,katana,gauntlets,sheath,dual wielding,dragon,japanese armor,mechanical arms,architecture,fox mask,east asian architecture,arm guards,weapon on back,",
+          "n": ""
+        },
+        {
+          "name": "裤装和服女卫",
+          "p": "earrings,holding sword,on one knee,floral print,red flower,white footwear,looking at viewer,long sleeves,high heel boots,tassel,sheath,white pants,red rose,gloves,white pantyhose,red lips,glint,makeup,sash,katana,fur trim,nude,transcluent,see-through,(glass heels,transparent heels,soles,see-through:1.10),",
+          "n": ""
+        },
+        {
+          "name": "剑道少女",
+          "p": "dropped sweat,japanese clothes,white top,kendo,(kendo clothing:1.10),open clothes,topless,(sarashi,breasts bandages:1.05),hands up,(holding bokken:1.16),over shoulders,indoors,(dojo:1.16),sweat,ponytail,",
+          "n": ""
+        },
+        {
+          "name": "樱下旅客",
+          "p": "bare shoulders,bell,cherry blossom print,detached sleeves,eyeshadow,fox mask,head tilt,holding mask,looking at viewer,makeup,oil-paper umbrella,red kimono,sleeveless,smile,upper body,wide sleeves,",
+          "n": ""
+        },
+        {
+          "name": "裁剪款和服",
+          "p": "kimono,detached sleeves,floral print,fringe trim,thighhighs,underboob,",
+          "n": ""
+        },
+        {
+          "name": "贵妇加绒款和服",
+          "p": "(red kimono:1.10),(floral print:1.05),(gold trim:1.05),fur collar,wide sleeves,very long sleeves,(tabi:1.16),(zouri:1.05),white socks,hair ornaments,(hair bun:1.05),hair stick,hair flower,red lips,",
+          "n": ""
+        },
+        {
+          "name": "薰衣草和服",
+          "p": "leaf,lavender background,blush,sitting,hand on own chest,lipstick,collarbone,thighhighs,ponytail,makeup,navel,earrings,detached sleeves,sash,short kimono,indoors,open kimono,",
+          "n": ""
+        },
+        {
+          "name": "杂彩和服",
+          "p": "asymmetrical legwear,blush,bracelet,candy print,cardboard cutout,cloud,confetti,decora,gradient background,green bow,green thighhighs,hairclip,hand to own mouth,lace-trimmed sash,mismatched legwear,multicolored nails,multiple hair bows,orange print,purple bow,purple nails,rainbow,star hair ornament,string,striped thighhighs,white kimono,yellow thighhighs,",
+          "n": ""
+        },
+        {
+          "name": "解忧老板娘",
+          "p": "holding smoking pipe,crossed legs,high heels,sitting,japanese clothes,oil-paper umbrella,bare shoulders,red flower,cleavage,earrings,hair flower,black kimono,looking at viewer,black pantyhose,black footwear,indoors,obi,red nails,paper lantern,fire,black gloves,smile,cat,kiseru,holding umbrella,spider lily,red umbrella,off shoulder,tassel,glowing butterfly,parted lips,couch,detached sleeves,bridal gauntlets,east asian architecture,architecture,smoke,long sleeves,red sash,window blinds,thighs,folding fan,red lips,red footwear,candle,red ribbon,floral print,closed mouth,",
+          "n": ""
+        },
+        {
+          "name": "白无垢",
+          "p": "bride,hood,hooded kimono,japanese clothes,jewelry,ring,smile,uchikake,wedding,wedding ring,white hood,white kimono,",
+          "n": ""
+        },
+        {
+          "name": "其他版本",
+          "p": "detached cape,detached sleeves,hairclip,white kimono,long sleeves,looking at viewer,reaching towards viewer,rope,wedding ring,wide sleeves,hood up,cherry blossoms,veil,",
+          "n": ""
+        },
+        {
+          "name": "战斗巫女",
+          "p": "miko,(bow (weapon):1.05),battle tights,arrow,ponytail,red hair bow,",
+          "n": ""
+        },
+        {
+          "name": "巫女服务员",
+          "p": "miko,detached sleeves,sleeveless,miniskirt,red bow,annoyed,pout,looking at viewer,holding tray,tray,alcohol,skindentation,thighhighs,shiny skin,oily skin,sweating,steam,",
+          "n": ""
+        },
+        {
+          "name": "和服女仆",
+          "p": "detached sleeves,purple kimono,white socks,okobo,maid headdress,tabi,sandals,platform footwear,maid,bare shoulders,white apron,obi,sash,long sleeves,black footwear,bell,",
+          "n": ""
+        },
+        {
+          "name": "其他版本 (2)",
+          "p": "holding cup,sitting,head scarf,teacup,wide sleeves,long sleeves,white dress,wariza,table,open mouth,smile,looking at viewer,tea,frills,steam,frilled sleeves,east asian architecture,hairband,blush,bonnet,white bow,aqua dress,white hairband,outdoors,architecture,head tilt,white ribbon,",
+          "n": ""
+        },
+        {
+          "name": "阴阳师（实际tag不是很明白，但是就是有效）",
+          "p": "onmyoji elements,mystical symbols,yin-yang,spirit energy,traditional taoist clothing,talismans,ancient scrolls,chinese temple background,daoist priest,spiritual aura,exorcism,",
+          "n": ""
+        },
+        {
+          "name": "日本武将",
+          "p": "highleg,(japanese armor,red armor:1.10),standing,(cleavage:1.05),bandages,glowing eyes,(shoulder armor:1.05),toeless footwear,",
+          "n": ""
+        },
+        {
+          "name": "大太刀武士",
+          "p": "black hakama,black kimono,japanese clothes,holding sword,zanpakutou,shihakusho,huge sword,huge weapon,light smile,",
+          "n": ""
+        },
+        {
+          "name": "带甲武士",
+          "p": "japanese armor,holding katana,cleavage,unsheathing,bare shoulders,petals,collarbone,shoulder armor,scabbard,sode,holding sheath,kimono,samurai,",
+          "n": ""
+        },
+        {
+          "name": "另一版本",
+          "p": "(samurai:1.10),japanese clothes,japanese armor,kote,sode,shoulder armor,hairband,outdoors,bamboo forest,wind,battoujutsu stance,ready to draw,fighting stance,unsheathing,sheath,holding sheath,cowboy shot,looking ahead,sidelocks,hair between eyes,hakama skirt,breastplate,angry,frown,raised eyebrow,closed mouth,",
+          "n": ""
+        },
+        {
+          "name": "鬼面武士",
+          "p": "(mask covered face:1.16),(horned mask:1.05),(long pants:1.05),(slim:1.05),(waist cutout:1.10),(topless:1.05),underboob,(sarashi:1.05),(cleavage:1.05),(katana:1.10),(hell:1.05),(wind:1.05),(highleg:1.05),",
+          "n": ""
+        },
+        {
+          "name": "忍者",
+          "p": "squatting,fighting stance,holding sword,ninja,long hair,ponytail,hair ribbon,hair flower,fishnets,arm garter,obi,gold trim,(kunai in thigh holster:1.05),",
+          "n": ""
+        },
+        {
+          "name": "忍者复杂版",
+          "p": "holding sword,(ninja:1.10),forehead protector,(ninja mask:1.10),(fishnet top:1.22),naked tabard,cleavage,(center opening:1.10),underboob,obi,pelvic curtain,groin,(fishnet thighhighs:1.10),elbow gloves,fingerless gloves,shin guard,black scarf,",
+          "n": ""
+        },
+        {
+          "name": "裁短服装连体网袜忍者",
+          "p": "ninja,earrings,mask,mouth mask,red scarf,long scarf,bare shoulders,fishnet bodystocking,fishnet bodysuit,jewelry,crop top,midriff,gloves,fingerless gloves,elbow gloves,black shorts,tight shorts,ninja belt,(bandaged leg:1.16),(fishnet pantyhose:1.05),black toeless legwear,toes,dagger,",
+          "n": ""
+        },
+        {
+          "name": "其他版本 (3)",
+          "p": "thick thighs,areola slip,cleavage,closed mouth,detached sleeves,wide sleeves,tattoo,fishnets,(revealing clothes:1.16),ninja,dagger,pubic tattoo,fishnet thighhighs,kunai,fishnet bodysuit,slippers,sakura musubi,fishnet top,japanese clothes,barefoot sandals,toeless legwear,standing on one leg,standing,white skin,tiptoes,arched soles,east asian architecture,rooftop,standing on rooftop,outdoors,forest,night,moonlight,",
+          "n": ""
+        },
+        {
+          "name": "双持忍者",
+          "p": "ninja,elbow gloves,dual wielding,holding sword,fishnets,bare shoulders,japanese clothes,cowboy shot,hip vent,black scarf,expressionless,torn clothes,black bodysuit,closed mouth,covered navel,single thighhigh,",
+          "n": ""
+        },
+        {
+          "name": "其他版本 (4)",
+          "p": "long sleeves,shorts,socks,belt,wide sleeves,leotard,black shirt,short shorts,thigh strap,black shorts,fishnets,belt buckle,white belt,thigh belt,purple capelet,grey belt,grin,holding sword,fire,knife,tassel,cloak,dual wielding,holding knife,ninja,navel cutout,knee pads,flower knot,reverse grip,short sword,shin guards,tantou,",
+          "n": ""
+        },
+        {
+          "name": "紧身胶衣忍者/对魔忍",
+          "p": "skin tight,navel,covered nipple,(ninja,impossible leotard,taimanin suit:1.22),black pantyhose,holding katana,",
+          "n": ""
+        },
+        {
+          "name": "浪人1",
+          "p": "bandages,cape,sarashi,japanese clothes,straw hat,katana,midriff,navel,ronin,sandals,",
+          "n": ""
+        },
+        {
+          "name": "浪人2（灵蛇剑客）",
+          "p": "sarashi,haori,kimono,holding katana,looking at viewer,blood,blood on chest,blood on clothes,blood on hands,bare shoulde,cleavage,blue hairbow,red hakama,snake,",
+          "n": ""
+        },
+        {
+          "name": "浪人3（标准武士）",
+          "p": "bamboo,black hakama,black jacket,hakama skirt,japanese clothes,katana,looking at viewer,smoke,wide sleeves,",
+          "n": ""
+        },
+        {
+          "name": "不羁浪人",
+          "p": "looking at viewer,scar on face,multiple scars,cleavage,single bare shoulder,collarbone,midriff,breasts covered,strapless,white tube top,black kimono,open kimono,hakama,wide sleeves,long sleeves,sash,gray scarf,black pants,katana,sheathed,holding sword,standing,smoking,cigarette,smoke,",
+          "n": ""
+        },
+        {
+          "name": "鬼族学生浪客",
+          "p": "multicolored horns,black shoulder bag,black belt,black crop top,sailor collar,flower knot,hand on hilt,black high heel boots,katana,layered shirt,black long skirt,long sleeves,marking on cheek,midriff,navel,pocket,ponytail,red gloves,ribbon earrings,single hair tube,sleeveless shirt,tassel,",
+          "n": ""
+        },
+        {
+          "name": "樱花浪客",
+          "p": "from side,(bare arms,sleeveless kimono,japanese clothes,sarashi:1.05),(glaring,solid eyes,detailed eyes:1.10),holding katana,aiming,fighting stance,slashing,jewelry,outdoor,maple,sakura,wind,",
+          "n": ""
+        },
+        {
+          "name": "捣年糕 （推荐搭配此兔娘串：animal ear fluff,rabbit ears,carrot hair ornament,）",
+          "p": "holding mallet,japanese clothes,short kimono,kimono skirt,kine,looking at viewer,okobo,red kimono,sash,short eyebrows,thick eyebrows,",
+          "n": ""
+        },
+        {
+          "name": "花魁服饰",
+          "p": "【(linea art:1.10),solo,pov,(nsfw:1.05),(facing viewer:1.10),(looking at viewer:1.05),(nude:1.05)】,(角色视角与基础),(geisha:1.05),makeup flower,showing breasts,(long smoking pipe,smoke:1.10),black nail polish,(large tattoos on shoulder:1.10),woven gold,embroidery,geisha hair,【seductive smile,hand on chin,spring,sakura,lanterns】,（动作与环境）,",
+          "n": ""
+        }
+      ]
+    }
+  ]
+}

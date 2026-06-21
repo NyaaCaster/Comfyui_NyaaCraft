@@ -1,0 +1,285 @@
+{
+  "name": "各式服装",
+  "children": [
+    {
+      "name": "服装组件",
+      "options": [
+        {
+          "name": "踩脚袜【soles on feet（足底）】",
+          "p": "black thighhighs,toeless legwear,",
+          "n": ""
+        },
+        {
+          "name": "踩脚靴",
+          "p": "(open heel boots,open toe boots,toes,soles,fur-trimmed legwear:1.10),",
+          "n": ""
+        },
+        {
+          "name": "菱形花纹裤袜",
+          "p": "white pantyhose,argyle legwear,",
+          "n": ""
+        },
+        {
+          "name": "胶条紧身带",
+          "p": "nude,naked harness,o-ring,latex,peaked cap,elbow gloves,",
+          "n": ""
+        },
+        {
+          "name": "渔网紧身衣",
+          "p": "(fishnet bodysuit:1.10),fishnet pantyhose,",
+          "n": ""
+        },
+        {
+          "name": "露指长手套",
+          "p": "elbow gloves,fingerless gloves,",
+          "n": ""
+        },
+        {
+          "name": "侧漏系带",
+          "p": "side slit,cross-laced slit,",
+          "n": ""
+        },
+        {
+          "name": "服饰配件（大腿靴+分离袖+颈环+泡泡袖+猫耳耳机+灯笼裤+泡泡袜/堆堆袜）",
+          "p": "thigh boots,detached collar,detached sleeves,puffy sleeves,cat ear headphones,bloomers,loose socks,",
+          "n": ""
+        },
+        {
+          "name": "高腰裤袜",
+          "p": "panties under pantyhose,black pantyhose,high-waist pantyhose,thighband pantyhose,",
+          "n": ""
+        },
+        {
+          "name": "脏兮兮的白丝裤袜",
+          "p": "(dirty white pantyhose:1.10),feet,foot focus,leaf,foot sweat,steaming foot,sweat stains,(torn clothes:1.10),wet clothes,(stains pantyhose:1.10),(dirty pantyhose:1.16),yellow dirty,",
+          "n": ""
+        },
+        {
+          "name": "裤袜效果增强",
+          "p": "detailed sheer texture,high gloss texture,skin visible through stockings,shiny pantyhose,translucent pantyhose,",
+          "n": ""
+        },
+        {
+          "name": "透明运动鞋",
+          "p": "feet only,footwear focus,heel up,out of frame,white pantyhose,shadow,sneakers,(see-through shoes,toes:1.10),",
+          "n": ""
+        },
+        {
+          "name": "绒毛披肩",
+          "p": "(white fur:1.05),(fur trim:1.05),fur shawl,",
+          "n": ""
+        },
+        {
+          "name": "水晶之翼",
+          "p": "(transparent wing:1.22),(crystal wing:1.22),",
+          "n": ""
+        },
+        {
+          "name": "金色指爪",
+          "p": "(yellow nails,fake claws:1.10),",
+          "n": ""
+        },
+        {
+          "name": "星光发",
+          "p": "hair focus,(close-up:1.28),(translucent hair,starry hair:1.16),",
+          "n": ""
+        },
+        {
+          "name": "背后火龙（特效）",
+          "p": "(fire dragon,eastern dragon:1.10),flame trail,",
+          "n": ""
+        },
+        {
+          "name": "裤里丝（即在长裤中仍然穿着长筒袜或连裤袜）",
+          "p": "(pants,white pants,(long pants:1.10)(black pantyhose:1.05),pantyhose inside pants,pantyhose inside,soles on feet,",
+          "n": ""
+        },
+        {
+          "name": "蚕豆眉",
+          "p": "short eyebrows,thick eyebrows,",
+          "n": ""
+        },
+        {
+          "name": "圆锥卷发辫子",
+          "p": "drill hair,drill locks,",
+          "n": ""
+        },
+        {
+          "name": "荆棘环",
+          "p": "wearing thorny crown on the head,",
+          "n": ""
+        },
+        {
+          "name": "荷叶伞（效果较为不稳定）",
+          "p": "huge leaf,holding huge leaf,leaf umbrella,lotus leaf,under eaves,",
+          "n": ""
+        },
+        {
+          "name": "水晶全透明鞋",
+          "p": "(heels,glass heels,transparent heels,soles,see through:1.10),nsfw,",
+          "n": ""
+        },
+        {
+          "name": "头顶心形墨镜",
+          "p": "eyewear on head,heart-shaped eyewear,sunglasses,",
+          "n": ""
+        },
+        {
+          "name": "假猫尾（肛塞）",
+          "p": "fake cat tail,anal plug,",
+          "n": ""
+        },
+        {
+          "name": "齐逼超短裙",
+          "p": "miniskirt,pussy,",
+          "n": ""
+        },
+        {
+          "name": "落花组件",
+          "p": "(apricot blossom:1.05),fluttering flowers,(sky,river,cliff:1.05),(surrounded by flowers:1.10),",
+          "n": ""
+        },
+        {
+          "name": "一串珠宝",
+          "p": "gem,gold,silver,diamond,glint,sapphire,ruby,emerald,pearl,amber,obsidian,（宝石、黄金、白银、钻石、闪光、蓝宝石、红宝石、祖母绿、珍珠、琥珀、黑曜石）,",
+          "n": ""
+        },
+        {
+          "name": "双钻头发髻",
+          "p": "cone hair bun,double bun,",
+          "n": ""
+        },
+        {
+          "name": "闪箔透明服装",
+          "p": "(see-through,latex clothes:1.22),(holographic hair,iridescent,reflective clothes,holographic clothing:1.28),jacket,",
+          "n": ""
+        },
+        {
+          "name": "罪带头套",
+          "p": "(sin sack:1.41),1girl,headgear,mask,covered face,",
+          "n": ""
+        },
+        {
+          "name": "短发配长鬓发",
+          "p": "short hair with long locks,",
+          "n": ""
+        },
+        {
+          "name": "手持透明泳圈",
+          "p": "transparent innertube,translucent innertube,holding innertube,halftone innertube,yellow innertube,",
+          "n": ""
+        },
+        {
+          "name": "连体泳装晒痕",
+          "p": "dark skin,tan,tanlines,dark-skinned female,one-piece tan,",
+          "n": ""
+        },
+        {
+          "name": "符文项圈",
+          "p": "(runes collar,glowing collar,magic collar,void collar:1.10),torn clothes,",
+          "n": ""
+        },
+        {
+          "name": "交叉系带侧开长裤",
+          "p": "cross-laced cutout,thigh cutout,cross-laced legwear,leather leggings,modakawa裙（该品牌下的一款侧开细链装饰长裙）,modakawa dress,",
+          "n": ""
+        },
+        {
+          "name": "油光丝袜",
+          "p": "glowing pantyhose,see-through pantyhose,shiny pantyhose,",
+          "n": ""
+        },
+        {
+          "name": "南瓜头套",
+          "p": "(grab pumpkin mask:2.0),arms up,naked bandage,bandaged chest,pumpkin mask,jack-o’-lantern head,",
+          "n": ""
+        },
+        {
+          "name": "音量调节印文",
+          "p": "visible bio-chip ports on nape and wrists,",
+          "n": ""
+        },
+        {
+          "name": "割腕伤痕",
+          "p": "self-harm scar on arm,",
+          "n": ""
+        },
+        {
+          "name": "双排扣",
+          "p": "double-breasted,",
+          "n": ""
+        },
+        {
+          "name": "购物袋与超市",
+          "p": "grocery bag,grocery store,",
+          "n": ""
+        },
+        {
+          "name": "棉手套",
+          "p": "mittens,",
+          "n": ""
+        },
+        {
+          "name": "双色袜子",
+          "p": "mismatched legwear,",
+          "n": ""
+        },
+        {
+          "name": "身上阴影",
+          "p": "(ominous shadow:1.10),",
+          "n": ""
+        },
+        {
+          "name": "西服翻领",
+          "p": "notched lapels,",
+          "n": ""
+        },
+        {
+          "name": "背梳头发",
+          "p": "slicked back hair,",
+          "n": ""
+        },
+        {
+          "name": "头顶路障",
+          "p": "traffic cone on head,adjusting headwear,",
+          "n": ""
+        },
+        {
+          "name": "杂记1",
+          "p": "alternate costume,此tag疑似可以处置角色穿不上自设定服装问题，角色名后面加个空格把这个打进去(alternate costume),能随机出换装，不过用nude直接全清再加也可解决此类问题,",
+          "n": ""
+        },
+        {
+          "name": "杂记2",
+          "p": "ass visible through thighs（透过大腿可以看到屁股）此tag可以一定程度在细节增强身材表现,",
+          "n": ""
+        },
+        {
+          "name": "杂记3",
+          "p": "sihouette和backlighting拉满，即可得到剪影,",
+          "n": ""
+        },
+        {
+          "name": "实际上see-through silhouette拉大权重出现的谜之黑影就是silhouette的污染",
+          "p": "",
+          "n": ""
+        },
+        {
+          "name": "杂记4",
+          "p": "letterboxed是指按照电影的原始宽高比进行播放的视频格式。这种格式通常用于保持电影的原始宽高比，尤其是在播放宽屏电影时，能够在电视或显示器上完整显示电影的画面，而不会因为画面被裁剪或拉伸而影响观看体验,",
+          "n": ""
+        },
+        {
+          "name": "杂记5",
+          "p": "（待补）,",
+          "n": ""
+        },
+        {
+          "name": "故障效果和谐",
+          "p": "glitch,nude,glitch censoring,",
+          "n": ""
+        }
+      ]
+    }
+  ]
+}

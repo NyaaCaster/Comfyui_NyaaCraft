@@ -1,0 +1,790 @@
+{
+  "name": "日常生活",
+  "children": [
+    {
+      "name": "室外",
+      "options": [
+        {
+          "name": "躺在吊床上",
+          "p": "1girl,solo,frilled bikini,white bikini,(photo background:1.10),afternoon,outdoors,lying,on back,plant,(dappled sunlight:1.05),sand,cleavage,(in sunglasses:1.10),covered eyes,(on hammock:1.16),beach,close-up,blurry,light and dark contrast,light rays,intense shadow,",
+          "n": ""
+        },
+        {
+          "name": "电车玩手机",
+          "p": "1girl,solo,cold expression,half-closed eyes,looking at smartphone,school uniform,white collared shirt,dark blue necktie,plaid pleated skirt,black thighhighs,thick-soled loafers,sitting on train seat,legs crossed,holding smartphone,black schoolbag beside her,train interior,blue seat,window with cityscape,metal panels,recording frame UI,REC text,red record button,battery icon,",
+          "n": ""
+        },
+        {
+          "name": "快递送花",
+          "p": "1girl,sitting astride,sideways glance,blush,annoyed expression,holding roses,yellow jacket,open jacket,helmet on head,tactical pants,delivery motorcycle,street lights,night,",
+          "n": ""
+        },
+        {
+          "name": "鲜花送达",
+          "p": "1girl,looking at bouquet,frown,blush,rose bouquet,embarrassed,holding flowers,yellow jacket,yellow helmet,street,city background,valentine theme pout,frown,looking down,",
+          "n": ""
+        },
+        {
+          "name": "野餐环境",
+          "p": "spring afternoon nap,(white lace-trimmed linen dress:1.10),(crochet vest),lying on a checkered picnic blanket under a large oak tree,(dappled sunlight filtering through leaves),a straw hat covering half of her face,surrounding wild flowers,",
+          "n": ""
+        },
+        {
+          "name": "走出便利店",
+          "p": "1girl,standing,hands adjusting jacket hem,weight shifted to one leg,posture relaxed,looking down,calm expression,soft smile,closed mouth,fleece jacket,t-shirt,jogger pants,convenience store,shelves,bright lights,",
+          "n": ""
+        },
+        {
+          "name": "雪地散步",
+          "p": "1girl,walking,hands deep in pockets,shoulders raised,neck tucked,steps quick,looking ahead,neutral expression,slightly tense face,closed mouth,fur-lined knit hat,ear flaps down,thick padded,jacket,zipped up,sweatshirt underneath,straight jeans,cotton bootsicy,sidewalk,residential street,parked cars,winter daytime,",
+          "n": ""
+        },
+        {
+          "name": "搬运货物",
+          "p": "carrying,stacking,balancing,peering over box,walking,concentrating,wide eyes,biting lip,overalls,work clothes,polo shirt,gloves,warehouse,stacked boxes,storage rack,forklift,indoor.,",
+          "n": ""
+        },
+        {
+          "name": "赶集采购",
+          "p": "1girl,solo,walking slowly,torso turned to side,one arm bent holding woven basket,other hand adjusting headscarf,elbows close to body,weight shifting,focused expression,closed mouth,bright yellow headscarf,short-sleeve dress with geometric patterns in red and black,flat shoes,open-air market,fabric stalls,hanging goods,crowd in background,midday light,",
+          "n": ""
+        },
+        {
+          "name": "挑选菜品",
+          "p": "1girl,solo,standing,holding plastic bag,other hand pointing at scale,upper body turned toward customer,head tilted slightly,talking,open mouth,businesslike expression,light jacket,apron,sleeves rolled up,market scale,piles of vegetables,price signs,open-air market,motion line,",
+          "n": ""
+        },
+        {
+          "name": "出门买菜",
+          "p": "standing,holding plastic bag,other hand pointing at scale,upper body turned toward customer,head tilted slightly,talking,open mouth,businesslike expression,light jacket,apron,sleeves rolled up,market scale,piles of vegetables,price signs,open-air market,motion line,",
+          "n": ""
+        },
+        {
+          "name": "雨中散步",
+          "p": "1girl,solo,holding umbrella,walking,looking to the side,calm expression,closed mouth,trench coat,scarf,turtleneck sweater,rain,street,wet floor,reflection,transparent umbrella,city lights,night,singing,musical note,earphones,earbuds,look away,",
+          "n": ""
+        },
+        {
+          "name": "石栏稍坐",
+          "p": "1girl,solo,standing,leaning against stone wall,one knee bent,arms relaxed at sides,shoulders loose,head turned toward street,eyes half-open,calm expression,light linen shirt in off-white,sleeves rolled up,blue trousers,brown leather loafers,narrow coastal street,pastel buildings,shuttered windows,potted plants,soft morning light,",
+          "n": ""
+        },
+        {
+          "name": "钓鱼",
+          "p": "1girl,solo,standing,feet shoulder-width apart,slight forward lean,one hand gripping fishing rod,other hand adjusting reel,elbows bent,shoulders steady,head lowered,eyes focused on line,calm expression,windbreaker in dark blue,gray t-shirt,olive cargo pants,rubber boots,riverside bank,concrete embankment,still water surface,overcast daylight,",
+          "n": ""
+        },
+        {
+          "name": "树下乘凉",
+          "p": "1girl,dappled sunlight,grass,sitting,wutong tree,wind,looking aside,phoenix tree,campus,crowd,students,solo focus,leaning against tree,closed eyes,building,",
+          "n": ""
+        },
+        {
+          "name": "傍晚沙滩躺椅",
+          "p": "1girl,solo,sea,night,dark sky,cowboy shot,(solo:1.10),half from side,lying on chair,beach,(sunlight:1.05),warm tone,color chair,(chair:1.3),(one-piece swimsuit:1.4),solo focus,",
+          "n": ""
+        },
+        {
+          "name": "冬日呵手",
+          "p": "movie tonal,cinematic shot,dynamic perspective,dynamic angle focus,pose variation,(close-up:1.28),(solo:6.0),winter,cold,snow,glove,scarf,breathing on hands,buttons,pom pom (clothes),",
+          "n": ""
+        },
+        {
+          "name": "泳池戏水",
+          "p": "1girl,water drops on skin,white sheer top,star print,long sleeves,off shoulder,colorful bikini,denim shorts,unbuttoned shorts,starfish earrings,hair flower,gentle smile,looking at viewer,charming,happy,hands reaching out,splashing water,playful,upper body,outdoors,center,waist up,swimming pool,shimmering water,blue background,bokeh,blurred background,outdoors,pool side,summer resort,front view,depth of field,portrait,water droplets,floating water,",
+          "n": ""
+        },
+        {
+          "name": "面朝大海",
+          "p": "from side,cowboy shot,1girl,t-pose,spread arms,looking ahead,standing,sand beach,wind lift,blurry background,happy,facing sea,",
+          "n": ""
+        },
+        {
+          "name": "田间归来",
+          "p": "1girl,solo,close up,messy hair,freckles,naive expression,simple peasant dress,patched clothes,straw hat,bare feet,holding a basket,standing in a countryside field,farm background,daylight,warm tones,",
+          "n": ""
+        },
+        {
+          "name": "林间倚靠",
+          "p": "1girl,solo,bamboo forest,outdoors,sitting on tree branch and leaning against tree trunk,facing viewer,(dappled sunlight:1.05),(light rays:1.05),shadow,cinematic lighting,cowboy shot,",
+          "n": ""
+        },
+        {
+          "name": "下腰摸猫",
+          "p": "1girl,bare legs,bent over,bottle,cat,dolphin shorts,earphones,eyes visible through hair,from side,full body,hand on own knee,hood down,looking at animal,looking down,outstretched arm,parted lips,profile,reaching,short shorts,solo,standing,water bottle,",
+          "n": ""
+        },
+        {
+          "name": "海边摄影",
+          "p": "1girl,beach,bowtie,camera around neck,cowboy shot,floating hair,from side,holding shoes,holding unworn clothes,light blush,looking at viewer,ocean,open mouth,plaid skirt,pleated skirt,school uniform,shirt tucked in,short sleeves,single-lens reflex camera,smile,solo,unworn shoes,viewfinder,white shirt,wind,dutch angle,",
+          "n": ""
+        },
+        {
+          "name": "树荫下趴着看书",
+          "p": "1girl,solo,lying,on stomach,prone,reading,book,open book,looking down,arms resting,high angle,from above,depth of field,soft focus,outdoors,picnic,picnic blanket,nature,under tree,dappled sunlight,tree shadow,sunlight,soft lighting,natural lighting,muted colors,pale color,(peaceful:1.1),relaxing,slice of life,summer day,quiet,atmospheric,",
+          "n": ""
+        },
+        {
+          "name": "菜市场买菜",
+          "p": "1girl,(reading a shopping list:1.5),(browsing vegetables in a traditional market:1.4),focused expression,(holding a crumpled paper note:1.3),(inspecting a bunch of fresh greens:1.3),(carrying a canvas shopping bag:1.2),(slight furrow in her brow:1.2),traditional market stall,vibrant heaps of red and green produce,wooden crates,scattered vegetable scraps,busy crowd in background,early morning,(bright morning sunlight filtering through the market canopy:1.5),(sharp shadows cast by awnings and stalls:1.4),(localized highlights on wet vegetables:1.3),volumetric dust,full body,standing pose,slice of life,market,",
+          "n": ""
+        },
+        {
+          "name": "林间散步",
+          "p": "1girl,soft lighting,volumetric lighting,light rays,depth of field,blurry background,outdoors,sunbeams,autumn,fallen leaves,standing,looking at viewer,(gentle smile:1.3),(shy:1.1),(innocent:1.1),hands clasped,slight blush,full body shot,eye level,",
+          "n": ""
+        },
+        {
+          "name": "原版服装",
+          "p": "school uniform,long coat,scarf,bell,frills,white socks,loafers,",
+          "n": ""
+        },
+        {
+          "name": "公园素描",
+          "p": "1girl,park,sketching,art student,focused expression,beret,drawing board,pencil,creative mood,cherry blossoms,bench,distant pond,spring breeze,",
+          "n": ""
+        },
+        {
+          "name": "冬日围坐火炉",
+          "p": "1girl,outdoors,camping,winter,snow,night,dark,woods,forest,tree,bare tree,fire,campfire,bonfire,portable fire pit,glowing,light source,warm light,cinematic lighting,shadows,blue theme,cold,cozy,serene,quiet,(looking to the side,pensive expression:1.5),sitting,holding cup,holding mug,both hands,cup,mug,steam,hot drink,(winter clothes,scarf:1.2),",
+          "n": ""
+        },
+        {
+          "name": "沙滩网床胸部奶茶挑战",
+          "p": "cleavage,motion lines,steam,full face blushing,happy looking,from side,1girl,solo,hammock,(between palm trees:1.05),(beach:1.05),(summer noon:1.05),(bright sunlight:1.05),(dappled light:1.05),(shadows on sand:1.05),(wearing straw hat:1.05),(white slingshot swimming suite:1.05),(relaxed pose:1.05),(tropical island:1.05),(clear blue sky:1.05),(turquoise water:1.05),(peaceful:1.05),cirrocumulus,bubble tea challenge,m legs,",
+          "n": ""
+        },
+        {
+          "name": "合成器风格靠车等待",
+          "p": "(synthwave:1.5),vaporwave,neon palette,sunset,palm tree,distant architecture,skyscraper,distant amusement park,ferris wheel,wireframe,sparkle,ocean,highway,girl,:q,tongue out,(shutter shades:1.2),looking over eyewear,eyewear pull,one eye closed,camisole,off-shoulder holographic jacket,iridescent,(against vehicle:1.2),",
+          "n": ""
+        },
+        {
+          "name": "林间泡脚",
+          "p": "1girl,forest,canyon,rock wall,trees,branches,foliage,natural light,dappled sunlight,bokeh,low angle,from below,foreground framing,rule of thirds,medium shot,sitting,on rock,listening,eyes closed,slight smile,tilting head up,relaxed posture,hands on knees,breathing in,serene mood,tranquil atmosphere,soft breeze,leaves rustling,bare legs.,",
+          "n": ""
+        },
+        {
+          "name": "俯视拉电车拉手",
+          "p": "bus interior,pull ring,from above,foreshortening,blurry foreground,blurry background,crowded,girl,school uniform,arm up,tiptoes,reaching,standing,pout,angry,school bag,",
+          "n": ""
+        },
+        {
+          "name": "滑板飞跃",
+          "p": "girl,skateboard master,drive in sky,dancing,(dark blue hair bow:1.10),girl,solo,purple clothes,white jacket,white sweater,turtleneck,ribbed sweater,off shoulder,sleeveless,large bow,link skateboard,colorful-ink splash,",
+          "n": ""
+        },
+        {
+          "name": "行于小路",
+          "p": "walking down the street,side view,wall background,flowers and vines on the wall,sunshine,sweet pictures,cats,cats on the road,shadows,shadows on the wall,",
+          "n": ""
+        },
+        {
+          "name": "立于墙影",
+          "p": "standing,wall background,flowers and vines on the wall,looking at the audience,full view,full body,",
+          "n": ""
+        },
+        {
+          "name": "瀑布淋浴",
+          "p": "forest,water,top stone,sunlight,ripple,(transparent water:0.5)sidelighting,blurry plants foreground,waterfall,(upper body:2.5),hands covered breasts,white shirt,opened shirt,long hair,(upper body:1.5),shiny eyes,in water,stone,plants foreground,(dappled sunlight:2.0),looking at viewer,from side,nsfw,(shiny skin:1.2),blue light,sunshine,light ray,wet skin,wet hair,water drop,splashing,open mouth,(top water to head,:2.0),cave,profile,head back,",
+          "n": ""
+        },
+        {
+          "name": "泳圈漂流",
+          "p": "outdoors,water,lemon slice,swim ring,innertube,white one-piece swimsuit,highleg,visor cap,sunglasses,coat,open coat,wet,curvy,armpits,thighs,bare shoulders,barefoot,afloat,lying,on back,on innertube,partially submerged,adjusting eyewear,smile,",
+          "n": ""
+        },
+        {
+          "name": "夏日撸猫",
+          "p": "sitting,outdoors,wooden rack,plants,leaning back,eyes closed,school uniform,white shirt,necktie,jacket,wooden deck,socks,dappled sunlight,sleeping cat,hand on cat,books,bag,",
+          "n": ""
+        },
+        {
+          "name": "赛场跑步",
+          "p": "outdoors,school track,running,full body,dynamic angle,motion blur (slight),running,jogging,tired expression,comical expression,panting,open mouth,sweat,dripping sweat,bouncing breasts,focus on sweat,focus on breasts,gym uniform,sportswear,blue shirt,white shorts,",
+          "n": ""
+        },
+        {
+          "name": "清晨浇花",
+          "p": "morning,day,morning glory,trellis,sunflower field,wooden house,white picket fence,white wooden fence,direction board,wooden road sign,distant houses,distant village,distant utility pole,power lines,looking at object,looking away,smile,closed mouth,sundress,green overskirt,frills,flower bracelet,holding watering can,watering,",
+          "n": ""
+        },
+        {
+          "name": "海滨钓鱼",
+          "p": "fish,fishing rod,holding fishing rod,sea,beach,sea side,sitting on bench,from side,",
+          "n": ""
+        },
+        {
+          "name": "夏日果汁",
+          "p": "closed mouth,smug,half-closed eyes,sunglasses,lying,navel,on side,looking at viewer,eyewear on head,cleavage,frilled bikini,stomach,blush,tree,frills,see-through,armpits,tinted eyewear,wet,bare shoulders,palm tree,drink,drinking glass,fruit,day,detached sleeves,long sleeves,thigh gap,arm up,bottle,table,",
+          "n": ""
+        },
+        {
+          "name": "春日小镇",
+          "p": "scenery,fantasy,fantasy city,sunlight,wind,lens flare,complex exterior,european architecture,castle,wooden house,gothic church,hot air balloon,flying doves,street lamp,blue sky,cloudy,dreamy town,cobblestone path,wrought iron bench,blooming flower beds,vine-covered lamp post,layered buildings,gothic clocktower,pointed roof cottage,cherry blossoms,petals,perspective,cowboy shot,light smile,looking away,newsboy cap,goggles on headwear,collared,brown neck ribbon,long puffy sleeves,brown suspender skirt with frills,brown corset,shoulder strap,belt bag,hand on railing,ivy on tailing,",
+          "n": ""
+        },
+        {
+          "name": "花坛打理",
+          "p": "looking at viewer,long sleeves,closed mouth,standing,hair bow,outdoors,cowboy shot,day,wide sleeves,blurry,black bow,neck ribbon,juliet sleeves,red bowtie,pink flower,jingle bell,neck bell,green dress,eyebrows hidden by hair,bush,architecture,house,photo background,holding watering can,garden,black dress,",
+          "n": ""
+        },
+        {
+          "name": "黄昏小巷",
+          "p": "walking,sunlit street,narrow alley,casual jacket,pleated skirt,sneakers,shoulder bag,warm sunlight,soft shadows,pastel tones,orange hue,beige theme,urban scenery,power lines,tiled roofs,quiet afternoon,backlight,cinematic angle,",
+          "n": ""
+        },
+        {
+          "name": "冬日哈气取暖",
+          "p": "black coat only,cover mouth with hand,dynamic,snowing,closed eyes,city,motion blur,cinematic lighting,from side,",
+          "n": ""
+        },
+        {
+          "name": "花丛蹲憩",
+          "p": "barefoot,looking at viewer,black dress,knees up,toes,sleeveless dress,feet,bare shoulders,closed mouth,leaf,bare arms,expressionless,one eye covered,plant,red flower,sitting,hugging own legs,knees to chest,fetal position,legs together,bare legs,head rest,",
+          "n": ""
+        },
+        {
+          "name": "冬日抱猫出游",
+          "p": "close-up,snow,branch,shiny eyes,shiny skin,nose blush,plaid scarf,scarf over mouth,winter coat,half-closed eyes,expressionless,holding black cat,",
+          "n": ""
+        },
+        {
+          "name": "晴天散步",
+          "p": "looking at viewer,long sleeves,closed mouth,standing,school uniform,white shirt,hair ribbon,outdoors,cowboy shot,earrings,pleated skirt,parted lips,serafuku,hairclip,black skirt,sailor collar,blurry,from side,tree,blurry background,depth of field,arms behind back,red neckerchief,lens flare,black sailor collar,yellow ribbon,bokeh,",
+          "n": ""
+        },
+        {
+          "name": "骑车摔倒（不稳定）",
+          "p": "1girl,solo focus,outdoors,lying,from behind,on stomach,blouse,ground vehicle,smartphone,holding phone,on floor,facing away,road,tile floor,on ground,shoe soles,bicycle,fallen down,traffic cone,reaching,bicycle down,",
+          "n": ""
+        },
+        {
+          "name": "原版服装 (2)",
+          "p": "shirt tucked in,long sleeves,lace-trimmed skirt,earbuds,black bag,jirai kei,pink shirt,high-waist skirt,handbag,black kneehighs,loafers,lace trim,lace,frilled sleeves,frills,miniskirt,black skirt,black footwear,high heels,frilled skirt,white bow,frilled shirt,platform footwear,",
+          "n": ""
+        },
+        {
+          "name": "夏日海边被晒的不行",
+          "p": "black bikini,o-ring bikini,o-ring top,o-ring bottom,string bikini,micro bikini,halterneck,navel,collarbone,midriff,bare shoulders,groin,water,partially submerged,standing,wading,hand on own head,shading eyes,arm up,sweat,sweating profusely,wet,open mouth,wavy mouth,half-closed eyes,v-shaped eyebrows,annoyed,blush,",
+          "n": ""
+        },
+        {
+          "name": "乡下抓小龙虾",
+          "p": "wide shot,evening,twilight,outdoors,rice paddy,distant village,distant utility pole,rural,rippling water reflections,crayfish,looking at object,spoken anger vein,+++,pain,slit pupils,wavy hair,squatting,holding crayfish,scrape finger,scratches finger,plastic bucket,crayfish in bucket,rolled-up linen trousers,rubber boots,straw hat on back,black t-shirt,short sleeves,open denim vest,dirty clothes,dirt on clothes,",
+          "n": ""
+        },
+        {
+          "name": "冰岛极光",
+          "p": "cinematic lighting,fantasy,magnificent,panorama,wide shot,norway,fjord,fjord cliffs,canyon,snow-dusted conifer,conifer,glacial tongues reaching sea,aurora-draped night sky,starry night,green to aqua gradient aurora,snow,winter,islands,archipelago,from behind,facing away,dark blue parka trench coat,black floating scarf,black pants,snow boots,hand in pocket,standing on mountaintop,feet out of frame,",
+          "n": ""
+        },
+        {
+          "name": "冬日摩托",
+          "p": "looking at viewer,smile,long sleeves,sitting,closed mouth,jacket,full body,pantyhose,pleated skirt,hairband,outdoors,open clothes,sky,day,black gloves,miniskirt,black footwear,tree,blue sky,blue skirt,coat,black pantyhose,ground vehicle,loafers,building,motor vehicle,snow,red scarf,open coat,shoulder bag,mountain,white coat,winter clothes,earmuffs,house,winter,power lines,bare tree,utility pole,scooter,",
+          "n": ""
+        },
+        {
+          "name": "晚野吉他",
+          "p": "guitar,scarf,sky,star(sky),skirt,starry sky,power lines,outdoors,shooting star,zettai ryouiki,black thighhighs,cloud,night,tree,acoustic guitar,standing,scenery,night sky,",
+          "n": ""
+        },
+        {
+          "name": "夕阳演奏之影",
+          "p": "bird,cloud,silhouette,outdoors,cloudy sky,music,standing,instrument,from side,sunset,dark,playing instrument,scenery,",
+          "n": ""
+        },
+        {
+          "name": "雨城奔跑",
+          "p": "from behind,outstretched arms,school blazer jacket with button,long sleeves,white socks,uwabaki,heavy rain,rainy,cloudy sky,school,open mouth,smile,looking back,running,",
+          "n": ""
+        },
+        {
+          "name": "夜雪散步",
+          "p": "depth of field,looking at viewer,smoke,cigarette,cigarette in mouth,standing,outdoors,sky,scarf,head up,black ribbon,night,breath,snow,black coat,snowing,sign,hands in pockets,road,winter,fringe trim,brown scarf,cold,duffel coat,",
+          "n": ""
+        },
+        {
+          "name": "冬日候车",
+          "p": "railway,cowboy shot,profile,snowing,fluffy hair,gradient eyes,long eyelashes,tattoo,large beret,scarf,round eyewear,long coat,grey sweater,black pantyhose,oversized clothes,bag,nose blush,expressionless,sitting,two knee up,hand on own cheek,(looking up:1.10),seductive female body,",
+          "n": ""
+        },
+        {
+          "name": "果实收获",
+          "p": "strawberry apron,basket hat,rolled up sleeves,dirt smudge,proud smile,sparkling eyes,tongue slightly out,reaching for apple branch,tiptoe stance,skirt caught on bush,orchard rows,fallen fruit,buzzing bees,checkered picnic cloth,sunlight through leaves,juice splash particles,chromatic aberration,diagonal leading lines,motion blur,",
+          "n": ""
+        },
+        {
+          "name": "夜晚闹市烧烤",
+          "p": "black tights,high-top sneakers,mini pleated skirt,holding skewers,blowing on food,steam rising,street food stall glow,neon sign reflection,night market lighting,mid-shot perspective,shallow focus,blurred crowd background,grilled smoke effect,cheeks puffed,golden hour dusk,warm streetlamp light,paper lantern strings,fried food aroma swirls,greasy paper bag,chili flakes sprinkling,",
+          "n": ""
+        },
+        {
+          "name": "泳池玩水",
+          "p": "ass,feet,toes,day,poolside,looking back,blue sky,looking at viewer,open mouth,soles,blush,:o,lying,from behind,on stomach,cloud,outstretched arm,outdoors,water,foreshortening,summer,clothes lift,minimal border,abstract watercolor backdrop,geometric line patterns,textured paper overlay,",
+          "n": ""
+        },
+        {
+          "name": "小溪野营",
+          "p": "crepe,cream on face,broom,outdoors,cover image,sitting,food on face,on railing,holding food,building,tree,looking at viewer,eating,ginkgo leaf,bridge,reflective water,blush,autumn leaves,suitcase,fruit,smile,long sleeves,reflection,full body,unworn bag,blue sky,falling leaves,:q,river,licking lips,floating hair,",
+          "n": ""
+        },
+        {
+          "name": "夜晚旅者",
+          "p": "blue coat,blue neckerchief,brown gloves,cabbie hat,from side,grass,grey hat,holding lantern,lighthouse,night sky,outdoors,pixel art,star (sky),upper body,white border,white scarf,",
+          "n": ""
+        },
+        {
+          "name": "肩包遮雨狂奔",
+          "p": "(shiny skin:1.05),student uniform,school uniform,rain,wet body,wet clothes,see-through,running,hands on head,holding bag on head,bus station,",
+          "n": ""
+        },
+        {
+          "name": "楼顶凭栏遥望",
+          "p": "standing,outdoors,sky,cloud,cloudy sky,building,scenery,city,railing,cityscape,rooftop,against railing,",
+          "n": ""
+        },
+        {
+          "name": "坐旋转木马",
+          "p": "from side,frilled,sun hat,white dress,riding,carousel,look at viewers,light smile,pattern,outdoor,night,photo background,sky,cloud,",
+          "n": ""
+        },
+        {
+          "name": "夏日农场",
+          "p": "(close-up:0.91),from side,looking away,arm behind back,cowboy shot,grin,looking at viewer,smile,standing,palm leaf,blue sky,bucket,cloud,farm,grass,mountain,outdoors,rock,sky,wooden fence,straw hat,shorts,front-tie top,plaid clothes,short sleeves,",
+          "n": ""
+        },
+        {
+          "name": "神社门前",
+          "p": "sweeping,holding broom,broomstick,dust in the air,shrine entrance,torii gate,stone pathway,wooden shrine building,paper lanterns,mid-range shot,summer,open mouth,miko outfit,traditional japanese clothes,white kimono top,red hakama,wide sleeves,tied hair ribbon,wooden sandals,tabi socks,",
+          "n": ""
+        },
+        {
+          "name": "傍晚沙滩提鞋踏浪",
+          "p": "ocean,sunset,outdoors,wading,jacket,holding footwear,beach,horizon,black one-piece swimsuit,water,standing,barefoot,sky,orange sky,choker,school swimsuit,backlighting,unworn sandals,open jacket,evening,sleeves past wrists,",
+          "n": ""
+        },
+        {
+          "name": "躺在冰原上",
+          "p": "horizon,on back,lying on snow,grin,looking at viewer,messy hair,winter coat,red scarf,light blue theme,dutch angle,upper body,fur trim,",
+          "n": ""
+        },
+        {
+          "name": "花店前",
+          "p": "upper body,(from side:1.10),close-up,looking at viewer,blush,bare shoulders,closed mouth,collarbone,hair ribbon,white shirt,off shoulder,green dress,yellow flower,red hairband,potted plant,white sweater,off-shoulder sweater,shelves,plants,flower shops,",
+          "n": ""
+        },
+        {
+          "name": "上班驱车",
+          "p": "car interior,holding cup,steaming,soft lighting,looking forward,seatbelt,oversized trench coat,sweater,buildings outside,trees in background,warm tones,",
+          "n": ""
+        },
+        {
+          "name": "摩托车维修",
+          "p": "(from side,on ground,kneeling,on one knee,:1.10),deep skin,brown coat,white sleeveless turtleneck,denim shorts,black pantyhose,white socks,sneakers,(holding wrench:1.05),(repairing:1.28),motorcycle,(touch motorcycle:1.05),facing away,leaning motorcycle,",
+          "n": ""
+        },
+        {
+          "name": "草地稍坐",
+          "p": "looking at viewer,smile,closed mouth,sitting,full body,short sleeves,outdoors,sky,barefoot,day,puffy sleeves,white dress,feet,blue sky,puffy short sleeves,tree,legs,see-through,toes,bare legs,detached collar,sandals,stuffed toy,white flower,grass,stuffed animal,plant,red flower,knees up,toenails,between legs,yellow flower,rabbit,v arms,hand between legs,rabbit girl,rock,fence,bush,stuffed rabbit,on ground,on grass,wooden fence,",
+          "n": ""
+        },
+        {
+          "name": "在树下休息",
+          "p": "floral print,sitting under tree,grasslands,straight on,eyes closed,curled up,sleeping,",
+          "n": ""
+        },
+        {
+          "name": "野外瀑布沐浴（可能r18警告）",
+          "p": "water,ass,looking at viewer,completely nude,from behind,looking back,wading,glowing,waterfall,back,profile,nature,cave,sideways glance,partially submerged,outdoors,ripples,wet,bathing,pond,scar,hair flowing over,plant,blurry,closed mouth,moss,",
+          "n": ""
+        },
+        {
+          "name": "逛游乐园",
+          "p": "white hoodie,hood down,animal print,horror print,collarbone,miniskirt,sunglasses on head,looking at viewer,light particles,wind,(lens flare:1.16),summer,falling leaves blurry foreground,amusement park,ferris wheel,medieval square,town,brick floor,food stand,laughing,",
+          "n": ""
+        },
+        {
+          "name": "落雪初晴",
+          "p": "long sleeves,standing,school uniform,outdoors,pleated skirt,sky,shoes,sock,cloud,black skirt,water,tree,kneehighs,night,white socks,umbrella,from below,cloudy sky,building,scenery,snow,reflection,rain,holding umbrella,snowing,transparent,ripples,puddle,transparent umbrella,reflective water,reflective floor,",
+          "n": ""
+        },
+        {
+          "name": "公园胸部奶茶玩手机休息",
+          "p": "holding phone,sitting,crossed legs,white shirt,sleeveless,shirt tucked in,high-waist skirt,belt,black thighhighs,garter straps,necklace,bracelet,(bubble tea challenge,bubble tea on breast:1.22),drinking straw,drinking,outdoors,bench,building,cowboy shot,",
+          "n": ""
+        },
+        {
+          "name": "樱花旋舞",
+          "p": "photo background,film grain,chromatic aberration,(looking at viewer:1.16),blush,light smile,steam,school uniform,scarf,white sweater,pleated skirt,spring (season:1.05),cherry blossoms,dappled sunlight,pink flowers,smiling,happy,spread arms,volumetric lighting,depth of field,blurry background,shiny skin,floating hair,cinematic lighting,full body,day,",
+          "n": ""
+        },
+        {
+          "name": "雪中路灯客",
+          "p": "snowing,snow,street light,upper body,(leaning against the street light:1.05),(dark environment:1.63),(black background:1.28),(top light:1.05)smoke,smoking,black overcoat,",
+          "n": ""
+        },
+        {
+          "name": "与猫共雨",
+          "p": "blush,long sleeves,closed mouth,school uniform,white shirt,full body,outdoors,pleated skirt,serafuku,black skirt,black loafers,looking at another,water,from side,red bow,wet,black kneehighs,profile,looking down,squatting,red bowtie,wet clothes,jingle bell,neck bell,black sailor collar,reflection,rain,holding umbrella,black cat,ripples,hydrangea,puddle,looking at animal,petting,black umbrella,",
+          "n": ""
+        },
+        {
+          "name": "野外长椅睡眠",
+          "p": "day,off shoulder,jacket,crop top,(grey shorts,white hairband:1.05),pink choker,earrings,(on camping chair:1.16),(sleeping:1.05),closed eyes,(one hand on stomach:1.05),dynamic pose,(spread legs,one knee up,barefoot:1.16),head tilt,open mouth,drooling,",
+          "n": ""
+        },
+        {
+          "name": "候车早餐",
+          "p": "sitting,outdoors,bag,bread,plaid scarf,gloves,long sleeves,black footwear,crossed legs,black coat,brown pantyhose,breath,pleated skirt,blue skirt,plaid skirt,blush,eating,",
+          "n": ""
+        },
+        {
+          "name": "梯道闲坐",
+          "p": "1girl,windows,sofa,(palace:1.10),red wall,stairs,painting (object),(architecture,scenery,huge windows:1.16),mural,lace trim,covered eyes,cleavage,looking at viewers,from side,on side,(outdoors:1.10),photo background,book,(flower outside:1.10),day,dappled sunlight,",
+          "n": ""
+        },
+        {
+          "name": "浅滩漫步",
+          "p": "(close-up:1.34),eyes focus,face focus,legs focus,near,float,blush,smile,happiness,imminent kiss,walking,transparent cropped jacket,lace trimmed,sling bikini,(sunglasses on head:1.10),day,sun,sunshine,shiny,summer,on ocean,splashing water,sweat,wet,",
+          "n": ""
+        },
+        {
+          "name": "街头汽水",
+          "p": "smile,long sleeves,sitting,holding can,shorts,blue hoodie,cloud,bag,black socks,soda can,blue sky,blush,drink can,chain-link fence,brown sneakers,hood down,",
+          "n": ""
+        },
+        {
+          "name": "眺望残阳",
+          "p": "backpack,blurry background,blurry foreground,building,chain-link fence,city,city lights,cityscape,cloud,cloudy sky,depth of field,dusk,evening,gradient sky,hood,jacket,lens flare,long sleeves,orange sky,outdoors,railing,rooftop,school uniform,shirt,skirt,sky,skyline,skyscraper,solo,sunset,from behind,",
+          "n": ""
+        },
+        {
+          "name": "与猫同坐",
+          "p": "arm rest,black pantyhose,blurry,depth of field,gashapon,hhigh heels,squatting,sweater,thighband pantyhose,turtleneck sweater,vending machine,white sweater,black skirt,cat,",
+          "n": ""
+        },
+        {
+          "name": "摩天轮上",
+          "p": "white dress,frilled dress,cleavage,selfle,holding phone,open cardigan,brown jacket,choker,long sleeves,bag,bare legs,semi-rimless eyewear,city,peace sign,smile,one eye closed,spoken heart,(close-up:1.05),(from above:1.10),(ferris wheel interior:1.16),grin,sitting,",
+          "n": ""
+        },
+        {
+          "name": "街头贴墙避雨",
+          "p": "(leaning back:1.10),(against wall:1.05),standing on one leg,one foot on wall,solo,school,night,rain,smoke,cigarette,cowboy shot,from side,school uniform,white shirt,red skirt,plaid skirt,miniskirt,white less kneehighs,(coat around waist:1.05),",
+          "n": ""
+        },
+        {
+          "name": "傍晚桥边散步",
+          "p": "bag,collared shirt,white shirt,grey jacket,black skirt,breath,holding phone,hand in pocket,bridge,building,cloud,evening,outdoors,river,",
+          "n": ""
+        },
+        {
+          "name": "买啤酒回来",
+          "p": "collar,cowboy shot,(wet top,tank top:1.10),nsfw,strap slip,female focus,opening door,(sweat:1.16),white tank top,plastic bag,carrying bag,beer can in bag,night city,night sky,pov,looking at viewer,leaning forward,taut shorts,(fishnet pantyhose:1.16),highleg panties,smile,navel cutout,steam,(leather pants:1.16),",
+          "n": ""
+        },
+        {
+          "name": "秋日奶茶",
+          "p": "(blurred foreground:1.16),head down,look down,newsboy cap,blouse,overcoat,shy,crossbody bag,one hand on cup,street,blurry background,pants,wind,crowd,hand in pocket,from above,falling leaves,red leaf,",
+          "n": ""
+        },
+        {
+          "name": "街头吉他演绎",
+          "p": "peak cap,black hat,necklace,black top,black pants,sitting,chair,street,city,town,clock tower,audience,scenery,cloudy sky,crowd,playing instrument,acoustic guitar,smile,close-up,cowboy shot,from side,",
+          "n": ""
+        },
+        {
+          "name": "暗沉河边",
+          "p": "outdoors,water,tree,scenery,sitting,sky,pier,lake,silhouette,from behind,grey sky,flower,building,",
+          "n": ""
+        },
+        {
+          "name": "水边照片",
+          "p": "(casual:1.10),windbreaker,(beret:0.95),hand on headwear,photo background,river,forest,clever light and shade,light and shadow,depth of field,light spot,reflection,",
+          "n": ""
+        },
+        {
+          "name": "丛中影像",
+          "p": "cinematic lighting,depth of field,holding phone,blurry,cellphone,v,blush,long sleeves,upper body,flower,hood down,smartphone,hoodie,hands up,leaf,",
+          "n": ""
+        },
+        {
+          "name": "雨中泛舟",
+          "p": "watercraft,hood up,hood,rain,sitting,yellow raincoat,boat,anklet,outdoors,umbrella,bare legs,water,scenery,long sleeves,bird,barefoot,wet,",
+          "n": ""
+        },
+        {
+          "name": "渔船归港",
+          "p": "(flat color,lineart:1.28),naga u,sunset,orange sky,warm lighting,fishing boats,ocean waves,seagulls,rippling water,wharf,silhouette,serene atmosphere,dusk,evening glow,golden hour,coastal landscape,seaside scenery,",
+          "n": ""
+        },
+        {
+          "name": "落日骑行",
+          "p": "backlighting,school uniform,(down road:1.10),(close-up:1.10),(face focus:1.05),riding bicycle,cat on head,dusk,dutch angle,building background,sea,",
+          "n": ""
+        },
+        {
+          "name": "荡秋千",
+          "p": "sitting,smile,swing,white dress,blurry,depth of field,",
+          "n": ""
+        },
+        {
+          "name": "栏杆回望【附带推荐画师： (nuudoru:0.91),(artist:ningen mame:0.95),(artist:misyune:0.95),artist:karory,year 2024,】",
+          "p": "looking at viewer,ocean,outdoors,sky,blush,long sleeves,sunset,cloud,railing,closed mouth,hairclip,horizon,looking back,water,standing,smile,",
+          "n": ""
+        },
+        {
+          "name": "郊区雨落",
+          "p": "blue shorts,cloudy sky,floral print coat,grass,on bench,outdoors,rain,road,yellow rubber boots,see-through coat,sitting,transparent raincoat,water drop,white shirt,",
+          "n": ""
+        },
+        {
+          "name": "夜晚篝火",
+          "p": "(from front,camping,bonfire,bonfire beside girl,at night,rocks,forest,darkness,close-up,focus face:1.05),",
+          "n": ""
+        },
+        {
+          "name": "雪夜静坐",
+          "p": "white transparent raincoat,sweater dress,black pantyhose,heavy breathing,street,neon lights,street side,snow,wind,depth of field,night,soft lighting,dramatic lighting on characters,hood up,sitting,bench,",
+          "n": ""
+        },
+        {
+          "name": "夕阳秋日公园静坐",
+          "p": "glasses,brown jacket,gathers,headphones,red bowtie,black legwear,coffee,handbag,looking afar,light smile,falling leaves,maple background,flowers,ribbons,sit,park bench,sunset,",
+          "n": ""
+        },
+        {
+          "name": "秋日落叶草地读书",
+          "p": "bird,autumn leaves,black-framed eyewear,black belt,black pantyhose,blurry foreground,book,brown coat,closed mouth,collared shirt,denim shorts,eyewear on head,falling leaves,floating hair,glasses,holding book,leaf,looking at viewer,lying,navel,on side,open,smile,squirrel,thighband pantyhose,white collar,white shirt,closed mouth,",
+          "n": ""
+        },
+        {
+          "name": "花园阅读",
+          "p": "sitting,from side,upper body,cape,pleated dress,gloves,bow,frills,round table,book,chair,shiny skin,flora background,vines,flower,looking at viewer,head rest,dusk,",
+          "n": ""
+        },
+        {
+          "name": "晨曦中的树下沉眠",
+          "p": "open mouth,depth of field,dappled sunlight,blurry,fluttering petals,tree,noontime,sunset,lying under tree,from side,sleeping,20世纪的英伦咖啡店,lolita,see-through glove,lolita clothes,western country,road,western building,lolita fashion,1900s,coffee shop,reflection,golden glass,close-up,outside,outdoor,",
+          "n": ""
+        },
+        {
+          "name": "火车站候车",
+          "p": "(choker:1.10),sideview,sunlight,newsboy cap,hair over one eye,glasses,blouse,overcoat,railway station,",
+          "n": ""
+        },
+        {
+          "name": "节目主持",
+          "p": "building,earrings,hair bow,identity censor,long sleeves,looking at viewer,microphone,open mouth,outdoors,red jacket,tree,upper body,upper teeth only,white bow,white shirt,",
+          "n": ""
+        },
+        {
+          "name": "赛场飞奔",
+          "p": "bare arms,bare legs,bare shoulders,bike shorts,black footwear,black gloves,black sports bra,bouncing breasts,fingerless gloves,from side,gloves,profile,running,shoes,sideboob,speed lines,sports bra,",
+          "n": ""
+        },
+        {
+          "name": "滑雪",
+          "p": "snow-covered slope,puffy clouds,mountain backdrop,dynamic stance,ski lift in distance,snowflakes falling,skiing trail signs,mountain peak,ski resort,skiing gear,zigzag tracks,snowflakes falling,winter sun,blur of motion,",
+          "n": ""
+        },
+        {
+          "name": "滑板达人",
+          "p": "full body,skateboard,graffiti,(playing skateboarding:1.16),motion_lines,dutch angle,pigment pot,graffitiing,paints sprayed out,from below,in the sky,",
+          "n": ""
+        },
+        {
+          "name": "花式滑冰邀请",
+          "p": "dancing,skating,happy,figure skating dress,cowboy shot,pov,holding hands.white pantyhose,skates,",
+          "n": ""
+        },
+        {
+          "name": "琵琶演奏",
+          "p": "bare shoulders,cleavage,crossed legs,dress,hair flower,hairband,looking at viewer,lute (instrument),pearl necklace,playing instrument,sitting,thigh strap,",
+          "n": ""
+        },
+        {
+          "name": "野外游泳",
+          "p": "ass,blue sky,cloud,from behind,mountain,outdoors,standing,tree,water,wet,",
+          "n": ""
+        },
+        {
+          "name": "健身之后",
+          "p": "armpits,black gloves,black panties,cropped legs,elbow gloves,fingerless gloves,holding towel,white sports bra,sweatdrop,",
+          "n": ""
+        },
+        {
+          "name": "草原采生",
+          "p": "blue sky,cloud,scenery,1girl,solo,long hair,serafuku,short sleeves,black skirt,black thighhighs,canvas (object),painting (action),easel,holding paintbrush,palette (object),outdoors,standing,from behind,grass,mountain,",
+          "n": ""
+        },
+        {
+          "name": "一平花原",
+          "p": "field,white dress,outdoors,white sun hat,white flower,flower field,holding bouquet,grass,standing,long dress,skirt hold,black ribbon,black bow,from above,mountain,",
+          "n": ""
+        },
+        {
+          "name": "海岩遥望",
+          "p": "cinematic lighting.depth of field,looking back,frilled one-piece swimsuit,blurry background,ocean,barefoot,sitting,rock,waves,soaking feet,",
+          "n": ""
+        },
+        {
+          "name": "涉水",
+          "p": "sitting,arm support,outdoors,cloud,rock,water,wading,",
+          "n": ""
+        },
+        {
+          "name": "观星",
+          "p": "looking up,from side,lowing,index finger raised,hand up,blush,standing,star(sky),",
+          "n": ""
+        },
+        {
+          "name": "海边日落",
+          "p": "(lying:1.16),(sunset:1.16),beach,steaming body,wet body,wet hair,sweat,bikini top only,white thighhighs,meaningful smile,no panties,legs together,flowers falling down,the water rippled,underlighting,bokeh,blurry background,",
+          "n": ""
+        },
+        {
+          "name": "嗅花",
+          "p": "jasmine (flower),pastel colors,lolita,black leafs,black trees,castle,black see-through gloves,holding flower,smelling flower,(hair pass shoulder:1.10),hair ribbon,closed eyes,",
+          "n": ""
+        },
+        {
+          "name": "海边下的拱门",
+          "p": "arch,blue sky,closed eyes,holding cat,leaf,mountainous horizon,ocean,smile,standing,sunlight,vines,feet out of frame,black cat,",
+          "n": ""
+        },
+        {
+          "name": "沙滩下午茶",
+          "p": "bikini,cake,cake slice,cleavage,day,doily,food,pastry,resort boin,see-through,sexually suggestive,shirt,sleeves pushed up,solo,strawberry shortcake,sweat,swimsuit,tongue,wet,wet clothes,wet shirt,",
+          "n": ""
+        },
+        {
+          "name": "喝醉递酒",
+          "p": "(arm rest,bare shoulders,beer bottle,blush,bra peek,cosmetics,cup,downblouse,drunk,expressionless,holding bottle,indoors,leaning forward,looking at viewer,no bra,wall clock,",
+          "n": ""
+        },
+        {
+          "name": "夏日背影",
+          "p": "arms behind back,bare back,bare shoulders,butterfly hair ornament,cloud,detached sleeves,white dress,earrings,falling petals,looking at viewer,looking back,outdoors,puffy sleeves,sleeveless dress,sun hat,upper body,head tilt,dappled sunlight,smlie,【closed eyes,grin,】（更开朗笑tag）,",
+          "n": ""
+        },
+        {
+          "name": "海边水战",
+          "p": "shiny skin,visor cap,kogal,>:),firing,bikini,(holding water gun:1.10),light rays,holding beer can,sea spray,beer splatter,water trail,blurry foreground,aiming at viewer,sparkle,waterdrop,drinking,grin,sunlight,full-face blush,jumping,",
+          "n": ""
+        },
+        {
+          "name": "海边放松1（堆沙堡）",
+          "p": "beach,bird,blue one-piece swimsuit,day,ice cream,ocean,open mouth,outdoors,(sand castle,sand sculpture:1.10),",
+          "n": ""
+        },
+        {
+          "name": "海边放松2（入水）",
+          "p": "solo focus,uncensoring,(loose hair,high ponytail,wet hair:1.10),(colored eyelashes:0.95),smile,bare shoulders,cameltoe,wet,one-piece swimsuit,(innertube,water:1.05),(from behind,from above,looking at viewer,looking back:1.05),blurry foreground,summer,sunlight,cloudy sky,golden hour,",
+          "n": ""
+        },
+        {
+          "name": "海边放松3（沙滩球）",
+          "p": "navel,cleavage,jewelry,cowboy shot,outdoors,cloud,water,necklace,arm up,petals,leaning forward,ocean,frilled bikini,brown straw hat,pink bikini,hand on headwear,beachball,plaid bikini,",
+          "n": ""
+        },
+        {
+          "name": "海边放松4（躺沙滩椅）",
+          "p": "(sunglasses on head:1.10),under parasol,slippers,drinks,scenery,shiny skin,leather bikini,sunbeam,shadow,(cowboy shot:1.10),looking at viewer,see-through,lying,sandy sunshine,lounge chair,parasol,table,beverage,wine glass,hair flowers,one leg up,",
+          "n": ""
+        },
+        {
+          "name": "海边放松5（躺在泳圈上）",
+          "p": "(shiny skin,full blush:1.05),(curvy:1.05),(bare legs,barefoot,knees together feet apart,innertube:1.10),off shoulder,(overexposure:1.10),(black bikini,bow bikini,frilled bikini,wrist cuffs:1.05),coconut trees,(lying,from top:1.05),polka dot swim ring,(lens flare,sunlight,sea,outdoors:1.05).,",
+          "n": ""
+        },
+        {
+          "name": "海边放松6（踏水下腰）",
+          "p": "close-up,smile,looking down,standing on beach,water,bare foot,feet fouse,bent over,hairbow,long sleeves,blue pleated skirt,frills,beige jacket,cardigan,shell on beach,",
+          "n": ""
+        },
+        {
+          "name": "泳装夏日旅游（连体版）",
+          "p": "ribbon,off shoulder,white elbow gloves,stilettos,falling petals,white pantyhose,blue highleg leotard,hand on headwear,white headwear,blue sky,beach,suitcase,hair bow,leaning forward,hair flower,standing,frills,floating hair,luggage,",
+          "n": ""
+        },
+        {
+          "name": "泳装夏日旅游（比基尼版）",
+          "p": "sarong,purple flower,white bikini,white sun hat,outdoors,navel,day,hat flower,sky,hand on headwear,blue sky,beach,suitcase,looking at viewer,ocean,low-tied long hair,hair bow,leaning forward,hair flower,standing,frills,hand up,bare shoulders,floating hair,",
+          "n": ""
+        },
+        {
+          "name": "夏日少女1（黑皮草帽比基尼）",
+          "p": "(close-up:1.10),(solo focus:1.16),standing,black nails,heart print,collarbone,very blonde hair,jewelry,bikini,dark skin,heart,straw hat,hat flower,palm tree,mole on breast,bead necklace,gradient clothes,bird,large breasts,blue eyes,outdoors,hand on headwear,grin,ear piercing,",
+          "n": ""
+        },
+        {
+          "name": "夏日女孩2（黑皮半脱牛仔裤版）",
+          "p": "barefoot,bikini top only,collarbone,dark skin,earrings,(pull pants,lift bikini:1.10),green bikini,jeans,looking at viewer,lying,navel,on back,sweat,",
+          "n": ""
+        },
+        {
+          "name": "夏日少女3（迎风撩发）",
+          "p": "from side,(skindentation:1.28),(skinny:1.10),outdoor,sun,seaside,1girl look at viewer,(solo:1.10),head tilt,light smile,(one hand adjusting hair:1.05),(half-closed eye:1.05),(white highleg swimsuit,white super mini skirt,groin,bare waist,white underwear peek:1.22),red bow,jacket,floating hair,",
+          "n": ""
+        },
+        {
+          "name": "坐在立直游泳圈上两则",
+          "p": "",
+          "n": ""
+        },
+        {
+          "name": "其一",
+          "p": "(upright innertube:1.28),(adjusting hair:1.16),holding popsicle by hand,standing,sitting on innertube,(leaning on object:1.22),leaning back,(outstretched legs:1.28),legs together,presenting feet,",
+          "n": ""
+        },
+        {
+          "name": "其二",
+          "p": "from side,(adjusting hair:1.16),holding popsicle,standing,(upright swim ring:1.28),sitting on swim ring,standing,leaning on object,legs together,presenting foot,navel,full body,straw hat,beach,leaning back,",
+          "n": ""
+        },
+        {
+          "name": "街头喷画",
+          "p": "slit pupils,bare shoulders,black panties,crop top,long sleeves,choker,earrings,baseball cap,panties,black nails,looking at viewer,x hair ornament,brick wall,denim shorts,sentimental graffiti,chewing gum,spray can,",
+          "n": ""
+        },
+        {
+          "name": "戏水",
+          "p": "white swimsuit,single thighhighs,hair flower,smile,clothes pull,lying,on back,on water,torn clothes,on back,leg lift,soles,full body,leg ribbon,holding leg,leg up,see-through,water,",
+          "n": ""
+        },
+        {
+          "name": "街头散步",
+          "p": "closed mouth,crosswalk,green jacket,grey pants,hands in pockets,looking back,outdoors,sneakers,solo,standing,tail,two-tone footwear,white sleeves,from behind,【baguette,beret,bread,food,holding bag,paper bag】（抱着面包回去）（plastic bag，塑料袋）,",
+          "n": ""
+        },
+        {
+          "name": "正面版本",
+          "p": "bread,white beret,baguette,long sleeves,day,paper bag,pantyhose,window,black skirt,frills,open jacket,blue jacket,standing,building,holding disposable cup,",
+          "n": ""
+        },
+        {
+          "name": "夜宴",
+          "p": "upper body,evening gown,black gown,dress bow,banquet,indoor,alcohol lying,blush,drinking,drunk,at night,",
+          "n": ""
+        },
+        {
+          "name": "冬日烤火",
+          "p": "blush,campfire,gloves pants,scarf,scarf over mouth,white cape,heavy breathing,sit on wood,winter,snowing,at night,",
+          "n": ""
+        },
+        {
+          "name": "城郊一角",
+          "p": "standing,building,bridge,chain-link fence,city,closed mouth,day,expressionless,graffiti,smokestack,looking to the side,outdoors,pillarboxed,plant,blue sky,fisheye,",
+          "n": ""
+        },
+        {
+          "name": "原版附带服装",
+          "p": "black beret,black shirt,black skirt,black thighhighs,brown vest,pleated skirt,purple necktie,sleeves past wrists,",
+          "n": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1785 @@
+{
+  "name": "战斗华丽",
+  "options": [
+    {
+      "name": "战斗姿势基础",
+      "p": "(fighting stance,dynamic fuzzy,speed lines,motion lines,speed line,sharp focus,perspective:1.10),",
+      "n": ""
+    },
+    {
+      "name": "斩破粘滞",
+      "p": "(handmade oil painting,thick oil paint,impasto technique,2:3.0)1girl,solo,(,glowing blade,messy hair,flowing light out of eyes,very long sleeves,dynamic view,tilted perspective,flowing light blue eyes,extremely detailed scenery,dim,glowing eyes,2:2.0),dynamic pose,wind,(school uniform,black blazer,white shirt,red tie,long pleated skirt,katana,midair,dynamic angle,focused expression,wind effect,debris,ether particles,water splashes,ink splashes,ruins,glowing blade,speed lines,motion blur,wielding sword,katana,detailed scenery,gloomy,dim,looking dashing,extreme handsome,bokeh background,cinematic lighting and texture,rim light,intense shadows,no crowd,glowing eyes,dark atmosphere:2.0),one eye in shadow,face focus,full body in shadow,in shadow,(tilted perspective,wielding sword:2.0),intricate detailed hair strands,finely detailed hair,disheveled hair,detailed individual eyelashes,",
+      "n": ""
+    },
+    {
+      "name": "烈火飞踢",
+      "p": "1girl,solo,red and white combat outfit,dynamic flying kick pose,fiery orange flame aura,red energy slash,motion lines,sketchy brushstroke art style,white background,aggressive expression,outstretched arms,flowing hair,martial arts action,vibrant warm tones,dynamic composition,dynamic motion,glowing accents,",
+      "n": ""
+    },
+    {
+      "name": "血魔崩坏世界",
+      "p": "maid,maid headdress,sleeveless,choker,glowing eyes,vampire,upper body,looking at viewer,smirk,gothic dress,black lace,frills,red gemstone,dark cape,blood on mouth,night,full moon,castle balcony,dark atmosphere,cinematic lighting,shadow,bat wings,(apocalyptic city destruction,floating debris,gravity distortion,surreal disaster:1.22),(grayscale,high contrast,dramatic lighting,tense atmosphere,epic scale:1.10),modern metropolis,dense cityscape,skyscrapers,broken buildings,cracked roads,(floating cars,wrecked vehicles,concrete chunks,rock fragments,flying rubble:1.16),(giant glowing celestial body,distorted sun in the sky:1.10),(aerial view,bird’s-eye view,wide shot,dynamic perspective,foreshortening:1.10),(chaotic composition,debris filling the frame,overwhelming destruction:1.05),",
+      "n": ""
+    },
+    {
+      "name": "狼灵射手",
+      "p": "1girl,1animal,spirit blossom kindred,mystical glowing wolf spirit,giant ethereal wolf,smoke body japanese clothes,kimono,short kimono,purple sash,obi,bare shoulders,wide sleeves,detached sleeves,thigh highs,wooden sandals,fox mask on head,ribbon decorations serene expression,calm gaze,focused eyes,gentle smile,peaceful,fierce expression (wolf),glowing eyes (wolf),open mouth (wolf) dynamic pose,stepping on water,drawing bow,glowing magical bow,aiming,dancing gracefully,wolf circling around,floating around,protective posture,sweeping motion spirit realm,mystic forest,deep woods,reflective lake,water ripples,glowing pink petals,falling cherry blossoms,glowing bioluminescent flora,ancient torii gate in background,thick mist,floating spirit lanterns cinematic lighting,ethereal glow,magical aura,bioluminescence,floating dust particles,lens flare,chromatic aberration,heavy bokeh,depth of field,motion blur on wolf,gorgeous rim lighting,god rays through mist cinematic wide shot,landscape orientation,",
+      "n": ""
+    },
+    {
+      "name": "月下舞剑",
+      "p": "1girl,jewelry,tassel,earrings,night,white chinese clothes,white hanfu,red lips,closed mouth,night sky,big tree,falling petals,flowers,hair ornament,long sleeves,wind blows,one holding a chinese style long sword,sword holding position,hold the hilt,qixiong ruqun,cape,(dynamic pose,looking back,turn around,sword dancing,",
+      "n": ""
+    },
+    {
+      "name": "夜驰摩托",
+      "p": "ligne claire,cyberpunk,white high ponytail,technology style black jacket,megastructure,1.2:2.0)foreshortening,perspective,close up,(vehicle chase,bullet time,firing at viewer,riding motorcycle,riding,drifting:1.5),cityscape,holding gun,serious,",
+      "n": "(midair:2.0),"
+    },
+    {
+      "name": "机娘京观",
+      "p": "1girl,cyborg body with exposed mechanical parts and cables,crouched atop massive pile of defeated black armored enemies,holding glowing orange katana,dynamic combat pose,low angle perspective,dramatic high-contrast lighting,desaturated color palette with bright orange accents,ruined city skyline in background,post-apocalyptic atmosphere,painterly digital art,depth of field,intense action scene,survival theme,minimalist background,focus on character,detailed mechanical design,flowing motion in hair and cables,realistic shading,epic composition,dark sci-fi aesthetic,bloodstains on body,orange energy blades scattered in enemy pile,wind-blown hair,tense mood,",
+      "n": ""
+    },
+    {
+      "name": "圣剑自弑（推荐横图）",
+      "p": "(lying on ground:1.3),lying on back,(pierced by holy sword:1.5),(sword through chest:1.4),(shining golden sword:1.3),glowing weapon,light particles,rays of light,(golden lycoris radiata:1.5),(golden spider lily:1.4),flower field,background of flowers,(thorns wrapped around ankle:1.4),thorn legwear,ankle cuff,white dress,ethereal,divine,tragic beauty,cinematic lighting,dramatic shadow,sparkling,golden glow,(side view,-2:2.0)wide shot,ducth angle,:,church flower field,outdoors,upper body,golden blood,white dress,expressionless,half closed eyes,one knee up,looking at viewer,(hand grabbing sword:2.0),",
+      "n": ""
+    },
+    {
+      "name": "紫火孽物",
+      "p": "(negative space:1.3),solo,closed eyes,serene,melancholy,holy,dreamlike,surreal,ethereal,irregular shape,clouds,wide shot,dynamic composition,black background,stars,falling star,shiny,glowing,(dark:1.6),from below,(high contrast:2.0),shadow,local lighting,movie lighting,realistic shadow,realistic lighting,tarot_(medium),cool colors,tentacles,purple theme,purple film_grain,black flowers,vines,monster,magic,watercolor_(medium),painterly,purple fire,black water,close-up,masterpiece,year 2025,year 2024,1girl,solo,(partially colored:4.0),black background,(handwritten:5.0) (messy draft:5.0) (draft:5.0) (messy lines,:5.0),",
+      "n": "(flat color:2.0),(simple background:1.0),(simple background:3.0),(highly finished,:3.0),(smooth lines:5.0),"
+    },
+    {
+      "name": "彩绘飞舞（推荐横图）",
+      "p": "1girl,cowboy shot,drawing,creating,dynamic pose,holding pen,drawing,creating,sketching,flustered expression,smile,cluttered background,maximalism,detailed background,brush,pencil,paint brush,palette,sketchbooks,flying paper,scattered notes,colorful splashes,colored pencils,crayon,",
+      "n": ""
+    },
+    {
+      "name": "机甲受损",
+      "p": "depth of field,armored core,armored core vi: fires of rubicon,cowboy shot,wide shot,cockpit,wreck,alert,red light,dynamic angle,1girl,dark pink pilot suit,ear piercing,mature female,large breasts,sitting,relaxed expression,bleed on mouth,bleed on forehead,bleeding,nose bleed,bleed on body,sweat,injury,",
+      "n": ""
+    },
+    {
+      "name": "凤冠将军",
+      "p": "divine warrior queen,1ornate breastplate,(elegant form-fitting ancient chinese armor:1.16),(feminine mountain-pattern armor:1.10),intricate cloud patterns,gold inlay,majestic red silk cloak,long flowing hair,sharp crimson eyes,(divine majesty:1.10),delicate features with authority,(commanding presence:1.16),on ancient battlefield,holding xuanyuan sword,divine weapon,(epic scale:1.10),flowing hair,(phoenix crown or headpiece:1.05),",
+      "n": ""
+    },
+    {
+      "name": "墨影之刃",
+      "p": "1girl,female focus,solo,face shadowed,mysterious,holding weapon,holding sword,holding sword vertically,claymore,black gloves,black coat,fur trim,aggressive brushstrokes,messy lines,loose lines,hatching,scribbles,spot color,emphasis lines,dynamic lines,simple background,white background,high contrast,dark atmosphere,edgy,cool,fighting,sketch,rough sketch,traditional media,ink wash painting,graphite medium,",
+      "n": ""
+    },
+    {
+      "name": "星空爪牙",
+      "p": "1girl,solo,hair with starry sky texture,gentle smile,looking at viewer,(giant golden egyptian headdress with eye pattern:1.2),1.blue horn-shaped hair ornaments with constellation pattern,golden thick collar,golden chain accessories,white form-fitting bodysuit,blue long gloves,golden bracelets,(giant black mechanical arm with starry sky texture:1.3),(holding glowing black hole with golden and orange light ring,light beam through the black hole:1.3),dynamic leaning forward pose,reaching towards viewer,dark cosmic background,starry night sky,nebula,glowing particle effects,light trails,mysterious dark atmosphere,painterly style,sketch line art,dramatic cinematic lighting,high contrast,glowing rim lighting,chromatic aberration,",
+      "n": ""
+    },
+    {
+      "name": "暴雨孤舟（推荐横图）",
+      "p": "1girl,solo,close-up,full body,sitting,outstretched leg,from side,sky,rain,heavy rain,water drop,cloudy sky,storm,wind,lighting,overcast,windy,box,sea,night,on boat,holding lantern,waving,waves,ocean,wet,wet clothes,wet hair,hands up,dynamic pose,leaning forward,boots,pants,thigh cutout,adjusting headwear,looking afar,looking to the side,photo background,scenery,",
+      "n": ""
+    },
+    {
+      "name": "黑雾笼罩",
+      "p": "messy hair,pale skin,expressionless,navel,black fog,fog censor,navel,engulfed,arms at sides,dutch angle,",
+      "n": ""
+    },
+    {
+      "name": "破碎漩涡",
+      "p": "dutch angle,from side,looking at viewer,facing away,floating,constellation,(block,vortex,breaking:1.10),indoor,floating hair,dynamic angle,intense angle,full body,fighting stance,",
+      "n": ""
+    },
+    {
+      "name": "触及光辉",
+      "p": "1girl,reaching out toward floating light particles,upper body,magical sparkles swirling around fingertips,ancient library background with floating books,dust motes dancing in sunbeam,wonder and discovery atmosphere,warm golden lighting,",
+      "n": ""
+    },
+    {
+      "name": "躲避轰炸",
+      "p": "1girl,crouching behind crumbling wall,upper body visible,gripping weapon tightly,dust and debris in air,explosions in distant background,war-torn cityscape,tension and alertness,smoke trails,dramatic orange and grey color palette,",
+      "n": ""
+    },
+    {
+      "name": "急速狂奔",
+      "p": "running,skinny,(glowing eyes,blue aura,eye trail:4.0),sweat,happy,wide eyed,shouting,looking ahead,three quarter view,hand to front,arm to front,foot to front,",
+      "n": ""
+    },
+    {
+      "name": "金色流星",
+      "p": "1girl,confetti,full body,looking at viewer,one eye closed,open mouth,outstretched arm,shadow,smile,solo,teeth,upper teeth only,(running:2.0),(glowing,glowing eyes,eye trail,motion lines:4.0),space,star (sky),from,side,(light trail,sparks,motion,blur:4.0).,stomping,(golden,rays,of,light,golden,aura:4.0).,gravitational,lensing:,space,distortion,",
+      "n": ""
+    },
+    {
+      "name": "仰视",
+      "p": "(tiptoe,foot focus:1.10),(standing,weapon on own shoulders,full body,holding weapon:1.22),from below,looking at viewer,foreshortening,(legs apart:2.0),",
+      "n": ""
+    },
+    {
+      "name": "辉光剑客",
+      "p": "1girl,solo,profile,looking down,holding sword,hood up,white cloak,intricate silver embroidery,white fur collar,large glowing blue crystal brooch,blue gemstone,black lace-up corset,criss-cross lacing,white dress underneath,black gloves,dark metal gauntlet,ornate sword,crystal blade,glowing weapon,intense light rays,particle effects,sparkling,the character is wearing a highly detailed white hooded cloak with intricate patterns over a black laced corset,raising an ornately crafted,brilliantly glowing crystal sword diagonally in front of her chest.,",
+      "n": ""
+    },
+    {
+      "name": "书页风暴",
+      "p": "faceless,solo,upper body,from above,foreshortening,messy hair,floating hair,floating clothes,arms open,beckoning,open grimoire,flying paper,broken world,magic circle,dark matter,aura,distortion),transparent skin,dark matter,made of line,lineart,magic books,high contrast,distinct aura,surreal,blending,purple theme,",
+      "n": ""
+    },
+    {
+      "name": "火凤复生",
+      "p": "battle,1girl,immortality,rebirth from fire,phoenix,flames,burning,flames surrounding,blazing eyes,smoke and embers,burning background,fire magic,rejuvenation,dramatic lighting,glowing eyes,strong determination,powerful energy,intense focus,",
+      "n": ""
+    },
+    {
+      "name": "火焰加身",
+      "p": "1girl,upper body,(from side:1.05),looking forward,excited,wide eyes,grinning,teeth,reaching towards viewer,hand focus,school uniform,torn clothes,strong wind,hair blown back,fire lighting shining on face,glowing light,dynamic lighting,.,",
+      "n": "(looking at viewer:2.0),"
+    },
+    {
+      "name": "预备枪决",
+      "p": "gritty anime illustration,masterwork. girl a cold,disdainful expression,leaning against a weathered concrete wall. she wears a tactical bulletproof vest over her shirt,sleeves pushed up to her elbows,and fingerless gloves. her eyes glow intensely in the dark. a smear of fresh blood stains her cheek,her mouth firmly closed in a silent threat.shaded face.from below,upper body close-up,captured from a low angle (from below) with a dramatic dutch angle to heighten the sense of unease. she points a handgun directly at the camera lens,the barrel looming large. the lighting is oppressive and cinematic,featuring high-contrast chiaroscuro with harsh shadows and sharp highlights,casting most of the scene into darkness while emphasizing the glowing eyes and the metallic sheen of the weapon. gritty atmosphere,blood splatters,ultra-detailed,4k resolution.,",
+      "n": ""
+    },
+    {
+      "name": "血战女仆",
+      "p": "1girl,(dark and oppressive atmosphere,deep shadows:1.9),(cool blue and grey lighting,cinematic mood:1.8),(blurred industrial ruins background:1.7),desolate scenery,subtle smoke,gritty environment,volumetric fog,(upper body shot,head and shoulders focus:1.9),(maid uniform,torn and heavily bloodstained:1.9),(combat boots,tactical gloves:1.8),(blood smears on cheek and lips:1.7),intricate rips,detailed fabric texture,high quality,(wiping blood from face with elegant yet cold gesture:1.9),(stoic and menacing expression:1.9),(piercing gaze looking directly at viewer:1.8),(slight smirk,confident posture:1.7),windblown messy hair,holding a katana,dynamic pose,badass attitude,sharp focus,",
+      "n": ""
+    },
+    {
+      "name": "沙地骑兵",
+      "p": "1girl,solo,female general,detailed armor,silver armor,cape,flowing hair,riding horse,galloping,horse,holding reins,riding crop,desert,sand,cloud of dust,kicking up dust,motion blur,dynamic angle,dynamic action,outdoors,daylight,",
+      "n": ""
+    },
+    {
+      "name": "墓地猎魔人",
+      "p": "1girl,ringed eyes,holding axe,branch,barbed wire,long sleeves,jewelry,standing,white shirt,open clothes,necktie,pants,belt,holding weapon,vest,coat,black jacket,tree,gun,black headwear,facial hair,night,black pants,bandages,moon,grass,fire,sleeves rolled up,handgun,black vest,legs apart,pouch,top hat,lantern,fence,bandana,silhouette,holster,dark,bat (animal),brown coat,cross necklace,ruins,bare tree,cowboy hat,revolver,crow,trench coat,fog,tombstone,torch,holding lantern,graveyard,bandolier,pickaxe,grave,holding torch,from behind,looking back,depth of field,chromatic aberration,cinematic angle,purple fire,",
+      "n": ""
+    },
+    {
+      "name": "控沙",
+      "p": "sand flow,sandstorm,blush,sweat,arms up,frown,",
+      "n": ""
+    },
+    {
+      "name": "光辉散发",
+      "p": "golden theme,white background,glowing hair,lineart,crystal general quality,game title,colorful,amazing,high detail,cinematic lighting,chiaroscuro,reflection,ray tracing,shadow,golden flashing body text:,char1：girl,close-up of the face,damaged clothing,side view,lower the head,close the eyes,with one hand grasping the coat draped over the shoulders,the clothing is fluttering in the wind,",
+      "n": "(flat color:2.0),"
+    },
+    {
+      "name": "熔岩迸发",
+      "p": "scorched earth,flowing lava rivers,cracked parched ground,thick black smoke,glowing embers,hellish landscape,apocalyptic atmosphere,",
+      "n": ""
+    },
+    {
+      "name": "法术共振",
+      "p": "dynamic combat scene,1girl,action pose,mid-air,casting skill or attacking,energy swirls around hands,(motion lines:1.16),wind blowing hair and clothes,(luminous energy particles and shockwaves:1.22),dramatic lighting,low angle view,ruined cityscape background,intense expression,epic,screenshot from game,",
+      "n": ""
+    },
+    {
+      "name": "赤蝶剑刃",
+      "p": "1girl,solo,glowing eye,flaming eye,v-shaped eyebrows,hair ribbon,hair red bow,closed mouth,holding weapon,looking at viewer,black dress,red ribbon,detached sleeves,torn clothes,frills,frilled dress,back bow,sleeves,black thighhighs,frilled sleeves,wide sleeves,bug,butterfly,building,outdoors,kneeling,knee up,fighting stance,",
+      "n": ""
+    },
+    {
+      "name": "饮血地面",
+      "p": "1girl,photorealistic,curtains,blood,indoors,smile,upper body,window,shushing,tongue out,blood on clothes,closed mouth,collarbone,vambraces,lying,pink flower,blood,excessive blood,wet skin,blurry,night,rose,depth of field,on side,",
+      "n": ""
+    },
+    {
+      "name": "原版服装",
+      "p": "torn clothes,gauntlets,armor,belt,black cloak,shirt,",
+      "n": ""
+    },
+    {
+      "name": "挥毫泼墨",
+      "p": "moonlight,(bright full moon in the sky:1.5),(cold winter night:1.4),dark night sky,(ethereal glow:1.4),(rays of moonlight:1.3),falling snow,(heavy snowfall,:1.4)thick snow layer on ground,(frosty atmosphere:1.2),(breath visible in air (mist):1.3),(barren trees covered in white snow:1.4),(frozen lake surface:1.3),(silent scenery:1.3)wide angle view,1girl,solo,standing,full body,graceful pose,1.5:poised demeanor,(elegant posture with straight back:1.4),(gentle and fluid body language:1.3),(light touch on heavy handle:1.3),(delicate wrist movement directing the brush:1.3),(sweeping elegant brush stroke in mid-air:1.3),(flowing robes swirling gently with movement:1.4)simple elegance,holding giant calligraphy brush,(wielding massive ink brush:1.5),(dark ink dripping from bristles:1.3),detailed magical special effects,(glowing arcane energy surrounding brush:1.5),(casting spell with brush:1.2).(swirling glowing runic trails trailing behind brush strokes:1.4),(flowing ink magic lines in air:1.3),(radiant particle effects and sparks:1.3),",
+      "n": ""
+    },
+    {
+      "name": "火焰法术",
+      "p": "1girl,solo,tareme,motherly,upper body,visible air,leaning forward,incoming attack,clenched teeth,close-up,(casting spell:1.10),pyrokinesis,lava,exploding clothes,",
+      "n": ""
+    },
+    {
+      "name": "展翼顶楼",
+      "p": "1girl,dynamic sprinting pose along the edge of a skyscraper rooftop,massive wings partially spread for balance,intense,focused predatory gaze,running at high speed,gungnir held low ready to strike,splashing water with every step,rain-slicked skyscraper rooftops at night,blurred modern city skyline with neon signs below,cyberpunkish action,high octane,cinematic motion blur,heavy rain,motion blur,wet clothes,neon reflection,rooftop parkour,urban action,",
+      "n": ""
+    },
+    {
+      "name": "守护已晚",
+      "p": "1boy,1girl,giant male,size difference,huge male,knight,full armor,gold armor,broken armor,battle damaged,blood,blood on face,closed eyes,dying,kneeling,on one knee,holding sword,sword planted,leaning on sword,succubus,demon wings,horns,crying,tears,sadness,holding girl,lifting person,cupping face,touching face,about to kiss,face to face,side view,from side,profile,cinematic lighting,battlefield,",
+      "n": ""
+    },
+    {
+      "name": "遗体飞升",
+      "p": "1boy,1girl,giant male,knight,gold armor,battle damaged,blood on face,closed eyes,crying,kneeling,on one knee,sword planted,leaning on sword,side view,profile,succubus,succubus fading away,dissolving into light,body turning into particles,light particles,glowing dust,fireflies,translucent,semi-transparent,disappearing,shattering,hugging,embracing,tight embrace,desperate embrace,tragic,dark background,",
+      "n": ""
+    },
+    {
+      "name": "残魂围绕",
+      "p": "1boy,1girl,giant male,(size difference:1.16),knight,gold armor,kneeling,on one knee,sword planted,leaning on sword,head down,forehead on hands,crying,grief,side view,tiny girl,miniature girl,small body,fairy size,spirit,ghost,glowing white silhouette,translucent,semi-transparent,fading,dissolving into light,yellow light particles,fireflies,hugging from behind,floating,hovering,",
+      "n": ""
+    },
+    {
+      "name": "战损驾驶员",
+      "p": "(shiny skin,glossy:1.2),curvy,pear-shaped figure,(dark background:1.22),dim light,space,cockpit,holographic monitor,cowboy shot,three quarter view,from above,sitting,pilot chair,looking ahead,(blood from forehead:1.10),one eye closed,half-closed eyes,frown,clenched teeth,sweat,heavy breathing,fortified suit,black leotard,impossible leotard,armored leotard,shoulder armor,body armor,hip armor,black elbow gloves,see-through black thighhighs,mechanical thigh boots,",
+      "n": "(highleg leotard:2.0),"
+    },
+    {
+      "name": "冰龙吐息",
+      "p": "1girl,solo,in air,from side,close-up,glowing eyes,expressionless,raising hand,chinese dragon,ice dragon,magic,ice magic,white kimono,bare shoulders,floating,aerial view,mystical,ethereal,enchanting,captivating,powerful,dynamic pose,ice particles,frosty aura,serene expression,magical energy,wind blowing,detailed scales,sharp claws,glowing runes,frozen breath,winter theme,fantasy setting,beautiful scenery,artistic composition,vivid colors,",
+      "n": ""
+    },
+    {
+      "name": "三刀流",
+      "p": "1girl,solo,close-up,katana,sword in mouth,holding sword,dual wielding,from behind,looking back,looking at viewer,bare back,sideboob,torn clothes,ragged clothes,off-shoulder,blood,blood on sword,blood on clothes,black background,",
+      "n": ""
+    },
+    {
+      "name": "水火木三系法源",
+      "p": "1girl,3others,medieval,colorful,vibrant colors,fire effects,water effects,yellow energy,green effects,electric effects,yellow effects,detailed eyes,intricate effects,glow,height difference,official art,cover,smile,(amethyst and bioluminescent green:1.7),(translucent leaves:1.4),(natural flow:1.5),outdoors,2koma,",
+      "n": ""
+    },
+    {
+      "name": "原版服装 (2)",
+      "p": "witch hat,long sleeves,belt,(tunic:1.10),(detachable cloak:1.16),waist apron,brown apron,belt pouch,ears through headwear,white hat,leather gloves,",
+      "n": ""
+    },
+    {
+      "name": "燃烧街道",
+      "p": "1girl,solo,hands in pockets,white coat,knee boots,standing,from behind,from below,wind,big red moon,galaxy,stars,black sky,cosmic,space,city,skyscraper,smoke,ruins,burning building,fire sparkle,",
+      "n": ""
+    },
+    {
+      "name": "背后列枪",
+      "p": "holding spear,handsome,glowing eyes,standing,full body,(from behind,looking back,ass:2.0),looking at viewer,legs apart,(tiptoe:1.16),legs apart,(from above:1.22),",
+      "n": ""
+    },
+    {
+      "name": "术式交锋",
+      "p": "from side,close-up,outdoors,cowboy shot,char1：girl,looking at the another,hand folding fan,(folding fan around water,standing,whirlwind slash,attack girl:3.0),char2：girl,looking at the girl,young,cool,ranger,chinese,white taoist robe,robe,gray cloth,ahoge,(jumping,flaming eyes,ink dragon around body,big dragon,control dragon attack girl:3.0),",
+      "n": ""
+    },
+    {
+      "name": "电光火石",
+      "p": "1girl,solo,dark theme,shaded face,yellow electricity,electricity magic,electricity around body,disdain,upper body,zone trail,light trail,electricity trail,dark background,front lighting,electrokinesis,(light trail from eyes,pointing,electricity around hand,dark cloud,lightning background,lightning,dutch angle,dynamic angle:1.2),",
+      "n": ""
+    },
+    {
+      "name": "斩却回忆",
+      "p": "focus on female,holding sword,holding sheath,standing,looking at viewer,dynamic angle,cowboy shot,water,water splash,liquid,blue flower,blue rose,floating petals,floating paper,scroll,musical notation,background elements: (montage:1.05),(multiple views:1.05),faint faces in background,profile,ethereal,blue theme,cinematic lighting,detailed background,white background,style of light novel cover,illustration,intricate details,",
+      "n": ""
+    },
+    {
+      "name": "原版服装 (3)",
+      "p": "white thighband pantyhose,armband,blue jacket,blue necktie,blush,cameltoe,collared shirt,grey skirt,hairclip,plaid clothes,plaid skirt,school uniform,striped necktie,white necktie,white panties,white shirt,",
+      "n": ""
+    },
+    {
+      "name": "魔像守护",
+      "p": "(golem,giant stone golem,guardian:1.5),(protecting girl,shielding with back,kneeling on ground:1.6),(arrows stuck in back,countless arrows,volley of arrows:1.5),(girl crying,sobbing,hugging golem,clutching stone arm:1.4),(tears streaming down,emotional scene:1.3),(cracked stone texture,stone dust falling:1.2),(battlefield,ruined city,war-torn environment:1.5),(smoke billowing,fire in background,debris scattered:1.4),(dust clouds,fallen pillars,desolate land:1.3),(overcast sky,gloomy atmosphere:1.2),(dramatic lighting,chiaroscuro,high contrast:1.6),(rim lighting on golem,light beams through smoke,cinematic lighting:1.5),(embers glowing in air,sparks from impacts:1.4),",
+      "n": ""
+    },
+    {
+      "name": "向巨龙发起冲锋",
+      "p": "1girl,(black scarf,holding lance,helmet,full armor,antlers,helmet over eyes,full body,heavy armor,shoulder armor,black armor,glowing eyes,flaming eyes,glowing weapon,fighting stance,from below,facing away viewer,2:1.5)dragon,western dragon,giant monster,breathing fire,from above,",
+      "n": ""
+    },
+    {
+      "name": "丝线汲取",
+      "p": "1girl,solo,(kneeling beside a rain puddle on a city rooftop,pale white “memory-steam” tendrils coalescing from the water’s surface instead of evaporating:1.6),(a cautious,reaching gesture,her fingers passing through a tendril as fragmented visions of strangers’ memories flicker around her hand,expression caught between empathy and intrusion:1.5),(a simple dark raincoat contrasted against the warm-tinted spectral tendrils,lit by the cool neon reflections in the water and the deep blue of the clear post-rain night sky:1.5),(visuals blend thermal imaging for warmth and holographic projection for memory fragments,creating transient clarity within the mist:1.4),(textures of wet asphalt,condensing vapor,shimmering heat-haze distortions,and pixelated memory glimpses:1.3),(background of rooftop vents and distant city lights,all veiled by the rising haze of collective urban memory:1.2),masterpiece,emotional archaeology,a portrait of solitude touching the ghostly residue of others’ lives left in the rain.,",
+      "n": ""
+    },
+    {
+      "name": "破败电台",
+      "p": "1girl,solo,(leaning against a rusted television antenna under a full moon,tendrils of dead radio waves seeping from corroded joints,composed of historical broadcast remnants and static:1.6),(a strained,listening pose,hands gripping her modified headset as spectral tendrils plug into its ports,forcing her to hear echoes of the past,expression tense with overload:1.5),(urban explorer attire contrasted against the rust-and-static texture of the wave-tendrils,lit by the cold moonlight and the ghostly glow of vintage test patterns overlaying the moon’s surface:1.5),(multiple radio spectrogram layers visualize different eras as colored frequency lines,with her form a bright digital signal point amidst the analog noise:1.4),(textures of oxidized metal,crystallized static,worn headphones,and shifting signal graphs:1.3),(background of a vast night sky,its darkness textured with faint,overlapping transmission waves from decades past:1.2),spectral haunting,the weight of broadcast history forcibly channeled through a single listener under the test-pattern moon.,",
+      "n": ""
+    },
+    {
+      "name": "碎刃",
+      "p": "1girl,solo,black and red theme,katana,from below,close up,katana dissolving into particles,katana fading away,",
+      "n": ""
+    },
+    {
+      "name": "连续拳",
+      "p": "(fighting stance,punching,close up hand,hand focus,anger,speed lines,motion blur:2.0),",
+      "n": ""
+    },
+    {
+      "name": "其他版本",
+      "p": "1girl,loli,(>_<:3.0),oversized shirt,single shoulder off,bare legs,white frilled short socks,wooden floor,(knees together:2.0),(standing:2.0),(from above:2.0),open mouth,(wildly swinging fists,flurry of punches with motion afterimages,rapid chaotic punching,fists with motion blur:1.5),(bare fist:2.0),",
+      "n": "(boxing gloves:2.0),(red fist:2.0),"
+    },
+    {
+      "name": "长枪直入",
+      "p": "graphic painting,(dark theme,dark and red background,1girl,solo:5.0)1girl,solo,(messy draftsketch,lineart:5.0) (draft:5.0) (sketch:5.0),(only girl’s hair colored,:5.0)upper body,(expressionless,:5.0) (red spear,magnificent spear:3.0),(holding spear,:3.0)close up,blood on face,dynamic pose,from below,spear focus,(aiming viewer:2.0),hand,",
+      "n": ""
+    },
+    {
+      "name": "破碎法球",
+      "p": "(monochrome,fading away:4.0),1girl,solo,purple and white theme,holding glowing crystal ball,(glowing),smile,body dissolving into glowing purple particles,standing,starry sky (background),magical energy,",
+      "n": ""
+    },
+    {
+      "name": "废墟雨落",
+      "p": "1girl,solo,eye shadow,windbreaker,holding sword,fingerless gloves,cool,hooded cape,standing,detailed wet clothes,cape hood,thigh boots,pantyhose,(cowboy shot:1.10),(close to viewer:1.16),intense angle,side view,rainstorm,smoke of gunpowder,looking afar,crepuscular rays,dusk,doomsday scenes,crosswalk,rubble ruins,(the main character is prominent:1.05),(best shadow:1.05),(intense shadows:1.10),(frontlight:1.05),(night:1.05),from behind,",
+      "n": ""
+    },
+    {
+      "name": "恶魔王座",
+      "p": "demonic creature,devil trigger,no humans,wing,(torn cape,glowing print:1.10),standing,devil trigger,devil may cry (series),dynamic poseskull armour,(4 arms,extra arms,eyes armour:2.0)(huge eye on the chest:1.22),(from above:1.16),(stting,sitting on the throne,head tilt,stretch legs,hand on own face:1.16),male focus,close up,face focus,sunset,blood,ruin city,backlighting,",
+      "n": ""
+    },
+    {
+      "name": "楼间奔袭",
+      "p": "cyberpunk city,night,rain,neon lights,holograms,skyscrapers,flying cars,sci-fi,futuristic,high contrast,bloom,chromatic aberration,location,cyberpunk style,techwear shihakusho,carbon fiber clothing,glowing red circuit lines,tactical goggles,(cyberpunk tensa zangetsu:1.05),(black energy blade:1.05),(data cable chain:1.05),(glowing red cables:1.05),dynamic pose,jumping,mid-air,running on wall,sparks,motion blur,mechanical boots,from side,cowboy shot,",
+      "n": ""
+    },
+    {
+      "name": "战后绷带治疗",
+      "p": "1girl,solo,(sarashi:1.10),chest wrap,bandages covering breasts,(bandage panties:1.10),crotch wrap,hips wrapped in bandages,(sitting:1.10),sitting on ground,cross-legged or knees up,(wrapping bandages:1.10),treating own wounds,applying bandage to arm,(biting bandage:1.10),holding bandage in mouth,pulling bandage tight with teeth,(determined:1.05),serious expression,strong will,focused eyes,ruins,rubble,stone debris,night,midnight,darkness,(campfire:1.10),dirt,sweat,scratches,bruises,cinematic lighting,dramatic shadows,",
+      "n": ""
+    },
+    {
+      "name": "原版服装 (4)",
+      "p": "knight,messy hair,disheveled hair,slender body,(thick thighs:1.10),plump legs,wide hips,(single greave:1.05),(one leg armored:1.05),(broken armor:1.16),shattered armor,debris on body,(short gauntlets:1.28),metal gloves,(partially nude:1.05),",
+      "n": ""
+    },
+    {
+      "name": "雪龙剑吟",
+      "p": "chinese girl,solo,white hanfu,nsfw,fingers,high hairpin,forehead flower mark,hanfu covered dudou,covered chest,white and blue clothes,xiangyun pattern clothes,chinese knot,nsfw,coat,small round green annulus,red nails,dynamic pose,floating hair,bare thigh,looking at viewer,(holding straight scabbard,jian (weapon),holding out sword:2.0),light lines backlighting,side panties tie,side boob,(skindentation:3.0),blue flower pattern on thighhighs,(breasts out:1.2),short skirt,gem ring,head tilt,off shoulder,opened legs,(,wind around body:2.5),wind dragon background,(too many snowflakes:1.5),(1leg stepped on stone:2.0),snow,fur,cowboy shot,from ground,(shoes:2.0),soles focus,fisheye,(qinghua (porcelain):2.0),glowing,",
+      "n": ""
+    },
+    {
+      "name": "能量汇集",
+      "p": "black background,glowing eyes,dynamic fuzzy,(upper body:1.5),looking at viewer,(hand focus:2.0),open hand,open fingers upward.,from below,the palm faces the viewer,centered in the frame,(a swirling vortex of chaotic energy coalescing in the palm:1.05),monochrome energy core with distorted space,from side,",
+      "n": ""
+    },
+    {
+      "name": "摩托侧刹",
+      "p": "1girl,riding motor vehicle,sitting,motorcycle,outdoors,akira slide,armored boots,bikesuit,bodysuit,clothing cutout,exhaust pipe,flame print,partially open jacket,partially unzipped,high heel boots,highway,motion lines,looking at viewer,science fiction,smoke,",
+      "n": ""
+    },
+    {
+      "name": "倒立急射",
+      "p": "1girl,closed mouth,full body,parted lips,boots,holding weapon,outstretched arm,gun,thigh strap,bright pupils,holding gun,blue pupils,serious,determined,white thighhighs,handgun,high heel boots,upside-down,thigh holster,firing,bullet,midair,shell casing,handstand,",
+      "n": ""
+    },
+    {
+      "name": "枪口直瞄",
+      "p": "1girl,solo,full body,close-up,wide shot,front view,looking down,close to viewer,facing the lens,cyberpunk,ninja,science fiction,holding weapon,fighting stance,shotgun,bullet,shot,wind,(characters away from the camera:2.0),shotgun close to camera,muzzle,shotgun pointed at pov,the girl placed one hand behind her,the girl holding gun with one hand,",
+      "n": ""
+    },
+    {
+      "name": "狼灵剑意",
+      "p": "solo,looking at viewer,jewelry,standing,full body,outdoors,black gloves,hood,fingerless gloves,black boots,holding sword,fur trim,night,black pants,glowing,leaf,grass,knee boots,gauntlets,light particles,glowing eyes,black coat,blue theme,fighting stance,magic,fur-trimmed coat,whip,wolf,energy,spirit,elezen,floating hair,",
+      "n": ""
+    },
+    {
+      "name": "最后冲刺",
+      "p": "(limited palette:1.10),(animation paper,color trace:1.05),(colored:1.05),ink wash painting,(lineart:1.05),(monochrome:0.91),(colorful:0.91),dramatic shadow,shade,shady,illustration,electricity,hair between eyes,open mouth,running,solo,sweat,white background,furious,crazy angry smile,crazy grin,light trail,",
+      "n": ""
+    },
+    {
+      "name": "地狱弹奏",
+      "p": "a hell on earth,afraid,(play the shamisen,solo,1girl,spider lily,wind,bloom,shamisen:1.16),(girl focus,intricate scene,detailed visuals,elaborate composition,complex picture,bloody moon:1.16)(hoding burning shamisen,yokozuwari:1.16),",
+      "n": ""
+    },
+    {
+      "name": "竖直出鞘",
+      "p": "raise a hand,bloody huge weapon,a hell on earth,(fighting stance,unsheathing,stare,ootachi:1.16),(girl focus,solo:1.16),(hoding burning huge weapon:1.16),",
+      "n": ""
+    },
+    {
+      "name": "斩落红叶",
+      "p": "intense eyes,sharp eyes,glowing eyes,killing intent,holding sword,unsheathing,katana,weapon,combat pose,dynamic pose,action shot,rushing,leaning forward,wind,floating hair,falling maple leaves,red leaves,autumn,nature,outdoors,dynamic angle,dutch angle,motion blur,speed lines,depth of field,cinematic lighting,dramatic shadows,ray tracing,lens flare,sword pointing at viewer,global illumination,",
+      "n": ""
+    },
+    {
+      "name": "丧尸围城",
+      "p": "(open cloth,hood up:1.05),arm blade,standing,from behind,back,fighting stance,ruined city,post-apocalyptic world,desolate atmosphere,cyberpunk,(red style:1.16),smoke,(a large number of zombies in the city,a person is facing a horde of zombies,walking zombies,crowd,zombie’s eyes glowed with red:1.10),",
+      "n": ""
+    },
+    {
+      "name": "情杀聚焦",
+      "p": "1girl,solo,dutch angle,cowboy shot,dynamic pose,parted lips,looking at viewer,shaded face,looking back,head tilt,smile,yandere,holding kitchen knife,hand up,abstract background,red background,blood splatter,blood on clothes,indicate details,clean background,vignetting,shadow,drop shadow,",
+      "n": ""
+    },
+    {
+      "name": "深海技术",
+      "p": "1girl,solo,cyberpunk,windows xp interface,aquarium,computer screen,fish,small fish,glowing fish,floating,underwater,neon lights,digital art,sci-fi,futuristic,hologram,data stream,glitch effect,pixelation,bokeh,lens flare,water effects,bubbles,light rays,reflections,transparency,dark background,city lights,rain,wet,vibrant colors,electric blue,pink,purple,green,techwear,goggles,headset,choker,mechanical details,wires,circuitry,glowing eyes,expressionless,looking at viewer,upper body,full body,dynamic pose,depth of field,sharp focus,cinematic lighting,wide angle,start menu,taskbar,desktop icons,windows wallpaper,vaporwave,synthwave,intricate details,detailed background,atmospheric,dreamlike,surreal,anime style,illustration,high resolution,8k,floating hair,glowing skin,cyborg parts,transparent clothes,digital noise,screen effect,fish tank,water surface,underwater light,distorted,liquid,fluid,blurry foreground,sharp background,backlighting,rim light,splash art,hd,fantasy,sci-fi city,vertical composition,horizontal composition,dynamic angle,motion blur,colorful,contrast,depth,",
+      "n": ""
+    },
+    {
+      "name": "中箭力竭",
+      "p": "1girl,solo,from side,holding sword,arrow (projectile),arrow in body,arrow in head,injury,blood,blood on clothes,hand on hilt,planted sword,blood splatter,eyes closed,chiaroscuro,dark,torn clothes,kneeling,bent back,head down,wind,wind blows hair,light particles,planted arrow,planted,",
+      "n": ""
+    },
+    {
+      "name": "长剑直刺",
+      "p": "epaulettes,red shirt,buttons,black shorts,top hat,pointing sword,aiguillette,pointing melee weapon,smug,hand on headwear,covered one eye,dramatic perspective,feather hair ornament,dynamic pose,foreshortening,depth of field,from above,single updo,tricorne,feet out of frame,raised eyebrow,drill sidelock,head back,arm up,white halfgloves,",
+      "n": ""
+    },
+    {
+      "name": "水之呼吸",
+      "p": "(fighting stance,unsheathing,stare,ootachi:1.16)(girl focus,solo:1.16),water aura,water swirl,water flow,water splash effect,elemental effect,energy wave,flowing energy,dynamic water,liquid motion,",
+      "n": ""
+    },
+    {
+      "name": "扭曲列车",
+      "p": "solo,panorama,black ring,backpack,black pants,blood,blurry,blurry foreground,broken,cable,copyright name,crack,debris,depth of field,explicit,floating,floating object,from behind,full body,general,glass,hand in pocket,hands in pockets,indoors,long sleeves,mask,questionable,road sign,rubble,sensitive,shards,sneakers,standing,train interior,walking,white footwear,white jacket,window,",
+      "n": ""
+    },
+    {
+      "name": "兽娘扑击",
+      "p": "1girl,black jacket or button-up top,a tan/brown patterned scarf or cowl,a silver cross necklace,black shorts,torn black fishnet stockings,a turquoise studded bracelet on her left wrist,black cat paw hair ornaments,slender,athletic,fierce,intense,aggressive,wild,looking up with a snarl,in a dynamic,contorted pose,as if floating or being thrown upwards by an explosion of energy,surrounded by her tails,solo,looking up at the viewer,full body,viewed from a high angle,from above,high-angle shot,looking down,",
+      "n": ""
+    },
+    {
+      "name": "墨狐之灵",
+      "p": "taisho style,like a girl,spellcasting,taoist priest,master,chinese,blue taoist robe,white cloth,rain flaming eye,ahoge,inking,(a big ink fox,handheld folding fan:3.0),jojo pose,ink fox,big,huge,soul,",
+      "n": ""
+    },
+    {
+      "name": "碎裂金环",
+      "p": "1girl,solo,cowboy shot,(falling grace,shattered divinity,crumbling faith:1.8),(peeling gold leaf,fading halo,dissolving scripture:1.7),(falling icon dust,broken covenant,desecrated light:1.6),(tarnished gold,ashen white,bloody crimson:1.5),(slow collapse,irreversible decay,solemn falling:1.4),(tragic,blasphemous,liberating,chaotic:1.3),(deconstruction vfx,fallen angel aesthetics,dramatic decay:1.4),",
+      "n": ""
+    },
+    {
+      "name": "深海古卫",
+      "p": "1boy,solo,abyssal tidecaller,(coral armor:1.6),(living kelp cloak:1.5),(pearl trident:1.4),(bioluminescent runes:1.3),(tidal vortex aura:1.2),(sunken city:1.6),(coral palace:1.5),(abyssal trench:1.4),(glowing reef:1.3),(shipwreck grove:1.2),(tidal shrine:1.1),sea bridge,(water gate:0.9),(observatory spire:0.8),(kelp forest:0.7),(serene lagoon:0.6),(ritual circle:0.5).(tide manipulation:1.5),(deep sea magic:1.4),(current control:1.3).(oceanic art:1.2),(abyssal ritual:1.1),coral engineering,(deep blue-teal theme:0.9),(oceanic aesthetic:0.8),(abyssal vibe:0.7),(deep sea ambiance:0.6),(tidal mood:0.5),(pressure atmosphere:0.4),(abyssal glow:1.4),(bioluminescent light:1.3),(trench illumination:1.2).(ocean radiance:1.1),water beams,(deep shadows:0.9).(underwater lighting:0.8),(tidecaller aura:0.7),(ocean haze:0.6).(coral glow:0.5),(pressure atmosphere:0.4),(filtered light:0.3).(wanke:0.7),(imazawa:0.4),(ask (askzy):0.8),(yoneyama mai:1.2),(chongzhen 085:0.6),year 2025,(dynamic:3.0),vibrant,very aesthetic,no text.,",
+      "n": "(artist collaboration:2.0),"
+    },
+    {
+      "name": "植物苏生",
+      "p": "1girl,solo,cowboy shot,(cinematic background of luminous creeping vines:1.8),(organic glowing pathways:1.8),(slow growth animation feel:1.7),(amethyst and bioluminescent green:1.7),(soft pulsating glow:1.7),(fantasy atmosphere:1.6),(complex branching patterns:1.6),(ethereal:1.6),(natural flow:1.5),(subtle energy transfer:1.5),(depth from overlapping vines:1.5)(translucent leaves:1.4),(floating pollen sparks:1.4),(non-repeating organic network:1.4)(magical ecosystem:1.3),(concept art background:1.3),(4k render:1.3)(fantasy backdrop:1.2)(dynamic:2.0),(vibrant:1.5),foreshortening,(blending:6.0),",
+      "n": ""
+    },
+    {
+      "name": "熔岩构造",
+      "p": "1girl,solo,cowboy shot,(cinematic subsurface magma flow:1.8),(slow motion lava river:1.8),(volumetric incandescent glow:1.7),(obsidian rock formations:1.7),(intense heat haze:1.7),(primordial atmosphere:1.6),(molten rock texture:1.6),(deep orange and black contrast:1.6),(slow pulsating light:1.5),(immersive cavern scale:1.5),(subsurface scattering in magma:1.5),(crawling lava skin:1.4),(floating embers:1.4),(non-uniform flow patterns:1.4)(geological wonder:1.3),(volcanic concept art:1.3),(4k render:1.3)(fantasy backdrop:1.2)(dynamic:2.0),(vibrant:1.5),foreshortening,(blending:6.0),",
+      "n": ""
+    },
+    {
+      "name": "一拳开天",
+      "p": "solo,wet skin,cowboy shot,topless,muscles,dragon in cloud,kung fu pose,battle,face the screen,fist focus,(dramatic skyscape,weather background,cinematic atmosphere:1.8),(ominous storm clouds,swirling cloud formations,heavy rainfall in the distance:1.9),(volumetric lighting,sunbeams breaking through clouds,god rays:1.7),(atmospheric perspective,rolling mist,sky haze:1.6),(dark moody colors,desaturated palette,cold grey,deep blue:1.5),(wind swept rain,sense of movement,dynamic weather:1.4),(foreboding,majestic,powerful,serene chaos:1.3),",
+      "n": ""
+    },
+    {
+      "name": "熔岩之上",
+      "p": "1girl,upper body,from above,from side,wind,red theme,pointing at viewer,foreshortening,standing,(black lightning:1.10),hand down,looking at viewer,ashes,rock,depth of field,blurry foreground,lava,",
+      "n": ""
+    },
+    {
+      "name": "深水救赎",
+      "p": "1girl,upper body,from below,from side,backlighting,blue theme,dark,floating,glowing eye,glowin trail,(see-through body:1.10) completely nude,foreshortening,wet,octopus tentacles in foreground,looking at viewer,ashes,bubble,seaweed,jellyfish,blurry foreground,deep ocean,underwater,school of fish,fish in foreground,",
+      "n": ""
+    },
+    {
+      "name": "炎拳",
+      "p": "looking at viewer,expressionless,open clothes,building,city,night,outdoors,skyscraper,jumping,motion lines,fire energy,fingerless gloves,fire,large hands,wristband,depth of field,fighting stance,spiked hair,fire on head,yellow fire,fire coverd hands,",
+      "n": ""
+    },
+    {
+      "name": "弯弓搭箭",
+      "p": "1girl,long eyelashes,makeup,vibrant iris,intense gaze,see-through,scar on face,glaring,shouting,(torn clothes:1.10),blue cloak,blue hood,squatting on the rock,on one knee,solo,1girl,outdoors,boots,armor,tree,fur trim,leaf,sheath,nature,hood up,forest,rock,bow (weapon),arrow (projectile),holding bow (weapon),aiming,quiver,holding arrow,drawing bow,(aiming at viewer:1.22),",
+      "n": ""
+    },
+    {
+      "name": "色彩爆破手",
+      "p": "(colorful:1.3),dance floor,gameplay mechanics,power-up items disguised,explosion,pink smoke,colored smoke,tetris,glowing bomb blocks with fuse sparks,candy-coated block world with gelatinous ground,exploding gummy bombs with colorful smoke,cube,giant cubes,giant blocks,1girl,grin,smile,bandaid on face,messy hair,orange safety glasses on head,khaki shorts,midriff peek,white shirt,short sleeves,zipper,open utility vest,open vest,bandolier,thigh belt,fingerless gloves,sitting,on box,wooden box,(holding bomb:1.3),",
+      "n": ""
+    },
+    {
+      "name": "符咒秘法",
+      "p": "1girl,glowing eyes,japanese clothes,miko,shrine maiden,red hakama,hakama skirt,white kimono,wide sleeves,detached sleeves,shimenawa,sash,ofuda,paper charm,hair ribbonsolemn,ethereal,closed eyes,prayingpraying pose,hands clasped,holding gohei,holding ofuda,floating,levitating,wind,sleeves in wind,hair in wind,dynamic poseshrine,torii gate,glowing,particles,magic circle,glowing runes,ofuda trail,paper charm trail,ghosting,afterimage,lens flare,dust,close up,shallow depth of field,out of focus foreground,out of focus,focus on face,",
+      "n": ""
+    },
+    {
+      "name": "背身拔刀",
+      "p": "black jacket,covered mouth,cowboy shot,cyberpunk,cyborg,from behind,headgear,high collar,holding sword,long sleeves,looking at viewer,looking back,scabbard,science fiction,sheath,standing,turning head,unsheathed,",
+      "n": ""
+    },
+    {
+      "name": "枪口锁定",
+      "p": "1girl,aiming,aiming at viewer,chromatic aberration,cowboy shot,glint,greyscale,looking at viewer,monochrome,smoke,solo,spot color,close-up,glowing eyes,one hand holding gun,close-up,crow,hand up,one eye covered,smoke,smoking,(shaded face:1.10),bright pupils,floating hair,frown,face focus,",
+      "n": ""
+    },
+    {
+      "name": "异蛇之眼",
+      "p": "snake,(snake in front of eye:1.16),snake on hand,hand up,one eye covered,solo,expressionless,glowing eyes,slit pupils,eyes in shadow,ink snake,indoors,",
+      "n": ""
+    },
+    {
+      "name": "巨龙召唤",
+      "p": "1girl,young sorceress,dragon battle,epic confrontation,(magic staff,spellcasting pose,determined expression:1.6),flowing robes,glowing hands,focused eyes,wind-swept hair,magical energy,battle stance,protective aura,runic patterns,(burning battlefield,mountain pass,stormy sky:1.6),enormous dragon,fiery breath,massive wings,scorched earth,broken terrain,lightning strikes,castle ruins,smoke clouds,flying debris,magic circles,energy bursts,(epic fantasy aesthetic,magical elegance,battle artistry:1.6),confrontation theme,spell design,dragon artistry,fantasy battle,heroic beauty,blue red theme,epic aesthetic,intense vibe,battlefield ambiance,determined mood,magical atmosphere,(spell glow,dragonfire illumination,battle light:1.6),staff beams,magic shine,energy radiance,dragon radiance,fire glow,smoke mist,lightning haze,spark particles,battle focus,magical lighting,energy flow,",
+      "n": ""
+    },
+    {
+      "name": "熔岩之主",
+      "p": "1girl,curvaceous dragon girl,voluptuous draconic,majestic,(dragon scale dress,curved horns,leathery wings:1.6),ample bosom,wide hips,shapely figure,reptilian eyes,sharp nails,flowing hair,tail accessory,jeweled accessories,confident pose,(volcanic lair,treasure cave,mountain throne:1.6),gold coins,gem piles,crystal formations,lava flows,smoke clouds,ancient ruins,dragon eggs,weapon collection,silk cushions,fire pits,obsidian pillars,(voluptuous aesthetic,draconic elegance,dragon artistry:1.6),abundance theme,curvaceous design,majestic artistry,fantasy art,lush beauty,red gold theme,dragon aesthetic,powerful vibe,lair ambiance,confident mood,draconic atmosphere,(firelight glow,scale illumination,volcanic light:1.6),horn beams,wing shine,jewel radiance,cave radiance,lava glow,smoke mist,heat haze,spark particles,dragon focus,firelight lighting,power flow,",
+      "n": ""
+    },
+    {
+      "name": "霓虹武者",
+      "p": "1girl,neon samurai,cyberpunk,dynamic,(lightning katana,holographic armor,iron mask:1.6),electric patterns,glowing eyes,battle stance,neon cables,energy aura,mechanical arms,data stream hair,plasma sparks,(rainy megacity,neon alley,floating dojo:1.6),hologram advertisements,reflective puddles,flying vehicles,cyber shrine,server racks,energy grid,data waterfall,antenna forest,drone swarm,circuit rivers,code walls,(cyber bushido,neo traditional,digital warrior:1.6).techno zen,future design,urban artistry,matrix art,synthetic beauty,blue pink theme,cyber aesthetic,intense vibe,city ambiance,focused mood,digital atmosphere,(neon glow,plasma illumination,hologram light:1.6),led beams,katana shine,armor radiance,city radiance,data glow,rain mist,data haze,spark particles,combat focus,urban lighting,energy flow,",
+      "n": ""
+    },
+    {
+      "name": "液化魔法",
+      "p": "1girl,cowboy shot,(hydrokinesis:1.22),(half-closed eyes:1.10),(rainbow gradient:2.0),(magic:1.10),(floating hair:1.10),looking away,(patterned background:1.10),hydrokinesis,grey theme,blurry foreground,liquid hair,liquid clothes,",
+      "n": ""
+    },
+    {
+      "name": "盘结树灵",
+      "p": "1girl,(close-up:1.41),(branch:1.22),(sideways glance:1.10),(limited palette:1.10),(arm up:1.10),(hair flower:1.10),looking at viewer,dutch angle,lying,on back,hair flower,navel,nude,mole,antlers,plant roots,(lace background:1.10),leaf,flower,green theme,",
+      "n": ""
+    },
+    {
+      "name": "白银剑客",
+      "p": "upper body,portrait,looking down,looking at viewer,expressionless,(glowing eyes,eye trail:1.10),fighting stance,dutch angle,dynamic pose,dynamic composition,wind,floating hair,holding sword,silver armor,fur trim,pelvic curtain,cape,",
+      "n": ""
+    },
+    {
+      "name": "重载火力（不稳定）",
+      "p": "ammunition belt,armor,bandolier,black gloves,black skirt,black thighhighs,bullet,chainsaw,covered mouth,cowboy shot,fingerless gloves,gas mask,gatling gun,gloves,grenade launcher,headgear,holding chainsaw,holding gun,huge weapon,looking at viewer,machine gun,mask,minigun,mouth mask,multiple weapons,respirator,rocket launcher,standing,thighhighs,",
+      "n": ""
+    },
+    {
+      "name": "血魔法绽放",
+      "p": "1girl,limited palette,cowboy shot,black sclera,colored sclera,heterochromia,(only one eye tokyo ghoul (cosplay):1.5),red and black theme,alternate costume,no coat,solo,detailed light,dynamic angle,cinematic angle,(shiny,wet,steaming,oily:1.16),glowing eyes,corruption,horror (theme),(light particles:5.0),floating object,black hole,",
+      "n": ""
+    },
+    {
+      "name": "魔导书启动",
+      "p": "dynamic pose,dynamic angle,cinematic angle,looking at viewer,magic,floating,floating book,(glowing eyes:0.91),floating hair,(floating in the air:1.16),in mid air,holding book by one hand,magic in another hand,looking to the side,large library,(gothic library:0.78),",
+      "n": ""
+    },
+    {
+      "name": "汤姆炼药",
+      "p": "shadow,dark,science,chemicals,chemistry,laboratory,electricity,tesla arcs zapping between copper spheres,flammable_symbol,warning sign,test tube,table,test tube rack,alcohol burner,bunsen burner,beaker,flask,boiling,liquid,liquid nitrogen,cold,three quarter view,1girl,looking at object,open mouth,excited smile,slit pupils,partially shaded face,red safety glasses,red goggles on head,criss-cross halter,midriff,open lab coat,leather skirt,chemical structure pattern,test tube holster,arm belt,black gloves,holding flask,",
+      "n": ""
+    },
+    {
+      "name": "星龙剑吟",
+      "p": "body reflection,1girl,solo,star theme,lineart,monochrome,(glitch art:1.10),(starry sky print:1.10),(space,smile,aurora,nebula:1.10),sharp focus,facing viewer,water drop,floating object,sword,a girl is lifting a sword horizontally.looking at viewer,sword covering mouth,detailed eyes,error,((eastern dragon:1.05),(ink wash:1.28),(eastern dragon:1.10),eastern dragon around the girl.location:1.2),zoom layer,dark theme,dark heme theme,disheveled hair,(dark heme:1.05),chiaroscuro,red splashes,glowing skin,strong contrast,clever light and shade,blowing wind,dynamic hair,dynamic perspective,disheveled hair,long hair,dynamic pose,",
+      "n": ""
+    },
+    {
+      "name": "黑雾",
+      "p": "solo,(half-face is black smoke,smoke over half-face:1.28),dutch angle,char1：girl,expressionless,char2：no human,black smoke,many eyeball,",
+      "n": ""
+    },
+    {
+      "name": "骑枪冲锋",
+      "p": "1girl,solo,knight,armor,helmet,stirrups (riding),holding spear,incoming attack,horseback riding,face focus,",
+      "n": ""
+    },
+    {
+      "name": "斩火大剑",
+      "p": "dividing line,rot,(blood line:1.10).raise a hand,bloody huge sword,a hell on earth,afraid,(fighting stance:1.16),(girl focus,solo:1.16)(hoding burning huge weapon:1.16),(expressionless:1.16),",
+      "n": ""
+    },
+    {
+      "name": "破刀狼魂",
+      "p": "blood moon,(1girl:1.05),tsurime,cowboy shot,from side,lineart,monochrome,nodachi,(black nodachi:1.10),(fighting stance:1.10),(disheveled hair:1.05),(dark theme:1.05),foreshortening,(colorful splashes:1.05),(shining:1.05),(focus on face:0.95),glowing skin,strong contrast,clever light and shade,(backlight:1.05),blowing wind,dynamic hair,dynamic perspective,dynamic pose,(ink wash (wolf:1.05),wolf surrounds sword:1.05),",
+      "n": ""
+    },
+    {
+      "name": "圣树守护灵",
+      "p": "1girl,solo,meditating under a giant,bioluminescent sacred tree in an enchanted forest at dawn,glowing flora and ancient mossy stones surrounding her,a majestic kirin made of woven light and leaves standing protectively nearby,green and gold color scheme,wood grain and dewdrop background,colored pencil and gouache,art nouveau,intricate linework,soft gradients,iridescent powder,vine pattern,bark texture,matte texture,highly detailed,serene,magical,soft morning light.,",
+      "n": ""
+    },
+    {
+      "name": "枪弹礼物",
+      "p": "dramatic lighting,strong red rim light from above,high contrast,harsh shadows on face,blood-red highlights,mysterious gloomy atmosphere,1girl,ak-74m,assault rifle,box,cake,closed mouth,dark room,doll,flower,food,frilled dress,frills,gift,gift box,holding gun,kalashnikov rifle,long sleeves,looking at viewer,messy room,no legwear,on floor,rabbit,rifle,sitting,white dress,from side,dutch angle,",
+      "n": ""
+    },
+    {
+      "name": "系统侵入术士",
+      "p": "1girl,solo,glitch witch,digital,corrupted,(pixelated robe:1.6),(data stream hair:1.5),(error code staff:1.4),(flickering form:1.3),(binary tattoos:1.2),(glitch eyes:1.1),broken geometry,(corrupted symbols:0.9),(static aura:0.8),(digital wasteland:1.6),(corrupted server:1.5),(glitch dimension:1.4),(floating errors:1.3),(broken code:1.2),(ritual terminal:1.1),data bridge,(firewall gate:0.9),(debug platform:0.8),(corrupted path:0.7),(safe zone:0.6),(backup altar:0.5).(reality glitching:1.5),(code manipulation:1.4),(system corruption:1.3),(digital art:1.2),(hacking ritual:1.1),firewall breaching,(error theme:0.9),(glitch aesthetic:0.8),(unstable vibe:0.7),(wasteland ambiance:0.6),(chaotic mood:0.5),(digital atmosphere:0.4),(screen glow:1.4),(error light:1.3),(glitch illumination:1.2),(pixel reflection:1.1),data beams,(digital shadows:0.9),(glitch ambient:0.8),(static glow:0.7),(corruption mist:0.6),(error haze:0.5),(glitch focus:0.4),(digital lighting:0.3).,",
+      "n": ""
+    },
+    {
+      "name": "亡灵之树",
+      "p": "(undead warlock:1.16),hood,cape,holding staff,mask,death,(dark:1.22),horror (theme),greyscale,monochrome,cowboy shot,solo,armor,chain,spikes,cross,skull,standing,shoulder armor,mask,tentacle,skeleton,eldritch abomination,1girl,tree,scenery,solo,outdoors,starry sky,grass,cloud,nature,from behind,barefoot,sunlight,blue sky,red flower,rock,standing,water,forest,light rays,wide shot,blue flower,facing away,plant,world tree,yggdrasil,(glowing:1.16),(dark:1.22),(night:1.16),",
+      "n": ""
+    },
+    {
+      "name": "红缨枪客（推荐横图）",
+      "p": "(a long spear thrusts toward the viewer with extreme foreshortening,the tip pointing directly outward,two hands holding the spear,creating intense visual impact,use the spear to attack viewer,perspective,:2.0),girl,mature body,curvy,milf,china dress,red hanfu,pelvic curtain,navel,red lips,(red eyeshadow,:0.4)full body,hair ornament(flower),(smoking pipe in own mouth,:2.0)(smoke from smoking pipe,:1.5)flower earrings,floating cloak,(fur trim,:2.0),thigh strap,jade bracelet,ankle,jade necklace,snow,banboo,bamboo,white socks,two hands holding a spear,blood on body,blood on spear,droping blood,blood on snow,chinese knot,black chinese style shoes,(covered nipples,:2.0),abstract background,(flames:2.0),(dynamic pose,one knee on ground,crotch focus,:1.5)blood from eyes,corpse in background,",
+      "n": ""
+    },
+    {
+      "name": "水火特效（可与是【色彩人生】搭配）",
+      "p": "colorful,vibrant colors,fire effects,water effects,yellow energy,green effects,electric effects,yellow effects,detailed eyes,intricate effects,glow,height difference,official art,cover,",
+      "n": ""
+    },
+    {
+      "name": "战损学生士兵",
+      "p": "looking at viewer,standing,grabbing own arm,(from side:0.64),(head down:0.78),bruise,dirty,alley,upper body,serafuku,close-up,bulletproof vest,gloves,serafuku,character outfit,original design,(nervous smile:0.78),(torogao:0.86),pink lips,furrowed brow,",
+      "n": ""
+    },
+    {
+      "name": "邪魅之眼",
+      "p": "eye focus,leg tattoo,magic,dark,kimono,hand tattoo,aqua theme,red theme,barefoot,black theme,disembodied eye,black hands,long fingernails,sharp fingernails,",
+      "n": ""
+    },
+    {
+      "name": "碎镜一睹",
+      "p": "(cracked screen centered around the eyes:1.28),(cracked lens centered around the eyes:1.16),(splatted glass fragments centered around the eyes:1.16),volumetric light and shadow,light particles,light rays,shadow,(cinematic lighting:1.05),(backlighting:1.05),1girl,glowing eye,solo,portrait,cold face,expressionlessruins,blood on face,covering eye,volumetric light and shadow,best light and shadow,(cinematic lighting:1.05),",
+      "n": ""
+    },
+    {
+      "name": "久战蓄能",
+      "p": "solo,looking at viewer,injury,dirty face,blood from mouth,angry,confident expression,scratches,dirty clothes,(rasengan,rapid,attacking,dense particle effects,intense glowing particles:1.3),embers,smoke,glowing,motion lines,speed lines,radial glow,vibrant light rays,swirling energy particles,shockwave ripple,heat haze distortion,glitter,crackling energy aura,lightning,blue theme,vibrant colors,close up,vivid,intricate detail,",
+      "n": ""
+    },
+    {
+      "name": "凌空出鞘",
+      "p": "1girl,holding katana,white thighhighs,japanese clothes,solo,wide sleeves,detached sleeves,radiant light,golden kirin,blue kimono,bare shoulders,fighting stance,outdoors,holding sheath,hair flower,ootachi,unsheathing,ready to draw,scabbard,fighting,from above,glowing clothes,wind blow,golden kirin surrounding the sword,light weapon,shimmering aurora,luminous aura,celestial sky background,golden particles,streaming light effect,space,glowing weapon,",
+      "n": ""
+    },
+    {
+      "name": "火上浇油",
+      "p": "cowboy shot,seductive smile,hand on hip,outstretched arm,outstretched hand,(casting spell:1.10),(runes:1.10),tattoo,navel,naked cape,western,boots,flower,fireball,magic,pyrokinesis,black liquid,blue fire,dynamic angle,",
+      "n": ""
+    },
+    {
+      "name": "乘风驭龙",
+      "p": "upper body,chinese clothes,chinese opera,mouth veil,lipstick,makeup,pale skin,glowing eyes,looking at viewer,intense gaze,hanfu,long skirt,long sleeves,boots,petals,fan,ornate fan,holding fan,intricate fan design,glowing accents,stylish design,elegance character design,elegance aesthetic,lucky clouds,xiangyun,yunwen,dragon,dynamic pose(close-up),mid-air,sitting,sitting on air,invisible chair,invisible floor,motion blur,dutch angle,depth of field,foreshortening,blurry edges,black theme,",
+      "n": ""
+    },
+    {
+      "name": "斩破樱花",
+      "p": "1boy,(black kimono:1.16),(emphasis lines:1.10),(fighting stance:1.10),foreshortening,(haori:1.16),(holding sword:1.16),holding weapon,(incoming attack:1.22),(japanese clothes:1.16),katana,kimono,long sleeves,looking at viewer,male focus,mature male,nose,outstretched arm,parted lips,(senbonzakura (shikai):1.16),(serious:1.10),solo,sword,(taichou haori:1.22),upper body,v-shaped eyebrows,wide sleeves,(falling petals:1.22),(cherry blossoms:1.16),(disintegration:1.41),(sword disintegration:1.41),(sword dissolving:1.41),(pink petals:1.22),(too many petals:1.22),(the sword disintegration into petals:1.41),",
+      "n": ""
+    },
+    {
+      "name": "女仆杀手",
+      "p": "(foreshortening:1.16),(on one knee:1.10),arm support,bent over,black dress,black gloves,blood drip,floating hair,holding dagger,juliet sleeves,long dress,long sleeves,maid apron,mary janes,white pantyhose,white wrist cuffs,",
+      "n": ""
+    },
+    {
+      "name": "龙魂机甲",
+      "p": "dark armor with red energy light,robot,mecha,no human,giant,glowing eastern dragon pattern,eye trail,blowing steaming,cape,release excessive steam,excessive green and yellow lighting around hands,green glowing eastern dragon behind back,eye trail,glowing eyes,robot,dragon-head armor,full armor,assault visor,gauntlets,power armor,shoulder armor,war armor,dynamic pose,lighting background,looking at viewer,viewer looking tough broken building,close-up,profile,from side,dark clouds,lighting,storm,raining,fluttering cape,punch,broken building,ruins,splashing gravel,fog,dust,city,buildings,explosion,",
+      "n": ""
+    },
+    {
+      "name": "预备刺杀忍者",
+      "p": "seductive,menacing,killer intent,sharp eyes,profile,looking away,crouching,on roof,poised,holding kunai,reverse grip,from below,low angle,worm’s eye view,thighs,ninja outfit,short kimono,revealing clothes,fishnets,mask,bandages,arm guards,leg pouch,rooftop,japanese architecture,tile roof,night,full moon,moonlight,edo period cityscape,stealth,dramatic lighting,",
+      "n": ""
+    },
+    {
+      "name": "直面巨龙",
+      "p": "1girl,dungeon,boss fight,location,size difference,perspective,depth of field,photo background,atmosphere,sunlight,char1：girl,solo focus,dynamic angle,fighting stance,from back,facing away,char2：dragon,giant,wyvern,monster focus,",
+      "n": ""
+    },
+    {
+      "name": "风雪登山",
+      "p": "1girl,black tactical vest,goggles on head,headphone,white camouflage,pants,frost,snow on body,climbing cliff,arms up,falling,surprised,open mouth,midair,snow,snowing,storm,cold theme,fog,bokeh,blurry background,strong visual impact,film lighting,double exposure,mountainous horizon,",
+      "n": ""
+    },
+    {
+      "name": "夺宝海盗",
+      "p": "from side,portrait,dutch angle,dynamic pose,1girl,parted lips,sweat,cleavage,navel,midriff,pirate,flintlock pistol,(aiming at viewer:1.22),pirate hat,parrot on shoulder,collared shirt,tied shirt,naval open jacket,epaulettes,belts,thong,leather pants,high leather boots,thigh belt,asymmetrical pants,fingerless leather gloves,torn pants,rugged look,dirty clothes,ring,outstretched arms,knee up,scar in stomach,spread legs,(chest harness:0.91),ship deck,rope,(blood on floor,blood on clothes),night sky,star,galaxy,fire,smoke,(embers:1.10),",
+      "n": ""
+    },
+    {
+      "name": "燃火前线",
+      "p": "blood on face,fur-trimmed coat,fur trim,coat on shoulders,hairclip,uniform,military uniform,from side,embers,fire,military,injury,bruise on face,shoulder belt,profile,parted lips,blurry,sam browne belt,black coat,portrait,glowing,electricity,bruise,lightning,aura,glowing eyes,serious,looking ahead,bleeding,open mouth,sparks,looking afar,purple coat,open coat,wind,forehead,long sleeves,aiguillette,scratches,slit pupils,wavy hair,glowing eye,sideways mouth,cuts,eye trail,light trail,smoke,close-up,blood on clothes,v-shaped eyebrows,machine gun,floating hair,determined,upper body,blood from mouth,looking to the side,debris,dirty face,blood in hair,fur collar,blood stain,",
+      "n": ""
+    },
+    {
+      "name": "魔龙俯冲",
+      "p": "dragon,spiked wings,monster focus,personificationa girl,armor,spread wings,falling,falling downwards,in the air,inverted,diving downwards,when flying in the sky,dive downwards,the character dives down from the top right corner,(head down:1.16),facial close-up,half body portrait,",
+      "n": ""
+    },
+    {
+      "name": "苦难生效（爆压）",
+      "p": "(sword in front of face:1.22),(covering half of the face:1.22),(greatsword:1.10),1girl,affliction (darkest dungeon),english text,glowing halo,solo,red background,red halo,white outline,glowing halo,backlight,(holy light:1.10),disdain,evil grin,sharp gaze,holding sword,(sword vertical:1.05),eyes focus,face focus,sword cover,face hidden,concealed face,english text:a sword that slashes at a partner is always sharper than a sword that slashes at an opponent,",
+      "n": ""
+    },
+    {
+      "name": "面前拔刀",
+      "p": "looking at viewer,japanese clothes,eyelashes,petals,holding sword,portrait,katana,hair over shoulder,close-up,glint,covered mouth,haori,unsheathing,",
+      "n": ""
+    },
+    {
+      "name": "其他版本1",
+      "p": "1girl,(visual impact:1.2),(electromotive force:1.2),(perspective composition:1.2),(a shot with tension:1.3),looking at viewer,holding sword,portrait,katana,close-up,glint,covered mouth,unsheathing,",
+      "n": ""
+    },
+    {
+      "name": "原版服装 (5)",
+      "p": "black gloves,(large scar on right eye:2.0),white hooded coat,grey skirt,grey shirt,(long light green scarf:2.0),(white pantyhose:1.05),expressionless,",
+      "n": ""
+    },
+    {
+      "name": "战法对决",
+      "p": "1girl vs 1girl,intense duel,dynamic combat pose,glowing energy aura,magic circle under character,cyber-fantasy battlefield,spell effect: (ice shards vs fire dragons:1.05),character left: mage,magic robe,staff sparking,white pantyhose,character right: crimson cape,sword ablaze,black thighhighs,evolving card animation,crystal shards floating,shattered battlefield tiles,motion blur on attack trajectory,dramatic perspective from low angle,volumetric light rays,particle effects: glittering mana dust,tense facial expressions,wind-blown hair and capes,neon blue and crimson color scheme,",
+      "n": ""
+    },
+    {
+      "name": "崩坏之刃",
+      "p": "(backlight:1.10),(corruption,dark persona:1.22),(fluctuate,electro-optical,pink smoke,pink lights:1.22),close to viewer,(fighting stance:1.10),(disheveled hair:1.05),foreshortening,(shining:1.05),(focus on face:0.95),glowing skin,strong contrast,clever light and shade,(fantasy background:1.05),upper body,blowing wind,dynamic hair,dynamic perspective,disheveled hair,dynamic pose:1.10),(cold moon,ripples,and dancing cherry blossom petals,light particles:1.05),pov,from side belowshatter,(the full body is covered with glowing purple cracks and lines,cracks,messy cracks,dense cracks,cracks all over the body:1.34),(glowing,glowing eyes,half-closed eyes:1.22),(steaming body:1.34),(makeup,purple eyeshadow,thick eyelashes,long eyelashes,shiny eyeshadow,dark eyeshadow:1.10),tachi,long sword,one-handed holding,(blade reflection,reflection,dynamic movements:1.16),glowing body,",
+      "n": ""
+    },
+    {
+      "name": "原版服装 (6)",
+      "p": "(chinese clothes,duijin ruqun,very long see-through robe,shiny clothes:1.34),off-shoulder,(white bathrobe,silk bathrobe,see-through bathrobe,lace ruffles,chain,glowing tattoo,open clothes,see-through silhouette:1.05),(high heels:1.05),(shiny clothes:1.10),",
+      "n": ""
+    },
+    {
+      "name": "机甲照面（推荐横图）",
+      "p": "somber atmosphere,(heavy rain:1.05),from side,profile,looking up,standing on top of rubble and debris in a ruined city,wearing a detailed blue suit,giant mecha looming over,close-up on head,(a single fiercely glowing white eye:1.22),immense size difference,dramatic lighting,muted colors,",
+      "n": ""
+    },
+    {
+      "name": "竹林武者",
+      "p": "chinese clothes,top yin yang pond,bamboo forest,falling bamboo leaves,fighting stance,kongfu,from above,water wave,wind blow,standing on pond,fighting stance,water wave surrounding the girl,yin yang water,yin yang print reflect on the pond,",
+      "n": ""
+    },
+    {
+      "name": "假面骑士冲拳",
+      "p": "1boy,antennae,armor,black jacket,blood,blood on face,blood on hands,blood splatter,bloodshot eyes,compound eyes,glowing,glowing eyes,helmet,incoming attack,incoming punch,jacket,looking at viewer,male focus,one eye covered,punching,red background,red eyes,tokusatsu,",
+      "n": ""
+    },
+    {
+      "name": "神社之龙",
+      "p": "(close-up:1.10),cowboy shot,looking at viewer,long sleeves,detached sleeves,miko,(japanese armor:1.10),japanese clothes,fire,torii,(dragon horns,fiery horns:1.05),(eastern dragon:1.10),",
+      "n": ""
+    },
+    {
+      "name": "冰霜王座",
+      "p": "fantasy,night,winter sky,ice,frozen,glowing clouds,frost and ice-mist,dynamic smoke and ice particle effects,gothic fusion,neon signs flickering with demonic runes,tilted skyscrapers engraved with ancient incantations,midnight hellish metropolis,broken cityscape,glowing pentagrams etched into cracked walls,shadowy wraiths drifting,ghost,dark metropolis engulfed in eternal night,magic,floating debris,1girl,>:(,serious,glowing eyes,white and gold striped open tailcoat,cape,collared shirt,blue jem,necktie,white skirt with gold pattern,skirt chain,black pantyhose,lace-trimmed,floating glowing tiara,holding fantasy crystal ice sword trimmed with chain,head rest,blue runes,sitting on throne,throne forged from ice and crystal,crossed legs,",
+      "n": ""
+    },
+    {
+      "name": "落叶如火",
+      "p": "shiny skin,hold sword,maple leaf,fighting stance,fighting,from above,maple forest,maple,falling maple leaf,maple leaves surrounding the girl,burning clothes,wind blow,fire phoenix surrounding the sword,in mountain,",
+      "n": ""
+    },
+    {
+      "name": "水龙吟",
+      "p": "1girl,holding katana,black thighhighs,japanese clothes,wide sleeves,detached sleeves,water,water dragon,blue kimono,bare shoulders,fighting stance,outdoors,holding sheath,hair flower,ootachi,unsheathing,ready to draw,scabbard,fighting,from above,soaked clothes,wind blow,water dragon surrounding the sword,water weapon,splashing waves,aquatic aura,ocean background,water droplets,flowing water effects,",
+      "n": ""
+    },
+    {
+      "name": "其他版本1 (2)",
+      "p": "1girl,holding katana,white thighhighs,chinese clothes,solo,wide sleeves,detached sleeves,wind,wind eastern dragon,green kimono,bare shoulders,fighting stance,outdoors,holding sheath,hair flower,ootachi,unsheathing,ready to draw,scabbard,fighting,from above,wind-blown clothes,gale force winds,wind Chinese dragon surrounding the sword,wind weapon,swirling vortex,aerial aura,mountain peak background,floating feathers,cyclone effects,Chinese dragon horns,rain,wet clothes,",
+      "n": ""
+    },
+    {
+      "name": "背水挣扎",
+      "p": "looking at viewer,1girl,narrow waist,half updo,fantasy,duijin ruqun,jiaoling ruqun,hanfu,gradient clothes,overcoat,chinese style,parameters guofeng,haori,chinese architecture,cloud,gold trim,cloud print,hair ribbon,outdoors,dynamic angle,wind,nervous,(battle stance:1.22),torn clothes,dirty,bruise,holding sword,glaring,from above,motion blur,motion lines,foreshortening,pain,scared,shy,chinese sword,tassel,",
+      "n": ""
+    },
+    {
+      "name": "机甲乘坐",
+      "p": "sanpaku style,photo background,factory,red light,green light,light ray,blurry background,thrusters,laser,shock wave,armored core,girl,shiny skin,short,overalls,;),round eyewear,4arms,2fingers on eye,mole on chest,bare legs,brick wall,drona,splatter on face,splatter on body,pale skin,riding on machine dragon,glowing ring,panties,side tie,horse pose,electric wires,big mechanical arms from back,mechanical big hands,eye light,black splatter,floating object,steam,peace sign,4legs machine,from side,big gun,",
+      "n": ""
+    },
+    {
+      "name": "雪山龙灵",
+      "p": "back to viewer,snow mountain,winter,snowing,portrait,night,a huge dragon background,roaring,",
+      "n": ""
+    },
+    {
+      "name": "冰霜长剑",
+      "p": "close-up,sword,motion blur,fighting,shade,v-shaped eyes,sword in front of face,clash,sparks,glow,holding sword,(fighting stance:1.10),dancing,arm up,(ice princess:1.16),jewelry,ice flower,cover eye,close-up,eye reflection,high contrast,colorful,detailed light,light leaks,sunlight,shine on girl’s body,bokeh,",
+      "n": ""
+    },
+    {
+      "name": "背后灵",
+      "p": "(referencing the provided image outfit:1.10),standing,(arms outstretched to sides,palms slightly up:1.10),expressionless,blank stare,vacant eyes,emotionless,behind her,(a giant ethereal projection of person:1.10),(spirit avatar:1.10),(astral form of person:1.10),(pure white and pale blue shimmering light:1.10),glowing brightly,translucent,spectral,(energy construct:1.10),particle effects,(flowing hair:1.10),avatar mirroring her pose,(looks like a larger,more powerful version of person from the reference image background:1.10),dark starry sky background,cosmic dust,glowing embers,",
+      "n": ""
+    },
+    {
+      "name": "立剑面前",
+      "p": "close-up,sword,motion blur,fighting,dim,very dark,shade,v-shaped eyes,sword in front of face,sword clash,sparks,glow,holding sword,",
+      "n": ""
+    },
+    {
+      "name": "魂五小镰刀（不稳定）",
+      "p": "upper body,shotel,sickle,holding weapon,hand on weapon,arms forward,horizontal weapon,reaching towards viewer,purple flame,glowing weapon,open hand,spellcasting,energy aura,dark purple,straight-on,full armor,backlighting,hand to weapon,open hand,",
+      "n": ""
+    },
+    {
+      "name": "黑天使之护",
+      "p": "kneeling,1girl,light particles,multiple others,blood,black thick water on wing,eye pattern,char1：girl,kneeling,hugging huge blood cross,hood up,one eye covered,black gloves,white cloak,looking at viewer,holding cross,parted lips,black dress,hooded cloak,closed eyes,blood tear,open mouth,pale skin,long sleeves,angle behind,target#hug,char2：monster,demon,covered face,huge wings,spread wings,blood angle,torn clothes,source#hug,crown,feathered wings,",
+      "n": ""
+    },
+    {
+      "name": "燃烧霓虹",
+      "p": "flame hair rendered in cel-shading style,glowing neon edges with halation effect gradient fire strands,paint droplet hair strands,burning cloak with splattered color transitions,fabric dissolving into liquid light,(neon wetlook:1.10),fluorescence overlay,retro wave light leaks,uv blacklight glow,acrylic pour patterns,(neon sign reflections:1.05),neon noir lighting,led strip contour glowing,glass prism refractions,(glitch light distortion:0.91),digital void space,floating color blobs,vector grid with paint splashes,(ultraviolet light,blacklight,high contrast:1.10),(raver,neon palette:1.10),paint splatter,",
+      "n": ""
+    },
+    {
+      "name": "斩业修罗",
+      "p": "(black bamboo hat,huge bamboo hat:1.05),glowing eyes,curvy,(red kimono,black kimono:1.10),multicolored kimono,side slit,off shoulder,back tattoo,glowing tattoo,(accessories,jewelry,burnt clothes:1.16),gold trim,(red lines,string of fate:1.22),hand on hilt,iaidou,arm at side,sheathed,(hand on headwear:1.10),(looking back,from behind:1.10),walking,full body,walking on liquid,planted katana,two tone background,(pile of skulls,blood stream:1.10),",
+      "n": ""
+    },
+    {
+      "name": "拨云见日",
+      "p": "chinese knot,chinese clothes,fantasy,chinese painting style,skinny,white eyelashes,colored eyelashes,(black hanfu:1.10),wide sleeves,collared shirt,long coat,skirt,floral print,gold trim,multicolored clothes,white clothes,black clothes,(white arm scarf:1.10),tribal tattoo,glowing tattoo,holding sword,chinese sword,long sword,floating clothes,fighting stance,floating,zero gravity,(cowboy shot:1.10),(midair:1.05),sun behind her head,cloud,serious,",
+      "n": ""
+    },
+    {
+      "name": "英雄落地！",
+      "p": "superhero landing,one knee down,landing impact,broken ground,cracked surface,flying debris,dust cloud,dynamic pose,action scene,wind effect,dramatic angle,cape fluttering,glowing particles,energy shockwave,cinematic lighting,intense expression,muscle tension,power pose,sparks,rubble,glowing eyes,backlighting,",
+      "n": ""
+    },
+    {
+      "name": "神庙逃亡",
+      "p": "1girl,cave,straight-on,cowboy shot,char1：girl,hooded robe,hugging a huge diamond,(running:1.16),teeth,clenched teeth,fleeing,crazy eyes,panicking,char2：giant monster,giant snake,attack,",
+      "n": ""
+    },
+    {
+      "name": "封锁搜查",
+      "p": "outdoors,dark background,city background,wind lift,rain,reflection,photo background,ultra-realistic background,blur,car lights,colorful lights,flying papers,caution tape,caution tape foreground,close-up,face focus,looking back,dynamic angle,soldier,policewoman,police uniform,vest,gentle,half-closed eyes,light smile,headphones,holsters,pistol in holsters,police badge,handcuffs on torso,walking,holding folder,holding notepad,holding flashlight,arm down,hand up,jade bracelet,chinese hairpin,",
+      "n": ""
+    },
+    {
+      "name": "猎杀者小红帽",
+      "p": "fiction style,fantasy,overcast,shadow,dark forest,rainy,heavy rain,thorns,vines,crow,debris,falling black feathers,red fractured moons,purple and red gradient sky,ghost,bioluminescent toxic mushrooms,fungi,bush,spider web,chiaroscuro,from side,looking at viewer,green jade pendant,little red riding hood,hood up,red hooded cloak,torn clothes,black cross-laced shirt,midriff,linea alba,gold trim,sleeveless,shoulder belt,fingerless gloves,choker,asymmetrical design,black shorts,red half-skirt,utility belt,wet clothes,holding giant scissors,scissors(weapon),hedging shears,holding bitten apple,hand up,against tree,",
+      "n": ""
+    },
+    {
+      "name": "天皇海战",
+      "p": "naval battle,war,battle,world war ii,warship,fire,ship turret,ocean,waves,burning ship,orange to purple sky,aerial aircrafts,a6m zero,contrail,debris,smokestack,smoke,explosion,scenery,war,outdoors,from side,standard bearer,looking away,open mouth,>:d,white gloves,peaked cap,wing collar with gold pattern,gold trim,white shirt,black necktie with gold diagonal pinstripes,orange gemstone trimmed,shoulder belt,sam browne belt,open leather jacket,sleeves rolled up,red armband,khaki side cape,loose belt,black half-skirt with gold pattern,aiguillette,shoulder boards,collar tabs,black shorts,brown uneven thighhighs,thigh holster,holding war flag,holding sword,hand up,on ship deck,on boat,standing,iron and steel wall,railing,portlight,round window,",
+      "n": ""
+    },
+    {
+      "name": "天降怪盗",
+      "p": "dynamic storyboard composition,night,rainy,neon tones and cold light contrast,stage fog intertwined with lasers,backlighting,overing raindrops,neon-blue lit skyscraper,cityscape,reverse-splashing water trajectories,glowing poker cards,falling cards,girl,>:d,naughty face,carnival mask,tailcoat,deep blue to electric purple gradient,open collar,white shirt,black gloves,black half-skirt with gold pattern,black shorts,falling,midair,knees up,two-finger salute,from above,",
+      "n": ""
+    },
+    {
+      "name": "报丧天使",
+      "p": "white light lines,sideboob,skindentation,fighting stance,1girl,shiny skin,oiled skin,shiny armor,mature female,nude,cowboy shot,small breastplate,floating hair,holding spear,bandage covered eyes,bare legs,flags,navel,shackles,lighting,bare 1shoulder,too many bandage and belt,floating,covered 1eye,side tie,huge boob,knee,latex leotard,black thighhighs,dark clouds,lower boob,side hips,white wing,only one wing,light ray,bandage covered body,crow,pale skin,evil grin,skulls foreground,armored gloves,",
+      "n": ""
+    },
+    {
+      "name": "蘑菇生长魔法",
+      "p": "night,magic,gradient green-purple sky with aurora,enchanted botanical garden,giant plant,rotating magical runes encircling tree canopies,giant bioluminescent mushrooms,levitating crystal flowers,luminescent vines,vines entwined spellbook,star-shaped flowers with translucent petals,firefly glow particles,fireflies,cowboy shot,happy,naughty face,hogwarts school uniform,necktie,green and black robe,holding wooden magic wand,holding magic spellbook,casting spell,vines,star,sparkle,magic circle,",
+      "n": ""
+    },
+    {
+      "name": "蓄能焰爆",
+      "p": "from side,(from above:1.10),1girl,girl in side,upper body,action pose,fisheye,witch hat,witch,fighting,comet,(casting spell,magic,energy,firing,element bending,big fireball:1.10),chasing,aerial combat,high altitude,clouds,motion lines,close-up,night,",
+      "n": ""
+    },
+    {
+      "name": "恐龙危机",
+      "p": "letterboxed,black border,jurassic park,jurassic world,dark,lightning,night,rainy,caution tape,biohazard symbol,radiation symbol,warning sign,dinosaur ，many dinosaurs,overturned safari vehicles,falling coms tower dragging power lines,forest,fern,palm leaf,dust,explosion,fire,red alarm siren,greenhouse,girl,open mouth,furrowed brow,serious,sweat,(white robot ears:1.10),radio antenna,white ear protection,(slender and thin mechanical tail:1.10),android,khaki safari jacket,short sleeves,id card,shorts,utility belt,bag,wet hair,wet clothes,looking at object,looking away,holding pistol,hand up,",
+      "n": ""
+    },
+    {
+      "name": "霸王龙口脱险",
+      "p": "solo,(partially torn clothing:1.10),sweat,(lean muscular physique:1.05),scars,dirty face,lying on stomach,clenched teeth,wide-eyed,determination,crouched inside the gaping maw,(tyrannosaurus rex:1.22),razor-sharp teeth,dripping with thick saliva,(scaly skin:1.16),(glistening wet gums:1.10),(breath mist:1.05),struggle,(one arm braced against the t-rex’s upper jaw:1.16),(holding survival knife:1.10),(blood splatters,saliva splatters:1.05),(prehistoric jungle:1.16),twisted vines,(tree branches:1.10),(stormy sky:1.22),(fog:1.05),volcano smoldering,(cinematic spotlight:1.22) on the woman,(dappled shadows:1.10) from teeth,high contrast between warm skin tones and cold reptilian scales,jurassic park meets survival horror,dynamic composition,hyper-detailed textures,motion blur on saliva strands,ambient occlusion,",
+      "n": ""
+    },
+    {
+      "name": "原版",
+      "p": "1woman,(partially torn clothing:1.10),fabric clinging to her sweaty body,(lean muscular physique:1.05),visible scratches and dirt,bare feet,(desperate expression:1.22) — wide-eyed fear mixed with gritted-teeth determination,crouched inside the gaping maw of a (hyper-realistic tyrannosaurus rex:1.22),(razor-sharp teeth:1.22) dripping with thick saliva,(detailed scaly skin:1.16),(glistening wet gums:1.10),(hot breath mist:1.05),jaws slightly closing around her,dramatic struggle,(one arm braced against the t-rex’s upper jaw:1.16),(other hand gripping a survival knife:1.10),(blood and saliva splatters:1.05),background: (prehistoric jungle:1.16),twisted vines,(abstract gnarled tree branches:1.10),(pale green stormy sky:1.22),(eerie fog:1.05),distant volcano smoldering,lighting: (cinematic spotlight:1.22) on the woman,(dappled shadows:1.10) from teeth,high contrast between warm skin tones and cold reptilian scales,jurassic park meets survival horror,dynamic composition,hyper-detailed textures,motion blur on saliva strands,ambient occlusion,",
+      "n": ""
+    },
+    {
+      "name": "水晶法术",
+      "p": "gentle smile,(white mage dress:1.16),(blue trim:1.05),(long sleeves:1.05),(holding magic staff:1.16),(floating crystals:1.10),standing pose,arms extended,looking up at sky,(enchanted forest:1.10),(moonlight filtering through trees:1.10),(floating light particles:1.05),(magical aura:1.05),glowing runes on ground,(starry night sky:1.05),(ancient stone ruins:1.05),moss covered stones,(ethereal atmosphere:1.10),(cinematic lighting:1.10),depth of field,(low angle shot:1.05),dramatic shadows,bokeh background,soft wind effect,hair flowing,dress fabric movement,crystal reflections,tree branches framing,(mystical ambiance:1.05),purple and blue color scheme,(fantasy wallpaper:1.10),detailed environment,atmospheric perspective,magical energy swirls,fireflies in background,distant mountains,cloud formations,dreamy composition,wide shot,",
+      "n": ""
+    },
+    {
+      "name": "背后龙影",
+      "p": "expressionless face,blank stare,vacant eyes,emotionless,behind her,a large white dragon,(made of pure white light:1.10),(magical energy construct:1.10),glowing,ethereal,translucent,(non-biological dragon:1.10),particle effects,no scales,no flesh,abstract dragon form,dark background or mystical environment,",
+      "n": ""
+    },
+    {
+      "name": "九龙寨侦探",
+      "p": "outdoors,rainy night,hong kong,cyberpunk,cyberpunk cityscape,chiaroscuro,neon lights,vintage neon signboard,high-contrast palette,red and blue and neon orange highlights,led,led signs,flickering,densely packed buildings,fantasy,wind,from side below,from behind,backlighting,solo,1girl,looking back,expressionless,serious,wet,black open trench coat,popped collar,dress pants,fedora,hand on headwear,holding briefcase,on bridge,iron railing,",
+      "n": ""
+    },
+    {
+      "name": "灵蛇护佑",
+      "p": "looking at the viewer,lotus,water,earrings,moon,dark,standing,necklace,closed mouth,wading,full moon,open lips,white flowers,tie,glowing,expressionless,black cape,(huge snake,white snake:1.10),wide sleeves,water lily,night,cross,sideburns,ripples,hands folded,smiling,shadow face,looking down,eyes closed,looking straight,black dress,long sleeves,long skirt,black coat,white shirt,black robe,fur trim,cape,collared shirt,dark background,black theme,soft colors,",
+      "n": ""
+    },
+    {
+      "name": "故障光刃",
+      "p": "(glitch art:1.10),chromatic aberration,light leaks,color degradation,glitch lettering,abstract art,geometry,clear lines,bright,limited palette,serious,cowboy shot,looking at viewer,black gloves,black footwear,fingerless gloves,long sleeves,looking at viewer,shirt,parted lips,jacket,boots,aerial,arched back,(drawing a blade:1.10),holding blade,orange outline,glowing trim,fighting stance,glowing background,",
+      "n": ""
+    },
+    {
+      "name": "王之宝库（不稳定，实际更像万剑齐发）",
+      "p": "crossed arms,floating weapon,sword,yellow ripples,v-shaped eyebrows,smile,closed mouth,",
+      "n": ""
+    },
+    {
+      "name": "决意之刃",
+      "p": "upper body,long sword,one hamd holding sword,sword in front of face,close-up,straight-on,red petals,falling petals,blood stain,lace trim,white blindfold,bridal veil,bride,blood on clothes,backless dress,backless outfit,bare shoulders,cleavage,collarbone,cowl neck,dress,evening gown,glitter dress,halter dress,halterneck,pelvic curtain,plunging neckline,white dress,white elbow gloves,",
+      "n": ""
+    },
+    {
+      "name": "机械电爪",
+      "p": "expressionless,silver skin,metal skin,toned,cyberpunk,half-shaved head,looking aside,looking at viewer,glowing eye,clawed hands,outstretched arm,from below,hand focus,forced perspective,fisheye,glowing markings,crackling energy,foreshortening,",
+      "n": ""
+    },
+    {
+      "name": "弹药上膛",
+      "p": "bullet bandolier,fingerless gloves,cold stare,parted lips,looking at viewer,hand hovering over pistol,foot on chair,wooden interior,poker table,warm lantern glowing,smoke haze,warm tones,close-up,profile,shallow focus,tilted frame,smoking pipe,(smoking:1.16),(holding gun:1.16),jewelry,table,handgun,smoking,cigar,smoke,sitting,indoors,cigarette,revolver,looking at viewer,bullet,muscular,chair,mouth hold,brown gloves,from side,",
+      "n": ""
+    },
+    {
+      "name": "染血心脏",
+      "p": "pale kimono,pale clothes,pale skin,headdress,blood,blood drops,blood on clothes,blood on face,collarbone,head flowers,reflection,splash,swaying,torn clothes,different colors,revealing clothes,glow,glowing body fluid,high contrast,pink blood,reflection,tattoo,(pink theme,heart (organ):1.16),(spider web background:1.10),(plant background:1.16),(tree pattern:1.16),(plant roots:1.16),",
+      "n": ""
+    },
+    {
+      "name": "雪中立剑",
+      "p": "lolita fashion,frills,lace,white stockings,wielding sword,runic sword,greatsword,cursed sword,magic sword,glowing sword,shockwave,sword slash effect,wind pressure,gale,snow,falling snow,blood magic,blood,dynamic angle,action pose,sword pointed at viewer,pov,landscape,",
+      "n": ""
+    },
+    {
+      "name": "蓝色一瞬",
+      "p": "close-up,glowing eyes,kimono,unsheathing katana from saya longitudinally,katana blue pattern,tsuba,knob on a sword-handle,saya,(complex blue glowing lightning effects on the katana:1.16),(complex blue glowing water effects on the katana:1.16),(complex blue glowing flame effects on the katana:1.16),glowing weapon,strong shadow and lighting,beautiful detailed glow,",
+      "n": ""
+    },
+    {
+      "name": "法术刺剑",
+      "p": "dynamic pose,heart,hair bow,hair flower,holding rapier,ornate sword,blue dress,crown,jewelry,smile,necklace,tiara,indoor,black pantyhose,elbow gloves,day,magic,standing,glowing weapon,frilled dress,night,palace,off shoulder,",
+      "n": ""
+    },
+    {
+      "name": "冒雨决斗",
+      "p": "samurai,katana,night scene,heavy rain,wet clothes,no umbrella,determined expression,wet hair,standing on stone path,reflective puddles,moonlight through clouds,distant lights,ink painting style,dramatic lighting,traditional chinese painting,expressionless,",
+      "n": ""
+    },
+    {
+      "name": "机枪扫射",
+      "p": "holding machine gun,bullet,firing,v-shaped eyebrows,shouting,",
+      "n": ""
+    },
+    {
+      "name": "交叉双枪",
+      "p": "cosplay alucard (hellsing),blurry,cowboy shot,depth of field,dual wielding,handgun,holding gun,jackal (hellsing),parted lips,picture frame,smile,slit pupils,trigger discipline,vampire,highres,close up,crossed double guns,black background,color:theme,limited palette,partly colored,",
+      "n": ""
+    },
+    {
+      "name": "交叉双剑",
+      "p": "crossed swords,dual wielding,glasses,gloves,jacket,looking at viewer,male focus,round eyewear,smile,teeth,holding sword,close up,cross sword,black background,color:theme,limited palette,partly colored,make the sword into a cross,",
+      "n": ""
+    },
+    {
+      "name": "药水投掷",
+      "p": "safety goggles,torn clothes,lab coat fluttering,floating chemistry set,color-changing potions,alchemical lighting,magical science effects,steam punk realism,mad scientist elegance,black pants,black shirt,belt pouch,",
+      "n": ""
+    },
+    {
+      "name": "战斗头盔特写",
+      "p": "close-up,helmet,face focus,straight-on,bad end,goggles,winged helmet,white headset,armor,blurry foreground,blurry edges,floating hair,(fisheye:1.10),foreshortening,(visor covered eyes:1.10),tinted eyewear,smoke,walking,(bestiality eyes:1.10),eyes focus,looking ahead,",
+      "n": ""
+    },
+    {
+      "name": "故障火花",
+      "p": "electricity,neon lights,glowing,glitch,blush,tights,painting(medium),charcoal(medium),floral pattern,light and shadow contrast,chaos art,bright colors,multi-colored,high contrast,glitch background,flash,",
+      "n": ""
+    },
+    {
+      "name": "紫色电光",
+      "p": "(purple core:1.05),(glittery lipgloss (purple):1.05),outdoors,night,light particles,black lightning,battle,fighting stance,fighting,image retention,motion lines,broken building,star,(shiny skin,oiled skin,oiled,shiny clothes:1.16),bare shoulders,detached sleeves,forehead jewel,sleeves past wrists,star (sky),(motion line:1.10),expressionless,looking away,profile,turning head,unsheathed,running,slash,half-closed eyes,",
+      "n": ""
+    },
+    {
+      "name": "剑映对手",
+      "p": "2girls,(reflection on sword:1.16),snow,day,snow ground,char1：girl,holding sword,sword front of face,fighting stance,close-up,face focus,reflection,light,wide sword,fur trim,cape,char2：girl,(no body:1.10),reflection on sword,body out of frame,shouting,black eyes,angry,",
+      "n": ""
+    },
+    {
+      "name": "献祭之刃",
+      "p": "missing poster,outdoors,looking at viewer,face focus,eye trail,backlighting,blue theme,flying debris,dust,smoke,glowing eyes,hand up,knife,dagger,cloak,hood up,",
+      "n": ""
+    },
+    {
+      "name": "乘龙",
+      "p": "wide shot,cinematic angle,epic composition,dynamic angle,vast view,showing scale,panoramic view,landscape orientation,horizon,1girl,rivers,looking at viewer,smile,thighhighs,gloves,navel,standing,full body,boots,black gloves,elbow gloves,fingerless gloves,cape,elf,pelvic curtain,thighs,crown,strapless shirt,dragon rider,riding dragon,on dragonback,black dragon,giant dragon,wings spread,flying,soaring,high in sky,sky,clouds,epic,cinematic,majestic,atmospheric,breathtaking view,sense of freedom,soaring feeling,powerful,dramatic,clear air,sense of wonder,vast landscape below,earth from above,bird’s-eye view of landscape,mountains,forests,fields,expansive sky above,detailed clouds,sun,sunlight,atmospheric perspective,",
+      "n": ""
+    },
+    {
+      "name": "中二病施法",
+      "p": "medical eyepatch,looking at viewer,chuunibyou,long sleeves,outstretched arm,hand over eye,upper body,grin,open hand,bare shoulders,energy ball,magic,red theme,v over eye,",
+      "n": ""
+    },
+    {
+      "name": "闪亮刀刃",
+      "p": "(unsheathed katana:1.16),(complex glowing effects on clothes:1.16),glowing weapon,weapon effects,cowboy shot,strong shadow and lighting,",
+      "n": ""
+    },
+    {
+      "name": "楼顶落雷",
+      "p": "floating hair,wind,cyberpunk,building,wind,cloud,starry sky,sparkle,lightning effects all around,from above,night,building,backlighting,leaning back,floor,railing,against railing,",
+      "n": ""
+    },
+    {
+      "name": "电弧特效",
+      "p": "glowing eyes,light,blue light,dark,backlight,light,side light,metallic luster,light lines,light particles,electric current,",
+      "n": ""
+    },
+    {
+      "name": "引火大剑",
+      "p": "blood,broken,wound,(huge glowing fire sword:1.34),(fighting stance:1.10),disheveled hair,(dark heme:1.05),chiaroscuro,foreshortening,(colorful splashes),(shining),(focus on face:0.95),glowing skin,strong contrast,clever light and shade,(backlight:1.05),upper body,blowing wind,dynamic hair,dynamic perspective,dynamic pose,",
+      "n": ""
+    },
+    {
+      "name": "刀锋所指",
+      "p": "holding katana,front view,(gatotsu stance:1.28),(foreshortening:1.22),fighting stance,dynamic pose,(blue fire:1.55),(flaming katana,flaming weapon:1.55),(weapon focus:1.16),(serious:1.16),",
+      "n": ""
+    },
+    {
+      "name": "电眼逼人",
+      "p": "staring,smile,open mouth,upper body,peace sign,double v,(hands over own eyes:1.10),(looking afar:1.10),shouting,(eye beam:1.10),shooting laser beam from eyes,",
+      "n": ""
+    },
+    {
+      "name": "冰霜之赐",
+      "p": "blue skin,ice,ice scales,ice horns,ice spikes,ice on cheeks,exhaling mist,glowing ice,glittering haori,face ornaments,ice ornaments,ice shards,ice pasties,ice maebari,ice jewelry,ice claw rings,ice sword,sexy pose,looking at viewer,ethereal ice,ice tail,reflection,(human scabbard:1.28),between breasts,",
+      "n": ""
+    },
+    {
+      "name": "原版 (2)",
+      "p": "tsurara-onna,colored skin,blue skin,ice,ice scales,ice horns,ice spikes,ice cheeks,icy cheeks,icy forehead,ice on cheeks,icy lips,blue lips,exhaling mist,glowing ice,glittering haori,face ornaments,ice ornaments,glowing ice,ice shards,ice pasties,ice maebari,ice jewelry,ice claw rings,ice sword,sexy pose,looking at viewer,ethereal ice,dynamic angle,cinematic shot,evil smile,naughty face,upper teeth only,ice tail,reflection,(human scabbard:1.28),between breasts,",
+      "n": ""
+    },
+    {
+      "name": "生物之灵",
+      "p": "avian,feral,bird,butterfly,kimono,fur,flying,anthro,art nouveau,mythology,mammal,arthropod,horn,white fur,digital media (artwork),asian clothing,lepidopteran,asian mythology,east asian mythology,east asian clothing,",
+      "n": ""
+    },
+    {
+      "name": "巷道奔袭",
+      "p": "looking at viewer,gloves,long sleeves,shorts,hairclip,dark skin,open jacket,dark-skinned female,black jacket,see-through,torn clothes,tattoo,glowing,colored skin,holding katana,outstretched arm,blue ribbon,sheath,sneakers,black nails,floating,science fiction,mouth mask,sharp fingernails,covered mouth,red skin,red theme,cyberpunk,running,city,(leaning forward:1.10),knee up,bent over,",
+      "n": ""
+    },
+    {
+      "name": "樱落巫女",
+      "p": "sleeveless kimono,holding katana,(ootachi:1.16),red hakama,miko,leaning forward,detached sleeve,hip vent,(full body:0.86),ribbon-trimmed sleeves,white kimono,red bow,hakama skirt,zouri,(profile:0.86),sideboob,wide sleeves,hair bow,tabi,red ribbon,from side,floating hair,petals,long sleeves,white socks,jumping,",
+      "n": ""
+    },
+    {
+      "name": "亡灵王座",
+      "p": "glowing,smile,crossed legs,looking at viewer,head tilt,throne,shaded face,(sitting on throne:1.10),shadow,hand up,hand on own face,armchair,(tombstone:1.10),(cemetery:1.10),(bone throne:1.05),breasts apart,(dark theme:1.10),",
+      "n": ""
+    },
+    {
+      "name": "掌中火焰",
+      "p": "blue fire,liquid,fingers,hand focus,holding star,",
+      "n": ""
+    },
+    {
+      "name": "引法",
+      "p": "dark,solo focus,blurry,ripple,glowing,regular hexagon,dissolving,shards,runes,eastern dragon,blue fire,back,upper body,pale skin,gradient colour,magic circuit,casting spell,",
+      "n": ""
+    },
+    {
+      "name": "亡国笛声",
+      "p": "close-up,face focus,chinese clothes,hanfu,floating hair,topknot,chinese architecture,ink,wariza,hair flowers,dynamic angle,transparent clothes,tassel,chinese knot,(playing instrument,holding flute,transverse flute:1.10),close eyes,crying,streaming tears,sad,night,moon,outdoors,sky,(burning,burning building,east asian architecture:1.10),smoke,",
+      "n": ""
+    },
+    {
+      "name": "龙吟出鞘",
+      "p": "smile,silver eastern dragon,huge eastern dragon,xiangyun,clouds,(ink wash painting,monochrome,spot color,ink splash:1.16),(from side:1.10),ink wash painting artstyle,dynamic angle,hair stick,looking at viewer,(transparent clgiant dragon,close-up:1.16),silk dress,(overlapping collar,detached collar:1.16),zhongguo hua,see-through sleeves,hair flowing over,chinese robe,scabbard,holding sword,ready to draw,unsheathing,on one knee,looking to the side,fighting stance,(standing on object:1.16),earrings,forehead mark,tassel hair ornament,red tassel,(glowing eye:1.16),outdoors,waterfall,lotus,lotus leaf,",
+      "n": ""
+    },
+    {
+      "name": "原tag",
+      "p": "seductive smile,full body,curvy,silver eastern dragon,huge eastern dragon in the background,story of eastern wonderland,xiangyun,clouds,(ink splash:1.98),ink wash painting,monochrome,spot color,partially colored,(from side view:1.34),ink wash painting artstyle,fantasy,intricate details,dynamic angle,1girl,solo,chinese clothes,dress,hair stick,hanfu,long sleeves,looking at viewer,nail polish,(transparent clothing:1.16),silk dress,(see-through shirt:1.48),(overlapping collar:1.16),(draped silk:1.28),(detached collar:1.48),zhongguo hua,bare shoulders,see-through sleeves,(see-through dress:1.48),areola slip,long black hair billowing in the wind,chinese robe,(chinese giant dragon,close-up:1.48),(giant dragon:1.48),scabbard,iaidow,holding sword,ready to draw,unsheathing,on one knee,looking to the side,fighting stance,battoujutsu stance,(standing on peony (flower):1.98),hand up,standing on object,red hanfu,red nails,earrings,forehead mark,hjewelry,tassel hair ornament,red tassel,beautiful detailed eyes,(hair flower:1.16),hair stongeyelashes,(light eyes:1.16),glowing eye,silk,outdoors,wind,waterfall,splashed water,lotus,lotus leaf,",
+      "n": ""
+    },
+    {
+      "name": "竹林剑客",
+      "p": "portrait,(taoist robe,holding sword:1.05),raining,(fighting posture,serious,holding the sword,rain on the body:1.10),(face focus:1.05),glowing skin,single braid,(china jiangnan water town style:1.05)lack and white color scheme,strong backlighting,volumetric lights,smoke volutes,upper body,blowing wind,(element energy surrounds the character:1.05),dynamic hair,(gas floating all over the sky:1.10),(bamboo forest,bamboo leaves falling around the scene,dark green color picture:1.05) exhale,(bamboo leaf around the center of the character’s body picture:1.05),dynamic perspective,strong contrast,clever light and shade,light and shadow,depth of field,light spot,reflection,upper body，,",
+      "n": ""
+    },
+    {
+      "name": "其他版本1 (3)",
+      "p": "1boy,adult,male,bishounen,mature male,(male focus:1.10),(male protagonist:1.10),messy hair,(mullet:1.10),male focus,nature,solo,forest,katana,bamboo,japanese clothes,grass,outdoors,bamboo forest,sky,cloud,holding weapon,",
+      "n": ""
+    },
+    {
+      "name": "染墨竹林",
+      "p": "calligraphy,inkblot,ink-wash bamboo forest,mist,collapsing ink droplets in rain,falling bamboo leaves,ink (medium),ink wash painting,greyscale,spot color,from side,from below,cowboy shot,serious,disdain,ichimegasa,see-through veil,black mouth veil,hanfu,fold-over collar,shoulder cutout,forearm,wide sleeves,side slit,cape,pantyhose,holding chinese sword,",
+      "n": ""
+    },
+    {
+      "name": "屋顶侠者",
+      "p": "on the top of mountain,cliff,flockeast asian architecture,cloud,from distance,from above,(taoist robe,holding sword:1.05),(fighting posture,serious,holding the sword:1.10),(china jiangnan water town style:1.05),strong backlighting,volumetric lights,smoke volutes,blowing wind,(element energy surrounds the character:1.05),dynamic hair,(gas floating all over the sky:1.10),exhale,depth of field,light spot,",
+      "n": ""
+    },
+    {
+      "name": "御剑飞龙",
+      "p": "portrait,(holding a huge and long sword:1.05),cloak,rain,(fighting posture,serious,holding the knife,rain on the body:1.10),((focus on face:0.95):1.05),glowing skin,strong backlighting,volumetric lights,smoke volutes,upper body,(liquid chinese dragon (around the center of the character’s body picture):1.05),thousands of flying swords,swords come,sword gas,mystical cultivation,blowing wind,(ancient chinese style,sword array immortal method:1.05),rune sword,(luminous sword body:1.05)dynamic hair,fire light,dynamic perspective,(chinese style architecture:1.05),strong contrast,clever light and shade,light and shadow,depth of field,light spot,reflection,",
+      "n": ""
+    },
+    {
+      "name": "剑起墨灵",
+      "p": "(ink wash painting,jidao huashi:1.28),(1girl:1.05),lineart,monochrome,(red sword:1.10),cinematic lighting,(fighting stance:1.10),(disheveled hair:1.05),(dark heme:1.05),chiaroscuro,foreshortening,(colorful splashes:1.05),(shining:1.05),(focus on face:0.95),glowing skin,strong contrast,clever light and shade,(backlight:1.05),upper body,blowing wind,dynamic hair,dynamic perspective,dynamic pose,(ink wash (eastern dragon:1.05),eastern dragon surrounds sword,genji (overwatch) (cosplay):1.05),",
+      "n": ""
+    },
+    {
+      "name": "踏浪剑影",
+      "p": "taoist priest,floating sword,solo,chinese,grandmaster style,(white taoist robe:1.16),(ink sword,shushing:1.34),china clothes,chic,(cloth trousers:1.10),stepping on the water,ninjutsu,(fight,spin chop,behead:1.16),ink splashing,",
+      "n": ""
+    },
+    {
+      "name": "莲台降龙",
+      "p": "(portrait:1.16),close-up,long tail,(sitting on lotus,on lotus:1.10),(huge lotus flower:1.41),(buddha halo:1.10),(indian style,mudra:1.28),(transparent clothes,see-through chinese hanfu:1.16),(white trim:1.10),(naked chinese hanfu:1.22),(hanfu neck strap:1.05),breasts strap,erotic lingerie,(side-tie:1.16),(long rope:1.10),strapless,ribbon,chinese knot,(see-through shawl,tassel,floating clothes:1.16),(eastern dragon,monster:1.22),",
+      "n": ""
+    },
+    {
+      "name": "黑白水墨版",
+      "p": "(monochrome,black and white,pencil scratch lines,drawing,graphite(medium),greyscale:1.10),(portrait:1.16),close-up,(sitting on lotus,on lotus:1.10),(huge lotus flower:1.41),(buddha halo:1.10),(indian style,mudra:1.28),(white trim:1.10),(chinese hanfu:1.22),(hanfu neck strap:1.05),breasts strap,(side-tie:1.16),(long rope:1.10),strapless,ribbon,chinese knot,(see-through shawl,tassel,floating clothes:1.16),(eastern dragon,monster:1.22),ink,",
+      "n": ""
+    },
+    {
+      "name": "雪月山巅",
+      "p": "fighting,(sword chopping,sword pointing forward:1.10),floating,jumping,(from outside,top-down bottom-up,leaning back,close-up:1.05),looking at viewer,(white hanfu,flying hanfu,open hanfu,hairpin,off shoulder:1.10),snow,mountain,black hair,long hair,(hanfu,black eyes,shining skin:1.05),steam,light particles,(blue light,emphasis lines:1.05),side-tie,moonlight,white cloth tape,see-through,parted bangs,headdress,angry,",
+      "n": ""
+    },
+    {
+      "name": "火舞旋风",
+      "p": "from above,(portrait,close-up:1.05),(taoist priest:1.05),wide sleeves,long sleeves,tassel,looking at viewer,(bandages:1.10),china clothes,hanfu,sash,ponytail,arm wrap,red ribbon,(red robes:1.10),coat,messy hair,(black short dress:1.05),injuries,looking at viewer,mark,(shiny skin:1.10),chinese girl,holding sword,huge sword,(light particles:1.05),yellow scale,emphasis lines,red fire,(liquid-diet:1.10),light string,{{{casting spell,magic,energy,hydrokinesis,element bending,(fading,disintegration,dissolving,binary:1.10),shadow,angry,",
+      "n": ""
+    },
+    {
+      "name": "轴符驱魔",
+      "p": "element bending,blue fire,from above,1girl,solo,fighting stance,dynamic pose,beads,ofuda between fingers,navel,white thighhighs,(upper body:1.10),eyeshadow,floating ofudas,pattern,open mouth,sharp fingernails,spread legs,wide sleeves,bead necklace,black footwear,long fingernails,black nails,long sleeves,talisman,chinese clothes,shadow,(holding scrolls:1.05),(floating scroll,long scroll,blurry foreground:1.22),",
+      "n": ""
+    },
+    {
+      "name": "胸口拔剑",
+      "p": "human scabbard,between breasts,looking at viewer,smile,cleavage,upper body,parted lips,hand up,sword,black dress,fur trim,black choker,glowing,half-closed eyes,cleavage cutout,fire,brooch,arm under breasts,fur-trimmed dress,burning,flaming weapon,flaming sword,",
+      "n": ""
+    },
+    {
+      "name": "魔法蓄能",
+      "p": "action pose,fighting stance,close-up,covered 1eye,staff,witch hat,(liquid-diet:1.10),(casting spell,magic,energy,hydrokinesis,element bending,black line,black ball,electric current,electrokinesis:1.16),(fading,disintegration,dissolving,binary:1.10),shadow,plants,highlight,",
+      "n": ""
+    },
+    {
+      "name": "闪电激发",
+      "p": "from side,action pose,fighting stance,on one knee,(1girl:1.05),monster,solo,(close-up:1.16),over one eye,(liquid-diet:1.10),{{{casting spell,magic,energy,hydrokinesis,element bending,black line,transparent water,(electric current,electrokinesis:1.10),(fading,disintegration,dissolving,binary:1.10),shadow,plants,highlight,",
+      "n": ""
+    },
+    {
+      "name": "圣光祈福",
+      "p": "elaborate off-shoulder holy white robe,gold and silver trim,jeweled accents,kneeling,in church,praying,stained glass window in the background,light shining from above,expressionless,hands clasped,rays of light illuminating the scene,magical effects,ethereal glow,sparkles,",
+      "n": ""
+    },
+    {
+      "name": "冰霜之子",
+      "p": "(close-up:1.10),dynamic,(blue clothes,half-transparent clothes,ice clothes,clothes made of ice:1.10),crystallized body,crystallized limbs,(cold eyes,blue flames:1.10),floating hair,(cold theme:1.05),dark fantasy,ice covering key parts,ice crystal texture wings,render,photo-referenced,",
+      "n": ""
+    },
+    {
+      "name": "林蛾收割",
+      "p": "(tentacles:1.16),(portrait:1.16),close-up,(dark green-theme:1.05),(moth,moth girl:1.10),larva,monster girl,cutout,white skin,(long rope,white rope,gown:1.10),bare shoulders,elbow gloves,(white hood:1.10),(print clothes:1.05)(mask:1.10),glowing eyes,torns,torn clothes,(thigh boots:1.10),(huge scythe:1.10),(holding scythe,glowing scythe:1.10),(respirator:1.10),(chains:1.10),green light,fog,green fog,colorful,cane vine,green flowers,withered trees,pop style,flat color,close shot,from side,paint splatter on face,sitting,arrogant,demented,",
+      "n": ""
+    },
+    {
+      "name": "沙地火盗",
+      "p": "fantasy,flaming eye,green fire,dark skin,one eye closed,scar across eye,tribal tattoo,glowing tattoo,white tattoo,capelet,hood up,brown harem outfit,pelvic curtain,black clothes,gold trim,tribal,arm ring,leg ring,(accessories,jewelry:1.28),burnt clothes,(torn clothes:1.28),no shoes,ankle bell,holding sword,huge sword,squatting,leaning forward,weapon over shoulder,arm support,(spread legs:1.16),desert,outdoors,(fighting stance,dutch angle,dynamic angle:1.16),looking at viewer,throne,serious,wet skin,shiny skin,shine on girl’s body,",
+      "n": ""
+    },
+    {
+      "name": "饮血剑士",
+      "p": "upper body,sword,cold face,blood drop,blood fog,floating hair,light shafts,soft focus,character focus,disheveled hair,looking at viewer,lowing hair,floating,splashing blood,bloodstain,lolita dress,eyepatch,holding sword,white dress,",
+      "n": ""
+    },
+    {
+      "name": "蓄魔冲拳",
+      "p": "fisheye,on ground,fighting stance,punching,constricted pupils,teeth,(fire line,liquid-diet:1.10),(casting spell,magic,energy,hydrokinesis,element bending,(electric current,electrokinesis:1.10),(fading,disintegration,dissolving,binary:1.10),emphasis lines,shadow,highlight,",
+      "n": ""
+    },
+    {
+      "name": "一把抓住",
+      "p": "(hand focus:1.22),(foreshortening,eye between fingers:1.16),(solo,1girl:1.05),perspective,dutch angle,(close-up,split crop:1.10),incoming hand,(reaching towards viewer,claw hand:1.10),angry,frown,(aura,beam,emphasis lines:1.10),eye trail,light trail,speed lines,attack trail,motion lines,shade face,glaring,sideways glance,",
+      "n": ""
+    },
+    {
+      "name": "顷刻炼化",
+      "p": "(foreshortening:1.10),(dynamic pose:1.10),energy blob in hand,eye trail,film grain,floating hair,light trail,sidelighting,debris,(floating cubes:1.16),(swirl:1.16),electricity,floating cubes,perspective,",
+      "n": ""
+    },
+    {
+      "name": "背靠战友",
+      "p": "1girl,1boy,duo pose,female soldier,male officer,military uniform,long coat,medals,rifle,glasses,long hair male,protective pose,back to back pose,military uniform,formal military coat,shoulder epaulettes,belt,gloves,rank insignia,cross medal,crouching,holding rifle,standing behind,supporting pose,war stance,determined expression,confident expression,destroyed city,battlefield,smoke in background,war aftermath,cinematic lighting,sunset glow,dramatic shadow,contrast background,",
+      "n": ""
+    },
+    {
+      "name": "靠背协同作战",
+      "p": "(2girls:1.10),(back-to-back:1.16),dynamic angle,action pose,perspective,glowing eyes,chinese girl,red fingernail,floating object,swords,(ofuda:1.05),blood line,laser,looking at another,stairs,scabbards,upper body,white hanfu,blue hanfu,chinese ruins,fighting,",
+      "n": ""
+    },
+    {
+      "name": "原版 (3)",
+      "p": "2girls,from behind,(back-to-back:1.16),dynamic angle,action pose,perspective,white hair,black hair,black eyes,long hair,nsfw,chinese girl,red fingernail,floating object,swords,floating souls,curiosity,horror,(ofuda:1.05),spear,blood line,laser,vibrant colors,detailed background,sharp focus,looking at another,stairs,2scabbards,upper body,white hanfu,blue hanfu,chinese ruins,fighting,",
+      "n": ""
+    },
+    {
+      "name": "幽幽绿火",
+      "p": "(white hanfu:1.10),off shoulder,fur coat,side-tie,side braid,large breasts,(snow,green fire:1.10),chinese house,village,(city:1.10),night,nsfw,close-up,",
+      "n": ""
+    },
+    {
+      "name": "竹潭潜龙",
+      "p": "little instinct,wind,bamboo forest,path,(eastern dragon:1.10),zentangle (medium),watercolor (medium),gouache,wet gouache,ink and wash painting,ink splashing,black and white painting,landscape paintings,symmetry,(water reflection:1.10),",
+      "n": ""
+    },
+    {
+      "name": "秋潭卧龙",
+      "p": "(hanfu,liquid dress:1.16),floating,surrounding,butterfly,butterfly on hand,(eastern dragon,partially submerged:1.10),onsen,autumm,firefly,steam,cloud,bamboo,falling leaves,red plum blossoms,ginkgo trees,ginkgo leaf,traditional hairpin,monochrome,color palette,chinese ink brush style,calligraphic grace,",
+      "n": ""
+    },
+    {
+      "name": "驱使骨龙",
+      "p": "cave,dragon skeleton above girl,dragon skeleton,fire,flying sparkles,war background,undead dragon fire breathing,pet undead dragon,gothic lolita,holding staff,staff casting light,smile,arm up,wind lift,glowing eyes,pointing forward,dark,enchanting,indoors,oil painting,",
+      "n": ""
+    },
+    {
+      "name": "决战骨龙",
+      "p": "gigantic (skeleton:1.22),(skeleton dragon:1.10),cinematic lighting,(fighting stance:1.16),(intense angle:1.16),many people,blue fire,from behind,(fire on sword:1.10),many skeleton,sparks,castle,armor,(bow (weapon),arrow (projectile):1.10),open mouth,cape,fur-trimmed cape,pile of corpses,wizard,greaves,belt,magic,corpses,glowing eyes,horn,",
+      "n": ""
+    },
+    {
+      "name": "缠斗巨兽",
+      "p": "(giant monster,sharp teeth,animal,third eye:1.10),flying,dynamic pose,motion blur,fighting,from behind,standing,school uniform,black thighhighs,pleated skirt,kneehighs,holding sword,floating hair,wind lift,blood,bloody clothes,broken glass,glass shards,",
+      "n": ""
+    },
+    {
+      "name": "火狐",
+      "p": "monster girl,fire,upper body,dynamic angle,action pose,perspective,leaning forward,head down,ass,looking at viewer,petrification,burning hair,close-up,fox tail,claws,fox ears,description,stacked cubes,building blocks,floating object,(transformation,henshin,light particles,gradation skin:1.10),brick body,",
+      "n": ""
+    },
+    {
+      "name": "远方敌首",
+      "p": "scenery,outdoors,holding sword,sky,grass,dragon,standing,from behind,reflection,cloudy sky,solo,red cape,water,fantasy,burnt,smoke,",
+      "n": ""
+    },
+    {
+      "name": "引法公主",
+      "p": "dnd,fantasy,indoor,dim,european clothing,(1girl:1.05),wizard,(close-up:1.16),cowboy shot,half from side,dutch angle,(magic effect arround:1.10),(looking at book,looking object:1.05),(one hand holding a book,one cupping hand up,purple magic energy on hand:1.10),(solo:1.05),frilled dress,edge trim dress,(crown:1.05),gold trim,ribbon,(princess:1.05),(many candles,disturbed books,messy books:1.05),wind,floating hair,floating magic spark,speed lines,wind line,bright,clear day,",
+      "n": ""
+    },
+    {
+      "name": "雪中枪骑",
+      "p": "from outside,1girl,crown of thorns,(dynamic angle,fighting stance,perspective,upper body:1.10),dark knight,curiosity,horror,heavy armor,chains,(spear,holding polearm:1.05),(muscular:1.05),shining skin,expressionless,messy hair,breastplate,(red print on armor:1.16),black cape,blood,crowds,leaning to the side,snow,shining armor,dragon armor,flags,close-up,",
+      "n": ""
+    },
+    {
+      "name": "荆棘裁决",
+      "p": "vines,crown of thorns,(plant around:1.10),close-up,blood,black footwear,red flower,gloves,red rose,black pantyhose,long sleeves,hood up,cross-laced footwear,hooded capelet,frills,lace-up boots,bow,feathered wings,black dress,floral print,polearm,high heel boots,wide sleeves,hooded cape,white shirt,black bow,cloak,hair flower,",
+      "n": ""
+    },
+    {
+      "name": "冷焰鬼卫",
+      "p": "(mask on head,oni,oni horns,oni mask:1.10),smile,teeth,half-closed eye,head tilt,(holding katana,weapon on shoulder:1.16),reaching towards viewer,outstretched arm,torii,in forest of mountain,looking at viewer,close-up,cowboy shot,cinematic lighting,volume lighting,light particlestachie,dynamic angle,ray tracing,deep green hood,in green forest,nervous,(floating fire magic spell and blue flames:1.10),from side,",
+      "n": ""
+    },
+    {
+      "name": "其他版本 (2)",
+      "p": "cowboy shot,scenery,shadow,glowing,rainy,fantasy,ourdoors,fire,burning,green to red gradient sky,night,dark,foggy atmosphere,fog,pink gradient fire,torii,shimenawa,paper money ashes swirling,burning lantern,floating paper lanterns with curse tags,phosphorescent spirit procession,spirit,holding sword,",
+      "n": ""
+    },
+    {
+      "name": "鬼将突袭",
+      "p": "(dissolving,fusion:1.10),half-mask,skeletal features,bone armor,glowing eyes,dynamic angle,action pose,dramatic lighting,perspective,flowing hair,dark atmosphere,blood splatter,red and black color scheme,holding katana,gore,flayed skin,demonic aura,windblown hair,battle scene,fantasy warrior,smile,close-up,",
+      "n": ""
+    },
+    {
+      "name": "古神降临（用时移除面部描述tag最佳）",
+      "p": "perspective,dynamic angle,cinematic lighting,(chiaroscuro:1.10),ass focus,cropped torso,lower body,from behind,kneeling,monster,tentacles,vore,boots,skin tight,skin tight,tight pants,arm support,",
+      "n": ""
+    },
+    {
+      "name": "符咒狐灵",
+      "p": "(fighting posture,onmyoji,holding the ofuda:1.10),(huge fox (around the center of the character’s body picture):1.10),((focus on face:0.95):1.05),(ancient chinese architecture:1.05),backlighting,volumetric lights,smoke volutes,upper body,mystical cultivation,blowing wind,(array immortal method:1.05),(element energy surrounds the character:1.05),dynamic perspective,strong contrast,clever light and shade,light and shadow,depth of field,light spot,reflection,upper body,",
+      "n": ""
+    },
+    {
+      "name": "游戏王卡片召唤",
+      "p": "1girl,playing card game,yugioh,duel monsters,summoning monster,triumphant expression,shouting,pointing,holding card,duel disk,pumpkin knight,giant monster,glowing monster,fantasy setting,battlefield,rocky terrain,dark cloudy sky,bright orange light,electric blue light,volumetric light,strong contrast,sharp shadows,dynamic pose,full body,mid-action.,",
+      "n": ""
+    },
+    {
+      "name": "野兽召唤",
+      "p": "(soul,deer,wolf:1.10),shamanism,druid,forest,sleeveless dress,fur-trim,cape,armguard,smile,spells,spell props,spell casting,special effects,spells energy,winds,magic talisman,(holding shaman staff:1.10),",
+      "n": ""
+    },
+    {
+      "name": "灵蛇之召",
+      "p": "fair skin,shiny skin,disheveled hair,wizard,single snake,snake patronus,patronus,outstretched arms,open mouth,wizard clothes,black clothes,wizard hat,casting spell,casting spell with wand,wooded wand,glowing ornament,clothes ornament,sheathed,cowboy shot,close-up,from side,",
+      "n": ""
+    },
+    {
+      "name": "唤龙",
+      "p": "gray robe,short skirt,medieval cloak,witch hat,wand,magic circle,(battle posture:1.10),western dragon,flying dragon,behind the character,standing,wind,",
+      "n": ""
+    },
+    {
+      "name": "射穿虚假屏幕",
+      "p": "black coat,white scarf,cold,gasping,looking down,dead eyes,beard,dead,(bullet hole on head:1.05),bleeding,blood on face,portrait,leaning,head tilt,(pov hands,finger gun:1.05),blurry background,(broken glass:1.28),covering face,glass shards,blood in bullet hole,blood drop,",
+      "n": ""
+    },
+    {
+      "name": "血海激斗",
+      "p": "old colour,cinematic angle,scales,parted lips,collarbone,bodystocking,holding glowing red sword,sideways glance,squatting on red water,arm up,fighting stance,armored boots,greaves,shoulder armor,gauntlets,center opening,breasts apart,navel,groin,gradient colour,ripples,red ocean,cross,blood,energy,huge weapon,dynamic pose,foreshortening,intense shadow,blurry,dust cloud,fog,",
+      "n": ""
+    },
+    {
+      "name": "从楼台一跃而下！",
+      "p": "cyberpunk cityscape,(skyscraper:1.16),1girl on the roof of the skyscraper,(standing on the edge of the roof:1.34),almost fell,1leg pedal empty,(standing on one leg:1.34),(standing on the roof edge:1.34),(spread arms:1.16),(1foot outside the roof:1.48),ass,from behind,bent over,sky,leaning forward,floating hair,",
+      "n": ""
+    },
+    {
+      "name": "飞跃城际线",
+      "p": "(from side,profile:0.86),full body,leg up,midair,floating,flying,falling,future fashion,holographic accessories,black hooded jacket,black pleated skirt,torn clothes,long sleeves,hood down,torn pantyhose,black pantyhose,red ribbon,looking at viewer,looking to the side,closed mouth,outdoors,scenery,horizon,skyline,city,cityscape,skyscraper,building,grey sky,cloudy sky,day,overcast,cloud,wind,limited palette,",
+      "n": ""
+    },
+    {
+      "name": "路边刺客",
+      "p": "(face focus,close-up,solo,dynamic angle:1.10),monochrome,hood up,sleeve cuffs,capelet,(clothes over nose,hood over eyes,capelet around body:1.10),chain bag,black coat,holding knife,loose sneakers,knees together,squatting,grey pantyhose,bent over,",
+      "n": ""
+    },
+    {
+      "name": "硝烟武士",
+      "p": "(fog:1.22),clouds of smoke surround the girl’s body,spot color,(from side:1.05),(stripedt,flame print,flame:1.05),glowing,(holding sword,katana:1.05),(attack trail:1.10),(smoke trail:1.05),grey sky,dark clouds,decay,shadow,depth of field,",
+      "n": ""
+    },
+    {
+      "name": "背身爆炸",
+      "p": "(battle stance,dynamic angle:1.10),skinny skin,body blush,shaded face,looking at viewer,(exploding clothes:1.22),(torn clothes:1.16),bare shoulder,torn pants,pigeon-toed,injury,(blood,pool of blood,blood on leg,blood on dress,bruise on stomach,bleeding,bruise on face:1.10),side cutout,(close-up:1.05),outdoors,wind,",
+      "n": ""
+    },
+    {
+      "name": "坦克装甲",
+      "p": "(tank carrier:1.05),cinematic angle,(cyberpunk:1.05),on battlefield,skyline,extra legs,extra wheel,battle,(steel:1.05),tech monster,future city,(tank:1.05),extra mechanical limbs,full body,400mm tank gun,(close shot:1.05),giant aircraft carrier,",
+      "n": ""
+    },
+    {
+      "name": "驾驶机甲",
+      "p": "half-closed eyes,blush,upper body,close-up,sitting,pilot suit,plugsuit,red bodysuit,bident,interface headset,machinery,cockpit,restrained,tube,",
+      "n": ""
+    },
+    {
+      "name": "机甲驾驶对战",
+      "p": "in warehouse,dim,(glowing eyes:1.10),solo,depth of field,fps,pov,anime coloring,(cockpit:1.05),(console:1.05),(control panel:1.05),science fiction,dashboard,spaceship interior,piloting a giant mech,(battle against a giant robot:1.10),backlight,clould,black tracing,depth of field,",
+      "n": ""
+    },
+    {
+      "name": "权重调整优化版",
+      "p": "maximalism,in warehouse,dim,glowing eyes,solo,depth of field,fps,pov,anime coloring,(cockpit:1.05),(console:1.05),(control panel:1.05),science fiction,dashboard,spaceship interior,piloting a giant mech,(battle against a giant robot:1.10),backlight,clould,black tracing,depth of field,",
+      "n": ""
+    },
+    {
+      "name": "巡空警戒",
+      "p": "from above,from side,1knee up,1girl,close-up,leaning back,flying,midair,big gun on back,turret,puppet,head up,joints,firing at viewer,firing,upper body,thrusters,columnar batteries,warcraft armor,glowing armor,red light,terrifying,hanging breasts,breasts armor,columnar batteries,dissection,light particles,circuit,cable in body,current,wire,screw,jetpack,mechanical wings,headset,headgear,backpack,bar code,glowing hreat,masterpiece,perfect lighting,perfect anatomy,more details,night,city,blue fire,covered nipples,fisheye,upside-down,",
+      "n": ""
+    },
+    {
+      "name": "宇宙战舰集团军",
+      "p": "huge spaceship covers the entire sky,very wide shot,energy cannon emitted from the spacecraft shoots city,space,in orbit,earthplanet,scenery,pov,vehicle focus,multiple spaceship,spaceship out of frame,energy beam,energy,energy cannon,beam cannonk,firing,",
+      "n": ""
+    },
+    {
+      "name": "赛博朋克疾驰",
+      "p": "expressiveh,vibranst colors,cyberpunk girl,cyberpunk clothes,high quality,high res,dynamic camere shot,dramatic lighting,driving on motorbike,motorbike,(cyberpunk motorbike:1.16),driving trough cyberpunk neon city,",
+      "n": ""
+    },
+    {
+      "name": "飞船驾驶",
+      "p": "upper body,close-up,sitting,pilot suit,plugsuit,red bodysuit,bident,interface headset,machinery,cockpit,restrained,tube,",
+      "n": ""
+    },
+    {
+      "name": "宇宙航线",
+      "p": "pilot’s seat,1girl,female pilot,enclosed cockpit,transparent dome,helmet with hudvirtual interface,holographic displays,aerospace suit,gloves,hands on controls,intricate flight dashboard,space backdrop,starry sky,distant planets,spacecraft interior,cosmic voyage,space exploration themes,astronaut,outer space,",
+      "n": ""
+    },
+    {
+      "name": "怪盗降临",
+      "p": "(from below,foreshortening:1.10),domino mask,eye mask,black catsuit,skin tight,black gloves,floating hair,covered nipples,covered navel,high heel boots,midair,broken glass,glass,night,dark,indoors,pillar,statue,(red laser:1.10),skylight,(spotlight,backlighting:1.10),falling,jumping,knee up,looking down,(smile:1.10),grin,arm up,looking at viewer,dutch angle,",
+      "n": ""
+    },
+    {
+      "name": "城市飙车",
+      "p": "solo focus,driving,from below,car interior,shirtmotor vehicle,black shirt,car,upper body,looking afar,night,blurry,steering wheel,seatbelt,cityscape,night,cyberpunk city,window,reflection on glass,motion blur,bokeh,",
+      "n": ""
+    },
+    {
+      "name": "数据湍流",
+      "p": "cyberpunk,maps background,maps,modern city holographic monitor,flat holographic monitor,(digital dissolve,body:1.10),(glitch-art:1.10),error message,",
+      "n": ""
+    },
+    {
+      "name": "海岸雷雨",
+      "p": "from behind,night,crepuscular rays,lighthouse,bird,reflection,ocean,scenery,beach,waves,skyline,morning glory,grand scene,magical,summoning,1girl,solo,(cinematic angle,cloudy,splashing,rainstorm,cumulonimbus,electricity,in the rain,rainy days,whirlwind,flying splashes,tornado,wind,wind lift,thunderstorm:1.10),",
+      "n": ""
+    },
+    {
+      "name": "天地变色",
+      "p": "cowboy shot,blurry,eye pattern,eye of the storm,looking at viewer,cast spell,hood up,robe,glowing eyes,visual impact,fog,broken cloud,scattered light,(crack:1.10),floating black rock,pillar,wind,airflow,gradient sky,overexposure,strong light and shadow contrast,(dynamic fuzzy:0.95),dynamic angle,purple,element opposition,light-dark transitio,",
+      "n": ""
+    },
+    {
+      "name": "异常处理团",
+      "p": "crowd,【】arms at sides,black jacket,black necktie,black pants,black suit,bob cut,buttons,closed mouth,covered eyes,floating hair,hair over eyes,necktie,no eyes,shaded face,upper body,white shirt,wing collar,",
+      "n": ""
+    },
+    {
+      "name": "红日高中驱魔队",
+      "p": "scar on cheek,hair flower,sailor collar,pleated skirt,trench coat,red scarf,wind lift,thigh boots,looking at viewer,smile,blush,standing on roof,crossed arms,legs together,katana on shoulder,red background,red sun,darkness,from front,from below,photo background,dutch angle,",
+      "n": ""
+    },
+    {
+      "name": "被光线直射的吸血鬼",
+      "p": "(sunshine:1.10),blood,kneeling,(close-up:1.10),solo focus,vampire,screaming,burnt scar,bend over,light leaks,sunlight,shine on girl’s body,blurry foreground,ray tracing,lens flare,wide eyes,tears,sparks,lying down,outstretched arm,on stomach,",
+      "n": ""
+    },
+    {
+      "name": "完美音浪",
+      "p": "close-up,dynamic composition,playing electronic guitar,knees together feet apart,fighting stance,graffiti,smile,colorful,multicolored,absurd colors,skindentation,waveform cyber background,",
+      "n": ""
+    },
+    {
+      "name": "午时已到",
+      "p": "close-up,aiming at viewer,revolver,angle,intense angle,cinematic angle,jewelry,cowboy hat,brown jacket,red theme,horseback riding,cowboy western,bandolier,serious,",
+      "n": ""
+    },
+    {
+      "name": "开海镰刀",
+      "p": "from side,glow eye,(bare arms:1.05),(glaring,solid eyes:1.05),(holding giant scythe:1.05),fighting stance,slashing,jewelry,outdoor,white flowers,black flowers,wind,the sea of quantum,starry sky,",
+      "n": ""
+    },
+    {
+      "name": "鲜血邀请",
+      "p": "close-up,eye reflection,water-shaped eye,+ +,light leaks,shine on girl’s body,blurry foreground,ray tracing,lens flare,cinematic lighting,evil smile,(blood on eyes,blood from mouth:1.10),blood,glowing eyes,teeth,outstretched arm,stitches,",
+      "n": ""
+    },
+    {
+      "name": "尸山血海",
+      "p": "skeleton,sword in skull,sitting on skeleton,one knee up,holding sword,blood on face,red theme,",
+      "n": ""
+    },
+    {
+      "name": "拔刀（概率较低，可能是受限于画风）",
+      "p": "black kimono,sheath on waist,holding sheath,hand on hilt,legs apart,lunge,ready to draw,dynamic angle,straight-on,",
+      "n": ""
+    },
+    {
+      "name": "舔刀（需一定程度roll）",
+      "p": "holding sword,(weapon in mouth,licking,licking weapon:1.10),saliva,saliva trail,tongue out,upper body,",
+      "n": ""
+    },
+    {
+      "name": "手撑剑",
+      "p": "planted sword,hands on hilt,",
+      "n": ""
+    },
+    {
+      "name": "双手撑剑休息",
+      "p": "standing,cowboy shot,leaning forward,bent over,own hands together,head rest,(holding sword,planted sword,head on hilt:1.16),magic sword,",
+      "n": ""
+    },
+    {
+      "name": "鹤形架势",
+      "p": "(standing on one leg,crane stance,fighting stance,kung fu,martial arts:1.05),",
+      "n": ""
+    },
+    {
+      "name": "高踢",
+      "p": "fighting stance,floating hair,foot out of frame,high kick,kicking,leg up,looking at viewer,parted lips,spread legs,standing on one leg,",
+      "n": ""
+    },
+    {
+      "name": "鞭腿",
+      "p": "(arm up:1.05),(fighting stance:1.10),(incoming attack:1.10),(flying kick,(long legs,leg lift:1.05),(rider kick:1.05),(from below:1.10),(dutch angle:1.10),floating hair,kicking,evil grin,armpits,clenched hand,groin tendon,",
+      "n": ""
+    },
+    {
+      "name": "冲拳",
+      "p": "(close-up:1.16),(clenched hand:1.16),(punching:1.16),(imminent punch:1.16),(fighting stance:1.16),(incoming attack:1.05),(incoming punch:1.10),(fire:1.05),upper body,blurry foreground,open mouth,",
+      "n": ""
+    },
+    {
+      "name": "疾跑",
+      "p": "from side,running,high knee run,knees up,",
+      "n": ""
+    },
+    {
+      "name": "天使爱人的谅解",
+      "p": "1boy,1girl,injury,stab,impaled,blood,bare shoulders,white dress,wings,blood on clothes,kneeling,crying with eyes open,looking at another,hands on another’s face,lying,on back,tears,closed eyes,cape,armor,brown shirt,shoulder armor,belt,brown pants,blood on weapon,holding dagger,dagger,knife,light particles,",
+      "n": ""
+    },
+    {
+      "name": "接纳怪物",
+      "p": "1girl,solo,cowboy shot,(hands on monster’s face:1.10),(eye contact:1.16),monster,side face,hood down,white robe,fog,darkness,dark,monster,soul fire,bone,wood texture,(eldritch abomination:1.05),armor,fog,strong picture,(from side:1.16),",
+      "n": ""
+    },
+    {
+      "name": "挣脱石化",
+      "p": "(petrification:1.16),(breaking free from stone:1.05),emerging from stone,(shattering petrification:1.10),liberation from stone imprisonment,(crumbling stone around figure:1.10),(fragments of stone falling away:1.10),powerful emergence,(triumph over stone encasement:1.05),(shattered stone fragments:1.05),shot down,",
+      "n": ""
+    },
+    {
+      "name": "落入废墟",
+      "p": "fantasy,gothic architecture,cathedral,rubble ruins,floating building upside down,",
+      "n": ""
+    },
+    {
+      "name": "瀑布修行",
+      "p": "(shiny skin,oil skin:1.05),(waterfall:1.10),light blush,closed eyes,closed mouth,simle,indian style,(own hands together,girl under waterfall,waterfall shower:1.05),wet hair,forest,rocks,put feet in water,sunshine,",
+      "n": ""
+    },
+    {
+      "name": "教堂黑天鹅舞",
+      "p": "(close-up:1.16),smile,standing,ass,open mouth,dancing,outstretched hand,frills,pantyhose,black dress,elbow gloves,black gloves,black feathered wings,standing on one leg,frilled dress,leotard,tutu,hair flower,sleeveless dress,eyelashes,black feathers,ballerina,white flower,curvy,church,stained glass,water drop,",
+      "n": ""
+    },
+    {
+      "name": "冰龙加护",
+      "p": "sunshine,outdoors,moutain,(backlighting:1.22),(holding magic,ice element around her:1.10),from side,blood on clothes,against dragon,",
+      "n": ""
+    },
+    {
+      "name": "黑日降临",
+      "p": "white sleeveless dress,black pupils,contempt,closed mouth,emotionless,light leaks,burnt clothes,torn clothes,flaming feathered wings,seraph,multiple wings,low wings,white theme,holding dark flaming long sword,runes on sword,slashing,swinging,attack,fire,runes,glowing runes,dark flame,dutch angle,light trail,eclipse,embers,gradient sky,cloudy sky,day,grey sky,light particles,",
+      "n": ""
+    },
+    {
+      "name": "法术空战",
+      "p": "from side,(from above:1.10),girl in side,upper body,fisheye,witch,witch hat,staff,(flying:1.10),lot of dragons,fighting,(casting spell,magic,firing,element bending,big fireball:1.10),electrokinesis,chasing,aerial combat,high altitude,clouds,motion lines,(monster:1.05),laser,",
+      "n": ""
+    },
+    {
+      "name": "火法服装自燃",
+      "p": "magic,holding staff,arm up,from below,fisheye,fire,(burnt clothes:1.16),sparks,fighting stance,torn clothes,sparkling eyes,cowboy shot,",
+      "n": ""
+    },
+    {
+      "name": "骑射",
+      "p": "arm guards,armor,arrow (projectile),bow (weapon),earrings,feather trim,from below,from side,headband,holding bow (weapon),horseback riding,lantern,light rays,outdoors,riding,sheath,sheathed,snowing,sunbeam,sunlight,sword,",
+      "n": ""
+    },
+    {
+      "name": "汉服骑射",
+      "p": "looking at viewer,smile,long sleeves,closed mouth,cleavage,outdoors,earrings,wide sleeves,hair bun,sash,chinese clothes,outstretched arm,tassel,building,bow (weapon),red lips,arrow (projectile),riding,architecture,east asian architecture,tassel earrings,holding bow (weapon),horse,firing,aiming at viewer,holding arrow,hanfu,horseback riding,drawing bow,reins,saddle,bridle,",
+      "n": ""
+    },
+    {
+      "name": "挥砍",
+      "p": "(frame arms girl:1.05),half-closed eyes,indoors,slashing,dynamic feeling,swung a slashing strike,motion lines,burning,(solo:1.10),(ray tracing,depth of field:1.10),",
+      "n": ""
+    },
+    {
+      "name": "原版 (4)",
+      "p": "hanfu,(chinese armor:1.16),mechanical headpiece,(frame arms girl:1.05),(long sidelocks:1.16),(detached sleeves:1.05),half-closed eyes,off shoulder,indoors,bridal gauntlets,closed mouth,energy wings,holding energy (sword:1.10),slashing,dynamic feeling,swung a slashing strike,motion lines,burning,(solo:1.10),(ray tracing,depth of field:1.10),",
+      "n": ""
+    },
+    {
+      "name": "肩扛大剑",
+      "p": "glowing eyes,upper body,navel,looking back,holding sword,sword on shoulder,crazy smile,angry,huge weapon,grin,",
+      "n": ""
+    },
+    {
+      "name": "支援落地拔剑",
+      "p": "arm behind head,arm support,arm up,leaning forward,(on one knee:1.05),holding sword,(sword on back:1.10),sideways glance,v-shaped eyebrows,broken ground,squatting,fighting stance,broken rock,",
+      "n": ""
+    },
+    {
+      "name": "原版服装部分",
+      "p": "【cleavage,strapless,miniskirt,pencil skirt,shorts under skirt,black shorts,bike shorts,elbow gloves,fingerless gloves,black gloves,brown belt,leather belt,yellow thighhighs,thigh boots,armored boots】,",
+      "n": ""
+    },
+    {
+      "name": "持长枪作战",
+      "p": "holding spear,black skirt,dynamic pose,battle,fighting stance,cowboy shot,solo foucs,cyberpunk (series),leg up,hitomaru,seriously,cool,",
+      "n": ""
+    },
+    {
+      "name": "寒地战士",
+      "p": "armor,axe,belt,brown gloves,fur trim,holding axe,weapon over shoulder,outdoors,plant,snowing,tree,",
+      "n": ""
+    },
+    {
+      "name": "血染浪客",
+      "p": "《the great wave off kanagawa》,epiphyllum,bloody,draw sword,sash,obi,katana,white kimono,multiple swords,open clothes,kneeling on one knee,",
+      "n": ""
+    },
+    {
+      "name": "黄叶下的拔剑",
+      "p": "hanfu,chinese style,ginkgo trees,ginkgo leaf,film grain,pastel colors,holding long sword,from above,looking up,reflection,standing,",
+      "n": ""
+    },
+    {
+      "name": "预备拔刀",
+      "p": "(holding scabbard:1.05),(drawing sword:1.05),katana,(kimono:1.05),tabi,hakama skirt,looking down,(looking away:1.05),(cold expression:1.16),from above,indoors,wooden floor,light particle,detailed kimono,shadow,",
+      "n": ""
+    },
+    {
+      "name": "斩击",
+      "p": "(slashing:1.05),(holding sword:1.16),(katana:1.05),(kimono:1.05),tabi,hakama skirt,(looking at viewer:1.05),(cold expression:1.16),from above,indoors,wooden floor,light particle,detailed kimono,shadow,dynamic pose,motion lines,",
+      "n": ""
+    },
+    {
+      "name": "拔刀蓄力",
+      "p": "1girl,battoujutsu stance,fighting stance,katana,bracer,white background,dust cloud,holding sheath,holding sword,holding weapon,iaidou,ready to draw,sheath,sheathed,sword,motion blur,vignetting,",
+      "n": ""
+    },
+    {
+      "name": "其他版本1 (4)",
+      "p": "1girl,battoujutsu stance,fighting stance,katana,bracer,white background,dust cloud,holding sheath,holding sword,holding weapon,iaidou,ready to draw,sheath,sheathed,sword,motion blur,vignetting,hands over head,",
+      "n": ""
+    },
+    {
+      "name": "搓元气弹（推荐竖图，不是很稳定）",
+      "p": "(glowing balls in air,a huge blue magic ball above girl:1.22),1girl,(genki dama:1.22),(both arms up:1.05),night sky,(glowing lines into the ball:1.16),(floating in air:1.10),dynamic pose,(ray tracing,depth of field:1.10),lightning,",
+      "n": ""
+    },
+    {
+      "name": "原版 (5)",
+      "p": "(too many glowing balls in air,a huge blue magic ball above girl:1.34),1girl,son goku (dragon ball),(genki dama:1.28),(genderswap:1.10),super saiyan,super saiyan blue,blue shirt,bright pupils,cowboy shot,dougi,long hair,open mouth,orange pants,orange tunic,pants,shirt,solo,white pupils,both arms up,full body,night sky,(too many glowing lines into the ball:1.28),(floating in air:1.22),(arms up:1.28),dynamic pose,(ray tracing,depth of field:1.10),night,lightning,(close-up:1.10),(blurry foreground:1.05),",
+      "n": ""
+    },
+    {
+      "name": "落日突袭",
+      "p": "(flaming weapon,combat knife,flaming eye:1.10),cowboy shot,floating hair,looking at viewer,(warm theme:1.05),dark clouds,backlighting,cityscape,glowing eyes,fisheye,outstretched arm,fighting stance,",
+      "n": ""
+    },
+    {
+      "name": "作战规划",
+      "p": "(closed-up:1.10),military uniform,military hat,epaulettes,long sleeves,white headwear,peaked cap,head rest,table,book,round eyewear,pen,hand on own chin,look down,maps,sunset,windows,backlighting,",
+      "n": ""
+    },
+    {
+      "name": "废墟清剿",
+      "p": "(oversize camouflage:1.10),green camouflage,green cape,holding gun,small hat,outdoors,explosion,smoke,debris,(intense:1.05),determined expression,sweat,blood splatter,destroyed building,fire,dust,motion blur,torn clothes,(ripped pantyhose:1.10),aiming at viewer,leg up,pov,standing,from below,expressionless,",
+      "n": ""
+    },
+    {
+      "name": "现代战争",
+      "p": "from side,war,flame,fire,ruin,close-up,soldier,injury,tank,airplane,crowd,bandaged leg,bandaid on face,one eye covered,teeth,mardjan,assault rifle,body armor,camouflage,camouflage jacket,chin strap,combat helmet,cropped torso,green gloves,gun,headphones,holding gun,long sleeves,night vision device,optical sight,plate carrier,rifle,rk62,running,",
+      "n": ""
+    },
+    {
+      "name": "全境封锁",
+      "p": "(realism,photo scene,photo background:1.10),1girl,(fighting:1.10),serious expression,(close-up:1.05),cowboy shot,pointing gun away,aiming,solo,(the division),gas mask,bulletproof vest,jacket,holding assault rifle,scarf,skullcap,city ruins,obstacles,snow,roads,shrubs,snow,night,orange round glowing watch,",
+      "n": ""
+    },
+    {
+      "name": "机娘航空激战",
+      "p": "from above,from side,1girl,(close-up:1.10),(flying,midair,big gun on back,turret:1.16),(puppet:1.05),leaning forward,head up,(joints:1.10),upper body,thrusters,columnar batteries,warcraft armor,glowing armor,red light,terrifying,(hanging breasts,breasts armor:1.05),columnar batteries,dissection,(light particles:1.10),circuit,cable in body,current,wire,screw,(jetpack,mechanical wings:1.10),headset,headgear,backpack,barcode,glowing heart,city,blue fire,looking at viewer,",
+      "n": ""
+    },
+    {
+      "name": "热烈机械天使突击",
+      "p": "headphones,(broken artificial eye:1.05),looking at viewer,close-up,(detached wings:1.22),(mechanical wings:1.05),cable,cable tie,sideboob,crack,red electricity,frilled,(mechanical halo:1.10),mechanical parts,(floating weapon:1.10),broken weapon,city,burning,ruins,(fighting stance,dynamic fuzzy,speed lines,motion lines,speed line,sharp focus,perspective:1.10),fisheye,on ground,fighting stance,punching,constricted pupils,teeth,(fire line,liquid-diet:1.10),(casting spell,magic,energy,hydrokinesis,element bending,(electric current,electrokinesis:1.10),(fading,disintegration,dissolving,binary:1.10),emphasis lines,",
+      "n": ""
+    },
+    {
+      "name": "无人机协同",
+      "p": "allmind,armored core,shiny skin,(asymmetric:1.22),fighting stance,holding assault rifle,beret,cowboy shot,black headwear,thrusters,looking at viewer,red armor,mechanical boots,sideboob,long sleeves,yellow light,wide sleeves,white skirt,frills,frilled sleeves,waist bag,fingerless gloves,mechanical backbag,(drone,wires,cables:1.16),(side shadow,mechanical tentacles:1.16),factory,plants,ruins,(sunbeam,sunlight,shadow,dappled sunlight,light ray,lens flare:1.16),",
+      "n": ""
+    },
+    {
+      "name": "死亡搁浅",
+      "p": "cowboy shot,looking afar,head tilt,mechanical hands,close-up,(transparent glass helmet:1.16),current,gear,warcraft armor,exposed mechanical components,physical terror,thrusters,dissection,glowing,(light particles:1.05),circuit,barcode,straw,mechanical wings,transparent skin,backbag,nature,mountain,fog,black cloud,rain,looking afar,highway,ruin,",
+      "n": ""
+    },
+    {
+      "name": "手枪瞄准",
+      "p": "(gun to viewer:1.28),(gun:1.16),(finger on trigger:1.10),(aiming at viewer:1.10),",
+      "n": ""
+    },
+    {
+      "name": "火力倾泻",
+      "p": "(dynamic feeling,a slashing strike:1.05),(motion blur,motion lines:1.10),(fighting,firing at viewer:1.05),(ray tracing,depth of field:1.10),",
+      "n": ""
+    },
+    {
+      "name": "射靶（推荐横图）",
+      "p": "(shooting competition,target practice:1.5),(holding rifle,aiming,looking through scope:1.4),(steady hands,finger on trigger,tactical posture,focused gaze,concentrated expression:1.3),(one eye closed,pulling back the bolt:1.2),(shooting range,indoor range,firing line:1.5),(shooting bench,ammunition boxes,spent shell casings on floor:1.4),(targets in distance,paper target,wooden partitions:1.3),(dramatic shadows,harsh overhead lighting,chiaroscuro:1.5),(muzzle flash,glowing sparks:1.4),(dust particles in light beams,rim lighting on rifle,cinematic lighting,high contrast:1.3),(volumetric lighting,smoke drifting from barrel,sharp focus:1.2),",
+      "n": ""
+    },
+    {
+      "name": "赌场刺杀",
+      "p": "cowboy shot,upper body,(pov wave,pov:1.05),positive view,grin,(1girl:1.05),(aiming at viewer,pointing the gun at the viewer,aiming at you,revolver:1.22),(sitting at a gambling table,playing cards,hand on chin,spanked:1.10),(leather bunny dress:1.05),casino background,onlookers,a lot of people’s casino,",
+      "n": ""
+    },
+    {
+      "name": "侧向瞄准射击",
+      "p": "(cowboy shot:1.05),pupils focus,sniper rifle,barrett,gun raised,(shooting posture:1.10),(aiming to right:1.10),looking to right,light particles,luminescent particle,blurry,film grain,focused,from side,",
+      "n": ""
+    },
+    {
+      "name": "抵近射击",
+      "p": "holding gun,blue skirt,blue thighhighs,pleated skirt,building,blue footwear,from below,night,earrings,boots,foreshortening,city,looking at viewer,black pantyhose,handgun,closed mouth,outdoors,aiming,aiming at viewer,",
+      "n": ""
+    },
+    {
+      "name": "自阴影中瞄向",
+      "p": "close-up,foreshortening,very dark,shade,smile,shaded face,moonlight,upper body,aiming at viewer,detailed handgun,side-by-side,",
+      "n": ""
+    },
+    {
+      "name": "单膝跪地瞄准",
+      "p": "choker,expressionless,sweat,(holding gun,one knee:1.10),aiming,firing,gun,firearm,pistol,bullet,muzzle,muzzle flash,white sailor suit,pleated skirt,black thighhighs,thigh strap,knee up,street,sweat,",
+      "n": ""
+    },
+    {
+      "name": "匍匐瞄准",
+      "p": "sniper rifle,bipod,on stomach,lying,scope,shell casing,(aiming:1.10),anti-materiel rifle,one side up,black gloves,bullet,holding gun,upside-down,",
+      "n": ""
+    },
+    {
+      "name": "霰弹双持",
+      "p": "(backlighting:1.10),(chromatic aberration:1.22),straight-on,solo,close up,face focus,(x arms:1.10),(shotgun,dual wielding:1.10),shotgun shell,steam,bat,mid night,",
+      "n": ""
+    },
+    {
+      "name": "沙漠突袭",
+      "p": "sniper rifle,camo cloak,tactical gear,scarred face,aiming at target,red laser sight,tactical gloves,mechanical eyepiece,futuristic sniper,high-tech scope,dusty battlefield,limited palette,intense expression,dynamic pose,dramatic lighting,strong depth of field,wind-blown hair,torn fabric,desert landscape,gritty realism,foreshortening,blurred background,dust particles,detailed background,dynamic composition,foreshortening,blurry edges,",
+      "n": ""
+    },
+    {
+      "name": "沙地匍匐狙击",
+      "p": "aiming,armored bodysuit,ass focus,blue sky,blurry,blurry background,bodysuit,brown bodysuit,brown theme,cable,cameltoe,camouflage,combat boots,day,desert,desert camouflage,elbow pads,finger on trigger,gloves,head-mounted display,holding gun,huge ass,knee pads,on stomach,sand,science fiction,scope,shell casing,shoulder pads,skin tight,sniper rifle,thigh pouch,tripod,",
+      "n": ""
+    },
+    {
+      "name": "疾速追杀海报（千夫所指需roll）",
+      "p": "blood,handgun,blood on face,(gun to head:1.16),(many people point guns at the person in the middle:1.22),shirt,black necktie,holding gun,jacket,white shirt,black jacket,solo focus,collared shirt,looking at viewer,blood on clothes,suit,formal,open jacket,upper body,clothes,closed mouth,dark,black background,",
+      "n": ""
+    },
+    {
+      "name": "附带原版",
+      "p": "weapon,gun,necktie,blood,handgun,holding weapon,blood on face,(gun to head:1.16),(many people point guns at the person in the middle:1.22),shirt,black necktie,1girl,holding gun,jacket,white shirt,black jacket,solo focus,collared shirt,looking at viewer,blood on clothes,suit,formal,bangs,open jacket,open,upper body,clothes,closed mouth,dark,black background,",
+      "n": ""
+    },
+    {
+      "name": "激烈对决",
+      "p": "night city,urban landscape,tall buildings,skyscrapers,neon lights,moonlight,street lights,dynamic composition,intense atmosphere,action scene,dramatic lighting,motion blur,sparks,char1：girl,female warrior,chihaya anon,determined expression,combat stance,athletic build,torn clothing,battle damage,wielding energy blade,action pose,attacking,urban night battle,source#slashing,peaceful,static pose,daytime,rural setting,char2：girl,female assassin,kaname raana,glowing eyes,sleek bodysuit,agile build,defensive position,dual wielding daggers,acrobatic dodge,receiving attack,city lights backdrop,target#dodging,casual clothing,standing still,daylight,countryside,",
+      "n": ""
+    },
+    {
+      "name": "机甲操控（触控屏）",
+      "p": "from above,(pilot mask,mask,tube linke mask,covered mouth:2.0),serious,(covered breasts:2.0),1girl,(very sweaty,(narrow waist,slender:1.10),wide hips,(science tubs,tubes on back,tubes on arms,tubes linked machine:1.22),armor,cyborg,(mechanical spine:1.22),mechanical,futuristic,(honeycomb print body:1.48),(purple glowing honeycomb print:1.22),cyberpunk,science fiction,detailed armor,(latex bodysuit:1.41),black and purple latex bodysuit,(legs stuck in machine:3.0),(sitting on seat,spread legs,tap the screen,projection screen in front of girl,projection screen,fingers on screen,control machine:2.0),(indoors,display screen,cab,cockpit,dark background,cramped space:2.0),",
+      "n": ""
+    },
+    {
+      "name": "其他版本1（摇杆）",
+      "p": "from above,(pilot mask,mask,tube linke mask,covered mouth:2.0),serious,(covered breasts:2.0),1girl,(very sweaty,wide hips,(narrow waist,slender:1.10),wide hips,(science tubs,tubes on back,tubes on arms,tubes linked machine:1.22),armor,cyborg,(mechanical spine:1.22),mechanical,futuristic,(honeycomb print body:1.48),(purple glowing honeycomb print:1.22),cyberpunk,science fiction,detailed armor,(latex bodysuit:1.41),black and purple latex bodysuit,(legs stuck in machine:3.0),(sitting on seat,spread legs,driving mech,driving robot,spread arms,two hands holding joystick,trigger:2.0),(indoors,display screen,cab,cockpit,dark background,cramped space:2.0),",
+      "n": ""
+    }
+  ]
+}

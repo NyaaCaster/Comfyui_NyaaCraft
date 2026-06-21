@@ -1,0 +1,495 @@
+{
+  "name": "特殊画面",
+  "options": [
+    {
+      "name": "领域对决（不稳定）（推荐竖图）",
+      "p": "(2girls,looking at another:1.5),(strong diagonal split,heavy ink diagonal slash dividing the image:1.5),dramatic panel separation,manga panel,black and white manga page,action scene,two characters focus,close-up composition,intense atmosphere,close-up shot,dynamic composition,diagonal composition,low angle shot,dramatic perspective,foreground character,background character,overlapping bodies,intense close interaction,cinematic framing,rule of half,char1：girl,messy hair,wide eyes,crazed expression,excited grin,tongue out slightly,detailed hands,prominent hand gesture,right hand and left hand overlapping,index finger touching lips,shushing gesture,hand sign,mudra-like pose,dynamic hand interaction,tense grip,close-up on hands,(face focus:1.5),looking up,looking to the side,char2：girl,sharp eyes,narrowed eyes,smug grin,evil smile,looking up,palms together,hand sign,mudra-like pose,dynamic hand interaction,(face focus:1.5),looking down,looking to the side,",
+      "n": ""
+    },
+    {
+      "name": "枫叶人影",
+      "p": "double exposure,hair double exposure,body double exposure,scenery,1girl,solo,autumn,day,maple tree,",
+      "n": "(face double exposure:1.0),"
+    },
+    {
+      "name": "人物贴纸",
+      "p": "(sticker sheet layout,multiple small poses,white borders around character,die-cut style,scrapbook aesthetic,decorative washi tape,grid paper background:5.0),(precise lineart,clean,lines perfect proportions emphasizing elegant silhouette,line art,flat color:2.0),pastel colors,(saturated colors:1.5),(delicate hues:2.0),(cinematic lighting,volumetric lighting:2.0),",
+      "n": ""
+    },
+    {
+      "name": "长官证件照",
+      "p": "black suit,business suit,white shirt,collared shirt,red tie,formal wear,1girl,solo,half-rim glasses,glasses chain,pupils,gentle smile,looking at viewer,front view,straight posture,bust,closed mouth,id photo,passport photo,red background,solid background,studio lighting,soft lighting,sharp focus,clean lines,subtle makeup,volumetric lighting,breathtaking,",
+      "n": ""
+    },
+    {
+      "name": "紫罗兰几何特效",
+      "p": "1girl,solo,linework,soft lavender and white lineart,purple lineart,colored lineart,glowing lines,(flat color,minimalism:1.5),chromatic aberration,(geometric shapes,square,triangle,overlapping,floating objects:1.2),(halftone background:0.5),(limited palette,soft lavender and white theme,low saturation:2.0),monochrome with accent color,cool colors,cold color palette,(soft lavender monochrome:1.05),(white monochrome:0.95),soft lavender and dove gray background,abstract background,",
+      "n": ""
+    },
+    {
+      "name": "错误数据",
+      "p": "(window (computing) error message,glitch art,glitch,broken body,distortion,digital dissolve,blurry,disappear:3.0),blurry foreground,bokeh,delete,close-up,side by side,",
+      "n": ""
+    },
+    {
+      "name": "浅色分离",
+      "p": "(no line art:2.0),(no lines:2.0),simple style,flat color,human,1girl,(clothes,skirt:1.10),asain skin,pale skin,no eyes,(disintegration,fading,left half body fading:3.0),parting farewell,disintegration,fragmenting,breaking apart,upper body,(no line background:2.0),",
+      "n": ""
+    },
+    {
+      "name": "塔罗牌设计",
+      "p": "flat color,(no lineart:3.0),(limited palette:2.0),pattern,border,vivid colors,paper on face,dynamic pose,upper body,tarot style,fake tarot,tarot:【对应塔罗】,",
+      "n": "(outline:2.0),"
+    },
+    {
+      "name": "设定页面",
+      "p": "gameplay mechanics,id photo,japanese text,clothes,photo (object),character name,chart,status bar,graph,character profile,reference sheet,review,rating,grade,",
+      "n": ""
+    },
+    {
+      "name": "原版杂项",
+      "p": "char1：boy,(another hand,holding dildo,hand on head,forcing,rough,grabbing from behind:1.2),+_+,framed spread pussy,pussy print,",
+      "n": ""
+    },
+    {
+      "name": "铅绘色彩半身",
+      "p": "sketch,rough sketch,lineart,monochrome,yellow theme,pencil sketch,graphite (medium),loose lines,white background,negative space,1girl,upper body,serene face,looking at viewer,from front,orange theme,high contrast,",
+      "n": ""
+    },
+    {
+      "name": "雪花剪影",
+      "p": "silhouette,minimalism,flat color,no lineart,double exposure,limited palette,two-tone background,text:,char1：girl,anime style,light color palette,lift one arm,round image,circle,blush,(snowing,wind,sitting:1.5),",
+      "n": "(text,nude,tall:1.0),"
+    },
+    {
+      "name": "圆形头像（推荐正方图）",
+      "p": "(kazutake_hazano:1.4),(ezu(e104mjd):0.8),(fujiyama:1.1),(cogecha:0.5),(qtonagi:0.5),(dolphro-kun:1.3),very aesthetic,masterpiece,year 2024,year 2025,no text,orginal,fairy tale,comic frame border,(upper body,very aesthetic,masterpiece,no text,3:2.0)chibi,(chibi only:4.0),(sticker style:5.0),white outline,1girl,solo,round image,circle,",
+      "n": "(artist collaboration:4.0),(sticker:2.0),(simple background:1.0),"
+    },
+    {
+      "name": "向日葵油画",
+      "p": "1girl,solo,(dress made of thick oil paint impasto,visible heavy brushstrokes,swirling starry night patterns on fabric,palette knife details,vibrant uneven color mixing,dried paint texture,canvas grain visible underneath:1.5),(frozen in a painting,looking back over shoulder with intense gaze,holding a sunflower,dynamic static pose,hair blending into the painted background swirls,artistic expression:1.4),easel,oil paint tubes,sunflower field,inside an oil painting,vibrant yellow and blue swirling sky,wheat field,artistic style transfer,textured surface,expressive colors,",
+      "n": ""
+    },
+    {
+      "name": "地图探险",
+      "p": "1girl,solo,(fairy style:1.3),(chibi:3.0),(chibi only:4.0),(sticker style:5.0),(white outline:1.5),(white border:1.3),(walking on fantasy map on table:1.5),parchment map,miniature adventurer,(backpack,luggage:1.4),traveler,(bird’s eye view:1.2),looking down,tiny mountains,mini forests,winding roads,flat color,2d,highres,vibrant colors,1girl,chibi,traveler,(carrying large backpack:1.2),walking,looking ahead,adventure outfit,white outline,source#exploring map,antique world map,parchment texture,tiny drawing of castle,miniature trees,mountain peaks,table surface background,white outline,",
+      "n": ""
+    },
+    {
+      "name": "贴纸画册",
+      "p": "(chibi:3.0),(chibi only:3.0),(sticker style:5.0),(white outline:1.5),fairy style,(photo style:2.0),scrapbook,open photo album,scattered polaroids,snapshots,on wooden desk,cluttered desk,stationary,washi tape,(childish doodles,scribbles,marker drawings,cat doodles,hearts and stars:1.2),half image and half text,cozy atmosphere,indoor,morning sunlight,soft bokeh,extremely detailed,cinematic lighting,",
+      "n": ""
+    },
+    {
+      "name": "原版杂项（附带可变成小人表情合集）",
+      "p": "1girl,solo,stretching,rubbing eyes,eating instant noodles,reading,resting chin on hand,washing face,messy hair,sleepy expression,in photos,white outline,",
+      "n": ""
+    },
+    {
+      "name": "羊皮纸手稿",
+      "p": "(open vintage journal page,ancient manuscript layout,single full-body character design sketch,aged parchment paper,handwritten latin marginalia,ink annotations,graphite texture,charcoal hatching:5.0),(sepia ink wash,monochrome style,flat color,no digital gradients:1.5),(standing full body,displaying detailed attire,costume study,fabric texture analysis,front view,surrounded by smaller reference sketches,chest and thigh study,bust and hip and back detail inserts,rear view thumbnail,clothing breakdown diagrams,marginalia sketches:3.2),(macro focus on sketch,wooden desk background,concept art presentation,coarse texture:2.0),(detailed fabric texture on clothing:1.5),full clothing,dressed in original outfit,",
+      "n": "(unrealistic hole in clothing at crotch,awkward nudity,forced exposure,illogical undress,accidental exposure,flashing pussy:1.0),(nude,naked:3.0),"
+    },
+    {
+      "name": "原版服装内容",
+      "p": "(black nun veil with white trim:1.2),(sheer black high-cut nun habit,fully transparent:1.5),(exposed hips and side breasts:1.4),(cleft of venus visible through thin lace:1.3),silver cross necklace,",
+      "n": ""
+    },
+    {
+      "name": "记忆照片回廊",
+      "p": "(five picture frames hanging on wall:1.5),(gallery wall:1.3),indoor background,museum vibe,1girl,solo,back view,watching,fairy style,(chibi:3.0),(chibi only:4.0),(sticker style:5.0),(white outline:1.5),(white border:1.2),magic world inside frame,magic circle,tiny castle,witch hat,sparkles,white outline,modern world inside frame,city skyline,skyscrapers,car,cellphone icon,white outline,cyber world inside frame,neon lights,motherboard patterns,hologram,robot,white outline,cultivation world inside frame,flying sword,chinese pagoda,white clouds,qi aura,white outline,primal world inside frame,mammoth,stone spear,cave painting,bone,bonfire,white outline,",
+      "n": ""
+    },
+    {
+      "name": "寻找伪人",
+      "p": "(monochrome,cyan monochrome,color filter,night vision,cyan monochrome,dark background:2.0),(from above,fisheye,pov peephole,vignetting:1.22),(outdoor,cowboy shot,steam,hot,foreshortening:1.16),",
+      "n": ""
+    },
+    {
+      "name": "人群之中",
+      "p": "solo focus,standing in a bustling crowd,(dynamic crowd in background,blurred motion effect,diverse pedestrians with indistinct faces,wide shot,big scene,(line art,sketch,:3.0)side view,",
+      "n": ""
+    },
+    {
+      "name": "水晶球占卜显示",
+      "p": "1girl,(looking into a crystal ball:1.5),(image within a sphere:1.4),(sleeping in bed:1.3),peaceful expression,serene,(curled up under a thick blanket:1.2),(closed eyes:1.2),(slow,gentle breathing:1.1),(soft moonlight streaming through a window:1.1),miniature bedroom,canopy bed,lace curtains,antique furniture,deep night,(glowing blue light emanating from the crystal ball:1.5),(distorted vision and refracted light inside the sphere:1.4),(soft,focused illumination on the girl within the vision:1.3),volumetric dust motes,full body,lying pose,cinematic,fantasy,magic,scrying,",
+      "n": ""
+    },
+    {
+      "name": "自窗口而来",
+      "p": "(fourth wall:1.10),portrait,art program in frame,window (computing),blue trim,monitor,through medium,(through screen:1.10),inside frame,within frame,",
+      "n": ""
+    },
+    {
+      "name": "明信片",
+      "p": "(postcard:5.0),(vintage postcard:5.0),(chibi:3.0),(chibi only:4.0),(sticker style:5.0),white outline,",
+      "n": "(sticker:2.0),"
+    },
+    {
+      "name": "喷漆色彩",
+      "p": "graffiti,scribble,memphis style,colorful,pop style,realistic,flat color,close shot,from side,alternative costume,light smile,looking at viewer,paint splatter on face,",
+      "n": ""
+    },
+    {
+      "name": "减淡边框",
+      "p": "fading border,border,",
+      "n": ""
+    },
+    {
+      "name": "绘画卖萌照片",
+      "p": "1girl,(polaroid photo,written text:2.6),drawn ears,:q,beret,black hat,black skirt,drawn ears,long sleeves,looking at viewer,notice lines,solo,tongue out,upper body,white bow,white bowtie,white shirt,cute inset,drawn tail,",
+      "n": ""
+    },
+    {
+      "name": "淡漠人影",
+      "p": "(close up,solo,portrait,6:5.0)monochrome,colorless,(cover art,magazine cover,ink wash painting:2.0),(shadow,shadow on background:1.5),(noise,cropped torso,5:5.0)messy draft,(draft:5.0). (sketch:5.0) (messy lines,:5.0)(partially colored,:5.0),white background,1simple background,",
+      "n": ""
+    },
+    {
+      "name": "人物极简设计",
+      "p": "1girl,head only,portrait,faceless,shadow,three-dimensional effect,cropped torso,white background,around neck,solo,circle,minimalist logo design,white background,white silhouette of a girl,vector style,no gradient,clean lines,abstract pattern,balanced design,modern,aesthetic symmetry,flat vector illustration,graphic design,logo,decorative ring,jewelry,iris flowers,",
+      "n": ""
+    },
+    {
+      "name": "其他版本1",
+      "p": "(dynamic:3.0),(expressive:5.2),(foreshortening:0.5),(blending:2.2),faceless,ethereal,silhouette,flower,bust,minimalist style,floral elements,minimalistic,visual design,character name text,accurate features,digital art,text:（请输入文本）,",
+      "n": "(vibrant:1.0),"
+    },
+    {
+      "name": "其他版本2",
+      "p": "vibrant,(expressive:5.2),(foreshortening:0.5),(blending:0.2),impossible clothes,dragon theme,faceless,ethereal,silhouette,bust,(minimalist style,floral elements,minimalistic,visual design,accurate features,digital art,text:（请输入文本）|:2.0),(fonts art,big text:2.0),colorful text,",
+      "n": "(dynamic:3.0),(simple background:2.0),"
+    },
+    {
+      "name": "广场荧幕之上",
+      "p": "1girl,solo,looking over shoulder,looking back,surprised,awe,standing,turning,mid-turn,dynamic posecityscape,bustling city street,times square,neon signs,giant electronic billboard,giant screen,crowd,blurred background,traffic,night,dramatic lighting,cinematic lighting,neon glow,reflections on wet pavement,lens flare,bokeh,high contrast,character projection on billboard,from behind,full body,wide shot,purple theme,",
+      "n": ""
+    },
+    {
+      "name": "操控人偶",
+      "p": "puppet strings,blurry background,solo focus,puppet strings,marionette,indoors,char1：girl,bowing,ascot,brooch,cape,closed mouth,collared shirt,infinity symbol,tie clip,top hat,on table,mini girl,char2：huge hand,puppet rings,controlling,wrist cuff,",
+      "n": ""
+    },
+    {
+      "name": "画框双生",
+      "p": "back to back,distant view,flowers,cover,upper body,from the side,dual color background,cover,red background,water green background,spot color,gold cover,forward view,character silhouette,character shadow,white border,tarot card cover,char1：girl,char2：girl,",
+      "n": ""
+    },
+    {
+      "name": "原版服装",
+      "p": "char1：open sleeves,white dress,off shoulder,pleated skirt,white stockings,(white boots:1.2),side open,(black cloak:1.5),black bow,white headband,hat bow,(white witch hat:1.6),char2：slit pupils,ascot,black feather,with a maga staff,blue bow,closed mouth,hat bow,messy hair,witch hat,blue sash,blue doodle,cold face,wavy hair,bare shoulder,black lolita dress,black skirt,black fingerless glove,",
+      "n": ""
+    },
+    {
+      "name": "撕破图层（需roll）",
+      "p": "1girl,looking at viewer,(page tear:1.28),(revealing layer:1.28),",
+      "n": ""
+    },
+    {
+      "name": "极简风格",
+      "p": "(artist:nikov,black theme,(minimalism,1.1:5.0)artist:maskin_mei,artist:sskitaco,artist:,ccxvi_201116,0.2:2.0)artist:topu,year 2024,white background,year 2024,black theme,1.5logo,minimalism,upper body,silhouette,rezami,nikov,english text,text:（此处填写自己想要的英文）,",
+      "n": ""
+    },
+    {
+      "name": "复古贴纸",
+      "p": "(chibi:2.0),(crayon line:0.3),(thick line:0.6),(high saturation:1.2),(white background:1.3)(solo:5.0),(upper body,no text,4:2.0)chibi only,(sticker style:5.0),white outline,(postcard:5.0),(vintage postcard:5.0),",
+      "n": "(sticker:2.0),"
+    },
+    {
+      "name": "自身之影",
+      "p": "5girls,arms at sides,clone,closed eyes,closed mouth,empty eyes,expressionless,facing viewer,gradient background,head tilt,looking at viewer,multiple girls,odd one out,smile,standing,staring,cowboy shot,",
+      "n": ""
+    },
+    {
+      "name": "掌中人",
+      "p": "(sketch,in palm,multiple hands,giant hands,pale hands:1.16),",
+      "n": ""
+    },
+    {
+      "name": "破碎之外",
+      "p": "1girl,grabbing border,face focus,dutch angle,peeking,covered mouth,portrait,formalism (art),abstract,minimalism,graphic (style),cropped frame,fragmented,deconstructed,cut-off,geometric shapes,abstract background,simple background,lines,limited palette,monochrome,glitch,glitch art,",
+      "n": ""
+    },
+    {
+      "name": "故障剪影",
+      "p": "silhouette art,glitch art,virtual,colored shadow,geometry,monochrome,local color adaptation,",
+      "n": ""
+    },
+    {
+      "name": "溶于背景",
+      "p": "1girl,(blending:2.0),light smile,looking at viewer,open mouth,red background,solo,straight-on,upper body,",
+      "n": ""
+    },
+    {
+      "name": "与猫俱黑",
+      "p": "1girl,black background,black cat,(blending:1.5),covered mouth,looking at viewer,solo,upper body,",
+      "n": ""
+    },
+    {
+      "name": "淡去边缘",
+      "p": "(sketch watercolor painting,soft color palette,line art,soft shading,faded edges,partial fade out:2.0),",
+      "n": ""
+    },
+    {
+      "name": "涂鸦背景",
+      "p": "flat background,red background,white background,two tone background,graffiti,",
+      "n": ""
+    },
+    {
+      "name": "原版",
+      "p": "1girl,black tanktop,red jacket,red skirt,black pantyhose,abs,exposed shoulders,katana,action pose,sinister smile,full body,dynamic pose,foreshortening,extreme perspective,low angle.((flat background,red background,white background,two tone background,graffiti,",
+      "n": ""
+    },
+    {
+      "name": "黑白城市背景",
+      "p": "cityscape,black and white background,line art buildings,detailed city skyline,colorful character,full color character,anime style,dynamic pose,high contrast,vibrant colors on character,monochrome city,architectural details,modern city,urban landscape,clean lines,bold outline,minimalistic background,stylized city,focus on character,detailed background,anime aesthetics,comic style,",
+      "n": ""
+    },
+    {
+      "name": "城市之影",
+      "p": "1girl,solo,silhouette,double exposure,multiple exposure,character’s silhouette perfectly blended and overlapping with city scene,city view,urban impression,bridge,profile,",
+      "n": ""
+    },
+    {
+      "name": "其他版本1 (2)",
+      "p": "1girl,solo,silhouette,profile,thoughtful expression,melancholic mood,double exposure,multiple exposure,character’s silhouette perfectly blended and overlapping with a city scene,city view,urban impression,european city,architecture,cathedral,bridge,river,streetlights,bustling city,crowd,cinematic lighting,bright colors,desaturated,black and white with hints of color,high contrast,film grain,light bloom,lens flare,god rays,atmospheric lighting,surrealism,artistic,perfect composition,ethereal,high-fashion aesthetic,",
+      "n": ""
+    },
+    {
+      "name": "菱形背景",
+      "p": "upper body,cropped torso,ornate border,argyle background,",
+      "n": ""
+    },
+    {
+      "name": "领奖背景",
+      "p": "sofmap background,",
+      "n": ""
+    },
+    {
+      "name": "波西米亚狂想曲封面（不稳定）",
+      "p": "(bohemian rhapsody,parody,album cover:1.28),(shaded face,cropped torso,crossed arms,looking at viewer:1.16),CD封面,1girl,cowboy shot,(music album cover:1.10),english text,japanese text,(2010s style:1.10),year 2013,year 2014,trance music,music,headphone,idol clothes,idol dress,",
+      "n": ""
+    },
+    {
+      "name": "趴在画框上",
+      "p": "arm rest,blue curtains,closed eyes,closed mouth,head rest,head tilt,picture frame,sleeping,upper body,white bird,",
+      "n": ""
+    },
+    {
+      "name": "狙击镜瞄准",
+      "p": "(sniper scope view:1.16),(pov:1.05),from sniper s perspective,(reticle:1.10),(crosshairs:1.05),mil-dot,red dot sight,telephoto,magnification,focus on target,1boy,target in sight,standing,",
+      "n": ""
+    },
+    {
+      "name": "通缉令",
+      "p": "wanted poster,western style,vintage typography,sepia tone,aged parchment,retro aesthetic,soft shading,text: $100 reward,",
+      "n": ""
+    },
+    {
+      "name": "现实之手拉裙子（看画风，不稳定）",
+      "p": "1girl,1other,(2interactive media,fourth wall,photo background,blurry background,paper cutout,character cutout,realistic,photorealistic,artist’s hand in frame:1.16),full body,skirt tug,sideways glance,looking back,maid apron,tears,figure stage,lifting another’s clothes,skirt lift,",
+      "n": ""
+    },
+    {
+      "name": "其他版本1 (3)",
+      "p": "1girl,1other,char1：girl,simple dress,dress tug,(paper child,papercraft (medium),interactive media,monochrome:3.0),Full body,embarrassed,blush,humiliation,assisted exposure,forced exposure,uncensored,char2：artist’s hand in frame,interactive media,undressing another,",
+      "n": ""
+    },
+    {
+      "name": "剪纸现实拼接（看画风，不稳定）",
+      "p": "outdoors,flower field,cloudy sky,photo background,blurry background,cowboy shot,2papercraft (medium),paper cutout,artist’s hand in frame,artist’s hand holding paper cutout,double exposure dress,background print dress,blending,optical illusion,photo (medium),traditional media,",
+      "n": ""
+    },
+    {
+      "name": "水潭反射",
+      "p": "(water reflection:1.10),(puddle:1.05),1girl,(school uniform:1.05),sailor collar,pleated skirt,panty shot,white panties,thick thighs,from below,(upside-down:1.05),looking at viewer,(reflection in puddle:1.05),(sky reflection:1.05),blue sky,clouds,feet only,shoes,loafers,asphalt,street,from above,ripples in water,floating petals,sakura,",
+      "n": ""
+    },
+    {
+      "name": "积水倒影",
+      "p": "1girl,(weary expression:1.05),(looking down at puddle:1.05),squatting,on wet asphalt,street,after rain,(dark clothes:1.10),hoodie,sneakers,lonely,melancholic,somber,(eflection in water:1.05),(reflection of a different face:1.05),(in reflection:1.22),(in reflection: 1girl,child,innocent smile,happy expression,sparkling eyes,looking up at viewer,sky,clouds:1.05),(contrast between character and reflection:1.05),ripples in water,floating leaves,depth of field,vibrant colors in reflection,muted colors in reality,",
+      "n": ""
+    },
+    {
+      "name": "其他版本1 (4)",
+      "p": "1girl,reflection,puddle,water ripple,holding umbrella,walking,rain,rainy day,wet street,blurry,abstract,impressionism,watercolor (medium),melancholy,solitude,grey sky,colorful reflection,conceptual,cherry blossom,",
+      "n": ""
+    },
+    {
+      "name": "边框背景",
+      "p": "white border,floating hair,red background,red theme,outline,sideways glance,",
+      "n": ""
+    },
+    {
+      "name": "游戏界面",
+      "p": "perspective,foreshortening,(pixel art:1.05),(neon palette:1.05),(fake screenshot:1.16),(gameplay mechanics:1.05),health bar,dialogue box,(dialogue options:1.05),",
+      "n": ""
+    },
+    {
+      "name": "设定集",
+      "p": "ray tracing,(infographic:1.16),patent drawings,physical measurement,all clothes configuration,stationery,standing,cohesive background,character sheet,pencil sketch,sketch,",
+      "n": ""
+    },
+    {
+      "name": "其他版本1（画风受限）",
+      "p": "(infographic:1.16),character sheet,clothing disassembly,indicators,reference sheet,character chart,",
+      "n": ""
+    },
+    {
+      "name": "其他版本2 (2)",
+      "p": "1girl,solo,(character design:1.05),multiple viewpoints,",
+      "n": ""
+    },
+    {
+      "name": "表情包",
+      "p": "chibi,meme,eta,naga u,xinzoruo,year 2024,close-up,(white background:1.10),(upper body:1.16),close-up,",
+      "n": ""
+    },
+    {
+      "name": "绘画多视角/多画风/多表情/多状态表格",
+      "p": "6+girls,followers favorite challenge,multiple drawing challenge,multiple girls,upper body,white background,",
+      "n": ""
+    },
+    {
+      "name": "手游立绘展示",
+      "p": "(zoom layer:1.16),(multiple views,expression chart:1.10),(introduction sheet:1.10),",
+      "n": ""
+    },
+    {
+      "name": "单角色多表情草稿差分",
+      "p": "1girl,solo,sketch,parially colored,looking at viewer,zoom layer,multiple views,cowboy shot,cropped legs,cropped torso,upper body,smile,serious,glare,grimace,surprised,",
+      "n": ""
+    },
+    {
+      "name": "人物肖像",
+      "p": "upper body,portrait,looking at viewer,slight smile,elegant dress,(picture frame:1.10),(ornate frame:1.16),gilded frame,lace border,frilled border,thick application,painterly style,digital painting (artwork),concept art,illustration,baroque interior,library background,bookshelves,dust particles,stained glass window,",
+      "n": ""
+    },
+    {
+      "name": "杂志封面表示",
+      "p": "(zoom layer:1.16),multiple views,(magazine cover:1.10),",
+      "n": ""
+    },
+    {
+      "name": "推特照片（不算稳定）",
+      "p": "fake screenshot,(twitter:1.10),",
+      "n": ""
+    },
+    {
+      "name": "电脑屏幕（疑似受限画风）",
+      "p": "(glory wall,through screen:1.16),(through wall:1.10),(monitor screen:1.10),",
+      "n": ""
+    },
+    {
+      "name": "手机屏幕",
+      "p": "from outside,looking at viewer,steam,close-up,(giant phone,phone screen,taking picture:1.41),(in screen,pov hand,holding phone:1.16),in container,black phone,",
+      "n": ""
+    },
+    {
+      "name": "瓶中人",
+      "p": "1girl,solo,looking at viewer,open mouth,sitting,full body,bin container,full body inside the container,jar,bottle,flower,minigirl,",
+      "n": ""
+    },
+    {
+      "name": "人设背景",
+      "p": "looking at viewer,toga,black,white,framed,pattern design,trim,jewelry,music,two-tone background,border,text,",
+      "n": ""
+    },
+    {
+      "name": "画框中人",
+      "p": "close-up,upper body,(holding a white picture frame:1.10),front,",
+      "n": ""
+    },
+    {
+      "name": "直播间",
+      "p": "(text,chat log,livestream,danmaku comments:1.16),90年代的轮船照片,(grey scale:1.10),(dark:1.10),wharf,steam,ship,dutch angle,cinematic angle,",
+      "n": ""
+    },
+    {
+      "name": "抱枕双面（含r18注意）",
+      "p": "角色tag+,arm up,armpits,ass,back,bare legs,barefoot,bed sheet,breasts,censored,dakimakura (medium),grabbing own breast,groin,looking at viewer,lying,median furrow,multiple views,official alternate costume,on back,on stomach,sheet grab,soles,sweat,toes,",
+      "n": ""
+    },
+    {
+      "name": "人物痛车（疑似受限画风,用已有角色效果更佳,需roll）",
+      "p": "(itasha:1.34),(girl picture:1.16),decal,(car,vehicle focus:1.10),no human,close-up,from above,nude photos,size difference,(no human:1.05),big car,mini girl,",
+      "n": ""
+    },
+    {
+      "name": "气泡解体（不算稳定，看画师）",
+      "p": "(quadruple amputee dissolving:1.28),(hands dissolving:1.28),(body dissipate:1.10),(body fading into bubble:1.10),(many bubble:1.16),(no legs:1.16),",
+      "n": ""
+    },
+    {
+      "name": "身体融化（不稳定）",
+      "p": "purple background,upper body,evil smile,looking at viewer,(cropped torso:1.41),(melting:1.41),ink,",
+      "n": ""
+    },
+    {
+      "name": "消散",
+      "p": "colorful,(dissolving,digital dissolve:1.05),cowboy shot,(cinematic lighting,shadow,light rays,backlighting:1.05),",
+      "n": ""
+    },
+    {
+      "name": "方块崩解",
+      "p": "monster girl,(fading,disintegration,dissolving,binary:1.10),from above,from side,cracked body,(digital dissolve,disintegration skin,disintegration girl,digital dissolve skin:1.10),petrification,burning hair,gradient hair,close-up,(a lot of cubes,cubes in skin,black cubes,body of cubes:1.10),floating object,transformation,henshin,light particles,gradation skin,ruins,night,",
+      "n": ""
+    },
+    {
+      "name": "其他版本",
+      "p": "cracked body,(machine skin:1.10),(digital dissolve:1.16),(disintegration skin:1.28),(disintegration girl:1.05),(digital dissolve skin:1.22),(a lot of cubes,cubes in skin,black cubes,body of cubes:1.10),floating object,transformation,light particles,gradation skin,",
+      "n": ""
+    },
+    {
+      "name": "其他版本 (2)",
+      "p": "cowboy shot,see-through body,energy drain,naked,looking up,expressionless,amputee,monster girl,(fading:1.05),(disintegration:1.05),(dissolving:1.05),(binary:1.05),dynamic angle,cracked body,(digital dissolve:1.05),(disintegration skin:1.05),(disintegration girl:1.05),(digital dissolve skin:1.05),petrification,burning hair,gradient hair,close-up,(a lot of cubes:1.05),(cubes in skin:1.05),(black cubes:1.05),(body of cubes:1.05),floating object,transformation,henshin,light particles,gradation skin,ruins,night,",
+      "n": ""
+    },
+    {
+      "name": "火焰分解",
+      "p": "burning,fire,dark,(dissolving body,disintegration:3.0),tearing up,profile,from side,upper body,close-up,looking ahead,",
+      "n": ""
+    },
+    {
+      "name": "错误删除",
+      "p": "error message,film grain,double exposure,distortion,chromatic aberration,heavy chromatic aberration,warning sign,pixelated,glitch,digital dissolve,dissolving clothes,missing limb,",
+      "n": ""
+    },
+    {
+      "name": "散于空中",
+      "p": "dissolving,digital dissolve,dissolving into particles,fading away,disintegration,dissolving clothes,particle effects,glitch,distortion,(fading:1.05),(from side,profile:0.86),full body,upside-down,curl up,midair,floating,flying,falling,dissolving clothes,outdoors,scenery,horizon,skyline,city,cityscape,skyscraper,building,grey sky,cloudy sky,day,overcast,cloud,wind,limited palette,",
+      "n": ""
+    },
+    {
+      "name": "虚实空间",
+      "p": "glitch,fading,dark,digital dissolve,glitch censor,soft focus,floating ribbon,heavy film grain,film grain,outdoors,grey theme street,day,grey sky,shards,bloom,diffraction spikes,",
+      "n": ""
+    },
+    {
+      "name": "过量数据四散",
+      "p": "red and black theme,dissolving,digital dissolve,disintegration,dissolving clothes,particle effects,glitch,distortion,{fading,disintegration,dissolving,(binary:1.05),",
+      "n": ""
+    },
+    {
+      "name": "数据删除",
+      "p": "(merging bodies:5.0),(digital dissolve:3.0),(bisected:3.0),",
+      "n": ""
+    },
+    {
+      "name": "其他版本1 (5)",
+      "p": "1girl,solo,security camera angle,multi panel split,pixel sorting,datamosh effect,glitch art,digital distortion,low resolution,noise static,cybernetic fragmentation,corrupted data,technological abstract,",
+      "n": ""
+    },
+    {
+      "name": "其他版本2 (3)",
+      "p": "solo focus,invisible,disappearance outline,midair,vanishing point,wide shot,cyberpunk,flat holographic monitor,digital dissolve,error message,fading,",
+      "n": ""
+    },
+    {
+      "name": "裙下裂解（不稳定）",
+      "p": "cowboy shot,close-up,facing down,lifting own clothes,skirt lift,(dissolving,dissolving legs,digital dissolve,disintegration,cracked skin:0.91),gothic style,victorian-inspired dress,layered skirt,white and black color scheme,dark,high collar,black collar,lace trim,puffed sleeves,long skirt,gloves,stylish accessories,gothic accessories,choker,ornate patterns,elegant,detailed,intricate,mysterious,dramatic,expressionless,light background,dreamlike,chaos,bright colors,multi-colored,color contrast,bloom,overexposure,",
+      "n": ""
+    }
+  ]
+}

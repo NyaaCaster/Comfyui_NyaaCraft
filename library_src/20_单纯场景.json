@@ -1,0 +1,280 @@
+{
+  "name": "单纯场景",
+  "options": [
+    {
+      "name": "林间神社",
+      "p": "scenery,outdoors,rural japan,deep forest,woods,ancient trees,narrow path,animal trail,overgrown path,grass,weeds,nature,sunset,twilight,evening,orange sky,intense shadows,backlight,lens flare,gloomy,eerie,ominous,mysterious,atmospheric,humidity,summer,concept art,depth of field,(shinto shrine elements:0.91),(shimenawa:0.91),broken fence,warning sign,looking into the distance,vanishing point,solitude,melancholic,dynamic angle,depth of field,high contrast,colorful,detailed light,light leaks,beautiful detailed glow,best shadow,shiny skin,cinematic lighting,ray tracing,from above,female focus,close-up,dutch angle,",
+      "n": ""
+    },
+    {
+      "name": "余晖浪涌",
+      "p": "scenery,no human,abstract,surrealism,ocean,beach,shoreline,white sand,wet sand,breaking waves,sea foam,bubbles,intricate details,amber color,glowing amber liquid,reflection,heavy rain,pouring rain,dark sky,gloomy,storm,water ripples,splashing,cinematic lighting,dramatic lighting,contrast,macro,close-up,depth of field,low angle,water level,melancholic,fragile,fading,",
+      "n": ""
+    },
+    {
+      "name": "黄昏阳台",
+      "p": "wide shot,(no lineart:2.0),outdoors,night,grey sky,high up,city lights,skyline,cityscape,skyscraper,blurry background,photorealistic,atmospheric perspective,film grain,window,window blinds,potted plant,",
+      "n": ""
+    },
+    {
+      "name": "网格背景摄影",
+      "p": "(photo (object),picture frame:2.0),solo,facing at viewer,smile,wink,head tilt,hand on ear,(upper body:1.2),close up,closed mouth,book,cropped legs,painting (object),drawing (object),(plaid background:2.0),",
+      "n": ""
+    },
+    {
+      "name": "原版服装",
+      "p": "long sleeves,jewelry,school uniform,white shirt,earrings,pleated skirt,frills,collared shirt,grey bow,plaid bowtie,grey ribbon,wallet,black bow,blue bow,plaid skirt,cardigan,frilled skirt,blue ribbon,frilled sleeves,grey skirt,school bag,blue bowtie,handbag,jacket on shoulders,camera,pink jacket,holding bag,brown coat,plaid bow,",
+      "n": ""
+    },
+    {
+      "name": "阳光洒落教室",
+      "p": "no human,sunlight,day,smoke,dappled sunlight through smoke,mist,cowboy shot,moving moment,winds blow,school,classroom,indoor,",
+      "n": ""
+    },
+    {
+      "name": "小镇小巷",
+      "p": "no human,outdoors,narrow street,alley,stone alley,cobblestone,stone pavement,stone steps,stairway,ascending stairs,mediterranean architecture,old buildings,stone walls,rustic walls,window,shuttered windows,balconies,flower pots,potted plants,climbing plants,greenery,ivy,sunlight,sunlit,warm light,shadow play,strong shadows,hanging flag,fabric flag,european street,historical town,charming alley,cozy street,picturesque,serene atmosphere,summer afternoon,calm mood,golden light,cinematic lighting,",
+      "n": ""
+    },
+    {
+      "name": "破旧学校",
+      "p": "indoors,discarded school,(blood:1.10),ruins,(corridor:0.95),windows,blackboard,dark,growing plant,",
+      "n": ""
+    },
+    {
+      "name": "杯中海滨",
+      "p": "beach,black background,cloud,cloudy sky,cup,double exposure,no humans,ocean,orange sky,outdoors,palm tree,purple background,scenery,star (symbol),sunset,tree,two-tone background,water,waves,",
+      "n": ""
+    },
+    {
+      "name": "埃及沙漠",
+      "p": "desert pyramid,palm trees,oasis,",
+      "n": ""
+    },
+    {
+      "name": "雨暗房间",
+      "p": "rain,windows,dim lighting,(dark:1.05),building,window,windowsill,indoors,water on grass,cowboy shot,closed window,cityscape,in livingroom,vines,",
+      "n": ""
+    },
+    {
+      "name": "林中鹿灵",
+      "p": "deer,reclining,elk in forest,huge elk,enchanted forest,ivy-covered tree trunks,crystal meadow grass,(ethereal glow:1.10),antler moss growth,forest spores glow,dew on fur,soft bokeh,cloven hooves,veined leaf textures,whispering wind effect,pollen drift,sunlight through canopy,front view,wide shot,landscape,panorama,",
+      "n": ""
+    },
+    {
+      "name": "宫殿内",
+      "p": "in palace,stone pillar,marble (stone),chandelier,candle,",
+      "n": ""
+    },
+    {
+      "name": "神龙降临",
+      "p": "(narrative-rich composition:1.16),outdoors,horns,multiple boys,day,dated,fire,building,scenery,flying,6+boys,city,fantasy,cityscape,architecture,east asian architecture,crowd,eastern dragon,people,breathing fire,pagoda,",
+      "n": ""
+    },
+    {
+      "name": "傍晚城镇",
+      "p": "lighting,building,cloud,cloudy sky,fence,house,lamppost,lantern,mountain,mountainous horizon,night,night sky,no humans,outdoors,plant,power lines,railing,scenery,sensitive,sky,star (sky),starry sky,sunset,tanabata,tree,utility pole,wind chime,",
+      "n": ""
+    },
+    {
+      "name": "遗迹残余",
+      "p": "floating,ruins,pillar,greco-roman architecture,overgrown,bush,water,flower,bird,cloudy sky,cloud,starry sky,blue sky,horizon,wind,light particlestachie,detailed light,glowing,light rays,wide shot,strong contrast,fantasy,",
+      "n": ""
+    },
+    {
+      "name": "天外楼阁",
+      "p": "starry sky,space,sci-fi,universe,scenery,floating chinese temples in background,fantasy,floating,cold color,lens flare,light particles,light ray,light and shadow,sunlight,yellow theme,warm color,atmospheric haze,shallow depth of field,",
+      "n": ""
+    },
+    {
+      "name": "浪潮",
+      "p": "indoors,huge french window,day,dappled sunlight,traditional building,(stary print:1.63),close-up,face focus,sitting,walking,waves,wind,(glistening light of waves:1.16),(detailed sunset glow:1.05),(floating flow:1.05),(coral:1.10),(luminous:1.05),coast,(floating colorful bubbles:1.05),beautiful detailed sky,(fluorescence:1.05),detailed shadow,(conch:1.05),beautiful detailed water,starfish,meteor,rainbow,(seabirds:1.05),(glinting stars:1.05),(glowworm:1.05),(splash:1.05),detailed cloud,shell,(fireworks:1.05),ink,{rose,greyscale,no shadow,bright skin,(classicism:1.10),(watercolor(medium):1.10),(oil painting:1.10),colorful shadow,colorful reflective,",
+      "n": ""
+    },
+    {
+      "name": "街头集市",
+      "p": "market,telephone pole,from above,rain,apple,banana,street,awning,raincoat,foreshortening,umbrella,",
+      "n": ""
+    },
+    {
+      "name": "街边餐馆",
+      "p": "awning,hanging plant,menu board,patio chair,potted plant,",
+      "n": ""
+    },
+    {
+      "name": "午夜小巷",
+      "p": "alley,(before nightclub door,viewer see-through window:1.05),neon lights,",
+      "n": ""
+    },
+    {
+      "name": "咖啡店街景",
+      "p": "outside,outdoor,western country,road,western building,1900s,coffee shop,reflection,no human,",
+      "n": ""
+    },
+    {
+      "name": "其他版本",
+      "p": "street,storefront,shop,door,potted plant,flower,windowsill,argyle,",
+      "n": ""
+    },
+    {
+      "name": "公路室内",
+      "p": "animal balloon,bicycle,brick wall,car,cityscape,falling leaves,ladder,lamppost,phone booth,railing,road sign,sidewalk,sunlight,trash bag,against railing,trash can,bench,",
+      "n": ""
+    },
+    {
+      "name": "卧室/旅馆",
+      "p": "hotel room,big bed,no humans,",
+      "n": ""
+    },
+    {
+      "name": "秋冬交接",
+      "p": "(scenery,tree,outdoors,(snow,autumn,mountain,veranda:1.05),sunset,winter,autumn leaves,sky,leaf,water,(wide shot:1.05),cloud:1.05),east asian architecture,",
+      "n": ""
+    },
+    {
+      "name": "秋日温泉",
+      "p": "nude,towel,onsen,night,autumm,bottle,full moon,mid-autumm,firefly,steam,cloud,bamboo,falling leaves,",
+      "n": ""
+    },
+    {
+      "name": "其他版本 (2)",
+      "p": "yukata,night,night sky,onsen,fetal position,steam,wet,looking at viewer,",
+      "n": ""
+    },
+    {
+      "name": "笼中花蝶",
+      "p": "butterfly ornament,cage,cherry blossoms,no humans,pink flower,red flower,spider lily,still life,tassel,transparent background,",
+      "n": ""
+    },
+    {
+      "name": "甲上蝴蝶",
+      "p": "armor,black background,butterfly,butterfly on hand,close-up,gauntlets,hand focus,invisible,metal,own hands together,solo,white butterfly,",
+      "n": ""
+    },
+    {
+      "name": "附带原tag的一堆质量光效词",
+      "p": "movie tonal,cinematic shot,blowing wind,dynamic hair,dynamic perspective,dynamic angle focus,pose variation,cinematic lighting,",
+      "n": ""
+    },
+    {
+      "name": "火焰之爪",
+      "p": "(hand focus:1.22),(foreshortening:1.16),close-up,bright color,(sharp nails:0.95),dramatic perspective,glowing tattoo,flame from finger,from side,straight arm,flame print,claw pose,",
+      "n": ""
+    },
+    {
+      "name": "废墟鸟居",
+      "p": "building,from behind,neon trim,outdoors,reflection,ruins,scenery,standing,torii,water,",
+      "n": ""
+    },
+    {
+      "name": "乡下铁轨",
+      "p": "outdoors,sky,bird,grass,poster (medium),creature,railroad crossing,mountain,butterfly,lake,streetcar,",
+      "n": ""
+    },
+    {
+      "name": "天将启明",
+      "p": "sunraise,polar lights,forest,snow,(ruins:1.05),star(sky),bird,mountain,boat,flower,river,",
+      "n": ""
+    },
+    {
+      "name": "海外夕阳",
+      "p": "expressionless,against backlight at dusk,ocean,",
+      "n": ""
+    },
+    {
+      "name": "城市夕阳",
+      "p": "sunset,gazing,city skyline,dusk,no humans,",
+      "n": ""
+    },
+    {
+      "name": "多年城市废墟",
+      "p": "stage,light,abandoned,bird,day,dilapidated,escalator,indoors,moss,no humans,overgrown,post-apocalypse,railing,ripples,ruins,rust,sunlight,tree,water,",
+      "n": ""
+    },
+    {
+      "name": "废城室内",
+      "p": "stage,light,abandoned,day,dilapidated,escalator,indoors,moss,overgrown,post-apocalypse,railing,ripples,ruins,rust,sunlight,tree,water,",
+      "n": ""
+    },
+    {
+      "name": "丛林遗迹",
+      "p": "(abstract art:0.91),eye pattern,eye monster,moss,forest,black liquid,wetland,vine,black rock,glowing rock,green runes,pattern design,relics of ancient civilization,tower,dark,light,",
+      "n": ""
+    },
+    {
+      "name": "入夜废区",
+      "p": "outdoors,sky,cloud,blurry,night,depth of field,cloudy sky,building,star (sky),scenery,motor vehicle,starry sky,city,car,road,ruins,lamppost,power lines,street,",
+      "n": ""
+    },
+    {
+      "name": "雨中霓虹",
+      "p": "heavy raining,light leaks,moonlight,(neon lights:1.10),cinematic lighting,frowing,straight on,street,ray tracing,bokeh,blurry foreground,backlight,",
+      "n": ""
+    },
+    {
+      "name": "瀑布流水",
+      "p": "branch,from behind,full body,outdoors,solo,standing,torii,water,waterfall,wide shot,",
+      "n": ""
+    },
+    {
+      "name": "城堡",
+      "p": "【official art,chromatic aberration,lens flare,blurry background,photo-referenced,shadow,miv4t,original,commentary,english commentary,highres,geometry,grey border,landscape,border】（画质词）,castle,cloud,cloudy sky,day,field,floating,fog,mountainous horizon,no humans,outdoors,pinwheel,scenery,sky,stairs,steeple,tower,day and night,split theme,",
+      "n": ""
+    },
+    {
+      "name": "其他版本 (3)",
+      "p": "wide shot,no humans,castle,cloud,cloudy sky,day,field,floating,fog,mountainous horizon,pinwheel,sky,stairs,steeple,tower,day and night,split theme,",
+      "n": ""
+    },
+    {
+      "name": "城堡 (2)",
+      "p": "scenery,outdoors,no humans,tree,sky,cloud,snow,mountain,rain,water,reflection,castle,building,cloudy sky,nature,lake,tower,forest,pine tree,a grand scene,a frozen world,beautiful colors,unbelievable quality,castle in the rain,terrifying atmosphere,from above,",
+      "n": ""
+    },
+    {
+      "name": "夜晚灯火",
+      "p": "1girl,solo,bare shoulders,paper lantern,wind,sky,own hands together,cloud,outdoors,glowing,floating hair,profile,gem,sunset,cloudy sky,starty sky,balcony,night sky,evening,brightly lit street in the distance,distant streets,light particles,luminescent particle,【blurry,vignetting,caustics,chromatic aberration,depth of field,motion blur,blurry foreground,blurry background,bokeh,shadow,reflection,pov,film grain,focused】（画质词）,",
+      "n": ""
+    },
+    {
+      "name": "月下白花",
+      "p": "dynamic angle,ray tracing,night,glow,blue moon,cloud,(white flowers:1.05),petals,butterflies,light particles,",
+      "n": ""
+    },
+    {
+      "name": "花海1",
+      "p": "floral background,flower sea,flower,panorama,landscape,wide shot,dynamic pose,",
+      "n": ""
+    },
+    {
+      "name": "花海2（夜间蓝花）",
+      "p": "(blue flowers:1.05),turn around,coat,earrings,jewelry,parted bangs,floating hair,floating clothes,(from above:1.16),(wide shot:1.05),among flowers,backlighting,limited palette,(field s of flowers:1.05),",
+      "n": ""
+    },
+    {
+      "name": "花海3（满月）",
+      "p": "(film grain:1.10),(backlighting,moonlight:0.95),(night:1.05),(dark theme:1.10),cherry blossoms,(white flowers:1.05),flower field,(white petals:1.05),(full moon:1.05),",
+      "n": ""
+    },
+    {
+      "name": "一片麦田",
+      "p": "outdoors,happiness,splashes,sunshine,trees,white clouds,reflection in the water,clear water surface,wheat fields,ears of wheat,drifting with the wind,",
+      "n": ""
+    },
+    {
+      "name": "死亡浇灌之树",
+      "p": "beautiful tree,(root:1.10),red flower,red magic lily,animal,trunk texture,death symbolism,life symbolism,skull,corpse,blood,no humans,moss,light and shadow contrast,from below,butterfly,black thick water,",
+      "n": ""
+    },
+    {
+      "name": "雨中木屋室内",
+      "p": "scenery,no humans,wide shot,form far,depth of field,indoors,rain,stairs,window,wooden floor,",
+      "n": ""
+    },
+    {
+      "name": "宇宙漂浮",
+      "p": "floating,flying,close-up,lens flare,floating rocks,nebula,crystals,asteroids,milky way,(black background:0.91),(aurora:0.91),light particles,lens flare,",
+      "n": ""
+    }
+  ]
+}

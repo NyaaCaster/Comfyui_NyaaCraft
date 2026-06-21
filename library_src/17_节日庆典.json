@@ -1,0 +1,220 @@
+{
+  "name": "节日庆典",
+  "options": [
+    {
+      "name": "万圣节糖果店",
+      "p": "(leaning on window:1.10),(holding trick-or-treat bag:1.10),(warm lighting:1.05),(halloween ambiance:1.05),1girl,solo,cowboy shot,from behind,looking into store,leaning against wall,fascinated gaze,pointing,plaid skirt with spider web trim,coat,holding trick-or-treat bag,backpack,leaning on candy store window,baker decorating pumpkin cookies,detailed candy displays,warm store light,night,reflection on glass,cozy,orange and brown tones,atmospheric,",
+      "n": ""
+    },
+    {
+      "name": "观赏流星",
+      "p": "1girl,sitting,outdoors,sky,looking back,night,moon,star (sky),night sky,scenery,starry sky,city,mountain,cityscape,architecture,crescent moon,east asian architecture,mountainous horizon,lake,shooting star,city lights,aurora,meteor shower,floating hair,",
+      "n": ""
+    },
+    {
+      "name": "原版服装",
+      "p": "yukata,single hair bun,tiara,long sleeves,japanese clothes,hair flower,wide sleeves,hair bun,sash,blue kimono,print kimono,purple kimono,floral print,obi,",
+      "n": ""
+    },
+    {
+      "name": "年会食物打包",
+      "p": "1girl,(running away with stolen food:1.5),(chaotic temple fair:1.4),panicked expression,mischievous,(clutching a handful of various festival foods:1.3),(looking back over her shoulder with wide eyes:1.3),(skipping past stalls and crowds:1.2),(hair and clothes slightly disheveled:1.2),bustling night market,paper lanterns strung overhead,food stalls with steam and smoke,startled fairgoers,temple gates in the background,deep night,(dynamic,colorful lantern light casting shifting shadows:1.5),(sharp highlights on the food and her fleeing figure:1.4),(volumetric steam and smoke illuminated by the lights:1.3),full body,dynamic running pose,low angle,cinematic,slice of life,festival,night,",
+      "n": ""
+    },
+    {
+      "name": "礼堂乐会",
+      "p": "gold theme,indoors,church,italian renaissance architectural,vienna musikverein golden hall interior,chandelier,statues,angel statues,column,velvet-draped balconies with acanthus leaf railings,box tier curtains embroidered with musical staves,gilded pipe organ glowing in ambient light,solo,girl,half-closed eyes,looking away,serious,silver brocade gown with baroque pearl embroidery,v-neck,asymmetrical sleeveless dress,see-through dress,gold sequins,holding violin,playing instrument,sparkle,musical note,musical note swirl,musical staff swirl,feet out of frame,",
+      "n": ""
+    },
+    {
+      "name": "盛大开幕",
+      "p": "indoors,curtains,red tent,festival,colorful,confetti,bunting,balloon,colorful ribbon,medieval,circus,red carpet,crowd,people,(1girl:1.10),jester,jester costume,slit pupils,(mullet:1.05),(wavy hair:1.05),messy hair,open mouth,mini crown,neck ruff,wrist cuffs,bowtie,puffy short sleeves,frilled dress,capelet,jingle bell,asymmetrical legwear,diamond (shape),argyle,striped,holding mask,holding scepter,standing on one leg,leg ilft,",
+      "n": ""
+    },
+    {
+      "name": "庆典卫兵",
+      "p": "fantasy,warm-toned,starry night,snowing,christmas,christmas tree,christmas ornaments,gift,nutcracker,towering lego-like castle,decorate with lanterns and colorful streamers,glowing,confetti,street,toy block,toy block kingdom,toy block building,toy soldiers marching with visible torsion springs,dazzling stardust vortex,1girl,>:d,radio antenna,white ear protection,nutcracker costume,band uniform,red jacket,epaulettes,shoulder sash,medal ribbon,white pleated skirt,shako cap,hat feather,white gloves,outstretched arm with holding sword,",
+      "n": ""
+    },
+    {
+      "name": "踏雪访家",
+      "p": "chinese clothes,wide sleeves,hanfu,white dress,black dress,short dress,white skirt,black skirt,frilled dress,layered skirt,frilled skirt,sleeves past wrists,white shirt,white scarf,shawl,fur trim,fur collar,red ribbon,red bow,hair ribbon,hair bow,sash,tassel,beads,earrings,floral print,red flower,petals,looking at viewer,looking down,looking away,holding lantern,holding flower,hand up,open mouth,closed mouth,parted lips,smile,half-closed eyes,snow,outdoors,winter,snowing,snowflakes,snow-covered ground,snowy forest,paper lantern,lamp,bare tree,branch,east asian architecture,architecture,building,house,stairs,lattice,blue sky,cloud,day,sunlight,lens flare,mountain,scenery,nature,plant,breath,see-through,steam,glowing,frills,footprints in the snow,standing in the snow,from above,feet,footprints,tiptoes,toe-point,(kicking:1.10),jade ankle bracelets,",
+      "n": ""
+    },
+    {
+      "name": "新春喜跃",
+      "p": "looking at viewer,laughing,happy,(happy new year:1.16),looking back,back,jumping,outstretched arms,hanfu,china dress,side slit,white thighhighs,shoes,zettai ryouiki,outdoors,snowing,(firecrackers:1.16),east asian architecture,traditional chinese,",
+      "n": ""
+    },
+    {
+      "name": "春节节日盛典（主要是场景）",
+      "p": "(ancient architecture:1.10),(street:1.05),city,【画风】,1girl,hair bell,solo,chinese clothes,hair ornament,bow,no hairband,(fireworks,fireworks display:1.10),celebration,chinese new year,traditional costume,red lanterns,spring couplets,festive decorations,red and gold,bracelet,head tilt,(hand in own hair:1.05),one eye closed,crowd,reaching towards viewer,",
+      "n": ""
+    },
+    {
+      "name": "春节庆贺晚饭",
+      "p": "eastern dragon,(halter dress,china floral print,small breasts,china dress breast curtain,cleavage cutout,necklace,red dress with golden pattern,silk,skinny:1.05),(family reunion dinner:1.10),round table laden with festive dishes,steaming dumplings,red envelopes (hóngbāo) on the table,laughter and chatter,warm glow from hanging lanterns,generations gathering,sharing stories and blessings.,",
+      "n": ""
+    },
+    {
+      "name": "新年贺图（兔年兔女郎装）",
+      "p": "2girls,multiple girls,breast press,chinese food,(steamed stuffed bun:1.10),happy new year,new year,playboy bunny,white pantyhose,yuri,symmetrical docking,",
+      "n": ""
+    },
+    {
+      "name": "华丽服装场景版",
+      "p": "cowboy shot,happy,at night,fireworks,nanaken nana,happy new year,ray tracing,shadows,dynamic lighting,tindall effect,dynamic perspective,",
+      "n": ""
+    },
+    {
+      "name": "新年贺图（龙年旗袍版）",
+      "p": "standing on one leg,thighhighs,looking at viewer,pelvic curtain,covered navel,bracelet,large breasts,bead bracelet,fur trim,jewelry,bare shoulders,double bun,depth of field,chinese dragon,happy new year,",
+      "n": ""
+    },
+    {
+      "name": "虎年贺图",
+      "p": "(new year,monocle,nengajo,bamboo:1.10),arm tattoo,black nails,bolo tie,bracelet,braid,brooch,earrings,eyewear strap,finger to cheek,frilled shirt collar,fur shawl,hair over one eye,hair ribbon,hand up,kimono,lace-trimmed kimono,looking at viewer,red kimono,ring,sitting,smile,tiger tattoo,upper body,yellow nails,yellow ribbon,yellow shirt,",
+      "n": ""
+    },
+    {
+      "name": "中秋佳节",
+      "p": "from side,night,hanfu,double buns,head on arm,head rest,on table,mooncake,wine pot,wine cup,(full moon,huge moon,moon background:1.10),osmanthus tree,watercolor painting,smile,indoors,",
+      "n": ""
+    },
+    {
+      "name": "玉宇琼楼",
+      "p": "shiny skin,from below,cowboy shot,one knee up,dynamic pose,floating hair,hanfu,chinese girl,(full moon:1.10),sitting,close-up,face focus,(red shawl:1.28),paper lantern,bare shoulder,floating shawl,white hanfu,leaning forward,flowers pattern,single hair bun,ribbon,bare legs,smile,looking at viewer,see-through silhouette,night,floating person,reaching towards viewer,outstretched arm,east asian architecture,",
+      "n": ""
+    },
+    {
+      "name": "湖中泛舟",
+      "p": "(portrait:1.16),close-up,(transparent clothes,see-through chinese hanfu:1.16),(white trim:1.10),(naked blue chinese hanfu:1.22),(hanfu neck strap:1.05),breasts strap,erotic lingerie,(side-tie:1.16),(long rope:1.10),(huge propeller:1.16),(holding wandpropeller:1.05),strapless,ribbon,chinese knot,(see-through shawl,tassel,floating clothes,gold trim:1.16),lotus,cleavage,wide sleeves,sitting on boat,boat,lotus leaf,lotus flower,collarbone,long sleeves,temple,mountain,buddha,sun,clouds,(fog:1.10),rain,water,splashing,hydrokinesis,wading,",
+      "n": ""
+    },
+    {
+      "name": "日系冬日庆典",
+      "p": "celebration events,night,lamtern,fireworks,winter,snow,snowing,(shining hair:1.05),hair ribbon,(white neck collar,fur trim collar:1.05),(japanese clothes with fur trim:1.05),(fur trim dress,white dress:1.10),(shiromuku:1.05),(fur trim sleeves:1.05),medium breast,happy,enjoy,expressionless,closed mouth,(blush:1.05),(holding umbrella:1.05),(asian-umberlla:1.10),light particles,",
+      "n": ""
+    },
+    {
+      "name": "冬日神社前的热饮",
+      "p": "(half closed eyes:1.05),smile,(holding cup:1.10),side ponytail,hair bun,from side below,squatting,feet focus,sock,geta,hair flower,hair behide ears,white kimono,fur scarf,steam,yuki,(stairs,torii:1.05) snowing,",
+      "n": ""
+    },
+    {
+      "name": "秋日神社",
+      "p": "multiple torii,bead necklace,hair bell,outdoors,white kimono,wide sleeves,tree,long sleeves,sash,flower,obi,from behind,blush,hair flower,miko,red bow,profile,standing,shrine,stone stairs,hand up,autumn leaves,",
+      "n": ""
+    },
+    {
+      "name": "满月枝头",
+      "p": "bare legs,cherry blossoms,cleavage,crystal flower,full moon,hair bell,hair flower,high heels,holding crystal,night sky,red dress,sitting on branch,smile,thigh strap,white footwear,hand up,holding saucer,",
+      "n": ""
+    },
+    {
+      "name": "放烟花",
+      "p": "smile,fireworks,blush,looking at viewer,sparkler,night,holding fireworks,upper body,sky,outdoors,",
+      "n": ""
+    },
+    {
+      "name": "屋顶看烟花",
+      "p": "solo focus,blue kimono,white kimono,gradient kimono,yukata,bare legs,black nails,black sandals,hair flower,outdoors,night,cozy rooftop terrace,east asian architecture,night sky,fireworks,aerial fireworks,cloud,cherry blossoms,",
+      "n": ""
+    },
+    {
+      "name": "打麻将",
+      "p": "1other,2boys,3girls,dragon boy,dragon ears,dragon girl,dragon horns,dragon tail,fins,fish tail,furry,furry male,horns,【mahjong,mahjong table,mahjong tile,multiple boys,multiple girls】（主要部分）,round eyewear,table,tail,",
+      "n": ""
+    },
+    {
+      "name": "圣诞室内",
+      "p": "ankle socks,black skirt,book,bookshelf,brown scarf,candle,candlestand,chair,christmas,christmas ornaments,christmas star,christmas stocking,christmas tree,clock,curtains,drinking glass,fire,fireplace,flower,full body,gift,green ribbon,indoors,long skirt,merry christmas,orange footwear,picture frame,plaid,plaid scarf,plant,plate,pleated skirt,potted plant,red flower,red ribbon,ribbon,rug,sketch,slippers,standing,teddy bear,tulip,white socks,window,wooden floor,",
+      "n": ""
+    },
+    {
+      "name": "其他版本",
+      "p": "red skirt,black pantyhose,no shoes,santa hat,christmas,indoors,sitting,achristmas tree,short sleeves,white gloves,bow,red headwear,puffy sleeves,black bow,white shirt,puffy short sleeves,fur trim,couch,pleated skirt,vest,lamp,feet,fur-trimmed headwear,hair bow,santa costume,ribbon,fireplace,",
+      "n": ""
+    },
+    {
+      "name": "圣诞窗花写字",
+      "p": "(view from outside:1.48),(glass,see-through glass:1.34),steam on glass,windows,(backlighting:1.28),(warm theme,orange lighting:1.22),dark theme,photo background,(christmas style,santa costume:1.10),bell,sofa,(lamp:1.05),solo,indoors,sitting on sofa,candy,gifts,ribbon,night,plush carpet,dark theme,christmas socks,christmas tree,upper body,face focus,light smile,(finger against glass:1.48),:t,arm up,(writing on glass that says marry christmas:1.34),night,",
+      "n": ""
+    },
+    {
+      "name": "圣诞喜悦",
+      "p": "christmas tree,christmas wreath,closed eyes,door,dutch angle,facing viewer,feet out of frame,smile,snow,snowing,snowman,spread arms,upper teeth only,legs apart,light particles,open mouth,outdoors,outstretched arms,",
+      "n": ""
+    },
+    {
+      "name": "佳节餐会",
+      "p": "2boy,2girls,chair,chinese text,cup,desk,hand fan,holding cup,jewelry,lantern,multiple boys,multiple girls,teacup,teapot,",
+      "n": ""
+    },
+    {
+      "name": "情人节礼物",
+      "p": "(high contrast,colorful,detailed light,light leaks,sunlight,shine on girl’s body,beautiful detailed glow:1.05),arm up,cardigan,gift box,head on arm,holding necklace,jar,looking at object,necklace,pink bow,red bow,school bag,school chair,school desk,school uniform,side lighting,sitting,smile,valentine,window,",
+      "n": ""
+    },
+    {
+      "name": "生日时刻",
+      "p": "light smile,expressionless,sitting beside desk,tilt head,looking at viewer,half open eyes,birthday cake,floating ribbons,floating balloons,party,bokeh,blurry background,from side,",
+      "n": ""
+    },
+    {
+      "name": "生日许愿",
+      "p": "cowboy shot,daisies,cherry,happy birthday,birthday,cake,number 25 on birthday cake,candle,balloon,gift,wide-angle photography,close eyes,clapping hands,happy,eyes closed,music symbols background,musical notation background,happy birthday to you,happy birthday to you background,white table,",
+      "n": ""
+    },
+    {
+      "name": "生日集会",
+      "p": "looking at viewer,1girl,birthday party,birthday date,dated,happy,happy birthday,birthday,party hat,confetti,balloon,snack,parfait,birthday cake,ice cream cake,plate,fork,candle,indoors,sitting on couch,at home,table,lights,(tiara,crown,gem:1.34),(light blush,smile,happy,lovely:1.5),night,close-up,",
+      "n": ""
+    },
+    {
+      "name": "天堂婚礼",
+      "p": "(close-up:1.34),focus on face,paradise,warm tone,being in a sea of flowers,fantasy background,surrounded by flower and plants,plant wall,white dew,falling petals,lanterns,afternoon tea on the ground,books,carpets,slanting sunlight,reflections,garden,outdoor,sitting,put her’s hands together,",
+      "n": ""
+    },
+    {
+      "name": "原版服装 (2)",
+      "p": "(wedding veil:1.10),ribbon,gloves lace,pattern,lace sleeves,garter stocking,garter,white stockings,white swimming suit,(bikini:1.10),",
+      "n": ""
+    },
+    {
+      "name": "交换戒指",
+      "p": "1girl,shy,meaningful smile,wedding dress,bride veil,half-open eyes,looking at viewer,white gloves,reaching towards viewer,ring on finger,floating white petals,beautiful background,wedding,1boy,(putting a ring on another’s finger,pov:1.16),upper body,close-up,looking at viewer,happy tears,floating sakura petals,bokeh,blurry background,church,",
+      "n": ""
+    },
+    {
+      "name": "葬礼之后",
+      "p": "(backlighting,floodlighting,sunrise,cowboy shot,holding flower,sadness,half closed eyes:1.16),outdoor,lycoris radiata,funeral dress,funeral veil,black veil,hat feather,black hat,short hair,single hair bun,black shawl,collarbone,",
+      "n": ""
+    },
+    {
+      "name": "神社祈福",
+      "p": "closed eyes,praying,sash,blue kimono,smile,obi,own hands together,donation box,shrine,wide sleeves,shrine bell,closed mouth,rope,from side,outdoors,long sleeves,hair ribbon,hatsumoude,eyebrows visible through hair,ribbon,flower,dutch angle,blush,hair flower,blue ribbon,shimenawa,floral print,hands up,standing,profile,fur trim,fur collar,palms together,day,print kimono,ema,",
+      "n": ""
+    },
+    {
+      "name": "新年祈福",
+      "p": "closed mouth,standing,outdoors,day,blurry,hands up,blurry background,looking down,floral print,obi,own hands together,red flower,new year,red hakama,torii,shimenawa,east asian architecture,shide,shrine,furisode,kanzashi,praying,palms together,donation box,kouhaku nawa,profile,traditional japanese architecture,wooden structure,red pillars,pagoda,bright sunlight,blurry background,trees,greenery,serene,peaceful,detailed clothing,intricate details,",
+      "n": ""
+    },
+    {
+      "name": "树下大醉",
+      "p": "open mouth,smile,holding saucer,sakazuki,sake,drink,depth of field,dappled sunlight,wet bodyfluttering petals,sunset,(against tree,leaning back:1.10),sitting under tree,from above,cherry blossoms,arm up,wariza,off shoulder,kimono,full-face blush,sweat,",
+      "n": ""
+    },
+    {
+      "name": "沙地舞娘1",
+      "p": "(nude,oily skin:1.10),(from above,close-up chest,(shiny skin:1.05),(cleavage,large breasts:1.10),(wet skin:1.10),(sweat:1.10),blush,(steaming:1.10),outdoor,desert,dancer,harem outfit,armlet,bra,loincloth,one hand down,another up,one leg up,veil,jewelry,pelvic curtain,turning body,light smile,covered nipples,from side,dynamic angle,dynamic pose,from above,navel piercing,",
+      "n": ""
+    },
+    {
+      "name": "沙地舞娘2",
+      "p": "dancer,bow,dance,standing on one leg,dynamic pose,dynamic angle,cowboy shot,brown skin,large breasts,(white arabian clothes:1.16),white harem outfit,braid,baggy pants,white pants,sleeveless,gold earrings,gold bracelets,gold forehead rings,smile,jewelry,magic carpet,(smoke:1.16),",
+      "n": ""
+    }
+  ]
+}

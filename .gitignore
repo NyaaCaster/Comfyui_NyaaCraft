@@ -1,0 +1,16 @@
+# 大体积源 md（仅本地预处理留存，不纳入版本管理）
+.ref/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 预处理临时产物（旧 md 流程遗留）
+conversion_report.txt
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

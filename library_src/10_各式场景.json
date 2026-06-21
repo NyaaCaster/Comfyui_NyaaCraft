@@ -1,0 +1,310 @@
+{
+  "name": "各式场景",
+  "children": [
+    {
+      "name": "质量词",
+      "options": [
+        {
+          "name": "一种质量词",
+          "p": "random high-fashion pose,dynamic or static,editorial stance,natural body movement,varied limb positioning,magazine-worthy positioning,high-fashion studio background,seamless backdrop,dramatic spotlight,editorial typography,",
+          "n": ""
+        },
+        {
+          "name": "质量词",
+          "p": "masterpiece,highres,absurdres,uhd,newest,high detail raw color art,high contrast,4k,8k,sharp focus,crisp edges,smooth,vibrant colors,extremely detailed 8k wallpaper,ultra-detailed,cinematic lighting,cinematic shadows,cinematic angle,varying line weight,confident linework,",
+          "n": ""
+        },
+        {
+          "name": "质量词 (2)",
+          "p": "(the image is highly intricate finished drawing. a highly intricate finished photo-style image of a character’s body is in photorealistic-style with perfect anatomy,but their face is in cel shading-style,beautiful texture,and lifelike realistic skin intricate details surface:1.35). (3d:3.0),(photorealistic:3.0),(hyperrealistic:3.0),high color saturated,path tracing,anti-aliasing shader,subsurface scattering,light particles,light diffusion,smooth shading,(cinematic angle,twilight:1.10),(best quality:20.0),(incredibly absurdres:30.0),(very aesthetic:30.0),(intricate detailed:15.0).,",
+          "n": ""
+        },
+        {
+          "name": "正面负面质量词",
+          "p": "locatio,highres,absurdres,best quality,absurdly detailed composition,masterpiece,no text,(realistic,realistic skin texture,3d:2.0),(novel illustration:1.25),(very aesthetic:3.0),solo artist,",
+          "n": "(censored:1.5),(bad anatomy:2.0),(upscaled:2.0),(blurry:2.0),(depth of field:1.0),(multiple views:1.25),(artist collaboration:5.0),(simple illustration:1.0),(multiple views:1.0),(monochrome,greyscale,jaggy lines:1.0),(no lineart,chibi,nostril:1.0),"
+        },
+        {
+          "name": "负面提示词3",
+          "p": "(overexposure,heterochromia,sfw,censoring,censored,mosaic,extra characters,furry,multiple views,bad multiple views:3.0),(breasts apart,sagging breasts,hanging breasts:1.8),{{{{{{{{{{chibi,chibi inset,doll,fumo (doll),(doll:1.16),(chibi:1.16),(toy:1.16),(animal:1.16),(head:1.16)(bad anatomy:1.22),(bad feet:1.05),bad hands,(bad proportions:1.16),(blurry:1.05),cloned face,cropped,(deformed:1.16),(disfigured:1.16),error,(extra arms:1.16),(extra digit:1.05),(extra legs:1.16),extra limbs,extra breasts,(extra limbs,extra navels:1.10),(fewer digits:1.05),(fused fingers,short fingers:1.16),gross proportions,ink eyes,ink hair,jpeg artifacts,(long neck:1.22),low quality,(malformed limbs:1.05),(missing arms:1.10),(missing fingers:1.05),(missing legs:1.10),(more than 2 nipples:1.16),mutated hands,(mutation:1.16),normal quality,owres,(poorly drawn face:1.10),(poorly drawn hands:1.10),reen eyes,signature,text,(too many fingers:1.10),(ugly:1.16),username,watermark,worst quality,(more than 2 legs:1.16),(furry girl:1.16),pubic hair,anal hair,fluffy belly,large feet,lime (fruit),bad-shaped foot,eyeshadow,fangs,(small nipples,normal size nipples:1.34),(picture frame,fake video,fake photo,black bars:2.0),side-by-side,lips,thick lips,red lips,pink lips,nostril,philtrum,nostrils,teeth,buck teeth,long_labia,ugly pussy,",
+          "n": ""
+        },
+        {
+          "name": "一种基于用相同形容词重复描述每个部位的质量词组",
+          "p": "fullbody,the great face,the great jawline,the great cheek,the great forehead,the great eyebrows,the great eyes,the great pupils,the great iris,the great eyelashes,the great eyelids,the great ears,the great mouth,the great lips,the great chin,the great hair,the great bangs,the great sideburns,the great hair,the great hair ornament,the great neck,the great breasts,the great cleavage,the great waist,the great hips,the great arms,the great shoulder,the great armpit,the great wrist,the great legs,the great thighs,the great ankles,the great hands,the great fingers,the great skin,the great skin texture,the great background,the great depth of field,the great rim light,the great dramatic lighting,the great ambient light,the great physically based rendering,the great lens flare,the great ray tracing,",
+          "n": ""
+        },
+        {
+          "name": "一套质量词（虽然基本没用）",
+          "p": "extremely detailed cg unity 8k wallpaper,masterpiece,original,highres,ray tracing,dynamic lighting,refined rendering,depth of field,ambience sense,detailed light,extremely light,beautiful detailed lighting,perfect lighting,best shadow,detailed shadow,",
+          "n": ""
+        },
+        {
+          "name": "另一套质量词",
+          "p": "ultra-detailed,best quality,amazing quality,very aesthetic,absurdres,ray tracing,dynamic lighting,extremely complex background,fairytale,extremely detailed cg unity 8k wallpaper,masterpiece,original,highres,ray tracing,refined rendering,ambience sense,artistry,aesthetic element,attractive,",
+          "n": ""
+        },
+        {
+          "name": "皮肤质感质量词",
+          "p": "expert shading,fully rendered,highly finished,real skin,fine skin emphasis,highres textured skin,highly detailed skin,highres textured body,highly detailed body,photo (medium),n4光效质量词,year 2024,newest,(top aesthetic,best quality,very aesthetic,absurdres:1.16),realistic,(dappled sunlight:1.16),cinematic lighting,volumetric lighting,rim lighting,(colorful:1.05),sidelighting,(blue lighting,warm lighting:1.10),(colorful themee:1.22),(flower theme:1.22),(night:1.16),",
+          "n": ""
+        },
+        {
+          "name": "特效质量词",
+          "p": "1girl,solo,official art,advertising style,painterly,brushstroke,detailed background,painting (medium),cinematic lighting,ray tracing,ambient occlusion,dynamic composition,dynamic feel,detailed illustration,detailed background,illustration style,cinematic lighting,surreal,glowing,",
+          "n": ""
+        },
+        {
+          "name": "一套新的质量词",
+          "p": "(finished:1.05),overlapping,(appropriate posture:1.05),(appropriate configuration:1.05),cropping,(bold highlighted outline:1.05),(thick dense skin:1.16),(ultra-precise skin:1.16),soft cheeks,",
+          "n": ""
+        },
+        {
+          "name": "一套负面词（这个有用）",
+          "p": "(doll:1.16),(chibi:1.16),(toy:1.16),(animal:1.16),(head:1.16),bad,bad anatomy,bad quality,worst quality,lowres,low quality,normal quality,error,extra,fewer,missing,(many legs:1.10),(three legs:1.10),(many arms:1.05),(three arms:1.05),(fuze:1.05),(grayscale:1.05),text,abstract,cropped,jpeg artifacts,watermark,username,bad hands,mutated hands,poorly drawn hands,extra arms,missing arms,extra legs,missing legs,bad fingers,extra fingers,too many fingers,missing fingers,strange fingers,bad feet,extra toes,fewer toes,extra digit,fewer digits,extra limbs,malformed limbs,long neck,cross-eyed,poorly drawn face,mutation,deformed,ugly,duplicate,morbid,mutilated,unfinished,chromatic aberration,artistic error,scan,N4负面词,(ugly,old,black skin,blurry,lowres,error,film grain,scan artifacts,worst quality,bad quality,jpeg artifacts,very displeasing,chromatic aberration,logo,dated,signature,multiple views,gigantic breasts,normal quality,bad quality,low quality,worst quality,lowres,displeasing,very displeasing,bad,bad anatomy,bad hands,text,error,missing,missing finger,extra,extra digits,fewer,fewer digits,cropped,JPEG artifacts,signature,watermark,username:2.0),",
+          "n": ""
+        },
+        {
+          "name": "一套负面词（这个也有用）",
+          "p": "(adult:1.16),(bad anatomy:1.22),(bad feet:1.05),bad hands,(bad proportions:1.16),(blurry:1.05),cloned face,cropped,(deformed:1.16),(disfigured:1.16),error,(extra arms:1.16),(extra digit:1.05),(extra legs:1.16),extra limbs,(extra limbs:1.10),(fewer digits:1.05),(fused fingers:1.16),gross proportions,ink eyes,ink hair,jpeg artifacts,(long neck:1.22),low quality,(malformed limbs:1.05),(missing arms:1.10),(missing fingers:1.05),(missing legs:1.10),(more than 2 nipples:1.16),mutated hands,(mutation:1.16),normal quality,out of frame,owres,(poorly drawn face:1.10),(poorly drawn hands:1.10),reen eyes,signature,text,(too many fingers:1.10),(ugly:1.16),username,uta,watermark,worst quality,(more than 2 legs:1.16),(furry girl:1.16),",
+          "n": ""
+        },
+        {
+          "name": "一套视角光线词",
+          "p": "dynamic angle,depth of field,high contrast,colorful,detailed light,light leaks,beautiful detailed glow,best shadow,shiny skin,cinematic lighting,ray tracing,from above,female focus,close-up,dutch angle,",
+          "n": ""
+        },
+        {
+          "name": "附带翻译：",
+          "p": "",
+          "n": ""
+        },
+        {
+          "name": "动态角度、景深、高对比度、色彩丰富、光线细腻、漏光、美丽细致的发光、最佳阴影、闪亮的皮肤、电影灯光、光线追踪、从上面看、女性焦点、特写、荷兰角度（斜角镜头）、",
+          "p": "",
+          "n": ""
+        },
+        {
+          "name": "光影质量词",
+          "p": "cinematic shot,dynamic angle,cinematic shadows,action,shot,deepshadows,award winning,beautifully lit,dramatic angle,intense angle,dynamic angle,cinematic lighting,cinematic angle,dramatic angle,dramatic shadows,",
+          "n": ""
+        },
+        {
+          "name": "翻译：",
+          "p": "",
+          "n": ""
+        },
+        {
+          "name": "电影镜头,动态角度,电影阴影,动作,镜头,深度阴影,获奖,灯光优美,戏剧角度,强烈角度,动态角度,电影灯光,电影角度,戏剧角度,戏剧阴影,",
+          "p": "",
+          "n": ""
+        }
+      ]
+    },
+    {
+      "name": "视角与打光",
+      "options": [
+        {
+          "name": "常规视角tag",
+          "p": "wide shot：广角，缩小人物增加背景展示,cowboy shot：人物七分身镜头,fisheye：鱼眼镜头，能出非常夸张的透视,close-up：特写，视画风而定具体人物缩放大小，一般可以有效解决图糊的问题,head/feet+out of frame： 头/脚出框,",
+          "n": ""
+        },
+        {
+          "name": "身体部位+focus：重点表现某一身体部分，另有solo focus，效果与close-up类似",
+          "p": "dutch angle：荷兰角（不）斜角镜头，让你的景色看起来没那么正,vanishing point：远景透视，尚未测试，效果不确定,panorama：全景，比wide shot效果更明显,pov(first-person view)：第一人称，无需多言,foreshortening：正前缩距，一定程度有效，增强正面透视和靠近效果,perspective：透视，优化透视效果,",
+          "n": ""
+        },
+        {
+          "name": "常规光影tag",
+          "p": "high contrast：高对比度，特指光暗对比，增强部分光亮和黑暗,shadow：阴影，增加阴影效果,colorful：色彩丰富，质量词,detailed light/detailed lighting：细致的光线，质量词,light leaks：漏光，指摄像时的散光，ai效果一般,sunlight：阳光，此外存在月光（moonlight）和星光（starlight），不过此二者效果相对一般,bokeh：散景，表示在景深较浅的摄影成像中，落在景深以外的画面，会有逐渐产生松散模糊的效果，与blurry background效果类似,blurry foreground：模糊前景，效果顾名思义，意图增加前景遮挡效果可用,ray tracing：光线追踪，质量词,lens flare：镜头光晕，一种炫光，ai有一定效果，具体视画风而定,cinematic lighting：电影级灯光，有一点点效果，基本可以视作质量词,see-through silhouette：透视轮廓，透视光照射半透明物体（如纱裙等）后的剪影,strong contrast：强对比度，与高对比度high contrast相同，不赘述,light and shadow：光影，一般是增加了阴影，实际就是单shadow效果,light particles：光粒子，增加一堆光点,light spot/floating light spot：光点/浮动光斑，实际等效于光粒子，效果略次,Reflection/reflect ：反射，镜面、水面或者光滑物体的反射影像表示,volumetric lights：体积光，一般是一种窗外射入的光束表现，有一定效果,backlighting/sidelighting：背光/侧光，从背后/侧面投射的光，,chiaroscuro：明暗对照，等效两个对比度，效果相对更弱,dramatic shadow：戏剧性阴影，质量词,high-key and low-variance brightness scale：高调和低方差亮度等级，质量词,rim lighting：边缘灯光，一种摄影技术，照亮拍摄对象的边缘以产生光晕效果，效果未知,light rendering ：光渲染，质量词,light-rays：光线，质量词,dappled sunlight：斑驳阳光，阳光穿过树荫照射的表现，效果很好,sunshine through window：透过窗户的阳光，顾名思义,",
+          "n": ""
+        },
+        {
+          "name": "常规色彩tag",
+          "p": "xxx theme：XX颜色主题：让你的画面色调偏某种颜色，如blue theme会让画面偏蓝,monochrome：单色，尽量减少其他颜色表现，与xxx theme搭配使用，单走一般是黑白灰效果，,black and white：黑白，等效单走monochrome，可加强该词效果,limited palette：有限调色板，与monochrome效果类似，不赘述,xxx lighting：XX颜色光线，效果同名，不赘述,greyscale：灰度，画面仅有黑白灰，如果有其他颜色会相应变得灰黑,ff gradien：ff 渐变，一种应用于黑白画面的彩虹渐变，效果较为一般,inverted colors：反转颜色，反色效果，一般没用,colorful：色彩丰富，质量词,",
+          "n": ""
+        },
+        {
+          "name": "两个时期的自己",
+          "p": "2girls,split screen,split theme,(from side:2.0),char1：girl,black background,facing away,char2：girl,smile,white background,facing away,",
+          "n": ""
+        },
+        {
+          "name": "侧身背对构图（推荐横图）",
+          "p": "2girls,white background,upper body,background shadow,bust,poster art,album cover,char1：girl,facing away,looking back,looking at viewer,from back,char2：girl,straight-on,",
+          "n": ""
+        },
+        {
+          "name": "水面对立之影",
+          "p": "1girl,from behind,standing in water,wading,surreal,split screen,dual world,reflection,water reflection,above,day,sky,blue sky,beautiful detailed clouds,horizon,below,night sky,starry sky,galaxy,nebula,stars,deep space,water,ripples,serene,contemplative atmosphere,clean lineart,hatching (artwork),limited palette,minimalist,deep blue,white and black,",
+          "n": ""
+        },
+        {
+          "name": "侧身交错",
+          "p": "(dark fantasy:1.22),(monochrome:1.22),(greyscale:1.22),(high contrast:1.22),(ink wash painting:1.22),rough sketch,brush strokes,heavy lines,traditional media,dark fantasy,(chiaroscuro:1.22),(half shadow:1.22),dramatic lighting,deep shadows,cinematic shadows,backlighting,(white background:1.22),(graphic design:1.22),abstract background,translucent,(diagonal stripes:1.22),geometric shapes,aesthetic composition,typography,1girl,1boy,(back-to-back:1.22),standing,char1：girl,hand on chest,looking down,melancholic,profile,char2：boy,messy hair,looking away,side profile,serious,(face in shadow:1.22),",
+          "n": ""
+        },
+        {
+          "name": "多人分割排列",
+          "p": "(5 girls:1.16),(5 column lineup:1.16),column,profitable,white,close-up,depth of field,backlighting,cinematic lighting,light particles,lens flare,",
+          "n": ""
+        },
+        {
+          "name": "其他版本1",
+          "p": "5girls,(,cute,animation,date a live,everyone,colorful,vibrant colors,column lineup,1.5:1.2),yellow light effects,blue light effects,pink light effects,green light effects,red light effects,lightning effects,detailed eyes,cut,intricate effects,cover,anniversary,",
+          "n": ""
+        },
+        {
+          "name": "双人分割",
+          "p": "{2girls,white and dark aquamarine,many flowers,fusion girls and flowers,spring,intricate black and white illustrations,split toning,intricate eyes,(close-up:1.10),",
+          "n": ""
+        },
+        {
+          "name": "附带一点翻译",
+          "p": "",
+          "n": ""
+        },
+        {
+          "name": "白色和深色海蓝宝石，许多花朵，融合女孩和花朵，春天，复杂的黑白插图，分裂色调，复杂的眼睛",
+          "p": "",
+          "n": ""
+        },
+        {
+          "name": "水墨版本",
+          "p": "2girls,white and dark aquamarine,many flowers,fusion girls and flowers,spring,intricate black and white illustrations,split toning,intricate eyes,(close-up:1.10),(ink wash painting,jidao huashi:1.28),",
+          "n": ""
+        },
+        {
+          "name": "善恶分割",
+          "p": "(shiny skin:1.16),2girls,an intricate illustration featuring a holy angel and the other half depicting a fallen angel.(split theme:1.55),symmetry,heterochromatic pupil,",
+          "n": ""
+        },
+        {
+          "name": "镜面破碎分割",
+          "p": "1girl,upper body,black theme,shiny eyes,fire butterfly,red butterfly,plum blossom,face focus,broken,broken glass,(eyes close-up:1.10),(mirror image,split theme,symmetry:1.16),infrasound wave patterns,amputee,disintegration,glitch,glitching,(split theme:1.28),aesthetic,ethereal lighting,nighttime,darkness,surreal art,fantasy,spot color,pink and black theme,dark,sad,parted lips,floating hair,gothic,flora,black and thick liquid,fog,underlighting,bokeh,blurry background,strong visual impact,film lighting,different reflection,reaching towards viewer,shatter across face,blood from eyes,split,glass over on eye,(dappled sunlight:1.34),cinematic lighting,volumetric lighting,",
+          "n": ""
+        },
+        {
+          "name": "一人多脸立绘",
+          "p": "close up,movie perspective,dynamic pose,movie poster,crazy line,notice lines,messy lines,red lines,endless lines,multiple persona background,solo,silent comic,expressions,linear hatching,smile,disappointed,lonely,smug,crying,wiping tears,disdain,shaded face,glaring,screaming,dark persona,monochrome,projection,personality projection,",
+          "n": ""
+        },
+        {
+          "name": "双人背靠背站位",
+          "p": "bilaterally symmetrical,perfect symmetrical pose,(split-color theme:1.10),white,pink,(perfect split-color:1.22),(2 females,back-to-back,looking at viewer:1.22),char1：girl,(left side:1.05),char2：(right side,gold bel,solo,black nails,bow,ribbon,bracelet,jewelry,hairclip,facial mark,wrist scrunchie,choker,hair bell,nail polish,spikes,virtual youtuber,highlight dye,beret,scrunchie,hair ribbon,leg ribbon,black choker,hair bow,red ribbon,o ring,thigh strap,",
+          "n": ""
+        },
+        {
+          "name": "散射林荫",
+          "p": "(dappled sunlight,shiny skin:1.22),light rays,motion lines,shadow,",
+          "n": ""
+        },
+        {
+          "name": "夜间灯影",
+          "p": "walking,hand up,looking at viewer,night,close up,(highlight,shadow line:1.16),(dappled sunlight:1.16),cinematic lighting,volumetric lighting,rim lighting,(colorful:1.05),sidelighting,(blue lighting,warm lighting:1.10),(colorful themee:1.22),(flower theme:1.22),",
+          "n": ""
+        },
+        {
+          "name": "穿出边框（实际效果不一定好）",
+          "p": "(fourth wall:1.05),out of fourth wall,outside border,black border,",
+          "n": ""
+        },
+        {
+          "name": "窥视镜偷窥（不稳定）",
+          "p": "(fisheye,pov peephole:1.10),:d,backlighting,blurry,chromatic aberration,close-up,depth of field,film grain,glitch,glowing,glowing eyes,lapels,looking at viewer,lower teeth only,notched lapels,open mouth,raised eyebrows,shade,smile,solo,standing,upper body,white shirt,",
+          "n": ""
+        },
+        {
+          "name": "回首",
+          "p": "dress,eyelashes,fake horns,heart cutout,horns,puffy sleeves,arm behind back,【from behind,looking back】,",
+          "n": ""
+        },
+        {
+          "name": "怀中",
+          "p": "looking back,pov,from above,from side,",
+          "n": ""
+        },
+        {
+          "name": "行人之中",
+          "p": "fisheye,backpack,from below,muted color,shoes,smile,city,neon lights,rain,crowd,",
+          "n": ""
+        },
+        {
+          "name": "表情差分",
+          "p": ":d,:t,^ ^,blue background,closed eyes,closed mouth,expressions,gradient background,hand on own hip,multiple views,one eye closed,open clothes,pleated skirt,pout,smile,white background,",
+          "n": ""
+        },
+        {
+          "name": "自拍",
+          "p": "mid shot,battery indicator,upper body,looking at viewer,open mouth,recording,wifi symbol,",
+          "n": ""
+        },
+        {
+          "name": "其他版本",
+          "p": "close-up,face focus,(selfie:1.22),>_<,xd,cityscape,night,from above,rooftop,peace sign,arm up,closed eyes,grin,open mouth,",
+          "n": ""
+        },
+        {
+          "name": "脸部特写",
+          "p": "looking at viewer,(dramatic lighting,dramatic shadow,dramatic angle:1.10),face focus,isometric,close-up,rose,expressionless,tear stains,",
+          "n": ""
+        },
+        {
+          "name": "动态立绘",
+          "p": "dutch angle,from side,looking at viewer,facing away,floating,constellation,arknights,(block,vortex,breaking:1.10),indoor,floating hair,dynamic angle,intense angle,white background,full body,fighting stance,",
+          "n": ""
+        },
+        {
+          "name": "竖向中线分割画面（以下二者择一）",
+          "p": "(diagonal split line:1.22),(symmetrical composition:1.10),symmetrical pose,contrast,polar opposites,symmetry,",
+          "n": ""
+        },
+        {
+          "name": "横向中线分割（疑似无效）",
+          "p": "(picture segmentation,poker style,center symmetry,picture symmetry:1.16),",
+          "n": ""
+        },
+        {
+          "name": "半水下",
+          "p": "caustics,partially underwater shot,",
+          "n": ""
+        },
+        {
+          "name": "第一人称被瞄准",
+          "p": "(fog background:1.10),heavy fog,yellow fog,depth of field,from below,cowboy shot,(pov:1.05),positive view,upper body,solo,high collar,serious,green uniform,closed mouth,cap,holding gun,handgun,(aiming at the head,gun to the head,muzzle to the head,revolver:1.22),spark,",
+          "n": ""
+        },
+        {
+          "name": "双人中心对称构图对称握手",
+          "p": "(rotational symmetry:1.10),from above,holding hands,symmetrical hand pose,",
+          "n": ""
+        },
+        {
+          "name": "中心对称构图沙滩百合",
+          "p": "2girls,(rotational symmetry:1.16),upper body,(open hand,waving,waving arms:1.05),looking at viewer,hair flower,(from above:1.05),(imminent kiss:1.05),(yuri:1.10),(lying:1.05),on beach,shell,water,",
+          "n": ""
+        },
+        {
+          "name": "中心对称双人构图",
+          "p": "(2girls:1.05),(lying,upper body,rotational symmetry,card (medium),playing card:1.05),(watercolor (medium):1.16),(animation paper,color trace:1.05),crown,coat on shoulders,bowtie,fur-trimmed coat,gloves,hair scrunchie,high collar,framed,flower,",
+          "n": ""
+        },
+        {
+          "name": "多表情差分",
+          "p": "(monochrome,spot color:1.16),1girl,multiple views with (different expressions gestures and postures from multiple angles:1.10),(many views:1.16),(cropped legs:1.10),cropped torso,?,v,!,dynamic angle,finely detail,",
+          "n": ""
+        },
+        {
+          "name": "天空掉落",
+          "p": "(falling,downfall:1.16),upside-down,wide shot,blurry background,motion lines,",
+          "n": ""
+        },
+        {
+          "name": "落日背光",
+          "p": "(against backlight at dusk,strong rim light,intense shadows:1.16),",
+          "n": ""
+        }
+      ]
+    }
+  ]
+}

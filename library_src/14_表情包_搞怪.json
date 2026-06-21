@@ -1,0 +1,1340 @@
+{
+  "name": "表情包/搞怪",
+  "options": [
+    {
+      "name": "部分表情包表现方式",
+      "p": "",
+      "n": ""
+    },
+    {
+      "name": "害羞对话框",
+      "p": "(spoken ellipsis:1.16),",
+      "n": ""
+    },
+    {
+      "name": "头顶黑线",
+      "p": "squiggle,",
+      "n": ""
+    },
+    {
+      "name": "发怒青筋",
+      "p": "anger vein,",
+      "n": ""
+    },
+    {
+      "name": "脸红斜线",
+      "p": "blush stickers,",
+      "n": ""
+    },
+    {
+      "name": "问号表示",
+      "p": "?,spoken question mark,R18禁止标志（不太能出，仅作收录）,red 18 no symbol,",
+      "n": ""
+    },
+    {
+      "name": "写字照片",
+      "p": "hamedoori template (meme),",
+      "n": ""
+    },
+    {
+      "name": "荧光画笔猫耳/猫须/爱心",
+      "p": "drawn ears,drawn whiskers,drawn heart,",
+      "n": ""
+    },
+    {
+      "name": "扑在蛋糕上啃食",
+      "p": "1girl,(chibi:3.0),(chibi only:4.0),(solo:2.0),fairy tale,pixel art,human with large food,large cake,prostrate on the cake,nibble,on the food,",
+      "n": ""
+    },
+    {
+      "name": "就一点点",
+      "p": "1girl,solo,chibi,upper body,smug,smirk,teasing smile,half-closed eyes,looking down on viewer,hand up,(pinching fingers:1.05),thumb and index finger close together,indicating extremely small size:1.05),",
+      "n": ""
+    },
+    {
+      "name": "嘴巴堵住汽水瓶起泡",
+      "p": "1girl,close up,mouth on coke bottle,sucking,blushing,heavy breathing,(coke foam,foam,!,shock,foam on mouth,looking at coke,grabbing coke,:>=,many foam:2.0)sunken cheeks,constricted pupils,",
+      "n": ""
+    },
+    {
+      "name": "手中人偶",
+      "p": "1girl,solo,(miniature girl:1.4),(held by giant hand:1.4),holding miniature,sitting on hand,legs dangling,(ball-jointed doll:1.4),(doll joints:1.3),figure photography,(macro photography:1.3),(depth of field:1.2),blurry background,computer keyboard,wooden desk.,",
+      "n": ""
+    },
+    {
+      "name": "指着一侧嘲笑（推荐横图）",
+      "p": "from side,:d,^ ^,looking to the side,smile,blush,closed eyes,open mouth,happy,false smile,upper body,squatting,pointing to the side,",
+      "n": ""
+    },
+    {
+      "name": "美美吃肉",
+      "p": "1girl,facing viewer,blush,closed eyes,upper body,hands up,dual wielding,holding fork,holding knife,holding food,eating,food in mouth,green sailor collar,misaki high school uniform,summer uniform,white shirt,short sleeves,green bow,green shirt,fork,food,meat,boned meat,steak,sausage,bread,chicken (food),steam,",
+      "n": ""
+    },
+    {
+      "name": "握在手心",
+      "p": "(chibi,chibi only:1.16),1girl,1other,large hand,hand grabbing another,lifting person,hanging legs,char1：girl,blank eyes,0_0,expressionless,disgust,",
+      "n": ""
+    },
+    {
+      "name": "看手机发情",
+      "p": "chibi,chibi only,1girl,facing viewer,hearts eyes,in heat,heavy breath,holding phone,looking at phone,upper body,close-up,white background,:o.drooling,",
+      "n": ""
+    },
+    {
+      "name": "双手合十期待",
+      "p": "chibi,chibi only,1girl,palms together,love,light smile,heart,looking at viewer,upper body,close-up,white background,no pupil,",
+      "n": ""
+    },
+    {
+      "name": "看手机阴沉",
+      "p": "chibi,chibi only,1girl,shaded face,:(,disgusted,holding phone,looking at phone,upper body,close-up,white background,",
+      "n": ""
+    },
+    {
+      "name": "无言以对",
+      "p": "chibi,chibi only,1girl,sweatdrop,upper body,close-up,white background,no pupil,text,text:…,",
+      "n": ""
+    },
+    {
+      "name": "看手机哭哭",
+      "p": "chibi,chibi only,1girl,tears,:(,crying,holding phone,looking at phone,pink phone,upper body,close-up,white background,",
+      "n": ""
+    },
+    {
+      "name": "侧头困惑",
+      "p": "chibi,chibi only,1girl,(spoken question mark,?,confused:2.0),closed mouth,looking at viewer,upper body,close-up,white background,no pupil,",
+      "n": ""
+    },
+    {
+      "name": "大爆炸！",
+      "p": "chibi,chibi only,1girl,spread arms,jumping,v-shaped eyebrows,explosion in background,looking at vieer,open mouth,happy,(,upper body,close-up:2.0),white background,no pupil,",
+      "n": ""
+    },
+    {
+      "name": "闪光点赞",
+      "p": "chibi,chibi only,1girl,light smile,star,thumbs up,big hand,looking at viewer,upper body,close-up,white background,no pupil,",
+      "n": ""
+    },
+    {
+      "name": "恼怒中指",
+      "p": "chibi,chibi only,1girl,facing viewer,middle finger,big hand,light smile,closed mouth,anger vein,upper body,close-up,white background,speedline,",
+      "n": ""
+    },
+    {
+      "name": "星星眼期待",
+      "p": "chibi,chibi only,1girl,facing viewer,stars in eyes,happy,excited,upper body,close-up,white background,",
+      "n": ""
+    },
+    {
+      "name": "感叹号惊讶",
+      "p": "chibi,chibi only,1girl,!,surprised,upper body,close-up,white background,no pupil,text,english text,pink text,text:!,",
+      "n": ""
+    },
+    {
+      "name": "泡泉水水中探头",
+      "p": "1girl,solo,forest,water,top stone,sunlight,ripple,(transparent water:0.5)sidelighting,blurry plants foreground,waterfall,shiny eyes,in water,stone,plants foreground,(dappled sunlight:2.0),looking at viewer,from front,nsfw,(shiny skin:1.2),blue light,sunshine,light ray,wet skin,wet hair,water drop,splashing,cave,head half immerge in water,shy,towel on head,blush,head only,immerged mouth,bubble,",
+      "n": ""
+    },
+    {
+      "name": "抱水瓶射爆",
+      "p": "(solo,1girl:5.0),(:chibi only:3.0),happy,(personification,:1.5),(chibi only,:1.6)(,short arms and legs:1.5),char1：girl,(sitting,bottle on the crotch,hug a huge water bottle,:1.8)squirting milk,milk in the bottle,open mouth,raise head,(>_<:3.0),",
+      "n": ""
+    },
+    {
+      "name": "蛋糕砸头",
+      "p": "sliced cake,melting cake on head,cream dripping down from cake,cake upside down on head,cake smashed on head,holding single plate with two hands,empty plate,",
+      "n": ""
+    },
+    {
+      "name": "带球撞人裂墙",
+      "p": "1boy,1girl,against wall,ass,bare hips,between breasts,breast press,breast smother,crack,cracked wall,crushing,emphasis lines,face between breasts,face to breasts,feet out of frame,hand on own hip,head between breasts,height difference,kabedon,large breasts,looking at another,looking down,motion lines,open mouth,standing,v-shaped eyebrows,black background,",
+      "n": ""
+    },
+    {
+      "name": "画框内闪闪发亮",
+      "p": "1girl,solo,upper body,looking at viewer,(:3:1.16),sparkling eyes,star in eye,excited,blush,hash marks on cheeks,hands on own cheeks,own hands clasped,leaning to the side,sparkle,sparkle background,halftone background,(monochrome:1.16),(greyscale:1.16),manga,screentone,ink,lineart,spot blacks,comic,border,outside border,breaking out of frame,(negative space:1.22),",
+      "n": ""
+    },
+    {
+      "name": "快乐飞扑",
+      "p": "(flat color:2.0),(chibi,chibi only:1.5),1girl,(solo:1.5),pounce,asking fot hug,from side,happy,smiling,in air,open arms,dynamic pose,1motion lines,",
+      "n": ""
+    },
+    {
+      "name": "看手机疑惑",
+      "p": "1girl,?,ahoge,confused,head rest,holding phone,lying,open mouth,smartphone,solo,",
+      "n": ""
+    },
+    {
+      "name": "被鹰抓着飞在空中",
+      "p": "full body,1girl,solo,eagle,eagle picked up the girl,(caught by the eagle by the neck:1.05),flying,in sky,blue sky,clouds,panicked,struggling,flailing,>_<,wavy mouth,motion blur,motion lines,dynamic action,afterimage,white panties,",
+      "n": ""
+    },
+    {
+      "name": "红包祝福",
+      "p": "1girl,solo,chibi,chibi only,hongbao,in hongbao,open mouth,smile,shiny,white background,text:2026 happy new year,",
+      "n": ""
+    },
+    {
+      "name": "给你红包",
+      "p": "1girl,china dress,smile,grin,(giving hongbao:2.0),close up,upper body,perspective,foreshortening,",
+      "n": ""
+    },
+    {
+      "name": "啃带骨肉",
+      "p": "1girl,solo,(chibi,chibi only:1.10),meat bone in hands,holding bone,biting bone,chewing,smile,casual attire,eating,bone,hands holding food,sit,>_<,close eyes,",
+      "n": ""
+    },
+    {
+      "name": "浴缸探头",
+      "p": "(chibi,chibi only:2.0),(flat color,pale color:2.0),(bathing,soap bubbles,bubble bath,sitting in tub,soap suds covering:1.5),steam,rubber duck,smile,(water drops:1.2),bathroom,indoor,upper body,",
+      "n": ""
+    },
+    {
+      "name": "揉揉兽耳",
+      "p": "sweat,saliva,heart,arms behind back,shy,hands on animal ears,disembodied limb,holding animal ears,",
+      "n": ""
+    },
+    {
+      "name": "门后探头",
+      "p": "1girl,solo,chibi,chibi only,behind door,scared,shocked,v shaped eyebrow,frustrated,squiggle,",
+      "n": ""
+    },
+    {
+      "name": "黑脸沮丧",
+      "p": "1girl,solo,chibi,chibi only,frustrated,squiggle,shaded face,wide eyes,part lips,empty eyes,",
+      "n": ""
+    },
+    {
+      "name": "咬牙切齿版",
+      "p": "1girl,solo,chibi,chibi only,frustrated,squiggle,shaded face,half closed eyes,clenched teeth,",
+      "n": ""
+    },
+    {
+      "name": "第一人称摸猫猫头",
+      "p": "char1:girl,nude,(no humans:1.10),(1other:1.10),(solo:1.10),blush,animal ears,sitting,closed mouth,solo focus,tail,animal,cat,:3,>_<,v-shaped eyebrows,char2:1other,out of frame,headpat,",
+      "n": ""
+    },
+    {
+      "name": "电流过脑",
+      "p": "(electric through head:2.0),arcs of pink electricity wrap around her body,crackling with power,",
+      "n": ""
+    },
+    {
+      "name": "心碎",
+      "p": "1girl,solo,(chibi:1.5),(holding broken heart:1.5),(sad expression:1.4),sorrowful,heartbroken,(tears welling up in eyes:1.3),(hands trembling slightly:1.3),(looking down at the heart:1.2),(red heart split cleanly in half:1.7),(visible jagged edge where heart was broken:1.5),dimly lit room,worn fabric background,faint single light source,twilight,(soft,melancholic lighting:1.5),(subtle shadow pooling beneath her hands:1.4),(rim light catching the curve of her cheek:1.3),volumetric clear air,upper body,close up,cinematic,emotional,symbolism,",
+      "n": ""
+    },
+    {
+      "name": "举牌请求",
+      "p": "(chibi:3.0),(chibi only:4.0),comic frame border,(sticker style:5.0),white outline,white background,1girl,solo,pleading eyes,eyes,hands together,cardboard sign,trembling,quivering mouth,backlight glow,flower bokeh,please gesture,",
+      "n": "(sticker:2.0),"
+    },
+    {
+      "name": "我有一言",
+      "p": "(chibi:3.0),(chibi only:4.0),comic frame border,(sticker style:5.0),white outline,1girl,solo,cheeky grin,finger circle prank,gotcha,pointing gesture,head tilt,playful trap,caught you,camera bait,mischievous,",
+      "n": "(sticker:2.0),"
+    },
+    {
+      "name": "等着锤人",
+      "p": "(chibi:3.0),(chibi only:4.0),comic frame border,(sticker style:5.0),white outline,white background,1girl,solo,stern pout,anger vein,foam hammer,bonk pose,hand raised,playful scold,pow effect,motion blur,looking at viewer,",
+      "n": "(sticker:2.0),"
+    },
+    {
+      "name": "吃瓜",
+      "p": "(chibi:3.0),(chibi only:4.0),comic frame border,(sticker style:5.0),white outline,1girl,solo,holding a spoon,eating half a watermelon,huge watermelon,",
+      "n": "(sticker:2.0),"
+    },
+    {
+      "name": "电量耗尽",
+      "p": "(chibi:3.0),(chibi only:4.0),comic frame border,(sticker style:5.0),white outline,1girl,solo,tired eyes,droopy eyelids,slouching,low battery icon,loading bar,wobble effect,sigh,small sweat drop,relatable,",
+      "n": "(sticker:2.0),"
+    },
+    {
+      "name": "不理你了！",
+      "p": "(chibi:3.0),(chibi only:4.0),1girl,solo,tsundere,close eyes,(turn head to the side:5.0),(pouting:5.0),(grumpy expression:5.0),disheveled hair,hair flowing in the wind,wispy bangs,",
+      "n": ""
+    },
+    {
+      "name": "看手机红温",
+      "p": "(chibi:3.0),(chibi only:4.0),1girl,solo,cellphone,blush,holding phone,frown,v-shaped eyebrows,closed mouth,upper body,smartphone,>:(,(full face flushed light red:5.0),(angry:2.0),very angry,blush stickers,nose blush,full-face blush,anger vein,?,spoken question mark,steam,",
+      "n": ""
+    },
+    {
+      "name": "贴贴屏幕",
+      "p": "(chibi:3.0),(chibi only:4.0),comic frame border,(sticker style:5.0),white outline,white background,1girl,solo,kissy face,lips on glass,hand on glass,heart doodles,playful tease,close up,bokeh,pov,soft lighting,",
+      "n": "(sticker:2.0),"
+    },
+    {
+      "name": "选一个？",
+      "p": "(chibi:3.0),(chibi only:4.0),comic frame border,(sticker style:5.0),white outline,1girl,solo,looking at viewer,eye contact,gentle smile,open mouth,head tilt,holding carrots,holding cucumber,holding food,both hands visible,each hand holding,outstretched arm,reaching out,offering,presenting,extended hand toward camera,give to viewer,upper body,dynamic pose,simple background,soft lighting,light sparkles,question mark aura,friendly gesture,",
+      "n": "(sticker:2.0),"
+    },
+    {
+      "name": "胡萝卜来一根？",
+      "p": "(chibi:3.0),(chibi only:4.0),comic frame border,(sticker style:5.0),white outline,1girl,solo,looking at viewer,eye contact,gentle smile,open mouth,head tilt,carrots,holding carrot,holding food,both hands visible,each hand holding,outstretched arm,reaching out,offering,presenting,extended hand toward camera,give to viewer,upper body,dynamic pose,simple background,soft lighting,light sparkles,question mark aura,friendly gesture,",
+      "n": "(sticker:2.0),"
+    },
+    {
+      "name": "我十分害怕，又不敢置信",
+      "p": "(chibi:3.0),(chibi only:4.0),comic frame border,(sticker style:5.0),white outline,1girl,solo,nervous smile,sweating,two buttons panel,trembling hand,indecisive,eye twitch,wavy outline,exclamation mark aura,comedic stress,",
+      "n": "(sticker:2.0),"
+    },
+    {
+      "name": "摸鱼",
+      "p": "(chibi:3.0),(chibi only:4.0),(sticker style:5.0),white outline,1girl,solo,bed,window,curtain,wind,on back,lying on bed,hugging big fish,sleepy,half closed eyes,blush,full body,",
+      "n": "(sticker:2.0),(simple background:1.0),"
+    },
+    {
+      "name": "叹息",
+      "p": "(chibi:3.0),(chibi only:4.0),comic frame border,(sticker style:5.0),white outline,1girl,solo,deadpan,half lidded eyes,eyebrow raise,unimpressed,facepalm,sigh,side glance,sarcastic,flat lighting,minimal design,",
+      "n": "(sticker:2.0),"
+    },
+    {
+      "name": "头顶苹果",
+      "p": "(chibi:3.0),(chibi only:4.0),white background,1girl,solo,shining brightly,proud,(hands on hips:2.0),(arms akimbo:2.0),big cherries on the head,",
+      "n": ""
+    },
+    {
+      "name": "咕咕嘎嘎",
+      "p": "(upper body:2.0),(chibi:3.0),(chibi only:4.0),1girl,solo,half closed eyes,sleepy,salivate,dark circles under the eyes,(counting penguins:3.0),(a flock of penguins jumping over the fence:3.0),text:gugugaga,",
+      "n": ""
+    },
+    {
+      "name": "我又怎么了！",
+      "p": "(chibi:3.0),(chibi only:4.0),comic frame border,(sticker style:5.0),white outline,white background,1girl,solo,shocked face,wide eyes,spilled drink,oh no pose,hands midair,sweat drop,flustered,comedic disaster,snapshot moment,",
+      "n": "(sticker:2.0),"
+    },
+    {
+      "name": "床上没拿稳手机砸脸",
+      "p": "1girl,solo,face focus,lying on pillow,(light pink phone dropping on face:2.0),(>_<,closed eyes:2.0),hands up,(eyes covered by phone:2.0),open mouth,indoor,bedroom,on bed,white sheet,",
+      "n": "(holding phone:3.0),"
+    },
+    {
+      "name": "吃瓜 (2)",
+      "p": "(upper body,3:2.0)chibi,(chibi only:4.0),comic frame border,(sticker style:5.0),white outline,1girl,solo,holding a spoon,eating half a watermelon,huge watermelon,",
+      "n": "(sticker:2.0),"
+    },
+    {
+      "name": "递胡萝卜",
+      "p": "(upper body,3:2.0)chibi,(chibi only:4.0),comic frame border,(sticker style:5.0),white outline,1girl,solo,looking at viewer,eye contact,gentle smile,open mouth,head tilt,carrots,holding carrot,holding food,both hands visible,each hand holding,outstretched arm,reaching out,offering,presenting,extended hand toward camera,give to viewer,upper body,dynamic pose,soft lighting,light sparkles,question mark aura,friendly gesture,",
+      "n": "(sticker:2.0),"
+    },
+    {
+      "name": "夕瓜",
+      "p": "no text,dusk (arknights),chibi,a girl wearing a watermelon suit with her legs and arms out,head pop from watermelon,wearing a watermelon lid hat,",
+      "n": "(weapon:1.0),"
+    },
+    {
+      "name": "飞鱼当头棒喝",
+      "p": "(upper body,no text,3:2.0)chibi,(chibi only:4.0),(sticker style:5.0),white outline,(>_<:5.0),lying on the table,(knocked on the head by a large fish:5.0),(reach for the one fish on the table:5.0),dynamic line,close eyes,(flattened by a fish:5.0),fish,(flat girl:3.0),holding a fish with hand outside the picture,",
+      "n": "(sticker:2.0),"
+    },
+    {
+      "name": "仅手特写伸出水面点赞（不稳定）",
+      "p": "1girl,solo,cum,cum overall,her one arm out from pool,(thumb up:1.5),immersed in cum,body out of frame,eyes out of frame,head sinking,",
+      "n": ""
+    },
+    {
+      "name": "小小月饼",
+      "p": "(personification:1.5),(chibi only:3.6),(mooncake,short arms and legs,mooncake clothes only,cosplay,＞_＜,target#cosplay,2.0:1.5)mooncake,mooncake (cosplay),walking.,",
+      "n": ""
+    },
+    {
+      "name": "彩虹呕吐",
+      "p": "(vomitting:1.34),(vomitting rainbow:1.34),(vomit:1.16),tears,crying with eyes open,(shaded face:1.16),(pain:1.16),crying,(scared:1.16),embarrassed,(open mouth:1.16),drunk,drinking alcohol,^^^,sweat,(bar (place):1.05),alcohol,",
+      "n": ""
+    },
+    {
+      "name": "哈气",
+      "p": "1girl,full body,close-up,open mouth,(cat tail straightened:4.0),(chibi,chibi only:2.0),memes,white background,sleeves pass fingers,oversized clothes,big head,(,top-down bottom-up,angry,annoyed,scowl,anger vein,fang:4.0),",
+      "n": ""
+    },
+    {
+      "name": "嘴叼玫瑰自信",
+      "p": "(hand on wall:1.1),leaning forward,dynamic pose,(leaning against wall:1.2),(hands on hips:1.1),rose in mouth,(smug:1.3),(seductive smile:1.2),looking at viewer,(raised eyebrow:1.1),",
+      "n": ""
+    },
+    {
+      "name": "被吊起来晾晒",
+      "p": "chibi only,cute doll,solo,(hanging from a clothes hook:1.5),(on a clothes hanger:1.3),(wet,dripping water:1.4),water drops,:з,(peaceful expression,closed eyes,:1.3)(shirt lift:1.3),feet off the ground,full body,from front,clean background,laundry,",
+      "n": ""
+    },
+    {
+      "name": "被鼠标抢走内裤（不稳定）",
+      "p": "1girl,(solo:1.16),chibi,computer screen focus,alternate costume,window (computing),frilled dress,(cursor:1.3),pixel art,trying to catch the panties,tripping,from side,flustered,flying panties,panties in air,girl in computer screen,|in side the screen there is a girl in computer screen,in the screen there’s a girl,she is running on playground and almost fallen down,she is nervous and helpless trying to catch the panties in air but failed,and the cursor in the computer monitor too,the cursor holding the unworn pink panties and the unworn panties is in front of the girl above her head,",
+      "n": ""
+    },
+    {
+      "name": "混乱捂脸",
+      "p": "1girl,upper body,upper body,close up,face focus,hands up,open hands,(@_@:2.0),dazed,",
+      "n": "(earings:2.0),"
+    },
+    {
+      "name": "做巨乳梦",
+      "p": "1girl,2views,standing,v,char1：girl,g,narrow waist,slende,wide hips,thick thighs,sagging breasts,vertical-striped dress,black jacket,diamond cutout,maid clothes,frilled skirt,pelvic curtain,off shoulder,arm under breasts,leaning forward,(one eye closed:2.0),head tilt,star (symbol),seductive smile,char2：girl,pajamas,zzz,sleeping,closed eyes,mouth drool,upper body,on bed,chibi,dreaming,thought bubble,",
+      "n": "(navel:2.0),"
+    },
+    {
+      "name": "其他版本1",
+      "p": "1girl,2views,standing,char1：girl,vertical-striped dress,black jacket,diamond cutout,maid clothes,frilled skirt,pelvic curtain,off shoulder,arm under breasts,leaning forward,(one eye closed:2.0),head tilt,star (symbol),seductive smile,char2：girl,pajamas,zzz,sleeping,closed eyes,mouth drool,upper body,on bed,chibi,dreaming,thought bubble,",
+      "n": "(navel:2.0),"
+    },
+    {
+      "name": "盘腿坐伸懒腰",
+      "p": "1girl,solo,trembling,closed eyes,blush stickers,stretching,facing viewer,white background,chibi,full body,",
+      "n": ""
+    },
+    {
+      "name": "桌下冒头（疑问）（不稳定）",
+      "p": "1girl,solo,(chibi,chibi only:2.0),indoors,adventurer’s guild,wooden counter,fantasy,from above,close-up,size difference,location,from above,peeking over counter,looking up at viewer,curious,cute,head only,",
+      "n": ""
+    },
+    {
+      "name": "桌下冒头（哭泣）",
+      "p": "1girl,solo,indoors,adventurer’s guild,wooden counter,fantasy,from above,close-up,size_difference,location,from above,girl,peeking over counter,looking up at viewer,curious,cute,head only,tears,scared,",
+      "n": ""
+    },
+    {
+      "name": "群鸽围攻",
+      "p": "1girl,fleeing,running away,being chased,surrounded by birds,pigeons,flock,pecking,attacking,panicked expression,hands up,stone bench,green grass,park,outdoors,sunny day,strong contrast,sharp shadows,overhead lighting,motion blur,dynamic pose,mid-action,close up,",
+      "n": ""
+    },
+    {
+      "name": "打翻KFC",
+      "p": "1girl,falling,tripping,slipping,crying,embarrassed,shocked expression,spilling food,scattered fries,spilled soda,mess,hamburger,french fries,fried chicken,cola,uniform,apron,fast food restaurant,tiled floor,checkered floor,bright fluorescent lighting,strong highlights,overhead lighting,motion blur,dynamic pose,mid-action,full body,",
+      "n": ""
+    },
+    {
+      "name": "催眠状态",
+      "p": "1girl,solo,wariza,looking up,shadow face,drooling,drool,expressionless,@_@,shaded face,front view,purple background,spiral background,Fumo骑马,no humans,fumo (doll),white horse,horseback riding,outdoors,on hind legs,horse,riding,sky,",
+      "n": ""
+    },
+    {
+      "name": "手捧自己的fumo",
+      "p": "1girl,solo,clothed,open eyes,holding large size character fumo (doll),looking at viewer,facing viewer,indoors,open eyes,upper body,",
+      "n": ""
+    },
+    {
+      "name": "逆转裁判原版风格异议！",
+      "p": "ace attorney,(video game,fake screenshot,Parody,gameplay mechanics,game cg,sprite:1.16),(artist:iwamoto tatsurou,artist:edaki shin’ya:2.0),year 2024,year 2025,Hyperrealism,Photorealism,3d background,lifelike,Interiors,Indoors,(courtroom,lectern:1.10),1girl,smile,(objection:2.0),",
+      "n": "(artist collaboration:6.0),"
+    },
+    {
+      "name": "满脑色色",
+      "p": "1girl,solo,(constricted pupils,slit pupils,full-face blush,sweat,two hand holding book,looking book,standing,red heart in thought bubble,many thought bubble,1.5:1.5)wavy hair,(expressionless,jitome:1.2),",
+      "n": ""
+    },
+    {
+      "name": "想喝酒",
+      "p": "(simple eyes:0.8),(white background:1.3)(1girl,solo:2.5),chibi,chibi only,(white background:10.0),(thinking:1.3),meme,eyes closed,deadpan expression,thought bubble,speech bubble,whiskey bottle in bubble,thinking pose,bored expression,no mouth,upper body,",
+      "n": ""
+    },
+    {
+      "name": "喜新厌旧（推荐横图）",
+      "p": "1boy,2girls,closed eyes,closed mouth,distracted boyfriend (meme),dual persona,looking at another,meme,multiple girls,parted lips,smile,",
+      "n": ""
+    },
+    {
+      "name": "自我扼喉",
+      "p": "1girl,:d,@_@,chromatic aberration,hair over shoulder,half-closed eye,hands on own neck,hands up,looking at viewer,open mouth,sharp teeth,smile,teeth,uneven eyes,upper body,",
+      "n": ""
+    },
+    {
+      "name": "抓起小人",
+      "p": "(chibi,chibi only:1.16),1girl,1other,large hand,hand grabbing another,lifting person,hanging legs,",
+      "n": "(multiple views:2.0),"
+    },
+    {
+      "name": "被带飞",
+      "p": "(1girl,solo,1animal:1.5),(chibi,chibi only:1.16),(grabbing wolf’s tail,running,floating person,floating:2.0),motion blur,motion lines,>_<,open mouth,",
+      "n": ""
+    },
+    {
+      "name": "打call",
+      "p": "chibi only,color splashing,heart-shaped pupils,holding glowstick,waving,upper body,dual wielding,open mouth,!!,pink background,heart background,",
+      "n": ""
+    },
+    {
+      "name": "吹泡泡",
+      "p": "(chibi,chibi only:1.16),bubble,bubble blowing,",
+      "n": ""
+    },
+    {
+      "name": "辣汤温泉熬煮",
+      "p": "night,dark,afloat,partially submerged,nude,onsen,shiny large water drop,wet hair,in red orange soup,light smile,shiny skin,steam,fog,parted lips,body blush,carrot in soup,garlic,chili pepper in soup,",
+      "n": ""
+    },
+    {
+      "name": "星空裙底",
+      "p": "impossible clothes,skirt lift,standing,grin,petite,tsurime,neck,curvy,dress,upskirt,star skirt,galaxy inner skirt,from below,white trim black hole between thighs,",
+      "n": ""
+    },
+    {
+      "name": "头顶Q版少女",
+      "p": "2girls,indoors,size difference,char1：girl,>_<,closed eyes,kneeling,school uniform,blue skirt,white shirt,(chibi,chibi only:2.0),(source#lying on another’s head:1.16),open mouth,char2：girl,looking up,hands up,part lips,standing,(target#lying on another’s head:1.16),close up,upper body,",
+      "n": ""
+    },
+    {
+      "name": "睦月铸币大头（需去除画师词）",
+      "p": "kunjuan shala,mutsuki face (blue archive),face focus,solo,closed mouth,",
+      "n": ""
+    },
+    {
+      "name": "判定框",
+      "p": "torako (toramaru),fighting game,full body,hitbox,",
+      "n": ""
+    },
+    {
+      "name": "死掉了",
+      "p": "(x x,x_x,:2.0),tongue out,lying,on stomach,",
+      "n": ""
+    },
+    {
+      "name": "女神异闻录之眼",
+      "p": "1girl,solo,persona 5 (parody),eye focus,looking at viewer,persona eyes,red background,solo,style parody,",
+      "n": ""
+    },
+    {
+      "name": "异议！",
+      "p": "1girl,looking ahead,objection,open mouth,pointing forward,upper body,emphasis lines,speech bubble,(text:2.0)objection!,Here’s johnny!,1girl,(solo:1.22),breaking,door,here’s johnny!(meme),holding knife,horror,theme(meme),the shining (scene reference),smile,",
+      "n": ""
+    },
+    {
+      "name": "雅木茶倒地",
+      "p": "1girl,chibi,chibi only,crater(meme),solo,yamcha pose(meme),",
+      "n": ""
+    },
+    {
+      "name": "像素墨镜",
+      "p": "1girl,deal with it(meme),sunglasses,",
+      "n": ""
+    },
+    {
+      "name": "打翻薯条",
+      "p": "1girl,apu spills his tendies(meme),chicken nuggets,fallen down,french fries(meme),soda,solo,spill,tray,white background,tears,",
+      "n": ""
+    },
+    {
+      "name": "点赞猫",
+      "p": "1girl,arrow,symbol,bongo cat(meme),chibi,heart,like and retweet(meme),smile,solo,upper body,",
+      "n": ""
+    },
+    {
+      "name": "会赢的！",
+      "p": "1girl,english text,looking at viewer,nah i’d win(meme),parted lips,smile,solo,speech bubble,text: nah i’d win,",
+      "n": ""
+    },
+    {
+      "name": "撒盐哥",
+      "p": "1girl,apron,bacon,brown camisole,cooking,fried egg,holding chopsticks,salt bae(meme),solo,",
+      "n": ""
+    },
+    {
+      "name": "射击比赛手枪哥",
+      "p": "1girl,arm up,cowboy shot,hand in pocket,holding gun,solo,standing,white background,yusuf dikec(meme),",
+      "n": ""
+    },
+    {
+      "name": "以下内容不予展示",
+      "p": "1girl,:d,>_<,blush stickers,can’t show this(meme),chibi,closed eyes,english text,holding sign,solo,xd,text:Don’t show,",
+      "n": ""
+    },
+    {
+      "name": "疑惑思索",
+      "p": "1girl,(solo:1.22),(portrait,meme:1.10),upper body,confused,closed mouth,(uneven eyes:1.16),(raised eyebrow:1.10),(?:1.05),(staring:1.16),stroking own chin,looking at viewer,white background,colorful,",
+      "n": ""
+    },
+    {
+      "name": "中指辱骂",
+      "p": "1girl,solo,close-up,facing viewer,middle finger,from side,from side,english text,text,bold text,text in pink,text:fuck you!,",
+      "n": ""
+    },
+    {
+      "name": "炒饭",
+      "p": "1girl,flipping food,fried rice prank(meme),solo,wok,",
+      "n": ""
+    },
+    {
+      "name": "口哨哥meme",
+      "p": "1girl,arms behind back,arms behind head,josh hutcherson whistle edit(meme),smirk,solo,white background,",
+      "n": ""
+    },
+    {
+      "name": "表情呆滞",
+      "p": "1girl,deadpan,empty eyes,face of the people who sank all their money into the fx(meme),open mouth,parody,portrait,solo,white background,ME!ME!ME!热舞,1girl,armpits,arms behind head,curvy,dancing,me!me!me! dance(meme),meme,presenting armpit,solo,white background,",
+      "n": ""
+    },
+    {
+      "name": "阿尼亚嘲讽笑",
+      "p": "1girl,anya’s heh face(meme),open mouth,smile,squinting,",
+      "n": ""
+    },
+    {
+      "name": "监狱摄影",
+      "p": "1girl,barbie mugshot(meme),height chart,height mark,holding sign,mugshot,nameplate,solo,text:name,Seyana颜,1girl,black eyes,empty eyes,gyari,imagesdawn,style,open mouth,seyana(meme),",
+      "n": ""
+    },
+    {
+      "name": "变成猫",
+      "p": "(no humans:1.10),(1other:1.10),(solo:1.10),white background,animal ears,sitting,closed mouth,tail,ahoge,solo focus,animal ear fluff,animal,cat,all fours,cat stretch,looking at viewer,solo,stretching,",
+      "n": ""
+    },
+    {
+      "name": "是指东西meme哦！",
+      "p": "1girl,solo,cowboy shot,hand up,pointing at another,two soyjaks pointing(meme),wide-eyed,",
+      "n": ""
+    },
+    {
+      "name": "已经燃尽了，化作了雪白的灰",
+      "p": "1girl,bent over,creator connection,folding chair,full body,interlocked fingers,parody,scene reference,shinji in a chair(meme),solo,style parody,",
+      "n": ""
+    },
+    {
+      "name": "侧马尾miku",
+      "p": "1girl,bare shoulders,collarbone,grey background,hand in own hair,heart,looking at viewer,side ponytail,sidetail miku noodle stopper(meme),smile,solo,",
+      "n": ""
+    },
+    {
+      "name": "长条猫",
+      "p": "(no humans:1.10),(1other:1.10),(solo:1.10),(alternate costume:1.16),white background,animal earssitting,closed mouth,tail,ahoge,solo focus,animal ear fluff,animal,cat,:<,1other,out of frame,animal focus,holding animal,holding cat,longcat(meme),",
+      "n": ""
+    },
+    {
+      "name": "仰头喝雨",
+      "p": "1girl,goku and vegeta in the rain(meme),open mouth,rain,standing,tongue out,",
+      "n": ""
+    },
+    {
+      "name": "庆祝按钮",
+      "p": "1girl,chibi,chibi only,miiverse yeah!(meme),plus sign,solo,text:yeah!,",
+      "n": ""
+    },
+    {
+      "name": "都在计划之中",
+      "p": "1girl,death note,object,evil grin,evil smile,just as planned(meme),open book,parody,solo,",
+      "n": ""
+    },
+    {
+      "name": "只要把这个给别人他就会很开心",
+      "p": "1girl,clothes-dissolving potion,grin,holding bottle,looking ahead,outstretched arm,you can just give this kind of thing to men and they will be thrilled(meme),",
+      "n": ""
+    },
+    {
+      "name": "完美瞬间",
+      "p": "1girl,absolute cinema(meme),arm out of sleeve,english text,greyscale,upper body,",
+      "n": ""
+    },
+    {
+      "name": "妮姬Doro",
+      "p": "1girl,solo,doro,nikke,:3,blush,creature,looking at viewer,short hair,smile,solo,white background,",
+      "n": ""
+    },
+    {
+      "name": "呆傻睡眠眼罩",
+      "p": "1girl,solo,drooling,sleep mask over eyes,teri derp(meme),covered eyes,Padoru！Padoru！,1girl,capelet,chibi,cosplay,nero claudius,fate/extra,cosplay,padoru(meme),pom pom,santa costume,",
+      "n": ""
+    },
+    {
+      "name": "给你一拳！",
+      "p": "1girl,foreshortening,grin,incoming attack,incoming punch,motion blur,pepe punch(meme),punching,reaching,reaching towards viewer,solo,upper body,white background,",
+      "n": ""
+    },
+    {
+      "name": "饶我一次",
+      "p": "1girl,ah eto… bleh(meme),arm wrap,closed eyes,hand on own head,tongue out,upper body,white background,",
+      "n": ""
+    },
+    {
+      "name": "莉可丽丝倒立挑战",
+      "p": "1girl,@_@,handstand,lycoris challenge(meme),one arm handstand,one side up,skirt tug,sweat,upside-down,white background,",
+      "n": ""
+    },
+    {
+      "name": "视奸pv",
+      "p": "1girl,monitoring(vocaloid),close-up,parody,pov peephole,smile,solo,eyepatch,",
+      "n": ""
+    },
+    {
+      "name": "速写本表情",
+      "p": "1girl,holding sketchbook,rina-chan board,solo,covered face,drawing,object,>_<,",
+      "n": ""
+    },
+    {
+      "name": "被打一头包",
+      "p": "wariza,head bump,t,crying,tears,>_<,t-shirt,(chibi,chibi only:1.16),",
+      "n": ""
+    },
+    {
+      "name": "两椅劈叉",
+      "p": "1girl,solo,split,over split,crossed arms,foot on two stools,straight-on,-sitting,leaning forward,stool under ass,full body,bare legs,micro skirt,a person is performing a middle split,her feet are supported separately on two high stools,their body is suspended between the two stools,with their hips hanging in the air,held up only by the support of their feet,",
+      "n": ""
+    },
+    {
+      "name": "爆乳萝莉傲然挺胸",
+      "p": "(chibi:1.10),from side,1girl,solo,:3,full body,smug,closed eyes,white background,loli,toddler,gigantic breasts,hands on own hips,",
+      "n": ""
+    },
+    {
+      "name": "原版画风",
+      "p": "quan (kurisu_tina),(xinzoruo:0.82),(artist:mikozin:0.82),year 2024,",
+      "n": ""
+    },
+    {
+      "name": "丢雷",
+      "p": "1girl,solo,(chibi,chibi only:1.10),full body,blush,standing,naughty smile,throwing a huge bomb with two hands,white background,",
+      "n": ""
+    },
+    {
+      "name": "扩音器大喊",
+      "p": "1girl,solo,(chibi,chibi only:1.10),motion line,full body,blush,standing,holding a loudspeaker,(shouting:1.22),(open mouth:1.10),standing,leaning forward,",
+      "n": ""
+    },
+    {
+      "name": "柚子社打招呼ciallo",
+      "p": "1girl,solo,(chibi,chibi only:1.16),close up,upper body,head tilt,(peace sign,v:1.16),one eye closed,finger to eyes,>_<,smile,open mouth,text:ciallo,",
+      "n": ""
+    },
+    {
+      "name": "脸埋入面碗（不稳定）",
+      "p": "hand up,from above,sitting,bent over,(on stomach:1.16),(head down:1.22),(head in bowl:1.22),table,yakisoba,face in yakisoba,bowl,chair,food,table,spilled food,facing back,(fainted:1.16),vomiting,",
+      "n": ""
+    },
+    {
+      "name": "原版服装",
+      "p": "greco-roman clothes,ancient greek clothes,greco-roman clothes,ancient greek clothes,white dress,gold choker,bare shoulders,toga,armlet,",
+      "n": ""
+    },
+    {
+      "name": "指指点点",
+      "p": "chibi,maid,pointing at viewer,(pointing finger at viewer:1.10),staring,hand,upper body,close-up,angry,annoyed,scowl,anger vein,open mouth,fang,shaded face,from below,",
+      "n": ""
+    },
+    {
+      "name": "放下小人",
+      "p": "white background,(mini girl,chibi,chibi only:1.10),limbs hanging loose,large hands,lifting person,grabbing another’s waist,hanging legs,hanging arms,",
+      "n": ""
+    },
+    {
+      "name": "娃娃机抓小人",
+      "p": "blurry background,(chibi,chibi only:1.10),(claw machine:1.05),many large dolls,in claw machine,grabbed by metal claw,lifting person,hanging legs,hanging arms,motion blur,tears,from outside,pov hand,bottoms,",
+      "n": ""
+    },
+    {
+      "name": "点赞猫 (2)",
+      "p": "arrow (symbol),bongo cat (meme),chibi,heart,like and retweet,meme,smile,solo,upper body,",
+      "n": ""
+    },
+    {
+      "name": "大香肠塞进嘴里",
+      "p": "pov,(child:1.16),(petite:1.16),(chibi:1.16),kneeling,viewer holding sausage,mouth insertion,sausage,force-feeding,deep penetration,twitching,",
+      "n": ""
+    },
+    {
+      "name": "用手给自己扇风",
+      "p": "facing viewer,wavy mouth,fanning self,sweaty clothes,hot,=_=,depth of field,lens flare,",
+      "n": "(fan:1.5),"
+    },
+    {
+      "name": "黑暗地牢美德触发",
+      "p": "english text,glowing halo,virtue (darkest dungeon),white halo,white outline,",
+      "n": ""
+    },
+    {
+      "name": "小猫伸懒腰",
+      "p": "(no humans:1.10),(1other:1.10),(solo:1.10),(alternate costume:1.16),animal earssitting,tail,cat,all fours,cat stretch,looking at viewer,solo,stretching,",
+      "n": ""
+    },
+    {
+      "name": "摸摸小动物头",
+      "p": "flowers,love,(no humans:1.10),(1other:1.10),(solo:1.10),blush,animal ears,sitting,closed mouth,solo focus,:<,1other,out of frame,headpat,",
+      "n": ""
+    },
+    {
+      "name": "凝胶猫猫咖啡",
+      "p": "no humans,cup,:3,kitten slime,cat slime,slime in the teacup,",
+      "n": ""
+    },
+    {
+      "name": "做爱宣言",
+      "p": "chibi,chibi only,expression sticker,close up,cowboy shot,thick outlines,outline,white background,1girl,solo,close-up,facing viewer,looking at viewer,one hand reaching out,from side,inviting gesture，reaching towards viewer,motion lines,(open eyes:2.0),english text,text,bold text,text in pink,text with white border,pink background,text: sex with me!,",
+      "n": ""
+    },
+    {
+      "name": "假几把杀手",
+      "p": "blood,blood on face,blood splatter,crazy eyes,hallway,horror (theme),looking at viewer,ominous shadow,open mouth,pov,shouji,sliding doors,solo,upper body,wide-eyed,peeking,door crack,crazy smile,nude,(holding dildo,huge dildo,huge dildo:1.22),",
+      "n": ""
+    },
+    {
+      "name": "给你一拳（n4.5，推荐横图）",
+      "p": "standing,reaching towards viewer,kung fu,fighting stance,cowboy shot,traditional chinese clothes,(pepe punch (meme):1.28),(meme:1.10),incoming punch,clenched hand,muscular female,veiny arms,eyes in shadow,dark,glowing eyes,evil grin,steam from mouth,",
+      "n": ""
+    },
+    {
+      "name": "啃坚果",
+      "p": "chibi only,looking at viewer,holding seed,huge seed,seed,sitting on floor,biting,smile,",
+      "n": ""
+    },
+    {
+      "name": "地上打闹",
+      "p": "artist:mimelond,sketch,chibi,1girl,solo,>_<,open mouth,closed eyes,(shouting:1.10),lying,waving hands,waving legs,on back,frown,kicking,yell,raised fist,motion lines,",
+      "n": ""
+    },
+    {
+      "name": "挤脸",
+      "p": "face focus,pov hand grabbing another’s face,one puffy face,full face blush,hurry,??,@_@,",
+      "n": ""
+    },
+    {
+      "name": "黄油打头",
+      "p": "thick outline,unhappy,butter,square butter,butter block,yellow,on head,askew,tilted,melted butter,dripping butter,stuck on head,plants vs zombies (parody),pvz reference,food on head,humor,absurd,portrait,upper body,Q版粽子人,personification,chibi,triangular shape,rope binding,short arms and legs,bamboo leaf clothes only,＞_＜,target#cosplay,zongzi,",
+      "n": ""
+    },
+    {
+      "name": "唐氏邪笑",
+      "p": "meme,close-up,1girl,solo,(smirk,smug:1.16),open mouth,blush,:d,smirk,saliva drip,",
+      "n": ""
+    },
+    {
+      "name": "汉堡夹少女",
+      "p": "blush stickers,burger,cheese,expressionless,food,food focus,(in food:1.10),lying,mayonnaise,on stomach,oversized food,oversized object,pickle,sliced cheese,",
+      "n": ""
+    },
+    {
+      "name": "加入绝地潜兵！",
+      "p": "helldiver (helldivers),black armor,holding helmet,pointing at viewer,cowboy shot,upper body,expressionless,open mouth,leaning foward,white background,text:i want you!,",
+      "n": ""
+    },
+    {
+      "name": "自信一指（推荐只使用此tag画风）",
+      "p": "(chibi,chibi only,chibi style:1.34),(artist:freng:1.05)(artist:bee (deadflow):0.91),(artist:houraku:1.10),artist:fymrie,(artist:tab head:0.82),(artist:omone hokoma agm:0.95),artist:ningen mame,blush,>:3,smile,pink,half close eyes,point up,hand on hip,pink background,white border,upper body,face close-up,",
+      "n": ""
+    },
+    {
+      "name": "尾巴勃起顶起衣服",
+      "p": "cowboy shot,(from below:0.91),cat girl,cat ears,hands on own hips,oversized clothes,oversized shirt,single bare shoulder,white shirt,(erection under clothes,implied futanari:1.05),(tail erection,tail between legs,tail under shirt:1.16),(sumg,smile,=v=,closed eyes,looking up:1.10),no panties,",
+      "n": ""
+    },
+    {
+      "name": "得意一会",
+      "p": "1girl,solo,(chibi:1.05),blush,>:3,smile,close eyes,hands on hip,(chin up,upper gaze,head held high:1.16),upper body,front view,",
+      "n": ""
+    },
+    {
+      "name": "魔法少女飞踢！（看画风，实际会出一些比较动感的图片）",
+      "p": "close-up.magical girl,solo.fisheye,>_<,open mouth,closed eyes,shouting,lying,waving hands,waving legs,on back,frown,flying kick,kicking,yell,raised fist,motion lines,drooling,night,hard light,",
+      "n": ""
+    },
+    {
+      "name": "原版",
+      "p": "magical girl,fisheye,hotel room,>_<,open mouth,closed eyes,shouting,lying,waving hands,waving legs,on back,frown,kicking,yell,raised fist,motion lines,drooling,pointing at another,night,hard light,",
+      "n": ""
+    },
+    {
+      "name": "颓废抽烟喝酒",
+      "p": "1girl,solo,>_<,cigarette,beer,alcohol,closed eyes,tears,open mouth,cup,beer mug,holding cup,smoking,smoke,crying,",
+      "n": ""
+    },
+    {
+      "name": "唐氏灵机一动",
+      "p": "spoken light bulb,(nerd:1.22),(nerd emoji:1.22),glasses,silly smile,(buck tooth:1.16),(large central incisor:1.10),pointing up,funny,upper body,fingers,hand near face,parted lips,",
+      "n": ""
+    },
+    {
+      "name": "抱舔",
+      "p": "(chibi:1.16),(meme:1.05),(emoticon:1.05),(thick outlines:1.05),(black outline:1.05),char1：girl,licking another’s face,hugging another’s head,char2：girl,closed one eye,",
+      "n": ""
+    },
+    {
+      "name": "抱脖",
+      "p": "(chibi:1.16),(chibi only:1.16),(emoticon:1.05),(thick outlines:1.05),(black outline:1.05),(head only:1.16),char1：girl,(arms around waist:1.10),char2：girl,triangle mouth,(holding another’s arm:1.16),",
+      "n": ""
+    },
+    {
+      "name": "香肠套（不稳定）",
+      "p": "doro (nikke),chibi,1girl,solo,sausage costume,in sausage,:3,",
+      "n": ""
+    },
+    {
+      "name": "我要炸学校",
+      "p": "from below,cowboy shot,(action:1.16),ligne claire,holding school bag,holding grenade,bread in mouth,eating bread,looking to the side,walking,relaxed,(city background:1.05),(city:1.05),(explosion in background:1.05),wind,",
+      "n": ""
+    },
+    {
+      "name": "竞争瞪眼对视胸部挤压",
+      "p": "2girls,asymmetrical docking,breast contest,breast press,cleavage,confrontation,eye contact,face-to-face,faceoff,glaring,lightning glare,looking at another,multiple girls,navel,rivalry,serious,smile,stare down,symmetrical docking,",
+      "n": ""
+    },
+    {
+      "name": "原版服装 (2)",
+      "p": "bracelet,crop top,cropped jacket,elbow gloves,fingerless gloves,halterneck,jewelry,leather,leather jacket,spiked bracelet,spikes,toned,abs,muscular female,",
+      "n": ""
+    },
+    {
+      "name": "掂掂你的",
+      "p": "outstretched arm,outstretched hand,cowboy shot,close-up,blue suit,blue pencil dress,white pantyhose,yellow silk is tied around the neck,yellow bow,pale skin,single ponytail on the side,evil smile,naughty face,shaded face,cave,cave interior,night,moonlight,",
+      "n": ""
+    },
+    {
+      "name": "巨乳崩开衣扣",
+      "p": "cowboy shot,1girl,breast expansion,bursting breasts,flying button,high collar,white shirt,black pencil skirt,bare arms,bare shoulders,black pantyhose,",
+      "n": ""
+    },
+    {
+      "name": "其他版本1 (2)",
+      "p": "1girl,(alternation clothes,shirt:4.0),wavy mouth,^^^,flying sweatdrops,closed one eye,looking at viewer,button gap,partially unbuttoned,unbuttoned,skin tight,(undersized clothes,torn clothes,torn shirt:4.0),upper body,hands up,surprise arms,face close up,from below,below breasts view,assisted exposure,flying button,popped button,!,",
+      "n": ""
+    },
+    {
+      "name": "奔跑打招呼纽扣崩开",
+      "p": "close eyes,smile,shake ears,blush,sagging breasts,bouncing breasts,flying button,popped button,cleavage slip,running,waving hand,arm up,motion line,cowboy shot,front,",
+      "n": ""
+    },
+    {
+      "name": "四肢顶住碎墙墙角壁咚",
+      "p": "char1：sourse#cicada block (meme),spread legs,char2：target#cicada block (meme),blush,@_@,",
+      "n": ""
+    },
+    {
+      "name": "吃撑大肚子",
+      "p": ":<,big belly,blush stickers,bowl,pout,carrot,closed mouth,crop top,emphasis lines,food on face,glutton,hamburger,steak,holding bowl,holding plate,pleated skirt,short sleeves,purple shirt,short sleeves,standing,v-shaped eyebrows,white skirt,navel,",
+      "n": ""
+    },
+    {
+      "name": "铁锅炖自己",
+      "p": "close-up,(chibi,chibi only:1.16),(partially submerged:1.16),blush,bow,clear water,in water,under water,(iron pot,big wok,stew self up:1.10),sitting in pot,fire under wok,hot water,firewood,burning,boiling water,blurry background,(steam work:1.05),wet body,wet hair,sweat,bokeh,(motion line,sound effect:1.05),flying sweatdrops,nude,tearing,blank eyes,v shape mouth,smile,closed mouth,holding large spoon,",
+      "n": ""
+    },
+    {
+      "name": "炸虾球",
+      "p": "only heard,full-body in shrimp tempura,🍤,(naked tempura costume:1.16),covered full-body,lying,",
+      "n": ""
+    },
+    {
+      "name": "木棍玩史",
+      "p": "upper body,holding stick,oversized shirt,white shirt,open jacket,off shoulder jacket,closed eyes,＞_＜,(poop on a stick:1.10),(pointing melee weapon:1.10),laughing,open mouth,brown poop,poop background,",
+      "n": ""
+    },
+    {
+      "name": "敲头",
+      "p": "bonk,blush,>_<,closed eyes,tears,:<,hands on own head,1other,clenched hand on head,hitting,",
+      "n": ""
+    },
+    {
+      "name": "拉长猫猫（n4限定）",
+      "p": "1girl,1other,longcat (meme),",
+      "n": ""
+    },
+    {
+      "name": "角色1",
+      "p": "cat,chibi,target#being held,",
+      "n": ""
+    },
+    {
+      "name": "角色2",
+      "p": "girl,upper body,source#holding another under armpits,",
+      "n": ""
+    },
+    {
+      "name": "美味冒星",
+      "p": "blush,smile,closed mouth,;p,tongue,closed eyes,(>_<:1.10),hands up,clenched hands,hands on own cheeks,head tilt,sparkle,",
+      "n": ""
+    },
+    {
+      "name": "吃爆米花看戏",
+      "p": "(chibi:1.10),sitting,popcorn,looking at viewer,indian style,",
+      "n": ""
+    },
+    {
+      "name": "吹响庆祝喇叭",
+      "p": "closed eyes,party hat,^ ^,straw,mouth hold,party popper,party horn,party whistle,face foucs,close-up,",
+      "n": ""
+    },
+    {
+      "name": "抱头蹲防",
+      "p": "arms behind head,squatting,trembling,tears,crying,cowering,",
+      "n": ""
+    },
+    {
+      "name": "大吼大叫（野兽先辈意味）",
+      "p": "(>_<:1.10),open mouth,closed eyes,yelling,shouting,bed,lying,on back,blush,upper body,screaming,frown,emphasis lines,from above,",
+      "n": ""
+    },
+    {
+      "name": "拒绝衬衫",
+      "p": "black shirt,looking at viewer,serious,(x fingers:1.16),x,hands up,text:no!,:<,1girl,solo,text print,",
+      "n": ""
+    },
+    {
+      "name": "许可衬衫",
+      "p": "black shirt,looking at viewer,wink,salute,text:yes!,1girl,solo,",
+      "n": ""
+    },
+    {
+      "name": "咬猫",
+      "p": "(upper body:1.05),cat,open mouth,biting cat,drooling,cat in mouth,huge mouth,holding cat,hugging object,",
+      "n": ""
+    },
+    {
+      "name": "被窝小可爱",
+      "p": "blush,long sleeves,white background,ribbon,closed mouth,closed eyes,solo focus,cat ears,chibi,neck ribbon,pov,polka dot,facing viewer,:<,= =,pajamas,pov hands,under covers,disembodied limb,pink pajamas,",
+      "n": ""
+    },
+    {
+      "name": "舔铁栏杆（n3较为难出）",
+      "p": "licking pole,tongue out,open mouth,saliva,looking at viewer,from side,tears,heavy breath,close up,upper body,snow,winter clothes,railing,close to pole,facing up,",
+      "n": ""
+    },
+    {
+      "name": "嘴馋",
+      "p": "drooling,food,solo,meat,open mouth,saliva,chibi,table,looking down,",
+      "n": ""
+    },
+    {
+      "name": "蛋糕探头",
+      "p": "1girl,(chibi:1.10),close up,(cream on body:1.05),(human cake:1.05),strawberry on cream,whipped cream,happy birthday on cream,arms up,nude,",
+      "n": ""
+    },
+    {
+      "name": "羞红到冒气",
+      "p": "1girl,(chibi:1.10),close up,(facepalm:1.05),full face blush,steam,flying sweatdrops,wavy mouth,covering own eyes,surprised,shocked,",
+      "n": ""
+    },
+    {
+      "name": "崩溃哭喊",
+      "p": "looking at viewer,chibi,cute,meme,(emphasis lines:1.16),open mouth,head up,streaming tears,heartbreak,inside,crying with eyes open,closed mouth,screaming,upper body,leaning forward,",
+      "n": ""
+    },
+    {
+      "name": "捂嘴笑",
+      "p": "sketch,chibi,1girl,upper body,close-up,close shot,(covering mouth:1.10),closed eyes,smile,(^_^:1.10),",
+      "n": ""
+    },
+    {
+      "name": "薯片袋内钻出",
+      "p": "(chibi:1.10),close-up,in bag,plastic bag,in container,arms up,upper body,potato slices bag,potato chips,",
+      "n": ""
+    },
+    {
+      "name": "上吊（再见，我去二次元了）",
+      "p": "solo,chibi,standing on chair,(holding noose:1.16),hands up,tiptoes,wavy mouth,open mouth,wavy eyes,teardrops,",
+      "n": ""
+    },
+    {
+      "name": "摔倒在地",
+      "p": "white border,solo,open mouth,wavy mouth,lying,on ground,on stomach,@_@,stone floor,grass,tree,bush,puddle,",
+      "n": ""
+    },
+    {
+      "name": "卖艺乞讨",
+      "p": "chibi,blue coat,torn clothes,dirty clothes,patch,sitting,on floor,sunglasses,erhu,bowl,street,playing instrument,falling leaves,",
+      "n": ""
+    },
+    {
+      "name": "宠物pua",
+      "p": "yuri,blush,@_@,pov,pov hands,hands on face,indoors,classroom,close-up,uniform,shirt,front view,from above,choker,leash,holding leash,",
+      "n": ""
+    },
+    {
+      "name": "辣到吐火",
+      "p": "full-face blush,(breathing fire,fire in mouth:1.28),>_<,minigirl,on desk,flying sweatdrops,kneeling,(flailing:1.05),outstretched arms,open mouth,red face,blush,solo,hot,frown,spicy,tearing up,from above bowl,red noodles,red ramen,",
+      "n": ""
+    },
+    {
+      "name": "被子裹成一团",
+      "p": "debt,blush,closed eyes,open mouth,>_<,hair between eyes,wavy mouth,white background,trembling,wrapped in blanket,",
+      "n": ""
+    },
+    {
+      "name": "咬手",
+      "p": "> _<,(chibi:1.10),bite another’s hand,angry,anger vein,",
+      "n": ""
+    },
+    {
+      "name": "安睡",
+      "p": "(bed sheet,on back,under covers,light smile,:>,closed mouth,sleeping:1.10),dutch angle,",
+      "n": ""
+    },
+    {
+      "name": "吃瓜 (3)",
+      "p": "(chibi:1.10),licking,eat watermelon,gigantic watermelon,in watermelon,v字手势,one hand,peace sign,one eye closed,closed mouth,tongue out,face focus,(close-up:1.16),smile,from side,looking at viewer,",
+      "n": ""
+    },
+    {
+      "name": "芳文跳（可不加chibi）",
+      "p": "jumping,open mouth,happy,hands above head,fists,feet off the ground,floating hair,sunny,warm day,wind,clouds,in city,school uniform,sneakers,",
+      "n": ""
+    },
+    {
+      "name": "爆气（实际效果比较搞笑，故置此）",
+      "p": "open mouth,spread legs,closed eyes,upper body,hands up,clenched hands,head up,yelling,shouting,arched back,energy,plasma,mouth beam,legs apart,light censor,from below,foreshortening,cowboy shot,sparkle background,explosion,",
+      "n": ""
+    },
+    {
+      "name": "疯狗突袭！",
+      "p": "speed lines,motion lines,dynamic angle,intense angle,all fours,crazy eyes,crazy smile,crazy,hysterical,crazy angry smile,tongue out,very long tongue,",
+      "n": ""
+    },
+    {
+      "name": "恼怒一拳表情",
+      "p": "(chibi:1.22),punching,pepe punch (meme),1girl,solo,loli,emphasis lines,imminent punch,incoming punch,shaded face,annoyed,(disgust:1.10),frown,clenched hand,twisted torso,explosion,closed eyes,>_<,anger vein,",
+      "n": ""
+    },
+    {
+      "name": "打滚发脾气",
+      "p": "> _<,open mouth,closed eyes,(shouting:1.10),lying,waving hands,waving legs,on back,frown,kicking,yell,raised fist,motion lines,",
+      "n": ""
+    },
+    {
+      "name": "地上打滚吵闹",
+      "p": "white background,(chibi,chibi only:1.10),>_<,open mouth,closed_eyes,(shouting:1.10),lying,waving hands,waving legs,on back,frown,waving legs,waving arms,kicking,yell,raised fist,motion lines,close up,full body,",
+      "n": ""
+    },
+    {
+      "name": "双手比v",
+      "p": "black camisole,white overcoat,open mouth,upper body,peace sign,v,double v,(hands on own eyes:1.10),(looking afar:1.10),shouting,profile,",
+      "n": ""
+    },
+    {
+      "name": "闪闪发光笑",
+      "p": "arm at side,open mouth,smile,hand on own face,hand up,looking at viewer,sparkle,",
+      "n": ""
+    },
+    {
+      "name": "鬼脸",
+      "p": "leaning forward,eyelid pull,;p,akanbe,",
+      "n": ""
+    },
+    {
+      "name": "鼻血点赞",
+      "p": "(close-up:1.22),(solo:1.05),nosebleed,closed mouth,(=_=:1.10),closed eyes,saliva,thumbs up,upper body,smile,",
+      "n": ""
+    },
+    {
+      "name": "大哭q版表情",
+      "p": "> _<,closed eyes,blush,clenched hands,crying with eyes open,crying,open mouth,standing,",
+      "n": ""
+    },
+    {
+      "name": "抱头苦恼q版表情",
+      "p": "(chibi:1.10),>_<,hands on own head,arms up,close-up,loose hair strand,a girl,solo,cowering,(closed eyes:1.05),open mouth,cowboy shot,bags under eyes,crying,",
+      "n": ""
+    },
+    {
+      "name": "摇头拒绝",
+      "p": "(shaking head:1.16),(chibi,upper body,closed eyes,>_<:1.10),(white background:1.05),(black outline:1.05),flying waterdrops,wet clothes,school uniform,trembling,motion line,",
+      "n": ""
+    },
+    {
+      "name": "大小眼托腮疑惑（实际比较难大小眼）",
+      "p": "(close-up,solo:1.10),looking at viewer,curious,staring,(🤔:1.10),(half closed eyes,one eye open:1.28),(?:1.05),sanpaku,stroking own chin,single raised eyebrow,furrowed brow,white background,closed mouth,:3,smile,fisheye,",
+      "n": ""
+    },
+    {
+      "name": "困惑凌乱（表情包）",
+      "p": "@_@,collared shirt,hands on own head,sweat,upper body,arms up,looking at viewer,wide-eyed,furrowed brow,hands up,emphasis lines,motion lines,open mouth,",
+      "n": ""
+    },
+    {
+      "name": "表里不一（口不对心）【原画风:((naga u:0.95),(xinzoruo:0.95),(ningen mame:0.95),(tianliang duohe fangdongye:0.91):1.05)】",
+      "p": "(zoom layer:1.16),1girl,solo,(chibi:1.10),upper body,thumbs up,:d,(thumbs down and shaded face and annoyed and :( and on background:1.16),",
+      "n": ""
+    },
+    {
+      "name": "蜡笔画",
+      "p": "crayon,drawing,holding crayon,kneeling,leaning forward,looking at object,lying,on stomach,",
+      "n": ""
+    },
+    {
+      "name": "惊恐单色表情",
+      "p": "(hands on own face:1.10),monochrome,open mouth,(yell:1.10),(screaming:1.10),(constricted pupils:1.16),(wall-eyed:1.05),rolling eyes,shouting,arched back,hands up,emphasis lines,pale face,",
+      "n": ""
+    },
+    {
+      "name": "躲进垃圾桶",
+      "p": "(chibi:1.10),close-up,hiding,(trash can:1.10),",
+      "n": ""
+    },
+    {
+      "name": "咕哒愚人节风格",
+      "p": "(riyo (lyomsnpmp):1.05),(chibi:1.05),",
+      "n": ""
+    },
+    {
+      "name": "咕哒子表情包",
+      "p": "(1girl,solo:1.10),(fujimaru ritsuka (female):1.10),mabing,xinzoruo,artist:gomashio (goma feet),(artist:mikozin:0.82),(riyo (lyomsnpmp):0.86),year 2024,(chibi:1.10),close-up,(evil grain,grain:1.34),(half-closed eyes:1.05),",
+      "n": ""
+    },
+    {
+      "name": "某小狐娘表情包",
+      "p": "kemomimi-chan (naga u),",
+      "n": ""
+    },
+    {
+      "name": "双人对拳",
+      "p": "2girls,(fighting,punching,angry,explosion:1.10),symmetry,open mouth,(cut,flame,injury,blood:1.10),",
+      "n": ""
+    },
+    {
+      "name": "不是，哥们",
+      "p": "from side,(shrimp costume,orange animal costume,shrimp claws,antennae,shrimp tails:1.10),hood up,covering body,reading a laptop,spoken question mark,v-shaped eyebrows,confused,open mouth,sitting,headphones,on table,chair,open mouth,constricted pupils,bent over,leaning forward,",
+      "n": ""
+    },
+    {
+      "name": "指你",
+      "p": "(chibi:1.16),1girl,solo,loli,open mouth,frown,wide-eyed,!!,full-face blush,@_@,school uniform,serafuku,single bare shoulder,beret,pointing at viewer,",
+      "n": ""
+    },
+    {
+      "name": "其他版本",
+      "p": "hand on own hip,dress,school uniform,looking at viewer,pointing,pointing at viewer,sweatdrop,classroom,",
+      "n": ""
+    },
+    {
+      "name": "附带一种画风",
+      "p": "jyt,zuizi,ciloranko,ningen mame,xinzoruo,",
+      "n": ""
+    },
+    {
+      "name": "挠你下巴",
+      "p": "(chibi:1.16),pov hand,portrait,close-up,hand on another’s chin,closed eyes,smile,",
+      "n": ""
+    },
+    {
+      "name": "乌冬面睡觉狐",
+      "p": "fox girl,minigirl,in bowl,closed eyes,donbei kitsune udon,sigh,food-themed pillow,lying,nissin donbei,on stomach,",
+      "n": ""
+    },
+    {
+      "name": "星空困惑",
+      "p": "(chibi:1.05),sketch,ovo,o_o,space,galaxy,planet,universe background,head only,empty eyes,(wall-eyed:1.05),(confused:1.10),?,big head,(:>:1.10),",
+      "n": ""
+    },
+    {
+      "name": "煎锅炒人",
+      "p": "minigirl,lying on a frying pan,pov hand holding the frying pan,fetal position,parted lips,looking at viewer,on side,",
+      "n": ""
+    },
+    {
+      "name": "犯困",
+      "p": "loli,chibi,petite,half-closed eyes,parted lips,novice lines,frown,bags under eyes,tired,squeans,upper body,",
+      "n": ""
+    },
+    {
+      "name": "贫乳禁忌恼怒",
+      "p": "bare arms,flat breasts,frilled bikini,halterneck,bare shoulders,pink bikini,layered bikini,black bow,anger vein,shaded face,angry,(trembling:1.10),(clenched hands:1.05),(head out of frame,close-up:1.05),solo focus,",
+      "n": ""
+    },
+    {
+      "name": "贫乳疑惑",
+      "p": "breast conscious,shaded face,open mouth,>_<,?,looking down,flat chest grab,short sleeves,pov,",
+      "n": ""
+    },
+    {
+      "name": "收银遇到熟人卖的避孕套（第一人称）",
+      "p": "cashier,convenience store,holding barcode scanner,store clerk,1girl,disgusted,shaded face,apron,sex toy,condom box,shop,blurry,pov,",
+      "n": ""
+    },
+    {
+      "name": "白学构图",
+      "p": "3girls,close-up,have 2girls are kissing and 1girl is standing between them in middle background,",
+      "n": ""
+    },
+    {
+      "name": "下雪時和戀人在一起有特別的氛圍，我很喜歡（恋人といる時の雪って特別な気分に浸れて僕は好きです）",
+      "p": "2girls,blush,embarrassed,outdoors,scarf,smile,snowing special feeling(meme),umbrella,yuri,",
+      "n": ""
+    },
+    {
+      "name": "躲在兽人身后",
+      "p": "1girl,1orc boy,father and daughter,hugging another’s leg,(artist:1.05),from outside,(close-up:1.10),1loli,orc dad,face-to-face,little girl,standing,against legs,looking at viewer,from side,:+,angry,(big legs:1.16),hiding behind another,",
+      "n": ""
+    },
+    {
+      "name": "哥布林白日梦",
+      "p": "(face focus,close-up:1.22),from side,parted lips,?,goblin,green skin,pointed ears,hand on own chin,frown,bald,half-closed eye,white background,looking at viewer,",
+      "n": ""
+    },
+    {
+      "name": "蘑菇中毒",
+      "p": "mushroom,holding mushroom,eating mushroom,outdoor,(lying,on back,drooling,turn pale:1.10),empty eyes,",
+      "n": ""
+    },
+    {
+      "name": "大腿夹西瓜",
+      "p": "watermelon between legs,legs clasp watermelon,",
+      "n": ""
+    },
+    {
+      "name": "怪力婚纱",
+      "p": "(muscular female:1.28),upper body,(from behind,elbows gloves,frilled dress,long dress,wedding dress,bride,bare back:1.10),ass,close-up,standing,bare back,(ribs,large breasts:0.82),backless dress,(shoulder blades,bare waist,waist curve,topless,skinny body:1.05),bare arms,fist in hand,",
+      "n": ""
+    },
+    {
+      "name": "泳装脱落羞愤一拳",
+      "p": "(untied bikini:1.16),black bikini,thigh strap,armpits,full face blush,anger vein,(hand focus,punching,incoming attack:1.16),looking at viewer,clenched teeth,covering breasts,beach,outdoors,blurry background,sunlight,(arm under breasts,breast hold,breast press:1.05),cowboy shot,",
+      "n": ""
+    },
+    {
+      "name": "屁眼喷火（涉及r18警告）",
+      "p": "(anal emission flame:1.28),upside-down,outdoor,pussy,",
+      "n": ""
+    },
+    {
+      "name": "尿液喷射起飞（涉及r18警告）",
+      "p": "motion blur,(floating,above ground,sky,explosion,flying:1.05),pussy,bottomless,peeing,pee,(spurt out,bursting pee:1.16),open mouth,female orgasm,closed eyes,(jumping:1.10),sonic boom,full-face blush,(female ejaculation:1.05),explosion,leaning forward,legs apart:1.05),rocket,full body,battlefield,",
+      "n": ""
+    },
+    {
+      "name": "火烧几把（涉及r18警告）",
+      "p": "looking at penis,huge penis,flame,fire,(breathing fire:1.41),blowing,after oral,handjob,?,open mouth,fangs,dragon horns,dragon wings,dragon tail,",
+      "n": ""
+    },
+    {
+      "name": "火烧几把（蓝色火焰）",
+      "p": "1girl,pov,girl on top,on stomach,handjob,nsfw,penis,blue fire on penis,bright pupils,burning penis,flaming penis,ejaculation,frozen penis,cracked penis,cum on face,",
+      "n": ""
+    },
+    {
+      "name": "挥舞假几把战斗",
+      "p": "(ready to draw,fighting stance:1.10),(long dildo,purple dildo:1.10),(holding dildo:1.10),cleavage,arm up,upper body,open mouth,v-shaped eyebrows,teeth,",
+      "n": ""
+    },
+    {
+      "name": "哈哈，拼死拼活又赚了这点钱",
+      "p": "closed eyes,smile,open mouth,suit,^_^,long sleeves,black jacket,sparkle,formal,:d,black skirt,office lady,white shirt,arms up,facing viewer,holding wage packet,from side,",
+      "n": ""
+    },
+    {
+      "name": "口吐激光",
+      "p": "chibi,open mouth,(laser beams from mouth,light rays in mouth:1.22),from side,closed eyes,upper body,",
+      "n": ""
+    },
+    {
+      "name": "其他版本 (2)",
+      "p": "open mouth,(laser from mouth:1.05),master spark,breathing laser,upper body,from side,closed eyes,laser in mouth,head back,frown,angry vein,leaning forward,",
+      "n": ""
+    },
+    {
+      "name": "皮卡丘雷电四发版本",
+      "p": "1girl,(>_<:1.05),open mouth,(laser from mouth:1.05),master spark,breathing yellow lightning,upper body,from side,closed eyes,head back,frown,pikachu hoodie,electricity,hood up,shatter,",
+      "n": ""
+    },
+    {
+      "name": "钻烟囱卡住",
+      "p": "blush,brick,building,chimney,christmas,closed mouth,fur-trimmed capelet,fur-trimmed headwear,fur trim,holding sack,house,looking at viewer,on roof,red capelet,red hat,rooftop,santa costume,santa hat,snowing,spoken ellipsis,stuck,turtleneck sweater,white sweater,",
+      "n": ""
+    },
+    {
+      "name": "激光大爆射（可能r18警告）",
+      "p": "open mouth,(laser energy beam from pussy,light rays in pussy:1.22),spread legs,closed eyes,upper body,master spark (touhou),black background,hands up,clenched hands,shooting,head up,yelling,shouting,arched back,energy,plasma,mouth beam,female orgasm,convenient censoring,light censor,bottomless,",
+      "n": ""
+    },
+    {
+      "name": "机械裙底",
+      "p": "dynamic,1girl,mechanical parts,blush,android,school uniform,sweatdrop,clothes lift,sweater vest,wavy mouth,bow,blue skirt,pleated skirt,lifted by self,open mouth,robot joints,shirt lift,from below,",
+      "n": ""
+    }
+  ]
+}

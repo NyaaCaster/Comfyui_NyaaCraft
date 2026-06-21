@@ -1,0 +1,965 @@
+{
+  "name": "人物环境",
+  "options": [
+    {
+      "name": "躲在树丛中",
+      "p": "1girl,solo,from above,through dense foliage,leaves,tree branches,sunlight filtering,dappled light,face focus,looking up,peeking,forest setting,green background,natural lighting,close-up,branches framing,leafy canopy,hidden view,girl’s face,expression,serene,mysterious,nature scene,outdoor,greenery,tree top view,",
+      "n": ""
+    },
+    {
+      "name": "屏幕环绕",
+      "p": "1girl,sitting on the floor,surrounded by stacked glowing crt monitors,wearing oversized headphones,holding gamepad in lap,nodding off to sleep,sleep-deprived,",
+      "n": ""
+    },
+    {
+      "name": "鱼眼列车窗外",
+      "p": "1girl,solo,fisheye lens,wide-angle lens,panorama,distorted perspective,inside train,train interior,sitting on bench,large train window,school bag beside,ocean view through window,blue sky,distant city,seagulls in flight,handrail,blue theme,vibrant colors,bright lighting,sunlight,cinematic composition,",
+      "n": ""
+    },
+    {
+      "name": "地球安全局控制面板",
+      "p": "1girl,solo,(from behind and side:1.05),(looking at control panel:1.05),(spaceship bridge background:1.05),(tactical headphones with glowing blue microphone:1.16),(stern and ready expression:1.05),(holographic data streams rising from console:1.05),(massive viewport window showing gas giant planet and passing starships outside:1.05),(form-fitting navy blue uniform with silver shoulder epaulettes and mission patches:1.05),(backlit by viewport’s nebula glow:1.05),(hands hovering over luminous control interface:1.05),(reflection of starfield on helmet visor raised on forehead:1.05),(dynamic lighting with cool blue and orange accents:1.05),(cinematic depth of field:1.05),(multiple monitor screens displaying star charts and targeting data:1.05),(tense atmosphere:1.05),(strands of dark hair escaping from under headphones:1.05),(tight shot focusing on figure and console:1.05),(transparent glass panel showing tactical reticules:1.05),(glowing buttons and switches under fingertips:1.05),(space station interior with metallic surfaces and conduit piping:1.05),(determined posture leaning forward over controls:1.05),(distant warship silhouettes against planetary rings:1.05),(futuristic aesthetic with clean lines:1.05),(from a low angle looking up at figure:1.05),(emergency red light strips on floor casting dramatic shadows:1.05),(weighted and tense composition:1.05),",
+      "n": ""
+    },
+    {
+      "name": "太空植物园",
+      "p": "1girl,white spacesuit,floating,zero gravity,kneeling pose,holding small blue flower,holding tablet,looking at earth,space station interior,large hexagonal window,earth view,outer space,satellite,multiple brown rabbits,floating rabbits,lush green plants,hanging plants,potted plants,orange flowers,purple flowers,glowing yellow lanterns,warm indoor lighting,soft natural light from window,low angle,looking up perspective,depth of field,detailed interior,",
+      "n": ""
+    },
+    {
+      "name": "浸水列车",
+      "p": "1girl,sitting on a subway seat that is completely overgrown with a lush bed of pink,yellow,and purple wildflowers. the entire floor of the train carriage is a pool of crystal-clear turquoise water with gentle ripples,where several bright orange koi fish are swimming. long green vines and leafy plants hang down from the metal handrails and the ceiling,framing the interior like a floating garden. large windows on both sides reveal a vast,cloudless blue sky and a distant horizon. bright,natural sunlight streams through the glass,creating shimmering light patterns on the water’s surface. she has a serene expression and is dipping her bare feet into the water while looking out the window.,",
+      "n": ""
+    },
+    {
+      "name": "荒原墓地",
+      "p": "(1girl,solo focus:1.10),(expressionless,closed mouth:1.05),(from above,from side,wide shot,full body,standing,foreshortening,looking at grave:1.16),(tree on middle,1.5:1.8)grass field,after rain,dawn,horizon,wasteland,dark blue theme,greyscale,wide shot,dim lightning,lens flare,gradient background,sidelighting,",
+      "n": ""
+    },
+    {
+      "name": "山谷之间",
+      "p": "1girl,solo,flower,tree,skirt,chibi,mini person,outdoors,sky,water,ocean,scenery,rock,sunset,river,waterfall,landscape,cliff,",
+      "n": ""
+    },
+    {
+      "name": "顶楼之上",
+      "p": "1girl,nun,hoodie,oversized hoodie,black hoodie,cloak,hood up,hood,high collar,belt,laced collar,buttons,dark clothing,looking at viewer,serious,sharp eyes,intense eyes,glaring,glaring at viewer,smile,smirk,confident smile,floating hair,floating clothes,(walking:1.16),road,profile,full body,(aerial view:1.22),(bird’s-eye view:1.16),looking up,from above,high-angle view,foreshortening,skyscraper rooftop,city lights,(infinityscape:1.10),dense cityscape,metropolis,skyline,horizon,skyscrapers,street lights,(rooftop edge:1.05),sky,clouds,",
+      "n": ""
+    },
+    {
+      "name": "一叶知秋",
+      "p": "This image shows a cheerful and vibrant young girl standing outdoors,enjoying the beauty of autumn. The warm sunlight bathes her in a soft,golden glow,complementing the vibrant orange,yellow,and red leaves scattered in the background. She playfully holds a bright red maple leaf up to her face,covering one eye with it as she smiles brightly. Her outfit consists of a cozy,light blue cardigan and a neutral-colored turtleneck.,The atmosphere is full of lighthearted joy and a sense of fun as she engages with the natural surroundings. The falling leaves add to the sense of movement,as if they are dancing in the breeze alongside her. Her expression exudes warmth and happiness,creating an inviting and heartwarming feeling,as though she’s sharing this peaceful moment of autumn with the viewer.outdoors,day,blurry foreground,foreground,colorful,dappled sunlight,sunlight,light rays,yellow theme,photographic reference,depth of field,photo background,(cinematic angle,cinematic lighting:3.0),lens flare,",
+      "n": "(building:1.0),"
+    },
+    {
+      "name": "泳池之下",
+      "p": "1girl,one-piece swimsuit,swim skirt,waterproof headset,floating on back,arm raised above head,underwater perspective,water droplets on lens,shallow depth of field,blurred foreground,pool edge bokeh,aquatic light caustics,turquoise water,ceramic tile patterns,chlorine mist,sunbeam through water,refracted light rays,bubbles rising,weightless hair movementup,hands on another’s neck,nipples,blush,looking at viewer,",
+      "n": ""
+    },
+    {
+      "name": "风雪山神庙",
+      "p": "1girl,back to viewer,(to sling the red-plumed spear over shoulder,carrying objects in reverse,raise one hand up,hanfu,red cloak:1.3),a (wine gourd:1.10),hanging from the spear tip,standing in heavy snowfall,snowflakes swirling in wind,background: ruined mountain temple at night,collapsing walls,broken wooden structures,composition,ink wash texture,lumetric snow,",
+      "n": ""
+    },
+    {
+      "name": "遗迹骨架",
+      "p": "upper body,cropped torso,flat color,white background,front side view,skeletal floral structure,intricate bone carving aesthetic,dried translucent petals,underbust curve,thorn-like necklaces,flower crown with drooping vines,lace-up chest,bare stomach,hand on chest,delicate gesture,melancholy expression,looking away,location,wide shot,solo,sitting,chair,moss,rock,ruins,",
+      "n": ""
+    },
+    {
+      "name": "凭栏望雪",
+      "p": "1girl,solo,the background is drawn by artist:cola (gotouryouta),cinematic lighting,manga cover,looking back,chinese building,beautiful scenery,cowboy shot,winter,snowing,motion blur,char1：girl,long narrow sleeves,lower eyes,hanfu,fur collar,red cloak,hood,long hair,long chinese hairpin,",
+      "n": ""
+    },
+    {
+      "name": "血红舞台",
+      "p": "1girl,red monochrome,spot color,silhouette,spotlight,wide shot,solo,mask,black jacket,black pants,smile,",
+      "n": ""
+    },
+    {
+      "name": "花海人像",
+      "p": "1girl,solo,portrait,close-up,from side,profile,(tareme:1.10),sad smile,crying,tear,floating teardrops,wind,hair blowing,looking away,turning away,dappled sunlight,sunbeam,flower field,colorful flowers,petals,floating petals,wind lift,depth of field,bokeh,newest,safe,vibrant colorful flower field background,scattered sunbeams filtering through,dappled light on face,petals blown by wind swirling around her,a single teardrop caught mid-air by the wind,",
+      "n": ""
+    },
+    {
+      "name": "打碎盘子女仆",
+      "p": "1girl,solo,white hair ribbons,classic maid outfit,full length maid dress,white ruffled hem,white appron with straps,black bow on apron,long sleeves,puffy sleeves,white cuffs,white frilled collar,white maid headress,black maryjanes,fullbody,(kneeling:2.0),surprised,tears,(arms up:0.3),(broken plates:2.0),",
+      "n": "(fluffy dress:1.0),"
+    },
+    {
+      "name": "悬坐月牙",
+      "p": "1girl,solo,sitting on crescent moon,moon covered in white flowers,lilies,night sky,starry sky,milky way,water surface,reflection on water,submerged stairs,glowing butterflies,fluttering butterflies,light particles,hanging beads,hanging ornaments,ethereal,dreamlike,fantasy,magical atmosphere,blue theme,soft lighting,cinematic composition,extremely detailed background,",
+      "n": ""
+    },
+    {
+      "name": "无尽图书馆",
+      "p": "1girl,solo,infinite library,endless bookshelves,spiral bookshelves,vast interior,flying pages,glowing books,floating in center,surrounded by orbiting books,hair floating as in zero gravity,cold expression,",
+      "n": ""
+    },
+    {
+      "name": "废墟漫步",
+      "p": "1girl,source#she stand right in the center of the picture,full body,from below,facing away,grey sky,(black hole,doomsday scenes:1.05),ruins,broken buildings,(floating rock:1.05),messy room,location,outdoors,white theme,(grey theme,pale color:1.05),(panorama,vanishing point,chromatic aberration:1.10),letterboxed,partially colored,",
+      "n": "(giantess,from side,plant:1.0),"
+    },
+    {
+      "name": "侧望栏杆",
+      "p": "1girl,solo,(leaning on railing:1.4),(low angle:1.5),(view from below:1.4),(profile:1.3),(hair fluttering in wind:1.4),(hair tips:1.3),(breeze:1.2),(blue sky:1.5),(clouds:1.4),(cumulus:1.3),(sunlight:1.2),(looking away:1.3),(outdoor:1.2),",
+      "n": ""
+    },
+    {
+      "name": "原版服装",
+      "p": "(bare shoulders:1.5),(beret:1.2),(off-shoulder jacket:1.3),(light brown jacket:1.2),(white sweater,sleeveless sweater:1.4),(low crew neck sweater:1.2),(brown striped sleeveless shirt:1.4),(shirt collar:1.4),(dark blue flared pants:1.3),(bell-bottoms:1.2),(layered clothing:1.2),",
+      "n": ""
+    },
+    {
+      "name": "海鸥飞舞",
+      "p": "comic,3koma,1girl,solo,no humans,smile,open mouth,closed eyes,teeth,happy,floating hair,spread arms,profile,standing,sunlight,cloud,sea,cumulonimbus cloud,wind,seagull,many seagulls,colorful,dappled sunlight,caustics,blurry foreground,foreground,caustics,chromatic aberration,film grain,day,blue theme,beach,crab,starfish,(mountain:0.0) <!-- 建议移到 Negative Prompt: (mountain:0.0) -->,sky,summer,sunlit water surface,sparkling/glittering under the sunset. border,cowboy shot,close-up,face focus,from behind,from side,(white border:0.0) <!-- 建议移到 Negative Prompt: (white border:0.0) -->,(outside border:0.0) <!-- 建议移到 Negative Prompt: (outside border:0.0) -->,facing viewer,",
+      "n": "(on water:1.0),(dusk:1.0),"
+    },
+    {
+      "name": "黄花丛之间",
+      "p": "1girl,solo,dutch angle,(shallow depth of field:1.2),(extreme foreground blurred petals occluding frame edges:1.4),oversized foreground flowers due to close proximity,flowers entering from both left and right edges,foreground petals partially covering character silhouette,organic framing,midground character and nearby flowers in same focal plane,flowers near the character at natural scale,lush green foliage background,background flowers significantly smaller,background flowers fully dissolved into color bokeh,floating pollen in the air,fine dust particles illuminated by sunlight,(visible sunbeams piercing through foliage:1.2),(soft volumetric light in humid air,tyndall effect,warm sunlight coming from upper side,light direction consistent across flowers,hair and body,high contrast,chromatic aberration,sharp focus on midground,spatial layering,",
+      "n": ""
+    },
+    {
+      "name": "走下楼梯",
+      "p": "1girl,classic outfit,arrogant,smirking,descending the stairs,the shadow on the wall is huge,walking down,profile view,solid blood-red wall with rough plaster texture,minimalist grey stairs,side view,graphic composition,ominous,powerful,artistic,album cover style,directional hard light,deep black shadows,",
+      "n": ""
+    },
+    {
+      "name": "赛博酒馆",
+      "p": "from side,panorama,indoors,night,shadow,smoke,dark,science fiction,fantasy,cyberpunk,neon lights,neon palette,3:1.1)bar (place),wine,nightclub,bar stool,counter,monitor,grimy nightclub bar interior in neon metropolis,flickering holographic advertisements casting sickly green and magenta glows,cracked leather booths and worn metal countertops,haze of synthetic smoke and spilled liquor,stained concrete walls covered in glitching holographic graffiti,ceiling crisscrossed with exposed neon tubes (indigo and toxic aqua),central bar counter made of reclaimed metal and polymer with embedded led strips,(robots,crowd:2.0),(sitting,on bar stool,elbow rest:2.0),",
+      "n": ""
+    },
+    {
+      "name": "原版人物",
+      "p": "solo,1girl,cyborg,serious,bishoujo,hair intakes,(hair over one eye:2.0),dark green hair,orange eyes,slit pupils,wavy hair,long hair,twintails,small breasts,fitted black leather trench coat with asymmetrical cut,high_collar,open coat,purple-tinted eyewear on head,neon trim,cyberpunk costume combat shirt,zipper,short leather skirt with magnetic seam detailing,subtle hydraulic piping along sleeves,",
+      "n": ""
+    },
+    {
+      "name": "黑白雨中的人群",
+      "p": "(clear eyes,half image:2.0),puffy outlines,grey outlines,hard shadow,milky way theme,aesthetic,dynamic,flowing,white background,graphic design,abstract background,geometric,minimalism,(monochrome:4.0),fading_away,(zebra crossing:3.0),girl focus,(transparent raincoat,expressionless:2.0),solo,1girl,standing in a bustling crowd,(dynamic crowd in background,blurred motion effect,diverse pedestrians with indistinct faces,wide shot,big scene,very,rain,(put on hood:2.0),side view,looking away,(upper body:3.0),focus,looking down,(two hands on hood,5:3.0)half image,half text,postal code,messy hair,wet clothes,",
+      "n": ""
+    },
+    {
+      "name": "墙角光影",
+      "p": "(indoor,close up:1.10),(high contrast,colorful,detailed light,light leaks,sunlight,shine on girl’s body,bokeh,blurry foreground,ray tracing:1.28)，1girl,dusk,brown jacket,black pantyhose,student,school uniform,skirt,plant,sitting,on floor,hug own legs,against wall,window,from above,",
+      "n": ""
+    },
+    {
+      "name": "仰面花田",
+      "p": "1girl,solo,shiny hair,looking at viewer,smile,open mouth,happy,lying on back,hand up,touching flowers,covering one eye,hair spread out,flower covering one eye,full of energetic motion,her lively posture highlights her adorable appearance.from above,close up,upper body,white flower,blue flower,red flower,purple flower,yellow flower,butterfly,daisy,leaves,nature,yellow butterfly,blue butterfly,sunflower,anemone (flower),sunlight,dappled sunlight,shadow,shadow on face,light rays,falling petals,(colorful:3.0),white border,light particles,blurry foreground,foreground,flower field,field,(cinematic angle,cinematic lighting:3.0),lens flare,",
+      "n": ""
+    },
+    {
+      "name": "飞舞彩带",
+      "p": "1girl,solo,(single view:2.0),standing,smile,looking at viewer,retro futurism design in background,techical background,ribbons,red ribbons,blue ribbons,colorful ribbons,(ribbons tie on girl’s waist:2.0),confetti,from side,(white background,simple background:2.0),(wide shot:2.0),(blush:0.5),(from top,0.1:1.8)cropped,tight framing,(cant framing,dutch angle:0.2),film grain,soft lighting,pastel colors,light leak,(realistic background,photographic background:0.8),",
+      "n": ""
+    },
+    {
+      "name": "踩踏地球",
+      "p": "solo,1girl,extremely low angle,fisheye lens,exaggerated perspective,extreme perspective,close-up of the feet in the foreground,huge feet,full-body image,standing posture,legs apart,arms crossed,chest crossed,center of gravity leaning back,domineering,looking down at the audience,chin raised,disdainful expression,stepping on the earth,trampling,cosmic background,starry sky,cinematic composition.,",
+      "n": ""
+    },
+    {
+      "name": "沙地巡逻",
+      "p": "partially colored,shadow,from side,perspective,foreshortening,fisheye,solo,(upper body:1.05),(close-up:1.05),looking at viewer,floating hair,a weathered brown leather duster over patched tactical gear,equipped with makeshift weapons and pouches,standing in a post-apocalyptic desert with sand,blowing,practical,gritty,waistband,gas mask,",
+      "n": ""
+    },
+    {
+      "name": "初明夜空",
+      "p": "1girl,solo,upper body,outdoors,sky,cloud,v-shaped eyebrows,floating hair,night,looking down,crossed arms,star (sky),wind,night sky,scenery,starry sky,head rest,sunset,city,mountain,horizon,covered mouth,looking afar,mountainous horizon,twilight,landscape,gradient sky,shooting star,city lights,dusk,sunrise,purple sky,aurora,",
+      "n": ""
+    },
+    {
+      "name": "红纱罗帐",
+      "p": "1girl,(yokozuwari:1.3),sitting on side,arm support,closed mouth,smile,holding tuanshan,(covering own mouth:1.1),see-through,official alternate costume,(fengguan,honggaitou:1.6),headpiece,red veil,chinese wedding,red hanfu,(open hanfu,partially undressed:1.1),(red dudou:1.6),(halterneck,cleavage:1.2),sideboob,(midriff,navel:1.1),red panties,side-tie panties,(untied panties:1.1),phoenix print,gold trim,indoors,on bed,(canopy bed:1.15),pillow,chinese room,east asian architecture,cowboy shot,from above,",
+      "n": ""
+    },
+    {
+      "name": "昏暗窗前",
+      "p": "indoors,night,city,city lights,grey sky,high up,skyline,cityscape,skyscraper,photo background,photorealistic,(no lineart:3.0),chromatic aberration,film grain,blurry,photo background,atmospheric perspective,large window,potted plant,backlighting,blurry background,1girl,solo,blue shirt,disheveled clothing,feet out of frame,tired expression,smoking,looking at viewer,contemplative atmosphere,melancholy,leaning on object,",
+      "n": ""
+    },
+    {
+      "name": "圣诞节霍格沃茨校内",
+      "p": "1girl,long sleeves,closed mouth,school uniform,white shirt,upper body,food,necktie,collared shirt,indoors,book,window,bird,christmas,holding book,gift,robe,wand,bookshelf,yellow necktie,christmas tree,holding wand,cage,black robe,birdcage,hogwarts school uniform,",
+      "n": ""
+    },
+    {
+      "name": "掩映花墙之下",
+      "p": "1girl,(sitting on a stone wall:1.5),(picking a flower from a branch:1.4),gentle smile,relaxed posture,(delicately reaching for a blossom with one hand:1.3),(legs crossed and dangling over the edge:1.3),(hair tied back with a ribbon:1.2),old brick wall,overgrown with climbing rose bushes,abundant,vivid blossoms,bright morning sunlight,(soft,directional sunlight highlighting her hair and the petals:1.5),(deep shadows cast beneath the leaves and wall:1.4),soft lighting,volumetric light rays,full body,cinematic,",
+      "n": ""
+    },
+    {
+      "name": "战地饮食",
+      "p": "1girl,(eating military rations in a trench:1.5),(wearing worn-out combat fatigues:1.4),exhausted expression,momentary relief,(sitting crouched against the muddy trench wall:1.3),(holding a can of food and a small metal spoon:1.3),(slowly scooping food into her mouth:1.2),(rifle leaning against the trench wall nearby:1.2),deep,muddy battlefield trench,sandbags stacked high,wooden support beams,scattered shell casings and debris,overcast dawn sky,(dim,cool light filtering down into the narrow trench:1.5),(sharp,defined shadows cast by the sandbags and the girl’s helmet:1.4),(subtle highlights on the metal spoon and the moist mud surface:1.3),volumetric trench dust and cold mist,full body,sitting pose,cinematic,war,military,grim,outdoors,",
+      "n": ""
+    },
+    {
+      "name": "季节变换（不稳定）",
+      "p": "4-panel comic,anime girl (consistent character design),(upper body,clone:4.0),panel 1:spring,touching pink cherry blossom petals,cherry blossom petals falling,looking up,panel 2 :summer,leaning against a big green tree,long white linen shirt,eyes closed in relaxation,dappled sunlight through leaves,green grass at feet,cool breeze,sweat drop on cheek,panel 3 :autumn,holding a single red maple leaf with both hands,looking down at it,warm orange-brown knit cardigan + cream skirt,maple leaves scattered around,golden autumn light,panel 4 :winter,standing in light snowfall,looking directly at reader,light smile,white down jacket with fur collar + dark blue scarf,snowflakes on hair,pale blue winter background,",
+      "n": ""
+    },
+    {
+      "name": "锦鲤环绕",
+      "p": "1girl,solo,many koi,bubble,underwater,light particles,(poking a bubble with her hand),playful,dynamic angle,",
+      "n": ""
+    },
+    {
+      "name": "莲池",
+      "p": "aqua theme,day,blurry edges,backlighting,(jaggy lines,halftone shadow:2.0),chromatic aberration,film grain,(no lineart:4.0),(depth of field:1.5),fish,lotus,wading,water,wet,rock,plant,",
+      "n": ""
+    },
+    {
+      "name": "秋林小径",
+      "p": "hair accessories,1girl,curvy,female focus,sweater dress,thigh highs,boots,autumn clothing,scarf,knitted wear,loose fabric,shy smile,looking down,blushing,innocent look,gentle gaze,pensive expression,walking through leaves,holding a book,looking back,hand on tree,sitting on log,kicking leaves,autumn forest,fallen leaves,maple trees,sunlight through branches,mossy ground,rustic path,distant mountains,dappled sunlight,chromatic aberration,motion blur of falling leaves,overexposure,soft focus,lens distortion,red theme,brown theme,earthy tones,golden highlights,",
+      "n": ""
+    },
+    {
+      "name": "赛博街角",
+      "p": "1girl,solo,cyberpunk alley,holographic sheer clothing,techwear aesthetic,neon glow,wet,rain droplets,leaning against wall,defiant expression,partial nudity,(rainy neon street,holographic ads,puddles,graffiti,trash can,steam vents,dystopian night:7.0),(cyberpunk,vibrant neon lighting,reflections,cinematic,high contrast,cool tones with pink accent:6.5),(detailed,sharp focus,sci fi,blade runner style,trending on artstation:6.0),",
+      "n": ""
+    },
+    {
+      "name": "金碧辉煌",
+      "p": "cinematic chiaroscuro lighting,warm-toned,office,falling banknote,money bag,pile of money,pile of banknote,gold coin,gold bar,safe,coffer,stock chart,glowing digital stock tickers on screen,red wine bottle on ice bucket,ice bucket,jack daniel’s,whiskey,mahogany desk covered in gold leaf,leather executive chair,1girl,(sharp teeth:1.05),seductive smile,crossed ankles,holding wine glass,",
+      "n": ""
+    },
+    {
+      "name": "原版服装 (2)",
+      "p": "purple hawaiian shirt,open white suit jacket,gold chain,lapel pin,white pants,gold hair ornament,silver wristwatch,no socks,",
+      "n": ""
+    },
+    {
+      "name": "书房蝴蝶",
+      "p": "sitting,window,white rose,butterfly on hand,full body,book,lantern,black boots,blue butterfly,picture frame,gem,tree,indoors,open book,leaf,looking at animal,closed mouth,white butterfly,lamp,crescent,book stack,scroll,blue flower,necklace,drawer,gold trim,curtain,chair,",
+      "n": ""
+    },
+    {
+      "name": "夜幕工地",
+      "p": "from above,fisheye,panorama,cinematic angle,bird’s-eye view of neon-lit metropolis,bored,serious,crossed arms,wind lift,floating clothes,standing on platform,scaffolding,hydraulic pistons and pneumatic tool hoses,crane_(machine),rebar,caution tape,red scaffolding wrapped in warning tapes,construction site,industrial，cityscape,skyscraper,outdoors,skyline,falling sparkle,sparkle,night,chiaroscuro,led signboard,neon lights,",
+      "n": ""
+    },
+    {
+      "name": "危楼之上",
+      "p": "1girl,solo,sitting (on collapsing staircase fragments:1.10),(tilted 45-degree perspective:1.10),decayed (floating structure:1.10) (upper right: (broken stairs:1.10) + (thin corroded walls:1.10)),(yellow caution tape:1.10) suspended mid-air,torn denim shorts,oversized sweater slipping off shoulder,(gazing sideways:1.10) into distance,wind-swept hair,distant cumulus clouds,(migrating bird formations:1.10),(infinite azure sky:1.10) 85% frame,(exposed rebar:1.10) near legs,peeling paint chips (levitating:1.10),(sun-bleached concrete texture:1.10),bare feet dangling over void,knee-socks with (rust stains:1.10),diagonal shadows from debris,lens flare from off-screen sun,",
+      "n": ""
+    },
+    {
+      "name": "其他版本",
+      "p": "1girl,solo,expressionless,(lonely gaze:1.10),looking away,slightly melancholic,soft mouth,white dress,detached sleeves,blue ribbon,metal collar,chain,(barefoot:1.16),(sitting on broken stairs:1.22),(legs dangling:1.16),sitting alone,hands on lap,knees together,relaxed pose,(yellow caution tape floating:1.22),(wind blowing hair:1.10),centered,full body,high angle shot looking down,(city lights below:1.22),(night cityscape:1.16),(starry sky above:1.16),clouds,(broken rusted stairs:1.22),metal railing,twilight gradient,yellow caution tape,rusted metal steps,",
+      "n": ""
+    },
+    {
+      "name": "在云间",
+      "p": "1girl,solo,close-up,depth of field,(at front:1.10),blue silver main color,sitting on a cloud,blue sky background,floating hair,looking at viewer,",
+      "n": ""
+    },
+    {
+      "name": "埋骨之地",
+      "p": "(cloudy sky,day,cross grave,graveyard,massive graves,horizon,wasteland,dark blue theme,greyscale,wide shot,gradient background,sidelighting,corpse,massive corpse,blood strains:1.10),sad smile,pathetic,closed mouth,constricted pupils:1.05),(from above,from side,wide shot,full body,standing,foreshortening,looking at another:1.16),",
+      "n": ""
+    },
+    {
+      "name": "原版杂项",
+      "p": "(nosebleed,bleeding,blood on face,blood on coat,white shirt,black tie,black coat,suit coat,sneakers:1.16),",
+      "n": ""
+    },
+    {
+      "name": "城市傍晚余晖",
+      "p": "1girl,standing,outdoors,sky,bag,tree,bird,backpack,building,1other,scenery,lens flare,backlighting,sunset,city,silhouette,road,cityscape,bridge,lamppost,power lines,street,bokeh,river,twilight,utility pole,evening,ambiguous gender,sunrise,guard rail,floating hair,",
+      "n": ""
+    },
+    {
+      "name": "和雪寒梅",
+      "p": "full body,1girl,solo,ancient chinese clothes,hanfu,winter clothes,red cloak,heavy cape,fur trim,hood down,intricate embroidery,gold trim,standing,reaching out,catching snowflakes,visible breath,gentle smile,blush,winter,snow,heavy snow,plum blossoms,red flowers,stone wall,courtyard,depth of field,cinematic lighting,vivid colors,",
+      "n": ""
+    },
+    {
+      "name": "坐在购物车内",
+      "p": "1girl,solo,full body,indoors,supermarket,grocery store,aisle,inside shopping cart,lying in object,curled up,knees to chest,looking at viewer,mischievous smile,sticking tongue out,oversized hoodie,grey hoodie,no pants,bottomless,panties visible,bare legs,thighs,socks,holding a bag of chips,eating,snacking,night,fluorescent light,playful atmosphere,",
+      "n": ""
+    },
+    {
+      "name": "家中洗碗",
+      "p": "1girl,solo,standing at apartment sink,washing dishes,water splashing,wash plate,one hand hold plate,one hand holding sponge,over shoulder medium shot,cramped rental kitchen,tiled wall with stains,metal rack full of bowls and chopsticks,window showing distant apartment blocks,dusk blue hour light from outside,warm yellow ceiling lamp inside,mixed cool and warm lighting,slight lens flare,shallow depth of field,everyday tired but peaceful feeling,open detergent bottle,hanging dishcloth,dripping faucet,",
+      "n": ""
+    },
+    {
+      "name": "悬崖望海",
+      "p": "1girl,solo focus,foreshortening,depth of field,cinematic lighting,wind in hair,floating hair,strong breeze,hand behind,trying to keep dress down,embarrassed,leather sandals,facing away,from behind,full body,solo,standing,parted legs,coquettish pose,seductive,standing on the edge of a towering cliff,overlooking the greek sea,outdoors,day,sky,blue sky,cloud,horizon,cliffs,sea,water,dirt road,mountainside,",
+      "n": ""
+    },
+    {
+      "name": "原版服装杂项",
+      "p": "long camisole,white camisole,spaghetti strap,strap slip,accidental exposure,unaware,dress lift,clothes lift,lifted by wind,no panties,bottomless,ass peek,",
+      "n": ""
+    },
+    {
+      "name": "酒桌一角",
+      "p": "open bar counter,wooden house,clear light,oblique light,warm-toned,wet,steam,look at viewer,(god rays:1.05),sidelighting,white flower,petals,building,sunlight,sun,(frontlight:1.05),sunlight enters from outside the house,",
+      "n": ""
+    },
+    {
+      "name": "穿越古林",
+      "p": "solo,1girl,expressionless,dirty face,jade pendant,post-apocalyptic,survival gear,hoodie,ripped jeans,sneakers,backpack,cold expression,blank stare,forest setting,dense fog,gloomy atmosphere,bare tree branches,twisted roots,glowing eyes in darkness,blood stains on clothes,muddy boots,torn sleeves,pale skin,dark circles under eyes,moonlight filtering through trees,ghostly figures in background,cobwebs,abandoned shrine,broken lanterns,whispering shadows,uneven ground,fallen leaves,grasping hands from earth,ominous crow perched nearby,distant screams,chilling wind,hair slightly floating,gritty texture,greenish tint,low saturation,cinematic lighting,",
+      "n": ""
+    },
+    {
+      "name": "冬日咖啡厅",
+      "p": "(upper body:1.05),(close-up:1.05),(dynamic pose:1.10),(dynamic angle:1.10),(cinematic angle:1.10),(foreshortening:1.10),(three-quarter view:1.05),(letterboxed:1.05),fisheye,(very wide shot:1.10),blurry background,blurry vision,blurry,bokeh,overexposure,strong rim light,intense shadows,1girl,solo,window,cityscape,from side,wallpaper (object),holding cup,coffee,(steam:1.05),(sitting:1.05),looking back,sunset,blue sky,cloudy sky,(snow:1.05),(snowing:1.05),snowflakes,indoors,table,chair,book,paper,arm hug,scarf,white coat,head down,(cold:1.05),",
+      "n": ""
+    },
+    {
+      "name": "霓虹灯下",
+      "p": "1girl,shadow face,(cyberpunk city background,alley:2.0),ladder,black background,outline,glowing,neon palette,neon lights,(pink theme,red theme:3.0),(clothed,white and black clothes,skirt:1.16),",
+      "n": ""
+    },
+    {
+      "name": "蘑菇之下",
+      "p": "1girl,solo,curious expression,touching a giant bioluminescent mushroom,underground crystal cave,giant glowing fungi,crystal formations,floating spores,color scheme: fungal green,crystal violet,and bioluminescent blue,fantasy ecology,discovery,wonder,",
+      "n": ""
+    },
+    {
+      "name": "夜间向日葵田",
+      "p": "standing in a (sunflower field at night:1.22),(swaying sunflowers:1.10),drooping sunflower,dark forest in background,woods,trees,night sky,(full moon:1.05),(thin clouds:1.10),wispy clouds,moonlight,god rays,eerie atmosphere,surreal,dreamlike,melancholy,mysterious,windy,white dress,hair blowing in wind,looking at viewer,wide shot,",
+      "n": ""
+    },
+    {
+      "name": "神社知秋",
+      "p": "analogous colors,autumn,autumn leaves,day,from behind,geta,lake,leaf,mountain,outdoors,reflection,scenery,shore,solo,standing,torii,warm colored,wide shot,",
+      "n": ""
+    },
+    {
+      "name": "原版服装 (3)",
+      "p": "japanese clothes,long sleeves,nontraditional miko,red bow,red ribbon,ribbon-trimmed sleeves,ribbon trim,white socks,tabi,",
+      "n": ""
+    },
+    {
+      "name": "红叶枫林",
+      "p": "1girl,warm sweater,scarf,thoughtful,melancholic,looking up at the leaves,standing in a forest,red leaves falling around her,autumn forest,japanese maple trees,ground covered in red leaves,photo background,real world location,",
+      "n": ""
+    },
+    {
+      "name": "远古遗骸",
+      "p": "oversized animal,giant skeleton snake,animal skull,bone,spine,ribs,animal skeleton,rose,",
+      "n": ""
+    },
+    {
+      "name": "电视宇宙",
+      "p": "1girl,solo,looking at viewer,standing,closed mouth,bare shoulders,helmet,microphone,spot color,unworn headwear,cable,space,wide shot,television,planet,microphone stand,earth (planet),spacesuit,unworn helmet,space helmet,holding helmet,screen,astronaut,",
+      "n": ""
+    },
+    {
+      "name": "破败剧院",
+      "p": "1girl,abandoned theater,nostalgic,vintage,a girl in vintage dress standing on empty theater stage,dust particles floating in spotlight beam from broken ceiling,old red velvet seats stretching into darkness in the audience,holding old photograph,looking at forgotten memories,melancholic yet beautiful atmosphere,timeless feeling,",
+      "n": ""
+    },
+    {
+      "name": "星空水母（推荐横图）",
+      "p": "1girl,moon jellyfish keeper,celestial aquarium tender,(luminescent silk robes,pearl-encrusted net:1.6),caring for floating moon jellies in starry waters,(orbital aquarium station,zero-gravity tank:1.6),swirling galaxy patterns,floating jellyfish blooms,nebula backdrop,star-dust particles,(cosmic aquatic,ethereal aesthetic:1.6),silver white against deep space purple,soft contrast,peaceful atmosphere,nurturing emotion,microgravity fluid dynamics,floating perspective,jellyfish pulse lighting,particle suspension,weightless hair movement,curved space distortion,",
+      "n": ""
+    },
+    {
+      "name": "粉天窗前",
+      "p": "leaning back,leaning on wall,sitting,crossed ankles,(wide shot:1.16),window,gradient sky,cirrocumulus,ruins,vines,white spider lily,seductive smile,parted lips,spoken heart,body blush,head tilt,head rest,looking at viewer,(yume kawaii,pastel color:1.10),fisheye,indoors,against wall,",
+      "n": ""
+    },
+    {
+      "name": "通往光彩的画框",
+      "p": "1girl,solo,white dress,frills,puffy sleeves,thighhighs,detached sleevessleeping,lying,curled up,fetal position,serene expression,profilefloating,surrounded by bubbles,inside picture frame,ornate frame,jewelry,gems,potion bottlebright lighting,fantasy,magical,glowing,lens flare,chromatic aberration,sparkles,high contrast,transparentdutch angle,from above,full bodypink theme,white theme,high saturation,girl is curled up and floating as if asleep,viewed from above at a tilted angle. she is contained within the confines of a large,ornate golden picture frame,surrounded by a multitude of glowing bubbles and sparkling gems that fill the space. her body is positioned diagonally across the frame.,",
+      "n": ""
+    },
+    {
+      "name": "面对墓碑",
+      "p": "standing,(facing the tombstone overgrown with weeds,stand in front of the tombstone:1.10),upper body,",
+      "n": ""
+    },
+    {
+      "name": "方块之间",
+      "p": "1girl,solo,white cube,cube in the air,starry sky,abstract background,golden ribbon,complex backgroundwhite ground,moss,plants,white ground,moss,plants,",
+      "n": ""
+    },
+    {
+      "name": "吧台闲坐",
+      "p": "bar,indoor,dark,sitting,leaning to the side,head tilt,hand on own face,jitome,boring,half-closed eyes,crossed legs,arm rest,",
+      "n": ""
+    },
+    {
+      "name": "雨间温暖咖啡店",
+      "p": "1girl,sitting,head rest,look away,natural light,close up,movie perspective,dynamic pose,movie poster,cowboy shot,knit sweater,beige trousers,wool scarf,relaxed expression,looking out window,slight smile,sipping latte,leaning on wooden table,notebook open,cozy cafe interior,large window view,rain droplets,leather sofa,hanging plants,warm interior lighting,window rain reflection,soft shadows,eye level shot,rule of thirds,shallow focus,indoors,cafe,table,",
+      "n": ""
+    },
+    {
+      "name": "潜水",
+      "p": "1girl,:t,angelfish,ass,bikini,butterflyfish,day,fish,flippers,goggles,green bikini,holding breath,octopus,shark,snorkel mask,solo,tentacle grab,tropical fish,underwater,",
+      "n": ""
+    },
+    {
+      "name": "其他版本1",
+      "p": "1girl,(dutch angle:1.05),(leaning forward:1.10),afloat,upside-down,arched back,bubble,diving mask,covered face,sunlight,(diving:1.05),caustics:1.05),swimming,smile,looking at viewer,off-shoulder bikini,ruffle bikini,(photo background:1.10),coral,coral reef,tropical fish,",
+      "n": ""
+    },
+    {
+      "name": "泳池潜水",
+      "p": "delicate features,fair skin,elegant pose,side glance,light smile,detailed background,soft lighting,serene,gentle,sexy body,confident expression,half-closed eyes,seductive smile,photorealistic,photo background,day,sunlight,golden hour lighting,dappled sunlight,bright,pool,tile,close mouth,underwater,underwater shot,bubbles,swimming,white bikini,full body,perspective,light trails,light particles,(see-through silhouette:1.22),silhouette,shade,(best shadow:1.10),depth of field,coloful,",
+      "n": ""
+    },
+    {
+      "name": "泛舟",
+      "p": "face focus,movie tonal,cinematic shot,dynamic perspective,dynamic angle focus,pose variation,beautiful detailed glow,(close-up:1.28),sexy,hanfu,chinese style,mountain,solo,location,rain,fog,willow tree,sitting in wooden boat,spring,",
+      "n": ""
+    },
+    {
+      "name": "乡下山路",
+      "p": "(aerial view:1.05),from above,(from hillside:1.05),summer day,cement road,scattered utility poles,tram tracks crossing road,(distant blue ocean:1.05),(clear sky:1.05),bright daylight,warm sunlight,(overlooking landscape:1.05),hillside slope,coastal scenery,horizon line,(detailed background:1.05),perspective from above,summer atmosphere,no shadow focus,",
+      "n": ""
+    },
+    {
+      "name": "俯瞰女巫城镇",
+      "p": "1girl,chtholly nota seniorious (cosplay),adjusting headwear,white pigeons,black dress,black shoes,building,closed mouth,day,dutch angle,frilled dress,frills,from above,from side,hat flower,long sleeves,looking at viewer,outdoors,shadow,smile,sunlight,white dress,white flower,white thighhighs,wide shot,witch hat,",
+      "n": ""
+    },
+    {
+      "name": "巴黎早点",
+      "p": "cafe,outdoors,street,many wooden coffee tables,a plate of cake on the table,river,riverbank,railing,river seine,paris,ginkgo trees,european architecture,morning,lens flare,crowd,semi-circular eyewear,white blouse,dark green plaid scarf,beige open suit jacket,grey short skirt,black pantyhose,sitting on wooden chair,holding newspaper,",
+      "n": ""
+    },
+    {
+      "name": "夏至纳凉（推荐横图）",
+      "p": "scenery,sunlight,wind,lattice,round window,willow,pond,pink lotus,bonsai,censer,rockery,indoors,relaxed,shuangyaji,qixiong ruqun,jade pendant,barefoot,reclining,elbow rest,chinese pedestal table,on wooden floor,",
+      "n": ""
+    },
+    {
+      "name": "涉水黄昏",
+      "p": "black dress,blue sky,bouquet,closed eyes,closed mouth,cloud,cloudy sky,dutch angle,falling petals,floating hair,from side,gradient sky,holding bouquet,letterboxed,ocean,outside border,petals,pink sky,puffy short sleeves,sky,solo,sunset,wading,",
+      "n": ""
+    },
+    {
+      "name": "面具晚会舞台灯光照射",
+      "p": "evening gown,spotlight,shadow,indoors,location,dinner party,looking at viewer,v-shaped eyebrows,smile,masquerade mask,mask on face,holding mask,covered face,dacing,arms up,peace sign,",
+      "n": ""
+    },
+    {
+      "name": "领奖台上",
+      "p": "close-up,looking at viewer,confetti,light particles,starry background,open mouth,standing,sports field,standing on podium,victory platform,white podium,full body,blowing kiss,",
+      "n": ""
+    },
+    {
+      "name": "雪后街道",
+      "p": "holding umbrella,umbrella,walking,1girl,(full body:0.91),road,street,standing,winter clothing,pleated skirt,coat,white fur,down jackets,pantyhose,snow boots,snow,city,looking away,expressionless,outdoors,scenery,european style,pedestrian,",
+      "n": ""
+    },
+    {
+      "name": "色彩浪潮",
+      "p": "(colorful splash surround:1.05),colored bubbles,(glitter:1.10),colorful,(blurry foreground,wave,in paint:1.10),shadow,detailed background,spray paint,upper body,painted clothes,paint on face,paint splatter on face,",
+      "n": ""
+    },
+    {
+      "name": "战场余一卒",
+      "p": "wide shot,greyscale,knight,battleground,ruin,broken banner,heavy rain,knight helmet,from side,sitting,blood on face,blood on body,crying,close-up,relax,rest,sword,lonely,",
+      "n": ""
+    },
+    {
+      "name": "雨中",
+      "p": "school uniform,white shirt,long sleeves,(from side:1.16),empty eyes,(expressionless,sad:0.82),black coat,looking at viewer,close-up,moody lighting,heavy rain,(fog:1.10),wet skin,wet hair,raindrops,blurry background,",
+      "n": ""
+    },
+    {
+      "name": "麦田",
+      "p": "strap skirt,big straw hat,ponytail,trees,flowers,summer,golden wheat field,bright colors,bright lights,",
+      "n": ""
+    },
+    {
+      "name": "过曝星空",
+      "p": "simple dress,white dress,standing,(looking up at sky:1.05),(profile,three-quarters view:1.05),(serene expression:1.10),contemplative,(small smile:1.05),night,(starry sky:1.16),(swirling sky:1.16),(glowing stars:1.10),large moon,vibrant colors,deep blue sky,yellow swirls,stylized clouds,distant silhouette hills,cypress tree silhouette optional,dreamlike atmosphere,magical,ethereal,peaceful,(moonlight:1.05),(starlight:1.05),ambient glow,",
+      "n": ""
+    },
+    {
+      "name": "罗马浴场",
+      "p": "palm leaf,plant,dew,column,marble pillar,greco-roman architecture,apple,grapes,tray,jewelry,teapot,wine glass,chalice,pool,petals on liquid,candle,marble foor,butterfly,from side,wet,turning head,one eye closed,parted lips,greco-roman clothes,thighlet,laurel crown,see-through clothes,gold trim,bracelet,wet clothes,white hair flower,partially submerged,poolside,leaning forward,",
+      "n": ""
+    },
+    {
+      "name": "夏日室内靠窗晒太阳",
+      "p": "loaded interior,surreal,cold-toned,window,curtains,cloudy sky,cloud,blue sky,indoors,living room,wind,wind chime,teruterubouzu,beer cans,tulip,morning glory,hanging plant,glass vase,table,fish tank,goldfish,string of light bulbs,wall clock,hanging light,calendar (object),tissue box,charm (object),acoustic guitar,cushion,book stack,expressionless,no bra,midriff,white and blue vertical-striped shirt,open shirt,short sleeves,shorts,bare legs,barefoot,holding beer can,sitting,knee up,on windowsill,reclining,looking outside,looking to the side,",
+      "n": ""
+    },
+    {
+      "name": "游乐园街头",
+      "p": "complex exterior,outdoors,day,musical note,graffiti,cassette tape,cassette player,signboard,tape recorder,sparkle,twitter sparkles,truss,concert,palm tree,beach,beach umbrella,ocean,ferris wheel,roller coaster,basketball hoop,crowd,from side,bishoujo,spoken musical note,looking at viewer,open mouth,>:d,smile,v-shaped eyebrows,deal with it (meme),sunglasses,baseball cap,gold chain necklace,hoodie,letterman jacket,criss-cross halter,star-pattern pleated short skirt,loose belt,thigh belt,bandaid on nose,charm (object),elbow rest,boombox,against railing,portrait,",
+      "n": ""
+    },
+    {
+      "name": "夏日水中房间",
+      "p": "underwater,seafloor,air bobbles,lily (flower),ivy,tropical fish,sea turtle,seaweed,bamboo screen,porch,wind chime,hanging plant,electric fan,cushion,tatami,drinking straw,ice cream float,chabudai (table),tropical drink,from side,:o,looking up,kneeling,on floor,cross-laced polka dot camisole,khaki shorts,holding popsicle,",
+      "n": ""
+    },
+    {
+      "name": "花径闻香",
+      "p": "white dress,summer dress,sleeveless dress,frilled dress,straw hat,hat ribbon,sandals,loose strands,standing,holding flower,smelling flower,looking down,slight smile,garden,flower field,path,outdoors,afternoon,sunlight,gentle breeze,",
+      "n": ""
+    },
+    {
+      "name": "蓝天之邀（推荐横图）",
+      "p": "1girl,bare arms,bare shoulders,clenched teet,cowboy shot,cumulonimbus cloud,day,reaching towards viewer,sky,sleeveless dress,standing,straw hat,sundress,white dress,blue theme,blurry,closed mouth,monochrome,outdoors,scarf,smile,solo,dutch angle,from side,dynamic pose,close up,acid graphics,cropped shoulders,",
+      "n": ""
+    },
+    {
+      "name": "雨中温暖屋内",
+      "p": "oversized knit cardigan,window nook,rain trickling glass,steaming mug,fluffy blanket,potted ferns,arm support,candlelight,pillows,overcast sky,holding mug,",
+      "n": ""
+    },
+    {
+      "name": "山巅海日",
+      "p": "serene expression,(white flowing dress:1.16),(long sleeves:1.05),(standing on cliff edge:1.16),(arms outstretched:1.10),looking toward sunset,(vast ocean view:1.10),(dramatic cliffs:1.05),(golden hour lighting:1.16),(warm orange sky:1.10),(scattered clouds:1.05),(waves crashing below:1.05),(seabirds in distance:1.05),(wind effects:1.05),(cinematic wide shot:1.10),depth of field,(atmospheric perspective:1.05),(soft rim lighting:1.05),fabric flowing,hair movement,(peaceful atmosphere:1.10),(nature landscape:1.05),(rocky coastline:1.05),(distant horizon:1.05),(small wildflowers:0.95),drama,tic shadows,(wallpaper composition:1.10),panoramic view,(dreamy mood:1.05),(natural beauty:1.05),lens flare,(detailed environment:1.05),(scenic overlook:1.05),",
+      "n": ""
+    },
+    {
+      "name": "丛间人像",
+      "p": "(close-up:1.10),(blending:1.22),(sideways glance:1.10),(portrait:1.10),leaf,plant,black theme,surreal,dappled sunlight,shade,sunlight,colorful,(best shadow:1.10),golden hour lighting,(depth of field:1.10),from above,backlight,soft light,high contrast,colorful,detailed light,sunlight,shine on girl’s body,cinematic lighting,",
+      "n": ""
+    },
+    {
+      "name": "房间遥望",
+      "p": "cloud,bookshelf,book,indoors,scenery,sky,night,chair,pillow,planet,book stack,table,standing,painting (object),wide shot,couch,bed,globe,star (sky),desk,starry sky,blue theme,white shirt,shelf,bedroom,from behind,cloudy sky,cushion,moon,window,a person standing in a room with a sky background and clouds in the ceiling and a person standing in the foreground,",
+      "n": ""
+    },
+    {
+      "name": "狂野西部",
+      "p": "cowboy western,outdoors,sunset,lens flare,arid,barren environment,sand and loose soil,wilderness,dust,debris,sandstorm orange filter,horse,cactus,bare bush,tumbleweed,galloping mustang herd,wild horse,perspective,",
+      "n": ""
+    },
+    {
+      "name": "原版",
+      "p": "cowboy western,outdoors,sunset,lens flare,arid,barren environment,sand and loose soil,wilderness,dust,debris,sandstorm orange filter,horse,cactus,bare bush,tumbleweed,galloping mustang herd,wild horse,perspective,cowboy western,solo,1girl,bishoujo,looking away,>:d,excited,slit pupils,sheriff badge,torn brown trench coat,bison-hide leather coat,black cross-laced shirt,midriff,linea alba,brown shorts,cutoffs,concho belt with brass studs,dark green bandana around neck,gloves,cowboy hat,holding lasso,dynamic pose,hand up,",
+      "n": ""
+    },
+    {
+      "name": "电视中人",
+      "p": "pov hands,computer,television,(girl in television:1.05),muted colors,checkered wall,clock,monochrome,(multicolored background:0.91),(multicolored television:1.05),anaglyph,vhs artifacts,fourth wall,against glass,head tilt,junk,drink can,used tissue,pile of trash,",
+      "n": ""
+    },
+    {
+      "name": "全息城市",
+      "p": "neon grid floor,neon palm trees,neon sign,night city,cityscape,colored lighting,cyberpunk,bright neon lights,outrun影像城市,80s retro futurism,90s aesthetic,abstract geometry,vaporwave aesthetics,cathode ray tube,chromatic aberration,digital distortion,electromagnetic waves,rgb split,sunset gradient,synthwave palette,holographic effects,neon grid floor,neon palm trees,neon sign,night city,cityscape,colored lighting,cyberpunk,bright neon lights,",
+      "n": ""
+    },
+    {
+      "name": "原版残余tag（可一定程度优化效果）",
+      "p": "arctic blue,artistic style,asymmetrical composition,bokeh,ethereal glow,fluorescent colors,glowing accessories,gradient background,grid system,japanese text overlay,layered composition,liquid texture,magenta gradient,mirror sunglasses,mist effect,motion lines,pastel pink,pixel art elements,purple haze,retro computer graphics,static noise,stylized lighting,translucent visor,vhs distortion,vibrant color splash,visualizer waveforms,wireframe structures,",
+      "n": ""
+    },
+    {
+      "name": "锁链背景",
+      "p": "floating glitch chains (neon cyan/pink),pixel distortion overlay,scanline texture,glowing metallic chain collar (foreground),digital artifact sparks,static noise effect,half-transparent broken chains (background),3/4 side view with crossed arms,faint circuit board pattern projection on clothes,microchip-shaped ear cuff,holographic wrist chain (left hand),fragmented light reflections,color palette: monochrome with electric accents,",
+      "n": ""
+    },
+    {
+      "name": "北地雪林",
+      "p": "snow-dusted,pine forest,aurora borealis,backlight,ancient stone circle,frost-covered birch trees,mist breath effect,dynamic action pose,",
+      "n": ""
+    },
+    {
+      "name": "脏乱日式房间",
+      "p": "messy room,dark light,messy room,used tissue,tatami,mattress,dark,instant noodles,cans,trash bag,shadow,scenery,sunlight,sunset,backbag,game console,game controller,wire,lamp,steam,syringe,tablet,pill,",
+      "n": ""
+    },
+    {
+      "name": "事务所室内",
+      "p": "sitting,indoors,tree,book,window,desk,paper,clock,potted plant,brick wall,bare tree,cane,poster (object),map,electric fan,calendar (object),drawing (object),cabinet,globe,phonograph,corded phone,antique phone,rotary phone,",
+      "n": ""
+    },
+    {
+      "name": "林间火车",
+      "p": "lolita,see-through glove,lolita clothes,western country,lolita fashion,1900s,sitting on train,indoor,(depth of field:1.10),green trees,dappled sunlight,vine,forest,moss,dewdrop,after rain,reflective dewdrop,looking newspaper,window,from side,upper body,",
+      "n": ""
+    },
+    {
+      "name": "楼顶眺望",
+      "p": "(looking away:1.10),close-up,(arm support:1.10),(sitting:1.10),sign,on roof,evening,building,cloud,outdoors,sky,sunset,blurry,depth of field,white theme,",
+      "n": ""
+    },
+    {
+      "name": "林间水影",
+      "p": "dynamic perspective,dynamic angle focus,pose variation,close-up,looking at viewer,(depth of field:1.10),green trees,dappled sunlight,water surround,reflective water,shiny water,under water,soaking,ripple,lying back forward,from above,",
+      "n": ""
+    },
+    {
+      "name": "战争火场",
+      "p": "worried,flustered,fire,flame,ruins,red sky,(endless fire:1.10),black cloud,(fire surrounded:1.10),",
+      "n": ""
+    },
+    {
+      "name": "眠于溶洞",
+      "p": "many coin,on back,cave,moss,vines,sunset,leaf,gold stack,holding teddy bear,head on pillow,(teddy bear:1.28),luxury bed,window,sunrise,",
+      "n": ""
+    },
+    {
+      "name": "坐在月亮上",
+      "p": "close up,1girl,see-through,sitting on the glowing crescent moon,the tranquil lake,reflections,and toes lightly touching the water,",
+      "n": ""
+    },
+    {
+      "name": "孤立教室",
+      "p": "black background,classroom,school desk,school chair,from side,sleeping on desk,sitting,wide shot,top light,",
+      "n": ""
+    },
+    {
+      "name": "监控室内",
+      "p": "monitor,looking at viewer,sitting,smile,cable,television,keyboard (computer),crt,glowing eyes,dark room,on table,",
+      "n": ""
+    },
+    {
+      "name": "坐在圣诞礼物袋上",
+      "p": "blue santa hat,flower,fur trim,coat,bow,smile,dress,frill,sitting on bag,see-through big bag,gifts in bag,",
+      "n": ""
+    },
+    {
+      "name": "躺在麦田里",
+      "p": "lying,wheat,wheat field,sunbeam,(overexposure:1.16),(from above:1.05),close-up,",
+      "n": ""
+    },
+    {
+      "name": "其他版本 (2)",
+      "p": "lying,wheat,wheat field,sunbeam,(from above,from side:1.05),sunset,closed eye,close-up,",
+      "n": ""
+    },
+    {
+      "name": "躺在一推车苹果内",
+      "p": "outdoors,in cart,holding apple,sunlight,on back,apple fruit,navel,shiny skin,lying,",
+      "n": ""
+    },
+    {
+      "name": "躺在吊床上",
+      "p": "closed mouth,smile,on side,breast press,hand on own cheek,hand on own hip,swimsuit,outdoors,hammock,seaside,palm tree,",
+      "n": ""
+    },
+    {
+      "name": "乐队练习室",
+      "p": "lying,white shirt,on back,amplifier,headphones,sheet music,black socks,electric guitar,looking at viewer,blue skirt,wooden floor,plaid skirt,collared shirt,on floor,cable,striped necktie,school uniform,blue necktie,plectrum,pleated skirt,parted lips,holding instrument,paper,long sleeves,black footwear,from above,striped,blush,head tilt,sneakers,",
+      "n": ""
+    },
+    {
+      "name": "舞台会场",
+      "p": "glow sticks,stage,concert,singing,headset,colorful,tokyo dome,ray tracing,cherry blossoms,petals,flying notes,",
+      "n": ""
+    },
+    {
+      "name": "夜雨霓虹",
+      "p": "raining outside,blurry background,brickwall,city night,neon lights,indoors,",
+      "n": ""
+    },
+    {
+      "name": "学生卧室",
+      "p": "trophy,certificate,indoor,table,books,at home,(messy room:1.16),picture (object),ceiling fan,bookshelf,wall,bed,bed room,",
+      "n": ""
+    },
+    {
+      "name": "坐在机器人肩膀上",
+      "p": "broken glass,sitting on huge robot’s shoulder,energy,(close up:1.10),film grain,pastel colors,",
+      "n": ""
+    },
+    {
+      "name": "背靠墓碑",
+      "p": "(sitting,against tombstone:1.10),(black suit:1.05),graveyard,head down,from side,rain,",
+      "n": ""
+    },
+    {
+      "name": "野地宿营",
+      "p": "(camping,bonfire,at night,forest,rocks,darkness:1.05),",
+      "n": ""
+    },
+    {
+      "name": "跨越屏幕次元",
+      "p": "(through hole:1.10),(through screen,stuck in screen:1.22),(desktop,in screen:1.10),upper body,arm support,looking at viewer,keyboard,bent over,",
+      "n": ""
+    },
+    {
+      "name": "其他版本 (3)",
+      "p": "(through screen,coming out of screen:1.10),monitor,reaching towards viewer,dynamic angle,perspective,",
+      "n": ""
+    },
+    {
+      "name": "屏幕中爬出",
+      "p": "1girl,color contact lenses,glowing eyes,milf,crawling out of computer screen,stuck halfway out of a computer screen,dark room,ominous atmosphere,cold blue lighting,no pov,panorama,evil smile,",
+      "n": ""
+    },
+    {
+      "name": "其他版本 (4)",
+      "p": "1girl,solo,(crawling out of screen:1.10),(smartphone:1.10),reaching out,hand reaching viewer,breaking fourth wall,horror,ghost,holding phone,blurry hand,glowing screen,chromatic aberration,glitch,distortion,",
+      "n": ""
+    },
+    {
+      "name": "空间站",
+      "p": "astronaut,doorway,flashlight beam,holding clipboard,open handspace helmet,spacesuit,outstretched arm,",
+      "n": ""
+    },
+    {
+      "name": "水晶球内少女",
+      "p": "crystal ball,in container,goldfish,bubble,serafuku,hugging own legs,air bubble,submerged,underwater,black thighhighs,book,looking at viewer,pleated skirt,blue skirt,short sleeves,black loafers,watch,white shirt,water,clothes between thighs,sailor collar,knees up,bowtie,animal,gradient background,closed mouth,blue bow,pocket watch,blue sailor collar,",
+      "n": ""
+    },
+    {
+      "name": "车中人",
+      "p": "through car head,reflection,reflection focus,side-view mirror,car,viewer out of car,from car facial,through hood,",
+      "n": ""
+    },
+    {
+      "name": "车内",
+      "p": "(in the car,hands on the wheel,confident smile:1.10),sitting in the car,in the car,window,nervous sweating,from above,outdoors,",
+      "n": ""
+    },
+    {
+      "name": "培养仓内",
+      "p": "hypnotic device,(stasis tank:0.95),in container,1girl,full body,solo,facing viewer,character profile,1portrait (object:1.05),(open eyes:1.10),empty eyes,looking at viewer,indoors,expressionless,laboratory,",
+      "n": ""
+    },
+    {
+      "name": "笼中人",
+      "p": "1girl,hanging gaint birdcage,dress,smile,bare foot,glowing hands,sitting in cage,(glowing hair:1.10),black background,bird wings,feather wings,close-up,from above,",
+      "n": ""
+    },
+    {
+      "name": "其他版本 (5)",
+      "p": "dusk,(silhouette:1.48),dress,smile,bare foot,glowing hands,sitting in cage,(glowing hair:1.10),black background,bird wings,feather wings,close-up,from above,",
+      "n": ""
+    },
+    {
+      "name": "摇曳星空",
+      "p": "fog,night sky,reflection,reflective water,scenery,shooting star,sitting,star (sky),starry sky,water,",
+      "n": ""
+    },
+    {
+      "name": "浴金池",
+      "p": "(underwater,golden background:1.05),(golden ocean,golden water,golden ruin:1.05),rain world,glowing eyes,(yellow water,golden plants:1.16),",
+      "n": ""
+    },
+    {
+      "name": "第一人称手机屏幕内",
+      "p": "indoor,(in bottle:1.05),beach,from outside,looking at viewer,steam,close-up,leaning side,id card,smile,(giant phone,phone screen,taking picture:1.41),(in screen,pov hand,holding phone:1.16),in container,black phone,",
+      "n": ""
+    },
+    {
+      "name": "花园掩映",
+      "p": "sitting in side pose,classical garden,carved stone pillars,arches,floral,greenery decorations,soft natural light,",
+      "n": ""
+    },
+    {
+      "name": "草原余垣",
+      "p": "outdoors,brick wall,grass,flowers,garden,blue sky,clouds,",
+      "n": ""
+    },
+    {
+      "name": "树隙阳光",
+      "p": "flower,(sunlight,magic:1.10),tree,falling leaves,from above,(monster girls:1.10),(fantasy:1.10),(depth of field,shadow,ray tracing:1.16),",
+      "n": ""
+    },
+    {
+      "name": "草上折光",
+      "p": "(dappled sunlight:1.10),grass,lying,hairclip,on back,black necktie,looking at viewer,black dress,holding book,long sleeves,closed mouth,",
+      "n": ""
+    },
+    {
+      "name": "对镜自照（一定概率镜子内外对照，写服装疑似效果更好）",
+      "p": "(mirror:1.16),looking at mirror,black choker,hand in own hair,laurel crown,light leaks,sunlight,shine on girl’s body,shiny skin,cinematic lighting,lens flare,ray tracing,from side,bokeh,blurry foreground,(mirror image:1.16),",
+      "n": ""
+    },
+    {
+      "name": "屏幕碎裂",
+      "p": "(cracked screen:1.28),(cracked lens centered around:1.16),(splatted glass fragments:1.16),",
+      "n": ""
+    },
+    {
+      "name": "破败旧屋",
+      "p": "lonely wait,1girl,alone,waiting,sad,empty room,dilapidated,worn-out,broken furniture,broken window,dusty,spider web,silence,sitting,hugging own legs,(crack:1.16),tears,",
+      "n": ""
+    },
+    {
+      "name": "沉水（头朝下）【若只是出手可自行去除close-up】",
+      "p": "upside-down,underwater shot,falling down,(looking up:1.10),(close-up:1.10),arm up,(outstretched hand:1.10),(from above:1.10),(looking down from above:1.05),aerial view,view from above,",
+      "n": ""
+    },
+    {
+      "name": "沉水（头朝上）",
+      "p": "white background,falling down,floating,in air,floating hair,bubbles,refracted sunlight,light spots,sadness,lowered head,",
+      "n": ""
+    },
+    {
+      "name": "沙漠公路行者",
+      "p": "cover art,cover design,night,star sky,broken cloud,highway,telegraph pole,desert,wilderness,petrol station,on motorcycle,backbag,",
+      "n": ""
+    },
+    {
+      "name": "拍下的胶卷",
+      "p": "(film strip,film strip on screen,film strip on background:1.22),(colorful:1.10),light flare,black jacket,holding camera,hand up,look at viewer,beret,",
+      "n": ""
+    },
+    {
+      "name": "火车远眺",
+      "p": "looking to the side,sitting,train interior,",
+      "n": ""
+    },
+    {
+      "name": "傍晚靠栏杆",
+      "p": "drink can,cloudy sky,evening,lens flare,against railing,arm rest,railing,smile,cowboy shot,",
+      "n": ""
+    },
+    {
+      "name": "夜城惊雷",
+      "p": "(standing:1.05),white dress,facing away,(lightning,thunder cloud:1.10),raining,storm,cityscape,dark sky,fisheye,",
+      "n": ""
+    },
+    {
+      "name": "雨中窗外注视",
+      "p": "torrential rain,girl at window,hand pressed against glass,peering out,blurred cityscape,reflection in glass,somber mood,glistening droplets,weathered window,droplet patterns,",
+      "n": ""
+    },
+    {
+      "name": "盘中餐",
+      "p": "huge dinner plate,knife and fork,cream body,strawberry,blood,groin,navel,nude,cream bondage,lying,shy,",
+      "n": ""
+    },
+    {
+      "name": "坐在蛋里",
+      "p": "nude,in the egg,liquid package,knees on chest,",
+      "n": ""
+    },
+    {
+      "name": "躺在棺材里",
+      "p": "cowboy shot,upper body,(lying in a coffin,horizontal,supine,straight:1.05),hand on abdomen,holding a bouquet of roses,eyes closed,smile,rose field,",
+      "n": ""
+    },
+    {
+      "name": "坐在购物车里",
+      "p": "bare legs,barefoot,black shorts,feet,in cart,navel,off shoulder,shopping cart,short sleeves,white shirt,",
+      "n": ""
+    },
+    {
+      "name": "坐在树枝上",
+      "p": "branch,fruit,(golden apple:1.10),holding fruit,in tree,lying,on back,(sidelight:1.16),shadow,",
+      "n": ""
+    },
+    {
+      "name": "坐在游泳圈里",
+      "p": "pink bikini,bare arms,knees up,innertube,on innertube,ocean,water,",
+      "n": ""
+    },
+    {
+      "name": "立于海边",
+      "p": "shove,standing,ocean waves,sea,tide,sunset,horizon,turbulent waves,dramatic lighting,wet,water reflections,",
+      "n": ""
+    },
+    {
+      "name": "水中漂浮",
+      "p": "gorgeous background,floating,floating hair,underwater,lace-trimmed dress,coral,coral fishes,sleepy,white marble glowing skin,bubble,blurry,motion blur,wet,wet clothes,no shoes,loneliness,close mouth,foreshortening,",
+      "n": ""
+    },
+    {
+      "name": "灯笼浮水",
+      "p": "night,lantern,lying on water,glowing,(bokeh:1.34),sexy,nude,",
+      "n": ""
+    },
+    {
+      "name": "林中涉水",
+      "p": "half-closed eyes,head tilt,leaf,sitting,plant,partially submerged,water,water drop,waterfall,wet,wet clothes,wet hair,",
+      "n": ""
+    },
+    {
+      "name": "踏荷",
+      "p": "(1girl,eyelashes,sweat,wet body:1.16),lake,lotus,sparkle,see-through clothes,partially submerged,sitting,on lotus leaf,",
+      "n": ""
+    },
+    {
+      "name": "太空漂浮",
+      "p": "flying,space station,in space,moon,planet,",
+      "n": ""
+    },
+    {
+      "name": "地球之上",
+      "p": "bare shoulders,earth (planet),from behind,moon,planet,sitting,sky,solo,star (sky),starry sky,",
+      "n": ""
+    },
+    {
+      "name": "江南月夜",
+      "p": "blush,(earrings,hair stick,tassel,hanfu,rouge,head veil:1.10),bright moon,night,pink blue color background,(ancient chinese streets,petals floating all over the sky:1.05),off shoulder,mid autumn festival,fireworks,jiangnan water town,((focus on face:0.95):1.05),fluttering hair,dynamic perspective,strong contrast,clever light and shade,light and shadow,depth of field,light spot,reflection,",
+      "n": ""
+    },
+    {
+      "name": "蒸汽朋克",
+      "p": "steampunk,victorian,the industrial revolution,air cylinder,engine,metallic conduit,screw,gear,dial,steam,dust,dynamic angle,bent over,sweat,steaming body,working,",
+      "n": ""
+    },
+    {
+      "name": "废墟漫步 (2)",
+      "p": "landscape,back to viewers,shiny jacket,shiny clothes,looking back at viewers,standing,ruins,buildings,moss,white pigeon,back light,detail sky,cloud,",
+      "n": ""
+    },
+    {
+      "name": "浴室内",
+      "p": "reflective wall,looking at viewer,bathroom,bikini,green tile wall,shiny tile,shiny skin,oiled,shiny wall,flowers pattern,side shadow,wet,water,sunlight,small window,cowboy shot,",
+      "n": ""
+    },
+    {
+      "name": "实验室",
+      "p": "(wood,medieval:1.16),(test tube,infusion,transfusion,infusion line,indoor,scientific experiment,refining medicine,test tube rack,chemistry,making potion,experiment:1.10),",
+      "n": ""
+    },
+    {
+      "name": "草药师的房间",
+      "p": "candle,cobblestone,curtains,desk,drawer,flower,herb,jar,pestle,plant,potted plant,shelf,leaf,",
+      "n": ""
+    },
+    {
+      "name": "画面故障",
+      "p": "(glitch screen:1.05),monochrome,spot color,from front,upper body,gltich art,(blue screen of death:1.10),",
+      "n": ""
+    },
+    {
+      "name": "柠檬水广告",
+      "p": "cowboy shot,peak cap,holding bottle,sparkling water,k-pop,hand up,navel,advertising,commercial illustration,lemon slice,white shorts,white vest,",
+      "n": ""
+    },
+    {
+      "name": "裸体围裙kfc广告",
+      "p": "closed eyes,naked apron,fast food,cropped,upper body,(kfc:1.10),fried chicken,hamburger,red background,",
+      "n": ""
+    },
+    {
+      "name": "泡温泉",
+      "p": "from above,from behind,looking at viewer,looking back,looking up,nude,onsen,rock,sideboob,towel,water,wooden bucket,",
+      "n": ""
+    },
+    {
+      "name": "相框走廊",
+      "p": "cowboy shot,light particles,black rose,indoors,picture frame,clock,hallway,from above,window,vase,candle,",
+      "n": ""
+    },
+    {
+      "name": "地铁站行客",
+      "p": "(1girl:1.10),(photo scene:1.10),(seats,tactile paving,glass fence,lights,subway station,cola can:1.10),(half from side:1.05),looking away,(close-up:1.10),parted lips,standing,half closed eyes,earrings,looking away,side face,mouth,dark background,outdoors,garbage bin,garbage bag,(decadent style:1.05),subway station,backpack,",
+      "n": ""
+    },
+    {
+      "name": "垃圾堆",
+      "p": "rubbish background,very dirty ground,many rubbish,",
+      "n": ""
+    },
+    {
+      "name": "救火",
+      "p": "ruins,flame,fire,smoke,steam,firefighter,red jacker,water,holding hose,watering,sweat,dirty face,",
+      "n": ""
+    },
+    {
+      "name": "与哥斯拉自拍",
+      "p": "godzilla,(selfie:1.22),>_<,xd,cityscape,night,from above,rooftop,peace sign,arm up,closed eyes,grin,open mouth,",
+      "n": ""
+    },
+    {
+      "name": "911事件",
+      "p": "dark-skinned female,arabian style,white shirt,short sleeves,headphone,pilot,black necktie,sunglasses,necktie,salute,shoulder boards,airplane,cityscape,skyscraper,massive explosion,",
+      "n": ""
+    }
+  ]
+}

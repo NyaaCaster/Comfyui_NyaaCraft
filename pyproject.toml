@@ -1,0 +1,15 @@
+[project]
+name = "comfyui-nyaacraft"
+version = "1.0.0"
+description = "ComfyUI custom node tools for Prompts with Nyaa."
+license = "Apache-2.0"
+requires-python = ">=3.10"
+readme = "README.md"
+
+[project.urls]
+Repository = "https://github.com/NyaaCaster/Comfyui_NyaaCraft"
+
+[tool.comfy]
+PublisherId = "nyaacaster"
+DisplayName = "🐈Comfyui_NyaaCraft"
+Icon = "🐈"

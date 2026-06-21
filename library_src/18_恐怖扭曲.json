@@ -1,0 +1,995 @@
+{
+  "name": "恐怖扭曲",
+  "options": [
+    {
+      "name": "碎镜真实",
+      "p": "1girl,solo,(full-body shot viewed through cracked glass,dark fantasy aesthetic:1.16),(neutral yet haunting expression,one side of her face partially obscured by spiderweb-like cracks revealing multiple orange eyes behind the glass:1.22),(holding a red rose close to her chest,faint blood splatters dotting the glass and background:1.34),(dim,shadowy background with muted purple and blue tones,painterly textured brushstrokes,heavy shadows emphasizing the eerie mood:1.28),somber,unsettling atmosphere,mirror/shattered glass motif with surreal multi-eye detail,gritty and haunting fantasy style,",
+      "n": ""
+    },
+    {
+      "name": "悬浮头颅",
+      "p": "1girl,disembodied head,fangs,floating head,glowing,glowing eyes,looking at viewer,open mouth,portrait,red background,ringed eyes,",
+      "n": ""
+    },
+    {
+      "name": "血染走廊",
+      "p": "1girl,black jacket,unzipped jacket,pantyhose,torn clothes,bloodstained clothes,(yandere:1.10),(creepy smile:1.16),crazy eyes,empty eyes,panting,open mouth,heavy breathing,looking at viewer,sidelong glance,three-quarter view,upper body,creeping,walking forward,leaning forward,holding weapon,holding fire axe,heavy weapon,(((blood on weapon))),(covered in blood:1.10),blood splatter on face,blood on hands,blood,blood stain,(blood on clothes:1.41),(blood on jacket:1.22),blood drip,indoor,dark corridor,narrow hallway,creepy background,blood on floor,(dead body,corpse:0.91),dimly lit,eerie lighting,flickering lights,red and green ambient lighting,cinematic lighting,heavy shadows,dramatic contrast,vignette,depth of field,",
+      "n": ""
+    },
+    {
+      "name": "腐烂眼眶",
+      "p": "close-up,1girl,solo,zombie,alternate skin color,(pale skin:2.0),veiny face,missing eye,bloodshot eyes,colored sclera,red sclera,saliva,track marks,blood from mouth,blood on clothes,torn clothes,crazy eyes,crazy smile,head tilt,maggot on face,",
+      "n": ""
+    },
+    {
+      "name": "电车血案",
+      "p": "1girl,black jacket,black scarf,blood,blood on clothes,blood splatter,book,bottle,holding book,horror (theme),long sleeves,sitting,solo,train interior,",
+      "n": ""
+    },
+    {
+      "name": "门口身后",
+      "p": "1girl,1other,against wall,bandages,belt,blood,blood on bandages,blood on hands,brown pants,claws,dark,demon,door,glowing,glowing eyes,horror (theme),injury,male focus,monster,parted lips,scared,short sleeves,t-shirt,teeth,watch,white shirt,wristwatch,",
+      "n": ""
+    },
+    {
+      "name": "倚墙待毙",
+      "p": "1girl,solo,heavy rain,leaning wall,(head down:1.05),looking down,arms drop,sitting,slumped,white shirt,wet clothes,wet shirt,wet hair,water drops,pale skin,empty eyes,lifeless eyes,blood,bleeding,blood on chest,wounds on chest,huge blood,dramatic lighting,gloomy,",
+      "n": ""
+    },
+    {
+      "name": "开门鬼影",
+      "p": "1girl,detailed face,girl focus,shadow,door,stairs,silhouette,dark,horror (theme),surreal,abstract background,darkness,sexually suggestive,in the style of fashion photography,impactful picture,a shot with tension,ultra-high resolution,",
+      "n": ""
+    },
+    {
+      "name": "扭曲双子",
+      "p": "eldritch horror,(conjoined twins merging into a void:1.05),monochromatic grey flesh,decaying textures,mass of writhing black tentacles,floating eyes in the mist,cosmic decay,surreal body horror,silent agony,smoke and shadow,ethereal lighting,intricate ancient runes,haunting atmosphere,",
+      "n": ""
+    },
+    {
+      "name": "体内生长",
+      "p": "1girl,solo,profile,from side,from behind,black background,upper body,head focus,bare shoulders,transparent body,glass skin,translucent body,flowers inside body,grass inside body,wildflowers,multicolored flowers,cracked surface,mannequin,looking down,no hair,",
+      "n": ""
+    },
+    {
+      "name": "冰兽为祸",
+      "p": "nsfw,1girl,(outdoor,palace,solo,2:1.2)mouth ice,breathing ice,cyan ice,giantess,all fours,looking down,anger,",
+      "n": ""
+    },
+    {
+      "name": "凶狠砍下",
+      "p": "(chiaroscuro:1.22),(tenebrism:1.22),high contrast,strong contrast,dramatic lighting,rim lighting,backlighting,deep shadows,face in shadow,god rays,bloom,flat cel shading,hand drawn,clean lines,1girl,solo,determined expression,massive black sword on shoulder,powerful pose,deep shadows,",
+      "n": ""
+    },
+    {
+      "name": "血肉内里",
+      "p": "slender figure,disheveled hairstyle,emaciated face with a pale complexion in a sub-health state. a woman is in this state. there are red tentacles composed of flesh extending from inside the body.tareme,empty eyes,no sclera,gloom (expression),flesh,flesh body,physical terror,",
+      "n": ""
+    },
+    {
+      "name": "触手眼魔",
+      "p": "a tall female,red pupils,thin body,messy hairstyle,pale face,black tentacles sticking out of the body,cracked skin,body wrapped in a black corset,female focus,arm strap,bare shoulders,black hands,chain,gradient skin,hood up,pale skin,black thick liquid,(extra eyes:1.22),(many eyes on hood up and body:1.16),shadow,collarbone,rust belly chain,barefoot chain,barefoot,black dress,black calfs,gradient skin,black feet,",
+      "n": ""
+    },
+    {
+      "name": "捧上血肉",
+      "p": "1girl,covered in fresh blood,holding a dripping human heart with both hands close to her face,clothes stained red,hat slightly askew,ecstatic,cheeks flushed,wide crazy eyes with heart-shaped pupils,tongue licking lips,presenting the heart to the viewer as a gift,dark distorted background,abstract flesh textures,holding heart,organ,blood splatter,crazy smile,heart pupils,gore,ecstasy,",
+      "n": ""
+    },
+    {
+      "name": "胸前空洞",
+      "p": "1girl,hugging the third eye close to her chest,gothic dress,lace details,relieved,sleepy,eyes half-lidded,tying the final knot on the thread,the third eye is completely sewn shut with crude black stitches,oozing fluids,dark void or abstract shapes,sewn eyes,stitches,final knot,injury,pus,body horror,relief,",
+      "n": ""
+    },
+    {
+      "name": "缝合第三只眼",
+      "p": "1girl,holding her floating third eye firmly with one hand,holding a needle with the other,disheveled clothes,blood stains on cuffs,focused,emotionless,sweat on forehead,piercing the eyelid of the third eye with a sewing needle,pulling a thick black thread through the skin,dark blurred background,focus on the eye,sewing eyes,needle,thread,third eye,bleeding eye,stitching,body modification,gore,",
+      "n": ""
+    },
+    {
+      "name": "虎将血面",
+      "p": "close up of a mutated chinese general,traditional ornate helmet with animal crest,terrible smile,uncanny valley,eyes glowing with madness,blood exposed from the corners of the mouth,heavy shadows,gritty texture,dark fantasy illustration,sharp details,the armor is fused with the mutated body,",
+      "n": ""
+    },
+    {
+      "name": "崩坏小巷探索",
+      "p": "1girl,solo,messy sketch,pen sketch,scribble art,crosshatching,abstract lineart,chaotic lines,asymmetrical composition,sketchbook style,abstract background,hand-drawn texture,unfinished look,char1：girl,alley,flashlight,hands up,holding flashlight horror (theme),kneehighs,monster,serafuku,standing,wavy eyes,shade face,night,",
+      "n": "(multiple characters:2.0),(dolls:2.0),"
+    },
+    {
+      "name": "血手缠绕",
+      "p": "pillarboxed,graphic design,pop art,surrealism,spot color,limited palette,blue theme,red theme,retro style,noise,1girl,female focus,portrait,looking at viewer,serious,expressionless,dead eyes,green jacket,collared shirt,shadow,flat red silhouette hands reaching from void,hand covering eye,hand on face,hand on neck,grasping,disembodied hand,touching face,long fingers,sharp contrast,abstract background,red square,red rectangle,geometric background,black background,wavy lines,swirls,wood grain,monochrome background pattern,",
+      "n": ""
+    },
+    {
+      "name": "巷道打手",
+      "p": "1girl,5others,side-by-side,monster,blood,blood on clothes,blood on face,blood on weapon,brown boots,chain-link fence,green bow,green bowtie,green skirt,holding knife,holding lead pipe,horror (theme),lead pipe,miniskirt,open mouth,orange sweater,sleeveless turtleneck,smile,sweater,turtleneck,veil,white veil,weapon on shoulder,closed eyes,",
+      "n": ""
+    },
+    {
+      "name": "第一人称被活埋",
+      "p": "1girl,1boy,pov,first person view,pov hand,outdoor,pit hole,looking up from below,standing pose,bending over,close-up shot,height difference,holding shovel,dirt pile,blood stains,squinting eyes,seductive smile,intricate details,shallow depth of field,focused on girl and shovel,dim lighting,tense atmosphere,",
+      "n": ""
+    },
+    {
+      "name": "原版",
+      "p": "1girl,1boy,pov,first person view,pov hand,outdoor,pit hole,looking up from below,standing pose,bending over,close-up shot,height difference,holding shovel,dirt pile,blood stains,squinting eyes,seductive smile,upskirt view,pussy covered by panties,navel visible,underboob exposed,intricate details,shallow depth of field,focused on girl and shovel,dim lighting,tense atmosphere,",
+      "n": ""
+    },
+    {
+      "name": "吞噬巨浪",
+      "p": "psychedelic horror ocean,the water itself is alive and malevolent,swirling vortex of impossible colors,liquid flesh,eyes and teeth forming in the currents,ships being digested,surreal,mind-bending,vibrant yet terrifying,by zdzisław beksiński and salvador dalí,",
+      "n": ""
+    },
+    {
+      "name": "眼眶玫瑰生长",
+      "p": "1girl,solo,gothic maid,wedding dress style,maid headdress,black gloves,lace gloves,ballgown,voluminous skirt,oversized back bow,long train,lace trim,ruffles,ribbons,multiple layershead back,(no eyes,flowers in eyes,flowers growing from eyes,flower growing on body,bleeding eyes:1.05),vines,surreal:1.05),holding bouquet,black roses,",
+      "n": ""
+    },
+    {
+      "name": "猫眼等待",
+      "p": "(nsfw:1.05),(cowboy shot:1.05),(1girl,:1.3),fisheye,evil smile,solo,looking at viewer,railing,leaning forward,standing outside the door,hair down,messy hair,wet hair,wet,rain,lightning,black sky,apartment,dark,backlighting,(shaded face,yandere,empty eyes,no pupils:1.2),hairclip,dirty clothes,round border,pov peephole,lush,one eye covered,(medical eyepatch:1.1),sky,upper body,cloud,",
+      "n": "(chibi:1.0),(feet:0.8),"
+    },
+    {
+      "name": "原版角色",
+      "p": "crazy mita (miside),",
+      "n": ""
+    },
+    {
+      "name": "跨年失败",
+      "p": "(,no face:3.0),(dark,weird feeling,runny bloody,upper body:6.0),sad,angry,hold white paper,big blood text:2025.13.1,",
+      "n": ""
+    },
+    {
+      "name": "僵尸复生",
+      "p": "zombie girl,chibi,pale white skin,corpse-like complexion,stitched patch lines on face,(troubled,sweating,sneaky,furtive expression,three quarter view,hand on coffin side,one hand propping up the coffin lid,skull and bone on groud half-coverd by soil,big white anime raindrop-shape tear drop on skull,skull saying first time,1.5:1.5)head peeking out from a black western coffin,suitable coffin cover aside,coffin buried underground,soil piled around the coffin,only the head and a little upper body visible,western coffin with cover,dark background,",
+      "n": ""
+    },
+    {
+      "name": "钻出墓地（不稳定）",
+      "p": "2zombie girl,cute and lazy undead girl,relaxed yet eerie expression,soft horror mood,caught in the exact moment of breaking out of a buried coffin,old wooden coffin shattered open from underground,body still emerging,not fully out,violent perspective distortion,extreme foreshortening,upper body twisting upward from the coffin,most of the body still buried underground,only part of the torso and shoulders visible,one hand lazily pressing against the ground for support,fingers sinking into dark brown soil,other hand slowly reaching toward the camera,hand extremely close to the lens,foreshortened hand dominating the foreground,one eyeball fallen out of the eye socket,eyeball dangling loosely,eye socket filled with deep shadow,completely blackened,no visible gore,no exposed flesh detail,half-open mouth,tired and vacant expression,pale undead skin,heavily covered in dirt and dust,soil smeared across face,arms,and body,torn and worn clothing,ragged fabric,damaged dress,dirt-stained,coffin fragments flying upward,broken wooden planks,splinters and soil in mid-air,dark brown earth exploding outward,debris frozen mid-flight,graveyard at night,buried tombstones in background,cold moonlight,heavy shadows,dark,damp atmosphere,impact moment,dynamic composition,",
+      "n": ""
+    },
+    {
+      "name": "无面处刑人",
+      "p": "male,solo,(no face,red eyes:1.10),blood on clothes,blood on weapon,blood splatter,hooded cloak,solo,flat water,full body,close up,",
+      "n": ""
+    },
+    {
+      "name": "黑液外溢",
+      "p": "(face obscured by darkness:1.5),(featureless black face:1.4),unsettling,horror (thick,viscous black liquid oozing from where the eyes and mouth should be:1.3),",
+      "n": ""
+    },
+    {
+      "name": "人偶之家",
+      "p": "gothic theme,western fantasy,1girl,solo,doll,((ball-jointed doll:1.10):3.0),joints,artificial skin,doll joints,doll-like face,purple heart earrings,jewelry,(gothic lolita:1.10),black and white dress,complex dress,layers of frills,heavy lace,ribbons,large bow,bonnet on head,puffy sleeves,cross necklace,mary janes,highly detailed clothes,sitting,sitting on armchair,(ornate chair:1.10),velvet chair,royal chair,holding object,holding doll,hugging small doll,smile,gentle smile,looking at viewer,indoors,doll room,doll house,(surrounded by dolls:1.10),life-sized dolls in background,many dolls,shelf,clutter,vintage atmosphere,mysterious,cinematic lighting,depth of field,",
+      "n": ""
+    },
+    {
+      "name": "田野稻草人干尸",
+      "p": "(horror,arms spread wide:1.3),(hands fully open:1.3),(limbs fixed horizontally:1.2),(scarecrow:1.5),(tied to wooden cross:1.4),helpless expression,pained,(ragged clothes:1.3),(bound hands and feet:1.3),(head tilted downward:1.2),(body slouched against wood:1.2),overgrown autumn field,rotted wooden structure,crows gathering,cloudy sunset,(ominous orange light:1.4),(deep oppressive shadows:1.3),(strong rim light on cross:1.2),volumetric dust,full body,crucified pose,low angle,cinematic,dark atmosphere,",
+      "n": ""
+    },
+    {
+      "name": "魔物摧毁高楼",
+      "p": "1girl,(giantess:1.5),(tentacles constricting a high-rise building:1.4),(destruction:1.3),sinister expression,powerful,(multiple massive tentacles wrapped tightly around the mid-section of the building:1.2),(concrete crumbling and rebar bending under immense pressure:1.2),(shattered glass cascading down the facade:1.1),(girl’s fingers lightly resting on the top of the collapsing structure:1.1),shattered concrete and twisted rebar,dense urban city skyline,dark stormy sky,colossal scale,twilight,(harsh,dramatic lighting from the stormy sky:1.5),(sharp highlights on the slick,wet surface of the tentacles where they grip the building:1.4),(volumetric dust and debris clouds erupting from the pressure points:1.3),full body,dynamic destructive pose,low angle,cinematic,horror,tentacles,disaster,apocalypse,scale comparison,",
+      "n": ""
+    },
+    {
+      "name": "破碎病娇情感",
+      "p": "1girl,big tits,round breasts,peach butt,perky butt,(cracked skin:1.10),(black hole over one eye:1.10),greyscale with colored background,greyscale with colored eyes,evil smile,looking at viewer,upper body,glowing eye,one-eyed,(corruption:1.10),blood tears,red theme,yandere,horror,thriller,smile,wide eyes,blood on arm,blood on cheek,blood on chest,blood on clothes,blood on hands,blood on mouth,licking blood,licking finger,parted lips,scar on face,scar on nose,cyberpunk,cyberware lines embedded in her face,flower over eye,transparent crystal hair,broken,broken glass,looking up,(close-up:0.91),reflective transparent broken skin,",
+      "n": ""
+    },
+    {
+      "name": "异形袭来",
+      "p": "alien (series),alien (1979),monster,close up,looking at viewer,open mouth,saliva,blood,dark environment,open your arms,intimidate the viewer,",
+      "n": ""
+    },
+    {
+      "name": "触手护士",
+      "p": "1girl,bed sheet,blood,blood bag,body horror,ceiling,colored sclera,grey sclera,holding syringe,horror (theme),indoors,infirmary,monster girl,nurse,nurse cap,pillow,syringe,tentacle mouth,white coat,white skin,",
+      "n": ""
+    },
+    {
+      "name": "长发食人",
+      "p": "hair mouth,flat colour,human,horror,horror (theme),",
+      "n": ""
+    },
+    {
+      "name": "晶体骨架生长",
+      "p": "1girl,guro,realistic complex,(branched flowers growing out of eye:1.28),(covering the eye with flower:1.16),hide eye with flowers,(iridescent flower:1.16),(crystal rose:1.16),(glass flower:1.05),(big flowers:1.16),(intricate hairstyle:1.16),(hairdo:1.16),(looking ahead:1.05),dissolving,spooky,natural gradation,(elaborate,intricate,fantastic,skillful,vibrant,vividmeticulous,minute,incredibly:1.16),kogyaru,skeleton body,(nude:0.95),upper body,face focus,black background,",
+      "n": ""
+    },
+    {
+      "name": "屠杀之影",
+      "p": "wide shot,solo,white pupils,looking at viewer,dark,smile,arms under breasts,horror (theme),half close eye,old stone wall,(the girl half in shadow,the girl from shadow:2.0),from ground,light to girl,smile shadow,shadow monster in wall,shadow holding axe,horror shadow,(darkness:1.5),",
+      "n": ""
+    },
+    {
+      "name": "血盆大口",
+      "p": "indoor,dark room,abandoned laboratory,1girl,solo,upper body,face focus,close-up,monster girl,straight-on,(blood on clothes,blood on face,blood splatter,blood on body,:2.0) black eyes,very open eyes,big eyes,evil grin,evil smile,glowing,glowing eyes,claw pose,open mouth,(gapingly wide maw,razor-sharp fangs,very big mouth:2.0),",
+      "n": ""
+    },
+    {
+      "name": "异生口器",
+      "p": "1girl,solo,(dark,lightless:5.0)high contrast,colorful,detailed light,black background,body horror,colored eyelashes,exposed tendon,extra hands,hand mouth,monster girl,sharp teeth,sinew,solo,teeth,tongue,upper body,webbed hands,",
+      "n": ""
+    },
+    {
+      "name": "杀人后开门探头",
+      "p": "1girl,solo,intense shadows,night,seductive smile,open mouth,holding knife,shy,dark,shadow,shade,horror (theme),blood,head tilt,here’s johnny! (meme),head come out door,looking through door slot,foreshortening,close-up,dutch angle,leaning,cyan theme,",
+      "n": ""
+    },
+    {
+      "name": "巨兽登陆",
+      "p": "(1monster:1.05),warframe,cinematic angle,(blood:1.16),cinematic angle,monster focus,one”s bloody mouth,cthulhu,night,storm,dark atmosphere,rain,giant,horror,scary,(crawl:1.10),giant monster,",
+      "n": ""
+    },
+    {
+      "name": "从图内探出",
+      "p": "black background,border,checkered clothes,checkered scarf,crazy eyes,dark,flipped hair,fourth wall,glitch,horror (theme),long sleeves,looking at viewer,male focus,muted color,open mouth,outside border,purple nails,scarf smile,solo,teeth,two-tone scarf,white border,wide-eyed,",
+      "n": ""
+    },
+    {
+      "name": "列车之外",
+      "p": "black bag,black jacket,door,eldritch abomination,eyeball,from side,hand grip,holding bag,horror (theme),reflection,shadow,standing,train interior,wide shot,",
+      "n": ""
+    },
+    {
+      "name": "裂眼",
+      "p": "1girl,blood,closed mouth,creepy eyes,empty eyes,extra eyes,eye focus,green blood,horror (theme),smile,",
+      "n": ""
+    },
+    {
+      "name": "脖颈四散喷发",
+      "p": "foreshortening,dutch angle,1girl,cupping hands,faceless,faceless female,feet out of frame,hands up,headless,kanji,legs together,own hands together,red background,red theme,solo,surreal,",
+      "n": ""
+    },
+    {
+      "name": "原版服装",
+      "p": "bare legs,bubble skirt,buttons,center frills,frilled skirt,frills,waist bow,white gloves,white skirt,pink bow,pink ribbon,puffy short sleeves,puffy sleeves.short sleeves,",
+      "n": ""
+    },
+    {
+      "name": "故障凝视",
+      "p": "glowing lines,luminous lines,white lines,neon effect,lineart,monochrome,bloom,glitch effect,(glitch:5.0),scanlines,abstract background,dark aesthetic,dramatic lighting,1girl,(fisheye:6.0),focus on girl’s left eye,o_o,(close-up,2:5.0)foreshortening,eye focus,",
+      "n": ""
+    },
+    {
+      "name": "半身解剖",
+      "p": "1girl,solo,nsfw,split theme,symmetry,asymmetrical hair,asymmetrical clothes,asymmetrical docking,char1：girl,school uniform,smile,char2：girl,body horror,anatomy,exposed brain,exposed muscle,exposed bone,crazy eyes,nude,",
+      "n": ""
+    },
+    {
+      "name": "半身憎恶",
+      "p": "1girl,solo,smile,apron,(asymmetrical:1.16),(half monster:1.16),(left side monster:1.10),(split body:1.16),half human half monster,(raw flesh:1.16),sinew,bone spurs,torn clothes,grotesque transformation,",
+      "n": "(tail:2.0),"
+    },
+    {
+      "name": "眼球摘取",
+      "p": "1girl,solo,blood,looking at viewer,blood on face,hair between eyes,sit,1a hand to do the action of grasping,indoors,chair,table,head on 1hand,get down on the table,on stomach,blood on clothes,blood on hands,potted plant,impasto,reaching out,reaching,evening gown,dark persona,yandere,dark environment,lens flare,depth of field,front view,eyeball,",
+      "n": ""
+    },
+    {
+      "name": "尸海血路",
+      "p": "standing alone,full body,(view from behind,back towards viewer:1.10),facing the darkness,(surreal horror,cosmic horror,lovecraftian:1.10),(in hell,absolute darkness,black background,void:1.22),(a path made of praying hands and bodies leading into the distance:1.16),abstract,unsettling,(strong red rim lighting from behind:1.22),chiaroscuro,high contrast,deep shadows,(splashes of blood on ground:1.05),astronaut corpses in the distance,",
+      "n": ""
+    },
+    {
+      "name": "锤出血路",
+      "p": "hammer,holding a hammer with one hand,bloodstains on clothes,bloodstains on face,attacking,swinging the hammer,evil smile,crazy smile,wide eyes,looking down,char1：girl,solo,loli,mask on head,thighs,apron,fox mask,white apron,mask,japanese maid,white thighs,ruffled apron,japanese clothing,red kimono,maid,kimono,separated sleeves,ruffled edges,char2：zombie,blue t-shirt,blue pants,a male,zombie,attacked,",
+      "n": ""
+    },
+    {
+      "name": "海怪袭击",
+      "p": "no human,(kraken:1.5),(destroying ship:1.4),giant monster,multiple tentacles,colossal tentacles,aggressive,powerful,grasping ship,crushing hull,splintering wood,churning water,whirlpool,distressed galleon,stormy ocean,dark clouds,heavy rain,lightning flash,(deep shadows:1.4),(cold green light:1.3),strong contrast,volumetric spray,full body,mid-action,low angle,cinematic,",
+      "n": ""
+    },
+    {
+      "name": "古神召唤",
+      "p": "1girl,(cthulhu cultist:1.4),ritual robes,hood,(summoning:1.5),(raising hands:1.3),chanting,terrified expression,(emerging monster:1.4),eldritch horror,tentacles,grotesque,arcane circle,wet stone altar,dark cavern,swirling portal,(cold green light:1.4),(deep shadows:1.5),strong contrast,(volumetric fog:1.2),full body,mid-action,low angle,",
+      "n": ""
+    },
+    {
+      "name": "其他版本1",
+      "p": "1girl,solo,(public indecency,exhibitionism,:3.0),1girl,(cthulhu cultist:1.4),ritual robes,hood,(summoning:1.5),(raising hands:1.3),chanting,terrified expression,(emerging monster:1.4),eldritch horror,tentacles,grotesque,arcane circle,wet stone altar,dark cavern,swirling portal,(cold green light:1.4),(deep shadows:1.5),strong contrast,(volumetric fog:1.2),full body,mid-action,low angle,no text,(partially colored:4.0),",
+      "n": ""
+    },
+    {
+      "name": "无面众人",
+      "p": "gyoogu group,multiple girls,6+girls,monochrome,greyscale,(sketchy style:1.05),(heavy noise:1.05),static,grainy,(creepy:1.05),(eerie:1.05),unsettling,horror,(faceless:1.05),shadowed face,blacked out face,head out of frame,depersonalized,(lineup:1.05),standing in a row,facing viewer,simple clothes,collared shirt,short skirts,skinny,thin legs,girl in center,(holding stuffed cat:1.05),holding stuffed toy,wide shot,from front,in a grainy,",
+      "n": ""
+    },
+    {
+      "name": "原版 (2)",
+      "p": "gyoogu group,multiple girls,6+girls,monochrome,greyscale,(sketchy style:1.05),(heavy noise:1.05),static,grainy,(creepy:1.05),(eerie:1.05),unsettling,horror,(faceless:1.05),shadowed face,blacked out face,head out of frame,depersonalized,(lineup:1.05),standing in a row,facing viewer,simple clothes,collared shirt,short skirts,skinny,thin legs,girl in center,(holding stuffed cat:1.05),holding stuffed toy,wide shot,from front,in a grainy,monochrome sketch saturated with heavy static,a line of young girls stands facing the viewer. all are unsettlingly faceless,with their features either blacked out by shadow or cut off by the frame,creating a powerful sense of depersonalization. they wear simple,childlike dresses and shirts,and their skinny legs stand out against the dark background. the girl at the center of the lineup clutches a stuffed cat toy,a single point of detail in a stark and deeply eerie scene,",
+      "n": ""
+    },
+    {
+      "name": "割喉玫瑰",
+      "p": "sitting on a cold and dark room,(her entire body completely soaked and dripping with a massive amount of blood:1.16),(steaming white vapor rising from the blood:1.16),(blood pouring from her mouth:1.16),(her neck sliced open with blood gushing out,head tilted unnaturally to one side in a gruesome death pose:1.16),(her wrists slashed open with blood spurting out:1.16),(holding dozens of blood-red roses without stems in her hands,several roses fallen and scattered on the floor:1.16),showing a (helpless and broken expression with hollow glazed eyes,drooling uncontrollably,tears mixed with blood streaming down her face,mouth weakly agape:1.34),barely conscious,trembling body covered in filth and grime,",
+      "n": ""
+    },
+    {
+      "name": "血肉触手骨架",
+      "p": "(mutated arm:1.10),mutation,red tentacle,soaked,steaming body,whole body marking,(red sclera,no pupils,half-closed eyes:3.0),(head back:2.0),(rotting girl,fresh girl:1.16),(curvy:1.16),(dark purple- lipstick:1.16),(makeup:1.34),((skeleton body girl:6.0),(mutated skin,3:6.0)pale skin,colored face,rotting skin,teeth on body,teeth breasts,rotting body,numerous red veins,mutated all over the body:1.16),(nude:1.41),(dancing:1.22),((covered with tentacles:3.0):1.05),small breasts,sharp teeth,blood on mouth,facing the viewer,upper body,mutated body,(in blood pool:2.0),wounds,blood stains,red smoke,caves,smoke background,dark theme,dark background,",
+      "n": ""
+    },
+    {
+      "name": "女鬼钻出",
+      "p": "yamamura sadako(cosplay),ghost girl,see-through clothes,the ring,diamond-shaped pupils,sagging breasts,(covered nipples,:2.0)(like sadako from “the ring” crawling out of a television,living room,wooden floor,glowing diamond-shaped pupils,wet translucent robes clinging to body,upper body crawling out of an old crt television,lower body inside tv,static on screen,distorted pose,pale hand reaching out,in a dark gloomy messy living room,wooden floor,empty beer can,wrinkled sofa cushion on floor,low angle,straight-on,cinematic lighting,flickering tv light,fog,chilling aura,horror,j-horror,terrifying,uncanny,wet and dripping hair and skin,sweaty,the tv is on a cabinet,the character is crawling from a high position downwards,clothes clinging tightly to her buttocks and waist,wide hips,narrow waist,median furrow,back,butt crack,see-through butt,1.2:2.0)a lot of used tissue,",
+      "n": ""
+    },
+    {
+      "name": "举枪自尽",
+      "p": "(suicide:1.22),(imminent suicide:1.16),full body,(lying:1.22),leg lift,spread legs,spread arms,blood on face,blood,nosebleed,blood on clothes,(too many blood:1.16),(from above:1.16),handgun,rain,dirty,shell casing,(injury:1.10),(deep wound:1.16),sunset,cloudy sky,orange sky,blue sky,reflective water,water,(reflection:1.22),ripples,(partially immersed:1.22),(straight-on:1.22),",
+      "n": ""
+    },
+    {
+      "name": "残杀（不稳定）",
+      "p": "solo,angry,horrified,(surprised:1.16),scared,(tired:1.10),exhausted,(envy:1.05),scar on face,holding sword,severed hand,face focus,closed mouth,serious,(fighting stance:1.16),floating hair,sword,looking at viewer,blood,(blood splatter:1.16),blood fog,face only,dead body,corpse,cropped body,(pale skin:1.10),(pale face:1.10),(severed head:1.10),empty eye,tear,blood,body only,headless,(dead body:1.10),(pale skin:1.10),faceless,lying,blood,blood on body,(spinning head:1.10),(motion lines:1.10),",
+      "n": ""
+    },
+    {
+      "name": "憎恶机娘",
+      "p": "cyberpunk,1girl,(tentacles:1.16),(faceless:1.28),zombie girl,close up,(wearing a flesh mask:1.28),minimalism,blending,vivid color,limited palette,curiosity,perfect lighting,perfect anatomy,horror (theme),cowboy shot,headgear,(wires,flesh covered body:1.63),dynamic pose,dark,body horror,dutch angle,sitting,crossed legs,",
+      "n": ""
+    },
+    {
+      "name": "憎恶史莱姆娘",
+      "p": "1girl,(tentacles:1.16),(slime girl,faceless:1.28),monster girl,close up,(wearing a flesh mask:1.28),minimalism,blending,flat color,limited palette,nsfw,minimalism,blending,curiosity,horror (theme),cowboy shot,headgear,armor,",
+      "n": ""
+    },
+    {
+      "name": "血流如注",
+      "p": "slender thighs,slender legs,((a slim figure):1.10),staggering,cowboy shot,from above,half-raise one’s hand,shoulders slumped,(empty eyes:5.0),(damaged weapons:2.0),crumbled building,shattered ground,debris,collapsed structure,destroyed city,smoke,dust,rubble,bloodstains,blood dripping,red rain pouring,blank stare,shocked expression,bleeding eyes,shaded face,(sitting,wariza:2.0),(blood from eyes(bleeding profusely):1.16),blood dripping from nose(bleeding profusely),blood pouring from mouth(bleeding profusely),blood gushing,heavy bleeding,blood pouring,blood flow,blood splatter on face (heavy blood),blood soaked clothes (heavy blood),blood smeared cheeks (heavy blood),blood dripping down neck (heavy blood),blood trail on chest (heavy blood),blood soaked collar (heavy blood),",
+      "n": ""
+    },
+    {
+      "name": "安抚触手之面",
+      "p": "1girl,1boy,pov,solo focus,horror (theme),dark,god light,dark background,char1：girl,from above,mutation,no eyes,tentacles from eyes,melting halo,liquid halo,source#tentacles grab,source#tentacles grab arm,arms at sides,smile,target#headpat,target#hand on another’s head,char2：boy,pov,pov hand,source#headpat,source#hand on another’s head,target#tentacles grab,target#tentacles grab arm,tentacles on arm,",
+      "n": ""
+    },
+    {
+      "name": "被ufo吸入空中（不稳定）",
+      "p": "1girl,school uniform,plants,dynamic pose,dutch angle,at background,grass foreground,char1：big white eye monster,head back,looking down,ufo,see-through big beam,char2：girl,looking up,fear,midair,big beam covered the girl,glowing girl,",
+      "n": ""
+    },
+    {
+      "name": "痛苦之源",
+      "p": "cowboy shot,1girl,staring black sclera,colored sclera,only one eye tokyo ghoul (cosplay),red and black theme,no coat,solo,detailed light,shaded face,(shiny,wet,steaming,oily:1.16),glowing eyes,corruption,horror (theme),shattered,dark,limited palette,gesugao,shaded face,night,light particles,",
+      "n": ""
+    },
+    {
+      "name": "校内惨案",
+      "p": "arms behind back,axe,blood,blood on clothes,blood on face,blood on wall,blood on weapon,blood splatter,blush,ceiling,closed mouth,collared shirt,expressionless,eyelashes,feet out of frame,from below,holding axe,holding weapon,implied murder,indoors,long hair,looking down,medium skirt,pleated skirt,shadow,shirt,shirt tucked in,short sleeves,sidelighting,standing,upskirt,white shirt,",
+      "n": ""
+    },
+    {
+      "name": "血肉变异宇航员捕获",
+      "p": "1girl,1boy,horror (theme),flesh,scared,white backbag,indoor,science lab,char1：boy,flesh skull in helmet,spacesuit,grabbing another’s breasts,body tilt,broken helmet,flesh,char2：girl,body tilt,spacesuit,empty eyes,helmet,looking another,",
+      "n": ""
+    },
+    {
+      "name": "血肉外泄",
+      "p": "flesh,1girl,cyborg,chestplate,nsfw,cowboy shot,head tilt,mechanical hands,solo,close up,curiosity,horror,repairing,cable in body,current,wire,screw,machinery factory,bar code,holding big gun,warcraft armor,shoulder mounted artillery,terrifying,exposed mechanical components,exposed wire screw battery,physical terror,thrusters,columnar batteries,dissection,(red light,light particles:1.05),circuit,shooting,fighting,firing,barcode,straw,mechanical wings,",
+      "n": ""
+    },
+    {
+      "name": "万眼之主",
+      "p": "close-up,looking at viewer,completely nude,white and black skin,smile,glowing,closed mouth,tentacles,standing,facing viewer,own hands together,closed mouth,straight-on,flower,sparkle,glowing,abstract,horror (theme),red theme,looking at viewer,no humans,portrait,(monster:1.10),upper body,ribbon,dark background,teeth,surreal,flower pattern,eye pattern,butterfly pattern,dark,light and shadow contrast,",
+      "n": ""
+    },
+    {
+      "name": "古神凭依",
+      "p": "red theme,looking at viewer,completely nude,smile,glowing,closed mouth,black skin,tentacles,standing,other focus,closed eyes,black background,nude,full body,1girl,facing viewer,own hands together,other focus,white skin,closed mouth,straight-on,angel,hands up,gradient hair,sparkle,glowing,horror (theme),looking at viewer,no humans,portrait,monster,upper body,dark background,teeth,surreal,flower pattern,eye pattern,butterfly pattern,",
+      "n": ""
+    },
+    {
+      "name": "暗中鬼笑",
+      "p": "fur dataset,creepy smile,horror (theme),anaglyph,vhs artifacts,afterimage,optical illusion,glitch,double exposure,film grain,black smoke,evil smile,covered in shadow,(1girl:1.16),(all fours:1.05),(close up:1.10),(crazy:1.10),(crazy smile:1.10),crazy eyes,blood smile,",
+      "n": ""
+    },
+    {
+      "name": "目睹凶杀",
+      "p": "blood,blood on face,blood splatter,child,hallway,horror (theme),looking at viewer,ominous shadow,open mouth,pov,scared,shadow,shouji,sliding doors,upper body,wide-eye,",
+      "n": ""
+    },
+    {
+      "name": "触手寄生",
+      "p": "horror (theme),1girl,zombie,zombification,mutation,(blue vessel:1.05),empty eyes,veiny face,open mouth,(blue pupils:1.05),torn clothes,dirty clothes,scar,blue tentacles from back,tentacles tongue,blue tongue,much tongues,infected,",
+      "n": ""
+    },
+    {
+      "name": "无面恶魔",
+      "p": "beads,blurry,blurry background,claws,colored skin,covered eyes,headdress,horror (theme),male focus,monochrome,monster boy,red skin,sketch,smile,solo,spot color,tassel,walking,",
+      "n": ""
+    },
+    {
+      "name": "憎恶之貌",
+      "p": "monster girl,eldritch abomination,extra eyes,horror (theme),looking at viewer,monster,monster focus,no humans,tentacle mouth,tentacles,wading,water,bare feet,chromatic aberration effect,film grain,chinese wedding dress,traditional chinese clothing,red dress,bridal outfit,gold embroidery,hanfu,phoenix coronet,elegant,long sleeves,ornate,chinese style,red background,",
+      "n": ""
+    },
+    {
+      "name": "监视之眼",
+      "p": "horror (theme),looking at viewer,no humans,portrait,1girl,1other,monster,upper body,dark background,teeth,surreal,extra eyes,extra arms,no humans,solo,traditional media,monster,green sclera,looking at viewer,eyeball,ring,limited palette,full body,surreal,1other,colorful,eye focus,abstract background,open mouth,one-eyed,green nails,",
+      "n": ""
+    },
+    {
+      "name": "鬼娘子",
+      "p": "1girl,:d,bad end,black hole,hole eyes,blood,blood from eyes,blood from mouth,blood on clothes,blood on face,crazy eyes,dark persona,dress,empty eyes,hug,implied death,long dress,long sleeves,looking at viewer,open mouth,sitting,smile,tear stain,wariza,wide sleeves,",
+      "n": ""
+    },
+    {
+      "name": "额外面容",
+      "p": "tomie,half closed eyes,smile,eyelashes,eyeshadow,conjoined,upper body,face horror,horror (theme),extra faces,",
+      "n": ""
+    },
+    {
+      "name": "残损前后",
+      "p": "amputee,(2girls:1.16),disintegration,glitch,glitching,(split theme:1.28),aesthetic,ethereal lighting,nighttime,darkness,surreal art,fantasy,spot color,pink and black theme,dark,sad,parted lips,floating hair,gothic,flora,black and thick liquid,fog,underlighting,bokeh,blurry background,strong visual impact,film lighting,different reflection,broken glass,reaching towards viewer,shatter across face,blood from eyes,split,glass over on eye,",
+      "n": ""
+    },
+    {
+      "name": "门缝拦截窥视",
+      "p": "claw mark,door chain,doorway,empty eyes,from inside,lock,looking at viewer,open door,open mouth,opening door,pov doorway,shirt tucked in,smile,solo,sweat,upper body,upturned eyes,yandere,",
+      "n": ""
+    },
+    {
+      "name": "情杀方艾",
+      "p": "blood,blood on clothes,blood on face,blood on knife,blood splatter,blue overskirt,blue ribbon,blue skirt,blue vest,blush,doorway,school uniform,holding knife,kitchen knife,knife,neck ribbon,pov doorway,skirt set,smile,white shirt,yandere,",
+      "n": ""
+    },
+    {
+      "name": "雨中沉亡",
+      "p": "collared dress,floating hair,high collar,pants under dress,white dress,white pants,lying on the ground,rain,blood,scars,torn clothes,scars,blood,reflections on the water,empty eyes,despair,nose and mouth bleeding,",
+      "n": ""
+    },
+    {
+      "name": "血肉机器人",
+      "p": "flesh,skin less,very long neck,cyborg,broken head,half head,head tilt,mechanical hands,arc reactor on chest,curiosity,body horror,repairing,uterus,cable in body,current,wire,screw,machinery factory,bar code,holding big gun,warcraft armor,shoulder mounted artillery,terrifying,exposed mechanical components,exposed wire screw battery,wires into head,wires into body,physical terror,thrusters,columnar batteries,dissection,(red light,light particles:1.05),circuit,fighting,barcode,straw,bone weapon,monster girl,big legs,foot robot girl,legless,machine spine,half skeleton,heart,ribs,big claws,mechanical tentacles from back,headgear,",
+      "n": ""
+    },
+    {
+      "name": "墙后丧尸躲避",
+      "p": "wall,1girl,(old movie:1.05),(color saturation:1.05),(black outline:1.05),(shiny skin,greasy skin:1.05),horror (theme),zombie,scared,monster,nsfw,red light,red zombie,pale skin,blurry background,doctor clothes,white coat,white shirt,id card,short skirt,round eyewear,masterpiece,dark,outside corner of the wall,indoor,char1：girl,against wall corner,1hand covered mouth,constricted pupils,facing viewer,standing,dark,hand on mouth,foreground,half body,arris,sideways glance,looking side,shadow,upper body,eye to eye,tremble,1/2 wall background,leaning back,char2：boy,zombie,background,bald,strong,claws,red zombie,one side up,all fours,.,",
+      "n": ""
+    },
+    {
+      "name": "空洞身体（看画风，密恐切勿尝试）",
+      "p": "an image of a human,female,face that triggers severe trypophobia with clusters of irregular holes in the skin,",
+      "n": ""
+    },
+    {
+      "name": "重伤输血治疗",
+      "p": "close-up,from side,lying,dying,on bed,on back,pale skin,narrowed eyes,smile,blood from eyes,closed mouth,bandaid on face,bandaged arm,nightgown,white dress,blanket,white blanket,book,hospital bed,hospital,intravenous drip,iv stand,bare arms,sick,bags under eyes,blood bag,hospital,infirmary,indoors,",
+      "n": ""
+    },
+    {
+      "name": "镜中人取而代之（char1，2为相同角色）",
+      "p": "2girls,for above,mirror on wall,char1：blue choker,collarbone,navel cut,white bare shoulders frilled tank top,swimwear,large fine tentacle tail under dress,mirror,side face,in doom,glowing eyes,shushing,look back,full body,smile,facing viewer,out frame,char2：upper body,navel cut,white bare shoulders frilled tank top,swimwear,(girl in mirror,hands on mirror,hands on glass:1.16)constricted pupils,scared,tentacles entanglement leg,tentacles entanglement arms,tentacles entanglement nake,in photo frame,",
+      "n": ""
+    },
+    {
+      "name": "拍摄鬼影（n4.5）",
+      "p": "no humans,ghost,horror,creepy,phone,smartphone,holding phone,glowing eyes,white eyes,supernatural,spirit,transparent,long hair,dark,eerie,haunted,pov hands,first person view,found footage,paranormal,scary,digital horror,cursed image,liminal space,hallway,indoors,atmospheric horror,unsettling,apparition,phantom,glowing screen,",
+      "n": ""
+    },
+    {
+      "name": "举枪自杀剪影",
+      "p": "(gun to head:1.34),solo,letterboxed,(bird:1.28),(suicide:1.22),holding weapon,handgun,holding gun,upper body,sky,(from behind:1.22),film grain,(silhouette:1.22),outdoors,dark,arm up,blue theme,blurry,",
+      "n": ""
+    },
+    {
+      "name": "空洞鬼影【裂口微笑：glasgow smile,】",
+      "p": "blood on face,holding knife,long neck,long body,hollow eyes,hollow mouth,jump scare,crazy smile,head tilt,sweat,tall,skindentation,glasgow smile,",
+      "n": ""
+    },
+    {
+      "name": "地球增生",
+      "p": "no humans,tentacles,eldritch abomination,monster,(planet,earth (planet):1.10),space,alien,extra eyes,teeth,red eyes,star (sky),sharp teeth,glowing,static pose,horror (theme),teeth,open mouth,spider web,silk,",
+      "n": ""
+    },
+    {
+      "name": "赛博女鬼",
+      "p": "1girl,blue screen of death,glitch,(the background features a weird core style:0.91),weird core art,(glitch art:1.16),(pixel art:1.05),horrifying,(mosaic:1.10),internet aesthetics,aberrant art,surreal,pov,",
+      "n": ""
+    },
+    {
+      "name": "无首血使",
+      "p": "dynamic posing,dynamic angle,(cinematic lighting:1.16),red blood cells,nerve synapses,chemical transmitters,pneumatic shape,multiple eyes,no humans,no head,headless,wide hips,cowboy shot,blood halo,extra arms,(legless:1.10),(no legs:1.10),(extra eyes:1.16),fracture,",
+      "n": ""
+    },
+    {
+      "name": "面具之墙",
+      "p": "standing,looking at wall,clown masks,hanging masks,metallic gray wall,large screws,distorted masks,various expressions,cheerful,unsettling,sad,dripping red liquid,monochromatic background,holding mask,hair over eyes,messy hair,checkered scarf,smile,",
+      "n": ""
+    },
+    {
+      "name": "原版 (3)",
+      "p": "in this image,boy is standing with his back to a wall,looking at a row of clown masks hanging in front of him. the wall is a stark metallic gray,with large screws holding it in place. the masks are distorted,with various expressions ranging from cheerful to unsettling,with some having crosses in their eyes or sad,smeared faces. the masks are dripping with a vibrant magenta-colored liquid,giving a disturbing contrast to the otherwise monochromatic background. kokichi is holding one of the masks in his hand,his face obscured by his messy purple hair and the checkered scarf around his neck. his posture is slightly hunched,exuding a feeling of unease. the image gives off an eerie and dark atmosphere,with the contrast of bright pink liquid against the cold,industrial backdrop heightening the sense of tension and mystery.konya karasue,rella,tokkyu,smile,",
+      "n": ""
+    },
+    {
+      "name": "爱人背刺之刃",
+      "p": "from above,1boy,1girl,multiple boys,fruit,white flower,leaf,char1：boy,(upper body:1.10),blood,blood on clothes,belt,close eyes,holding sword,shirt,lying,on back,pants,blood on face,coat,long sleeves,bleeding,char2：girl,blood on clothes,blood,holding knife,looking at another,standing,stab,blood on hands,torn clothes,robe,dagger,",
+      "n": ""
+    },
+    {
+      "name": "神经异种",
+      "p": "glowing dark eyes,sideboob,sideless outfit,neck bell,(black skin:0.91),blackening,fractal,turbulence,flow,field,coral,vessel,capillary,plexus,vein,nerve,psychedelic,(mandala:0.86),",
+      "n": ""
+    },
+    {
+      "name": "一人分割线内脏透视",
+      "p": "1girl,solo,split theme,symmetry,asymmetrical hair,asymmetrical clothes,asymmetrical docking,char1：girl,school uniform,smile,char2：girl,body horror,anatomy,exposed brain,exposed muscle,exposed bone,crazy eyes,nude,",
+      "n": ""
+    },
+    {
+      "name": "残损异虫女",
+      "p": "portrait,looking at viewer,ribs,upper body,flowing hair,closed mouth,covering one eye,skin color,chains,expressionless,white skin,insect wings,energy wings,(x-ray:1.10),standing,eyelashes,glowing,gradient skin,scales,cross scar,shining eyes,injured,blood,blood drops,blood in eyes,blood on face,facial cracks,horror tentacles,(light particles:1.10),suction cups,cracks,tears,tassels,glowing liquid,female focus,pink blood,",
+      "n": ""
+    },
+    {
+      "name": "雾中异兽",
+      "p": "1other,fog,giant,giant monster,horror (theme),long arms,looking at monster,looking down,looking up,monster,monster focus,outdoors,power lines,science fiction,shipping container,skinny,tree,utility pole,",
+      "n": ""
+    },
+    {
+      "name": "腹部巨口吞人",
+      "p": "dark,horror (theme),(color trace:1.16),old wooden room,1girl,1boy,more blood,from above,blood on clothes,blood string,char1：boy,upper body in big mouth,head to another’s belly,blood,kneeling another’s between legs,back,kneeling,body horror,leaning forward,from behind,pants,arms on another’s legs,half head,broken head,splashing blood,char2：girl,body horror,white polo shirt,blue collar,blue side trim,shiny skin,blue bottoms,glasses,big pants,side stripes bottoms,(loose sports pants,loose shirt:1.16),big mouth on belly,big sharp teeth,looking at viewer,head tilt,backpack,biting another’s head,shirt lift,shirt pulling with mouth,sitting on school chair,big mouth covered upper head,bush,red pupils,side shadow,blood on teeth,arm support,spread legs,crossed feet,",
+      "n": ""
+    },
+    {
+      "name": "人体剖析",
+      "p": "split subject,x-ray,surrealism,profile,portrait,(plant background:1.10),tree pattern,char1：girl,looking at viewer,upper body,flowing hair,closed mouth,expressionless,arms at sides,colored skin,white skin,gradient skin,pale skin,eyes wide open,single wing,standing,open lips,completely nude,glow,cowboy lens,flowing hair,cross scar,char2：1other,looking at viewer,ribs,skeleton,bones,scales,heart (organ),shiny eyes,injured,blood,blood drops,blood in the eyes,blood on the face,collarbone,head flower,spine,skull,facial cracks,machine,mechanical parts,cracks,reflection,splash,swing,tears,glow,glowing body fluids,limited palette,female focus,pink blood,reflection,",
+      "n": ""
+    },
+    {
+      "name": "发现丧尸",
+      "p": "cowboy shot,dark room,abandoned building,night,graffiti walls,broken windows,concrete floor,urban decay,dust,dark shadows,rusted metal,indoor,blood on hand,blood on face,blood on wall,char1：boy,(pov hand,holding flashlight:1.10),pov,char2：girl,wide-eyed,outstretched arms,pale skin,gothic clothing,(torn clothes:1.10),black dress,(choker:1.05),against wall,standing,claw pose,tongue out,empty eyes,scars,(head tilt:1.10),dirty,blood,stitches,",
+      "n": ""
+    },
+    {
+      "name": "其他版本1（n3）",
+      "p": "cowboy shot,pov,abandoned building,night,(pov hand,holding flashlight:1.10),outstretched arms,graffiti walls,broken windows,concrete floor,pale skin,gothic clothing,(torn clothes:1.10),black dress,(choker:1.05),against wall,standing,surrounded,urban decay,dust,dark shadows,rusted metal,shocked face,indoor,claw pose,tongue out,empty eyes,scars,(head tilt:1.10),dirty,stitches,",
+      "n": ""
+    },
+    {
+      "name": "城市邪神",
+      "p": "aqua theme,blue sky,building,city,city lights,cityscape,cloud,eldritch abomination,facing away,fantasy,floating,giant,giant monster,glowing,monster,night,night sky,outdoors,power lines,ruins,silhouette,sky,solo,tentacles,weeds,window,wreckage,",
+      "n": ""
+    },
+    {
+      "name": "破碎躯体的给养",
+      "p": "close-up,blood,blood drops,blood in eyes,blood on clothes,blood on face,crying with eyes open,collarbone,flowing hair,(skeleton girl:1.16),(skeleton:1.10),(bone:1.10),(skull:1.10),(crack:1.10),scar,bandage over one eye,dress,shut up,hands raised,depressed,knees up,hug legs,glowing body fluids,hair,female focus,pink blood,solo,splash,sway,tears,torn clothes,(heart (organ):1.16),(eyeball:1.10),(butterfly print:1.16),(spider web background:1.16),(flora background:1.16),(tree pattern:1.22),(plant roots:1.22),theme,(spider lily:1.10),(tree girl:1.22),",
+      "n": ""
+    },
+    {
+      "name": "不速之客",
+      "p": "from above,horror (theme),black bow,black dress,blood,blood on clothes,blood on face,blood on ground,blood on hands,bow,collared dress,door,frilled dress,frilled hairband,frilled shirt collar,frills,indoors,ivy,lolita hairband,looking at viewer,night,open doors.smile,plant,puffy short sleeves,standing,teddy bear,upper body,hugging object,",
+      "n": ""
+    },
+    {
+      "name": "火车小丑",
+      "p": "1other,2boys,2girls,black suit,clown mask,clown nose,fake screenshot,formal clothes,horror (theme),monster,multiple boys,multiple girls,red necktie,suit,tall male,train interior,",
+      "n": ""
+    },
+    {
+      "name": "亡灵玫瑰场（不推荐加入角色描述tag）",
+      "p": "from below,grey tentacles monstrosity tree,monster,horror,nightmare,humanization,humanoid,gore,huge white feathered wings,halo above monster,angel halo,(huge red rose:1.22),exposed bone,too many spines,tentacles,bloody,blood,drop shadow,detailed shadow,indoors,ruin background,smoke,fog,",
+      "n": ""
+    },
+    {
+      "name": "丧尸兽娘捕猎",
+      "p": "(1girl,(exposed ribs:1.10),nude,tattered short sleeves:1.10),(black sclera:1.10),messy hair,beast-like,(split mouth,split:1.22),blood on clothes,blood splatter,guro,horror (theme),looking at viewer,mismatched sclera,open mouth,organs,ribs,unsure,slime,fluid,viscera in body,on rock,night,moon,rotten leg,eating meat,bent over like a beast,squatting,carcass,",
+      "n": ""
+    },
+    {
+      "name": "第一人称被僵尸狩猎",
+      "p": "(zombie:1.05),(biting finger:1.05),(no pupils:1.05),green blood,infection,empty eyes,veiny face,torn,torn clothes,dirty clothes,scar,vessel,library,from below,close up,bent over,pov,darkness,dark theme,horror (theme),no light,",
+      "n": ""
+    },
+    {
+      "name": "电视疑影",
+      "p": "close-up,(straight-on:1.10),night,(indoors:1.10),(painting (object):1.10),sofa,(in castle:1.10),(haunted houses:1.10),(ghost house background:1.10),haunted,horror movie,horror theme,blood,ghost,no signal tv,upper body,(scared:1.28),tears,trembling,empty eyes,constricted pupils,nightgown,night,(darkroom:1.16),holding teddy bear,",
+      "n": ""
+    },
+    {
+      "name": "从电视中爬出",
+      "p": "(legless,upper body:1.16),stuck,(in container:1.16),from ground,newest,huge television,1girl,horror (theme),through screen,facing viewer,indoors,static,crawling,teeth,yamamura sadako,looking at viewer,nude,big television,through medium,through screen,(arm strap ground,hand,all fours,top down:1.10),horror (theme),dark room,masterpiece,ai-assisted,hole,bags under eyes,pale skin,(hanging breasts:1.16),wooden floor,pc,game console,fisheye,",
+      "n": ""
+    },
+    {
+      "name": "电梯死斗之后",
+      "p": "elevator,empty eyes,smile,barbed wire,blood,blood on clothes,blood on ground,blood on hands,blood on knife,blood on tool,broken,caution tape,(corpse:1.10),crack,damaged,dark,death,from side,hair over eyes,horror (theme),knife,looking at viewer,looking to the side,looking up,open door,parted lips,ringed eyes,wrench,",
+      "n": ""
+    },
+    {
+      "name": "崩裂面容",
+      "p": "cyberpunk,cyberware lines embedded in her face,flower over eye,transparent crystal hair,broken,broken glass,looking up,(close-up:0.91),reflective transparent broken skin,",
+      "n": ""
+    },
+    {
+      "name": "触手神龛",
+      "p": "indoors,solo,ruin background,low angle shot,nude,grey tentacles monstrosity tree,in ruin,smoke,fog,monster,gore,huge white feathered wings,halo above monster,angel halo,tearing,tearing fresh,fresh,exposed fresh,bloody,blood,drop shadow,detailed shadow,huge red rose,light rays,exposed bone,too many spines,tentacles,humanization,humanoid,",
+      "n": ""
+    },
+    {
+      "name": "旗袍怪人",
+      "p": "horror (theme),changed,horror,parasite,takeover,transformation,body horror,humanoid monster,many tentacles,street,road,sitting on park bench,rain,cloudy sky,(close-up:1.05),solo,1girl,blood on face,gore,exposed skull,oiled skin,burnt skin,(pale skin:1.05),dirty skin,rotten skin,decay skin,rotten face,tentacles on neck,tentacles under clothes,red chinese dress,chinese clothes,dark red clothes,side slit,wet skin,long neck,smile,hand fan,(holding chinese fan:1.16),long gloves,black lace gloves,red fan,(head tilt:1.28),(faceless:1.28),(covered face:1.05),fan covered face,no eyes,",
+      "n": ""
+    },
+    {
+      "name": "恐怖游戏镜头",
+      "p": "dark,dim,bathroom,blood,blood splatter,choice,dark,dialogue box,fake screenshot,flashlight,horror(theme),toilet,toilet stall,user interface,",
+      "n": ""
+    },
+    {
+      "name": "月球幸存者",
+      "p": "close-up,broken glass,broken helmet glass,astronaut,blood,corpse,monster,ambiguous gender,spacesuit,helmet,death,outdoors,backpack,horror (theme),science fiction,bag,gloves,intestines,vanishing point,dark theme,halved,praying,fisheye lens,white rock,moon surface,kneeling,tentacles,",
+      "n": ""
+    },
+    {
+      "name": "寂静岭",
+      "p": "neonline art,outdoors,solo,scenery,male focus,tree,from behind,sky,cloud,long sleeves,nature,facing away,cloudy sky,standing,grey sky,pants,railing,stone fence,forest,landscape,low light,fog,foggy,dark,solo,1girl,solo,shirt,looking at viewer,necktie,green jacket,green coat,",
+      "n": ""
+    },
+    {
+      "name": "潘多拉金苹果",
+      "p": "(greyscale:1.34),(purple eyes,blank eyes,empty eyes,:1.28),(blood on glasses:1.34),front view,(glowing,glowing apple,gold apple:1.16),open mouth,upper teeth only,light smile,hands up,upper body,shiny skin,night,(yellow bokeh:1.16),one eye covered,eyes visible through hair,",
+      "n": ""
+    },
+    {
+      "name": "侵蚀",
+      "p": "light particles,blurry,light rays,shadow,(cinematic lighting:1.05),(backlighting:1.05),ocean,star sky,portrait,shaded face,wicked smile,upper body,cold face,blood on face,covering eye,",
+      "n": ""
+    },
+    {
+      "name": "恐怖环境",
+      "p": "a large number of eyes,lens rupture,with a dim and damp background,horror moviesa terrifying scene,dim lighting,and a gloomy environment,dim light,ray tracing,terror scenes,",
+      "n": ""
+    },
+    {
+      "name": "学校杀人现场处理",
+      "p": "mirror,cowboy shot,from behind,looking at mirror,1other,1girl,girl focus,zombie,tile wall,school uniform,white shirt,sailor collar,pleated skirt,serafuku,holding broom,horror (theme),(blood handprint:1.10),blood,bathroom,indoors,(big mirror,mirror twins:1.28),tiles,muted color,death,corpse,broom,mop,walking,glowing,scabbard,multiple hands,smile,",
+      "n": ""
+    },
+    {
+      "name": "原版（含有一定程度涩涩）",
+      "p": "mirror,cowboy shot,from behind,looking at mirror,1other,large breasts,sex,1girl,girl focus,black hair,long hair,skirt,school uniform,zombie,tile wall,serafuku,solo,horror (theme),(blood handprint:1.10),sailor collar,very long hair,pleated skirt,blood,bathroom,indoors,(big mirror,mirror twins:1.28),tiles,long sleeves,neckerchief,muted color,death,shirt,corpse,broom,white shirt,mop,holding broom,red eyes,walking,glowing,scabbard,multiple hands,smile,nude,nipples,",
+      "n": ""
+    },
+    {
+      "name": "伤残",
+      "p": "dissolved,joked,depressed,despairing expression,shedding tears,dissolved love,crazy,physical cutting,terrifying,extreme emotions,bullying,unilateral violence,(colorful:1.28),assault,nausea,wounds,severe wounds,cuts,small,(clothes tattered:1.10),skin is bruised,eyeballs are congested,bullying,vomiting,blood,scars,wounds,rupture,spinal distortion,torment,",
+      "n": ""
+    },
+    {
+      "name": "伤残在床",
+      "p": "hospital bed,(bandages:1.05),blood bag,blood,bed,lying,sarashi,sheet grab,messy hair,bandages cover eyes,(scar on body:1.10),wounds,(blood:1.10),",
+      "n": ""
+    },
+    {
+      "name": "输血",
+      "p": "hospital bed,(bandages,blood:1.05),stitched arm,stitches,blood bag,blood,bed,lying,(bondage outfit:1.16),hospital,(horror (theme):1.16),indoors,night,tape bondage,outstretched hand,reaching towards viewer,nude,holding scalpel,",
+      "n": ""
+    },
+    {
+      "name": "割腕自杀",
+      "p": "close-up,scars on body,naked,bathroom,lying,on back,in bathtub,bandage,water on bathtub,(wrist cutting,blood on water,blood in water,blood on body:1.10),tears,window,towels,bottles,cold tone,holding knife,upper body,in water,stereoscopic lighting,",
+      "n": ""
+    },
+    {
+      "name": "嗑药之后",
+      "p": "take drugs,marijuana,psychedelic,cocaine,pinhead,injection,injector,scar,nude,boundage,crazy smile,pill,bags under eyes,tears,pale skin,empty eyes,",
+      "n": ""
+    },
+    {
+      "name": "其他版本1 (2)",
+      "p": "drugged,drugs,open mouth,sitting,heart,blush,trembling,symbol-shaped pupils,heart-shaped pupils,wariza,syringe,wavy mouth,saliva,drooling,smile,",
+      "n": ""
+    },
+    {
+      "name": "其他版本2",
+      "p": "open mouth,drooling,cross-eyed,silly face,derp,head tilt,(wall-eyed,:4.0)silly smile,ringed eyes,drugs,marijuana,psychedelic,cocaine,pinhead,injection,holding injector,crazy smile,pill,bags under eyes,uneven eyes,",
+      "n": ""
+    },
+    {
+      "name": "骨骼透视（X光拍片）",
+      "p": "(holding x-ray film:1.34),looking at viewer,glowing ribs,straight-on,(x-ray film:1.22),black background,upper body,",
+      "n": ""
+    },
+    {
+      "name": "血肉之面",
+      "p": "(faceless:1.16),(tentacles:1.16),1girl,solo,close-up,(wearing a flesh mask:1.28),minimalism,blending,flat color,limited palette,",
+      "n": ""
+    },
+    {
+      "name": "其他版本1 (3)",
+      "p": "1girl,(tentacles:1.16),(slime girl,faceless:1.28),monster girl,1girl,solo,close up,(wearing a flesh mask:1.28),minimalism,blending,flat color,limited palette,nsfw,minimalism,blending,curiosity,horror (theme),cowboy shot,headgear,armor,",
+      "n": ""
+    },
+    {
+      "name": "破碎面容",
+      "p": "horror (theme),guro,body horror,(insane:1.05),(psychotic:1.05),(yandere:1.05),(disturbing content:1.05),1girl,solo,wide eyes,unsettling smile,crazy,blood on face,blood on hands,red theme,black background,limited palette,blood,blood splatter,gore,(flesh wall:1.05),(organic background:1.05),torn clothes,dark atmosphere,creepy,unsettling,glitch,(shattered screen effect:1.05),broken mirror,chromatic aberration,",
+      "n": ""
+    },
+    {
+      "name": "肉腑铁骨",
+      "p": "(damaged mechanical structure,mechanical body,cable:1.05),(abdominal opening,translucent body,intestines,liver,kidneys,viscera,uterus:1.05),(no face,mechanical parts:1.16),nude,cowboy shot,anatomical structure,mechanical spine,",
+      "n": ""
+    },
+    {
+      "name": "喋血",
+      "p": "blood on arm,blood on cheek,blood on chest,blood on clothes,blood on hands,blood on mouth,licking blood,licking finger,parted lips,scar on face,scar on nose,smile,",
+      "n": ""
+    },
+    {
+      "name": "咬喉吸血",
+      "p": "1boy,1girl,(neck biting,bite mark on neck:1.10),blood,blood drip,blood sucking,half-closed eyes,hetero,nude,pale skin,shirt,upper body,",
+      "n": ""
+    },
+    {
+      "name": "电锯惊魂",
+      "p": "(adjusting mask,crazy smile,shark teeth:1.10),(naked latex bodysuit,pink bodysuit,white gloves,white face mask,nurse cap:1.05),(holding chainsaw:1.10),id card,(blood on face,blood on weapon,blood on clothes:1.10),(darkness,indoor:1.05),glowing eyes,shadow,hair over one eye,syringe,(fisheye:1.16),from above,dynamic angle,looking away,bent over,head tilt,hands back,",
+      "n": ""
+    },
+    {
+      "name": "受缚遗骸",
+      "p": "close-up,pale skin,horror (theme),lineart,hatching (texture),arms at sides,(sharp fingernails,claws:1.10),monster,(no eyes,no nose,no mouth,lily (flower),flower over face:1.10),facing viewer,body horror,body modification,body piercings,chain around arm,chain around neck,chains,upper body,cropped torso,(cracked skin,exposed bone,horns,skeletal body:1.16),white background,",
+      "n": ""
+    },
+    {
+      "name": "增强组件一则",
+      "p": "(center symmetry,picture symmetry:1.10),(see-through body:1.10),(missing limb,cracked skin:1.22),tears,pink liquid,flower on eye,frontal perspective,(facial close-up:1.05),(metal mask:1.05),",
+      "n": ""
+    },
+    {
+      "name": "血腥狩猎【推荐搭配画风：reeh (yukuri130),(artist: timbougami:1.10),(watercolor,guache,(artist:yueko (jiayue wu):1.05),artist:aleriia v,(reoen,tianliang duohe fangdongye:1.05),(wlop:0.91),】",
+      "p": "axe,bandaid,bandaid on face,bandaid on knee,bandaid on leg,bandaid on nose,blood,blood on clothes,blood on weapon,blood stain,corpse,decapitation,earrings,empty eyes,halloween,holding axe,jacket,jewelry,kneehighs,leaning forward,mask,mouth mask,ringed eyes,shorts,socks,solo focus,standing,torn clothes,",
+      "n": ""
+    },
+    {
+      "name": "邪教领地",
+      "p": "light and shadow contrast,cowboy shot,hand wave,“stop” command,stateliness,chain,expressionless,delicate red eyes,(glowing eyes:0.91),(solo focus:1.05),black hair,hood up,silver necklace,blood stain,ritual,bloody hexagram,masked cultists behind the girl,fog,dark,outdoor,(horror theme:1.16),(weird world:1.16),monochrome,",
+      "n": ""
+    },
+    {
+      "name": "血肉巫术",
+      "p": "(tentacles:1.16),(body horror:1.28),(faceless:1.28),monster girl,flesh,upper body,close-up,witch hat,minimalism,blending,minimalism,blending,curiosity,(big mouth in chest:1.16),lace,slime,holding staff,(magic circle:1.16),perfect lighting,perfect anatomy,more details,detailed background,horror,(1big eye on hat:1.10),(liquid-diet:1.10),",
+      "n": ""
+    },
+    {
+      "name": "神社祭品",
+      "p": "1other,bright pupils,choppy bangs,chromatic aberration,miko,white kimono,hakama,hakama skirt,red hakama,torii,torn clothes,cowboy shot,brown rope,(rope around neck,strangling:1.05),expressionless,facing viewer,greyscale,hand on own chest,hand on own neck,horror (theme),knot,looking at viewer,monochrome,one eye covered,spot color,straight-on,midriff,smile,tears,open mouth,",
+      "n": ""
+    },
+    {
+      "name": "突入恐怖医院",
+      "p": "indoor,hospital,cyborg,firing,(realistic:0.91),cyberpunk,against wall,horror,dark,bloody,(from outside,close-up:1.05),looking at another,hand-held automatic rifle,(fighting,shooting:1.16),projectile trail,walking,(terminator (series):1.05),armor,(police badge,walkie-talkie,bulletproof vest:1.10),six eyes,emphasis lines,laser,shining circuit,metal screws,wires,glowing,(night vision device:1.05),glass mask,(night:1.05),barcode,shell casings,(red light,light particles:1.05),gas mask,backpack,drone,screen,cables,sparks,(monster,tentacles:1.05),helmet,headphones,barcode,logo,fire,",
+      "n": ""
+    },
+    {
+      "name": "丧尸捕食",
+      "p": "(neck biting,biting another’s breasts,biting another’s arms:1.10),(2girls,zombie:1.16),off neck,nsfw,hot,head down,(scared:1.16),action pose,(head tilt:1.10),face-to-face,torn school uniform,dirty,blood,light line,empty eyes,kneel,indoor,blood splatters everywhere,facing viewer,blood body,badly mutilated,lying,meat,【girl on top（如果要稳定骑在身上）】,colored skin,",
+      "n": ""
+    },
+    {
+      "name": "眼球肠面（请勿添加任何人物tag）",
+      "p": "big bowl,noodles,eyeballs,horror (theme),close-up,vascellum,horror,tentacles,intestines,bite,mouth,teeth,eyeballs,big 1eye,flesh,blood,death,(rotten:1.16),wet,chopsticks,(wooden table:1.05),from above,",
+      "n": ""
+    },
+    {
+      "name": "吃眼球面条",
+      "p": "dynamic angle,dynamic pose,1girleating,eyeball,half-closed eyes,chromatic aberration,holding fork,holding knife,knife,looking down,solo,table,tentacles,upper body,",
+      "n": "(artist collaboration,text,multiple views,:2.0),"
+    },
+    {
+      "name": "腐烂",
+      "p": "torn school uniform,horror (style),(body horror,lying,cowboy shot,empty eyes,arms at sides,rolling eyes:1.16),insect,moss,torn skin,corruption,indoor,bags under eyes,intestines,(against wall,spiders web,mushroom on body,open clothes,dirty body,cracked skin:1.16),on back,on floor,wooden floor,pale skin,spiders,window,sunlight,looking away,",
+      "n": ""
+    },
+    {
+      "name": "机械怪异",
+      "p": "(faux traditional media:1.16),1girl,(faceless:1.16),(tentacles:1.16),cyborg,(wearing a flesh mask:1.28),minimalism,blending,flat color,limited palette,curiosity,horror,repairing,cable in body,current,wire,screw,machinery factory,bar code,exposed mechanical components,exposed wire screw battery,solo,joints,physical terror,",
+      "n": ""
+    },
+    {
+      "name": "其他版本",
+      "p": "close-up,(faceless:1.16),(tentacles:1.16),cyborg,close-up,(wearing a flesh mask:1.28),minimalism,blending,flat color,limited palette,curiosity,horror,repairing,cable in body,current,wire,screw,machinery factory,bar code,exposed mechanical components,exposed wire screw battery,joints,physical terror,thrusters,glowing eyes,",
+      "n": ""
+    },
+    {
+      "name": "黄衣之王",
+      "p": "from above,look at viewer,sitting,nude,close-up,yellow eyes,half closed eyes,yellow coat,red and black background,bare feet,open hands,smile,hood up,hands up,green hair,tentacles,tentacle pit,tentacle on body,surrounded by tentacle,",
+      "n": ""
+    },
+    {
+      "name": "灯外异兽",
+      "p": "1girl,1other,upper body,close-up,(face focus:1.10),(horror (theme):1.16),scared,dynamic angle,holding lantern,(looking up:1.10),facing away,(monsters behind:1.16),claws on shoulders,indoor,walking,",
+      "n": ""
+    },
+    {
+      "name": "死亡之拥",
+      "p": "hood up,upper body,solo,looking down,eye contact,face-to-face,imminent kiss,holding skull,beautiful tree background,red flower,red magic lily,animal,death symbolism,life symbolism,skull,corpse,blood,moss,light and shadow contrast,butterfly,from side,",
+      "n": ""
+    },
+    {
+      "name": "镜中索命",
+      "p": "(in mirror,frame:1.10),blood,blood on face,broken mirror,candle,closed mouth,smile,holding candle,horror (theme),looking at viewer,reflection,ringed eyes,scared,darkness,",
+      "n": ""
+    },
+    {
+      "name": "自怀遗像",
+      "p": "(holding photo:1.10),blood,blood on clothes,blood on face,blood splatter,(iei:1.16),(iei of girl:1.05),(girl in photo:1.05),looking at viewer,open mouth,photo (object),picture frame,portrait (object),smile,upper body,",
+      "n": ""
+    },
+    {
+      "name": "无头人像",
+      "p": "1girl,(headless:1.34),blood,blood on clothes,blood splatter,holding a iei,(iei:1.16),photo (object),picture frame,portrait (object),clothes,upper body,",
+      "n": ""
+    },
+    {
+      "name": "桌上遗像（受限画风，往往导致出的是卡在墙上，权且收录）",
+      "p": "(stuck,in wall,through wall,glory wall:1.16),straight-on,(head only:1.10),iei,(photo frame:1.10),monochrome.table,potted plant,",
+      "n": ""
+    },
+    {
+      "name": "原画风",
+      "p": "(artist:zuizi:1.10),artist:taitai,artist:chen bin:1.05),(artist:sho (sho lwlw):0.95),(tianliang duohe fangdongye:0.95),",
+      "n": ""
+    },
+    {
+      "name": "饮血",
+      "p": "(portrait:1.05),(front view:1.05),looking at viewers,makeup,star earrings,(close-up:1.05),smile,blood,(blood on lips:1.10),arachne,arthropod girl,carapace,(extra eyes:1.05),(monster girl:1.16),multiple legs,finger to mouth,dark environment,indoors,",
+      "n": ""
+    },
+    {
+      "name": "牛吃牛排",
+      "p": "at the dining table,black hair,red eyes,crazy eyes,clenched teeth,cow costume,crying,blood,holding knife and fork,steaming steak,",
+      "n": ""
+    },
+    {
+      "name": "疯猪",
+      "p": "loli,kawaii,black hair,red eyes,crazy eyes,navel,pig costume,covering eyes,blood,",
+      "n": ""
+    },
+    {
+      "name": "食人",
+      "p": "bead necklace,blood,blood from mouth,frown,hands up,horror (theme),monster girl,open mouth,holding skull,table,blood on food,meat,",
+      "n": ""
+    },
+    {
+      "name": "其他版本 (2)",
+      "p": "bare arms,black sclera,blood,blood on clothes,blood splatter,colored sclera,eating,guro,horror (theme),intestines,looking at viewer,mismatched sclera,open mouth,organs,ribs,solo,unsure,white background,slime,fluid,",
+      "n": ""
+    },
+    {
+      "name": "僵尸吃人",
+      "p": "horror (theme),(zombie,eating meat,biting body:1.10),(broken body,spread chest,1zombie:1.16),1girl,off neck,nsfw,hot,head down,(scared:1.16),action pose,(head tilt:1.10),face-to-face,torn school uniform,dirty,blood,light line,empty eyes,indoor,intestines,blood splatters everywhere,blood body,badly mutilated,(lying:1.05),nude,eating,head down,",
+      "n": ""
+    },
+    {
+      "name": "恐怖笑容",
+      "p": "blood,blood on face,blood splatter,blurry foreground,bubble,cel shading,depth of field,evil grin,evil smile,glowing,glowing eyes,grin,hand on own face,head tilt,lyrics,pale skin,",
+      "n": ""
+    },
+    {
+      "name": "战狂",
+      "p": "facing the lens,(mudra:1.10),face focus,hand focus,dark,chiaroscuro,cold hearted,intense angle,fisheye,crazy eyes,face focus,glowing eye,battle,crazy smile,blood on face,serious,",
+      "n": ""
+    },
+    {
+      "name": "扭曲人体",
+      "p": "greyscale,(horror (theme),glitch art:1.10),jaggy lines,multiple arms,multiple eyes,eyes censor,black hole:1.05),",
+      "n": ""
+    },
+    {
+      "name": "收容物实验",
+      "p": "experiment,1girl,(upper body,looking at viewer,cold face,jitome,head tilt,wide shot,from side:1.05),glowing eyes,lab coat,white coat,holding note book,(glass wall:1.10),lab,(monster behind girl:1.05),water,horror (theme),dark,spot light,",
+      "n": ""
+    },
+    {
+      "name": "复杂版本",
+      "p": "caution tape,keep out,bioexperiment,1girl,(upper body,looking at viewer,cold face,jitome,head tilt,wide shot,from side:1.05),glowing eyes,gas mask,lab coat,holding note book),creature around,lab,(glass container:1.16),monster,electrical cable,horror (theme),blood,dark,spot light,intense shadow,",
+      "n": ""
+    },
+    {
+      "name": "异变之眼",
+      "p": "(abstract art:0.91),glitch art,character profile,close-up,side face,original character,black hair,red and black eyes,heterochromia,hair flower,collarbone,parted lips,(eyes foucs:1.10),eyes of a kaleidoscope,strong picture,strong visual impact,pattern design,(eyesball inside black thick liquid:1.22),dynamic angle,",
+      "n": ""
+    },
+    {
+      "name": "炫彩独眼",
+      "p": "glitch art,chaotic art,cyber background,vibrant colors,colorful,(glitch background:1.10),abstract art,chromatic aberration,(yellow eye,huge eyeball,eyelashes,no human:1.16),close-up,leaf,branch,root,purple,blue,green,black,red,monster,eye pattern,dark,dutch angle,",
+      "n": ""
+    },
+    {
+      "name": "彩虹之人",
+      "p": "star theme,lineart,monochrome,(glitch art:1.10),(starry sky print,no face:1.10),(space,smile,aurora,nebula:1.10),black skin,(cowboy shot,close-up:1.10),no face,ai generated,perfect lighting,rainbow long hair,vibrant colors,sharp focus,facing viewer,(rainbow hoodie,rainbow background,rainbow theme,rainbow hair,rainbow eyes,rainbow gradient,rainbow,rainbow raincoat:1.10),water drop,floating object,black hole,",
+      "n": ""
+    },
+    {
+      "name": "混乱障影",
+      "p": "chaotic art,cyber background,vibrant colors,colorful,(high contrast:1.10),(glitch background:1.10),chromatic aberration,creative,flora,pattern design,girl,from side,crown of thorns,(drugs:1.05),close-up,black liquid,eyeball,black feathers,purple,blue,green,black,red,monster,perfect angle,flower pattern,butterfly pattern,eye pattern,dark,light,shadow contrast,abstract art,",
+      "n": ""
+    },
+    {
+      "name": "其他版本 (3)",
+      "p": "glitch art,chaotic art,cyber background,vibrant colors,colrful,(high contrast:1.10),(glitch background:1.10),abstract art,chromatic aberration,creative,flora background,tree pattern,pattern on body,moss,root,:q,close up,hands on own cheek,leaf,purple,blue,green,black,red,monster,perfect angle,apple,skull,flower pattern,eye pattern,butterfly pattern,dark,light and shadow contrast,",
+      "n": ""
+    },
+    {
+      "name": "摄影故障",
+      "p": "glitch art,chaotic art,vibrant colors,(glitch background:1.10),apple,skull,flower pattern,eye pattern,butterfly pattern,dark,(film strip,film strip on screen,film strip on background,gothic:1.16),(colorful:1.10),light flare,upper body,(camera,camera in hand,hand up:1.10),look at viewer,",
+      "n": ""
+    },
+    {
+      "name": "柴刀",
+      "p": "tears,sprise,sunset,face closed up,cowboy shot,crazy smile,crazy,open mouth,bedroom,messy hair,blood,knife,murderer,murder scene,",
+      "n": ""
+    },
+    {
+      "name": "靠墙尸体",
+      "p": "(greyscale:1.10),moribund,sleepy,half closed eyes,glasses,black collar,open jacket,skirt,blood,blood on body,bleeding,sitting,sleepy,blood on the floor,(hands down,against wall:1.10),blood from mouth,",
+      "n": ""
+    },
+    {
+      "name": "其他版本 (4)",
+      "p": "from above,on ground,(lackluster eyes,empty eyes,sitting,leaning back,against wall,near death,dead body,blood from mouth,injuries,torn clothes:1.10),thin body,sexy,ruins,rainy days,torrential rain,",
+      "n": ""
+    },
+    {
+      "name": "神秘遗女",
+      "p": "1girl,1other,(shiny skin:1.10),pale skin,bandages,(large hair bow,bandages over eyes:1.10),black background,black mary janes,blood,blood on clothes,blood on hands,blood on leg,bowtie,child,dark,extra eyes,frilled dress,frilled shirt collar,frilled socks,holding another’s arm,horror (theme),kneehighs,monster,red bow,red bowtie,red choker,ribs,stuffed rabbit,teddy bear,white dress,white socks,",
+      "n": ""
+    },
+    {
+      "name": "怀中谁首",
+      "p": "(headless,severed head:1.63),(horror (theme):1.22),(guro:1.34),(cropped body:1.48),(hug girl’s head:1.28),dead body,blood,",
+      "n": ""
+    },
+    {
+      "name": "怀中断首",
+      "p": "headless,holding detached head,disembodied head,head up breasts,",
+      "n": ""
+    },
+    {
+      "name": "断头",
+      "p": "2girls,sunlight,mountaintop,mountainous horizon,char1：girl,floating hair,standing,arm up,(holding detached head:1.16),holding someone else’s hair,char2：girl,(severed head,blood drip,closed eyes,death:1.16),",
+      "n": ""
+    },
+    {
+      "name": "怀抱头颅",
+      "p": "shaded face,holding head,disembodied head,severed head,closed eyes,upper body,",
+      "n": ""
+    },
+    {
+      "name": "衣下内脏",
+      "p": "(horror (theme):1.10),close-up,looking at viewer,clothes lift,lifted by self,(small breasts:1.05),upper body,(organs,entrails,heart (organ),lungs,intestines,stomach (organ):1.16),(exposed bone:1.10),(blood:1.16),",
+      "n": ""
+    },
+    {
+      "name": "踏入切尔诺贝利",
+      "p": "(tattered hazmat suit,gas mask:1.10),(surrounded by mutated sunflowers:1.10),glowing cracks on skin,one eye glowing,radiation warning sign,(abandoned city:1.10),(mutated plants:1.10),(buildings crumbling:1.10),foggy,",
+      "n": ""
+    },
+    {
+      "name": "与深海之子同行",
+      "p": "close-up,full liquid,deep sea,dusk,fog,blood,glowing eyes,glint,eyelashes,glowing amulet,blindfold lift,water tentacles,nun uniform,tentacles wings,tareme,carrying,ruby,cthulhu style,dynamic angle,",
+      "n": ""
+    },
+    {
+      "name": "深海巨物",
+      "p": "dark background,deep blue tones,deep sea,bubbles,swimming upwards,deep-sea fear,ferocious and realistic deep-sea giant monsters with open mouths,sharp teeth,extreme fear,deep-sea divers,mutated body structure,strong sense of pressure,four cracked lips,mutated eyes,schools of fish,cinematic perspective,epic long shots,restricted shots,stitches,leviathan,disgusting scenes,no humans,devouring the void,",
+      "n": ""
+    },
+    {
+      "name": "触手巨物",
+      "p": "no human,(eldritch monster:1.10),monster focus,glowing eyes,dynamic angle,halo,(multiple eyeballs:1.10),(muted color:1.10),(tentacles:1.10),horror (theme),(terrible:1.10),blasphemy,eldritch abomination,traditional chinese building,ancient chinese city,(city ruins background,black sun:1.10),(dusk:1.16),backlighting,bokeh,blurry background,cinematic shadow,",
+      "n": ""
+    }
+  ]
+}

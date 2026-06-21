@@ -1,0 +1,480 @@
+{
+  "name": "场景",
+  "children": [
+    {
+      "name": "美食有关",
+      "options": [
+        {
+          "name": "冰水浸泡少女",
+          "p": "(chibi:3.0),(chibi only:2.0),(inside large glass:2.0),light blue liquid,soda water,bubbles,holding breath,puffed cheeks,(submerged:2.0),underwater,floating,ice cubes,(full body underwater:3.0),jellyfish in the glass,coral in the glass,drinking straw,",
+          "n": ""
+        },
+        {
+          "name": "金色炸糕",
+          "p": "(fried golden-brown glutinous rice cake:1.9),(hot steam and vapor rising from food:1.8),(glistening oily surface and crispy texture:1.8),(oily sheen on the crust:1.7),(chewy and soft interior visible:1.6),(small crumbs and oil droplets:1.5),",
+          "n": ""
+        },
+        {
+          "name": "触手炖肉",
+          "p": "steaming,(cooked celestial blue tentacles in plate:1.5),glowing nabula tentacles,(glowing celestial star drink:1.3),chopped blue flowers,from above,no humans,on table,painterly,plate,spoon,table,indoors,",
+          "n": ""
+        },
+        {
+          "name": "蓝星肉排",
+          "p": "steaming,(cosmic blue tentacles in plate:1.5),(glowing nebula tentacles:1.5),(blue steak chop in plate:1.5),(glowing celestial star drink:1.3),(dark blue celestial soup:1.3),from above,no humans,on table,plate,spoon,",
+          "n": ""
+        },
+        {
+          "name": "快餐店上餐",
+          "p": "1girl,standing,holding tray,reaching forward,looking at viewer,friendly smile,uniform cap,polo shirt,apron,fast food restaurant,counter,menu board,bright indoor lighting,",
+          "n": ""
+        },
+        {
+          "name": "烤好饼干",
+          "p": "(white apron over a soft beige knit sweater:1.16),(gentle smile:1.10),(holding a tray of cookies:1.05),sun-drenched room,dust motes in sunlight,warm cozy atmosphere,soft focus,kitchen background,",
+          "n": ""
+        },
+        {
+          "name": "烧烤",
+          "p": "cooking,embers,food focus,grill,grilling,no humans,plate,shrimp,",
+          "n": ""
+        },
+        {
+          "name": "还是烧烤",
+          "p": "butter,charcoal,cooking,food,food focus,grill,grilling,no humans,scallop,seafood,shell,shichirin,soy sauce,steam,",
+          "n": ""
+        },
+        {
+          "name": "烤薄饼",
+          "p": "chocolate,flower,food,food focus,garnish,ice cream,leaf,no humans,orange(fruit),orange flower,orange slice,pancake,plate,rabbit,syrup,sparkle,",
+          "n": ""
+        },
+        {
+          "name": "布丁+薄荷冰激凌",
+          "p": "no humans,bread,bread slice,butter,caramel,ice cream cone,knife,mint,nail polish,pudding,spoon,table,",
+          "n": ""
+        },
+        {
+          "name": "一杯雪顶鸡尾酒",
+          "p": "yellow and pink theme cocktail:1.05),steam,bubbles,(no human:1.10),bar (place),window,ice cream,neon lights,night,pink sky,buildings,cocktail,close-up,cityscape,ice tube,chocolate,",
+          "n": ""
+        },
+        {
+          "name": "甜点",
+          "p": "no human,dessert,white background pale color,water,",
+          "n": "(dark,-1:2.0),"
+        },
+        {
+          "name": "生日蛋糕",
+          "p": "(1girl,solo:3.0)close-up,(birthday party,big cake:3.0),",
+          "n": ""
+        },
+        {
+          "name": "披萨",
+          "p": "1girl,(sentient pizza with teary eyes,melting while crying toward mars,emotional toppings,gooey cheese drip trails,existential crust,lonely on plate-planet:2.0),",
+          "n": ""
+        },
+        {
+          "name": "吃饭",
+          "p": "1girl,bowl,chewing,chopsticks,eating,holding bowl,holding chopsticks,solo,upper body,",
+          "n": ""
+        },
+        {
+          "name": "吃饭 (2)",
+          "p": "blush,boned meat,bowl,bread,closed mouth,food on face,holding food,holding spoon,indoors,meat,out of frame,spoon,stew,tongue out,wiping mouth,wooden bowl,wooden floor,wooden spoon,",
+          "n": ""
+        },
+        {
+          "name": "吃汉堡",
+          "p": "burger,eating,table,",
+          "n": ""
+        },
+        {
+          "name": "吃超大汉堡",
+          "p": "1girl,greedy,crazy eyes,blush,burger,chair,cheese,biting,in mouth,squeezing burger,plate,sliced cheese,solo,foreshortening,tall burger,food focus,burger close-up,lettuce,tomato,french fries,vivid color. expressive facial expressions,eye-catching eyes,big eyes,huge mouth,visible teeth,jaw power,powerful hands,nimble fingers,comical expressions.,",
+          "n": ""
+        },
+        {
+          "name": "吃汉堡 (2)",
+          "p": "1girl,solo,greedy,crazy eyes,blush,burger,chair,cheese,biting,in mouth,squeezing burger,plate,sliced cheese,foreshortening,depth of field,tall burger,food focus,burger close-up,lettuce,tomato,french fries,round bun huge mouth,visible teeth,jaw power,comical expressions.,",
+          "n": ""
+        },
+        {
+          "name": "吃糖",
+          "p": "1girl,aqua rose,armchair,candy,chair,cowboy shot,cup,eating,finger to mouth,holding candy,holding jar,indoors,kettle,leaf,light blush,looking ahead,sitting,solo,white rose,",
+          "n": ""
+        },
+        {
+          "name": "烤地瓜吃",
+          "p": "(sitting on rock,eating,roasted sweet potato:1.5),(holding hot food,peeling skin:1.4),(steam rising from food,blowing on food:1.3),(bundled up,winter clothes:1.2),(puffing out breath vapor:1.1),(shanshui,traditional chinese painting,ink painting:1.6),(rocky mountain,steep cliffs,winter landscape:1.5),(ink wash,brush strokes,minimalist background:1.4),(withered trees,pine trees,light snow on peaks:1.3),(distant mountains in mist,negative space:1.2),",
+          "n": ""
+        },
+        {
+          "name": "埋头嗦面",
+          "p": "eyes out of frame,table,upper body,mouth focus,adjusting hair,noodles,close-up,eat noodles,(:>=:1.22),chopsticks,simulated fellatio,holding with chopsticks,holding chopsticks,eating,",
+          "n": ""
+        },
+        {
+          "name": "碗视角吃面",
+          "p": "1girl,solo,slurping noodles,lips slightly parted,cheeks faintly puffed,chopsticks lifting noodles toward mouth,extreme close up,slight angle from side,blurred ramen bowl at bottom edge,background bokeh of ramen shop lanterns,warm and soft lighting,very shallow depth of field,focus on eyes and noodles,saturated warm colors,playful satisfied expression,steam haze,subtle lens blur,tiny soup drops,glossy highlights on noodles,",
+          "n": ""
+        },
+        {
+          "name": "饮料瓶视角喝饮料",
+          "p": "1girl,solo,extreme close up,face filling frame,leaning toward camera,puffed cheeks,lips pressed around straw,wide curious eyes,slight blush on cheeks,looking slightly up,fisheye lens effect,tilted framing,drink cup blurred in foreground,indoor cafe,fairy lights behind,colorful bokeh,mixed warm and cool lights,lively atmosphere,spontaneous moment,cheeky cute expression,",
+          "n": ""
+        },
+        {
+          "name": "吃蛋挞",
+          "p": "sitting,holding egg tart,taking a bite,crumbs on face,happy,closed eyes,blush,smear,apron,bakery,wooden table,food focus,afternoon tea,steam,warm light,",
+          "n": ""
+        },
+        {
+          "name": "躺在蛋挞上",
+          "p": "lying,reclining on giant egg tart,hugging pillow,legs up,lazy posture,calm expression,slight smile,oversized sweater,loungewear,bare legs,loose socks,giant egg tart,custard texture,flaky crust,floating sugar cubes,dreamlike,sweet atmosphere,",
+          "n": ""
+        },
+        {
+          "name": "拉面馆聚餐",
+          "p": "from above,4girls,indoor,restaurant,face focus,eating,look at viewers,food in mouth,ramen,holding phone,wall,",
+          "n": ""
+        },
+        {
+          "name": "快餐店聚餐",
+          "p": "1girl,blurry background,burger,cheese,chicken nuggets,cup,disposable cup,drinking straw,fast food,food wrapper,french fries,hand on own cheek,hand on own face,head tilt,indoors,ketchup,lettuce,looking at viewer,meat,pov across table,restaurant,sitting,smile,closed mouth,close mouth,tray,",
+          "n": ""
+        },
+        {
+          "name": "原版服装",
+          "p": "white shirt,sleeveless shirt,bare shoulders,hoop earrings,necklace,",
+          "n": ""
+        },
+        {
+          "name": "就餐",
+          "p": "earrings,black choker,looking at viewer,eyewear on head,navel,crop top,solo focus,sunglasses,eating,off shoulder,open jacket,black shirt,bare shoulders,open mouth,chopsticks,black jacket,sleeveless shirt,stomach,restaurant,indoors,hand up,cowboy shot,black shorts,table,holding food,",
+          "n": ""
+        },
+        {
+          "name": "就餐（生鲜）",
+          "p": "looking at viewer,blush,long sleeves,closed mouth,sitting,white shirt,upper body,earrings,indoors,hairclip,speech bubble,open jacket,black jacket,black choker,sunglasses,eating,ear piercing,bandaid,eyewear on head,steam,tentacles,plate,:t,bandaid on face,tinted eyewear,holding plate,holding chopsticks,multiple rings,octopus,bandaid on cheek,sushi,jellyfish,restaurant,yellow-framed eyewear,neon lights,squid,fish (food),soy sauce,",
+          "n": ""
+        },
+        {
+          "name": "手持kfc炸鸡桶",
+          "p": "solo,holding a bucket of fried chicken with text “kfc”,",
+          "n": ""
+        },
+        {
+          "name": "左右手各持可口和百事可乐",
+          "p": "holding a coka-cola in one hand and a pepsi cola in another hand,",
+          "n": ""
+        },
+        {
+          "name": "吃寿司",
+          "p": "looking at viewer,blush,closed mouth,sitting,upper body,indoors,speech bubble,cup,sunglasses,steam,tentacles,plate,:t,chopsticks,holding plate,holding chopsticks,octopus,sushi,jellyfish,restaurant,neon lights,squid,fish (food),soy sauce,",
+          "n": ""
+        },
+        {
+          "name": "美食直播",
+          "p": "living room,dining room,livestream,danmaku comments,chat log,fake screenshot,table,glass jar,pickle jar,plate,stinky tofu,black tofu,red tofu,lemon,lemon slice,toast,sandwich,dragon fruit sandwich,looking at viewer,chewing,holding dragon fruit,purple juice on face,pink liquid on mouth,black t-shirt,oversized t-shirt,sitting,",
+          "n": ""
+        },
+        {
+          "name": "战时一餐",
+          "p": "1girl,(cooking potatoes over an open fire:1.5),(sitting amidst war ruins:1.4),calm expression,weary,(stirring a pot hanging over makeshift tripod:1.3),(holding a crude wooden ladle:1.3),(smoke and steam rising from the cooking pot:1.2),(warming hands near the flames:1.2),desolate battlefield ruins,crumbling brick walls,twisted rebar,scattered debris,small contained campfire pit,twilight,(warm,flickering firelight illuminating her face from below:1.5),(strong contrast between the orange fire glow and the cold blue twilight:1.4),(harsh shadows cast by the debris:1.3),volumetric smoke and steam,full body,sitting pose,cinematic,post-apocalyptic,ruins,grim,slice of life,",
+          "n": ""
+        },
+        {
+          "name": "冬日暖汤",
+          "p": "1girl,(stirring soup in a pot:1.5),(standing in a home kitchen:1.4),focused expression,patient,(leaning over the stovetop:1.3),(holding a wooden spoon:1.3),(steam rising vigorously from the pot:1.2),(wearing an apron:1.2),rustic,cozy kitchen interior,wooden countertops,visible spices and ingredients on shelves,warm light from overhead lamp,large window showing twilight outside,(warm kitchen light mixing with soft twilight glow:1.5),(strong highlights on the metal pot and wet surfaces:1.4),(volumetric steam catching the light above the stove:1.3),full body,standing pose,cinematic,slice of life,cooking,indoors,domestic,",
+          "n": ""
+        },
+        {
+          "name": "夏日抱瓜",
+          "p": "looking at viewer,blush,navel,bare shoulders,oversized clothes,sitting,sweat,parted lips,one eye closed,black panties,arm support,shirt lift,convenient censoring,hand fan,holding fan,watermelon,white tank top,paper fan,hot,uchiwa,veranda,porch,",
+          "n": ""
+        },
+        {
+          "name": "炸虾人",
+          "p": "fork,sparkle,on plate,facing viewer,frown,looking at object,open mouth,scared,shrimp,shrimp costume,shrimp tempura,sweatdrop,tempura,tempura costume,trembling,",
+          "n": ""
+        },
+        {
+          "name": "与菜共眠",
+          "p": "from above,full body,carrot pillow,cabbage pillow,supine,looking at viewer,white background,blue sailor collar,navel,no shoes,parted lips,sailor collar,stomach,thighhighs,white thighhighs,basket,bamboo basket,square basket,lying in the basket,leg up,",
+          "n": ""
+        },
+        {
+          "name": "吐司盖被",
+          "p": "(huge toast:1.22),(girl under toast:1.22),toast coverd,chibi,1girl,bread,bread slice,head tilt,lying,on stomach,toast,flying sweatdrops,",
+          "n": ""
+        },
+        {
+          "name": "吃杯面",
+          "p": "veiny breasts,head out of frame,wariza,pale skin,cup ramen,holding chopsticks,black camisole,breast focus,bare shoulders,barefoot,spaghetti strap,noodles,stuffed toy,indoors,downblouse,thighs,blurry,eating,black tank top,",
+          "n": ""
+        },
+        {
+          "name": "炒饭",
+          "p": "chef uniform,chef hat,kitchen,cooking,fried rice,",
+          "n": ""
+        },
+        {
+          "name": "烤饼干",
+          "p": "cooking biscuit,oven,cookie,",
+          "n": ""
+        },
+        {
+          "name": "烤面包",
+          "p": "power line,crowded,gears,(fur trimmed winter coat,fur trimmed skirt,cotton hat,goggles,fur scarf,leather gloves:1.10),clock,breath,steam,lantern,light,(indoors,in bakery,baker,white apron,carrying a baking tray,breads,cakessmall shelves,steaming:1.22),machines,",
+          "n": ""
+        },
+        {
+          "name": "煮咖啡",
+          "p": "(indoors,in cafes,bar,coffee table,barista,black apron,dessert,end plate,supply,coffee filter,coffee,making coffee,grinding,coffee grinder,coffee maker,coffee talk,talking,serving:1.22),",
+          "n": ""
+        },
+        {
+          "name": "吐司面包人",
+          "p": "(no humans:1.16),(toast:1.16),sobbing,meme,anime style,chibi,pencil sketch lines,(minimalism:1.16),>_<,portrait,solo,(no lineart:1.05),angry,(detailed face:1.05),(detailed eyes:1.05),aiming at viewer,(pov:1.10),(front view:1.16),(facing viewing:1.16),",
+          "n": ""
+        },
+        {
+          "name": "圣诞人头蛋糕（不稳定）",
+          "p": "gift box,christmas cake,cake in container,red box,red ribbon,plaid box,striped box,christmas,christmas tree,merry christmas,jingle bell,open box,only head,head,disembodies head,christmas cake,no body,no humans,restrained by cake,buried in cake,stuck in cake,swallowed by cake,body made of cake,happy smile,",
+          "n": ""
+        },
+        {
+          "name": "坐在牛肉汉堡上",
+          "p": "cow girl,crop top,leg warmers,loose socks,black panties,detached sleeves,long sleeves,sleeveless shirt,miniskirt,hairband,puffy long sleeves,sitting,looking at viewer,burger,bell,knee pads,midriff,tail,heart,black skirt,asymmetrical legwear,smile,white socks,sitting on big burger,",
+          "n": ""
+        },
+        {
+          "name": "夏日饮料",
+          "p": "cocktail glass,drinking,drinking straw in mouth,fingernails,(holding drinking straw,holding cocktail glass:1.05),sunglasses,white shirt,looking over eyewear,reflection,reflective eyewear,multicolor-tinted eyewear,white-framed eyewear,tinted eyewear,seashell,portrait,parfait,food,summer,ice,ice cube,starfish,anchor ornament,violet (flower),from side,double exposure,pink background,",
+          "n": ""
+        },
+        {
+          "name": "汤面少女",
+          "p": "1girl,solo,(minigirl:5.0),leaning on the bowl,in bowl,partially submerged,lying,on back,elbows on bowl,feet out of frame,completely nude,soup,noodles,corn,spring onion,meat,expressionless,indoor,desk,",
+          "n": ""
+        },
+        {
+          "name": "蛋糕小人",
+          "p": ":d,beanie,black shoes,black skirt,cake,chibi,chocolate,chocolate cake,cloak,cup,food focus,full body,fur-trimmed cloak,fur-trimmed headwear,fur-trimmed skirt,fur trim,grey sweater,ladder,looking at viewer,oversized food,oversized object,plate,pom pom (clothes),pom pom beanie,sitting,smile,sweater,teacup,white border,yellow cloak,yellow hat,",
+          "n": ""
+        },
+        {
+          "name": "霜糖冰激凌少女",
+          "p": "1girl,solo,(lying atop a colossal,melting pastel-hued ice cream sundae,being scooped by a giant spoon against a surreal candy-colored sky:1.6),(a playful,languid pose,limbs draped over the creamy curves,head resting back with an expression of sweet indulgence and dreamy surrender:1.5),(glistening skin dusted with shimmering sugar crystals,illuminated by the soft,diffused light reflecting off the giant pastel ice cream and spoon,creating a creamy,dream-like glow:1.5),(floating sprinkles,whipped cream peaks,and a cherry stem dangling playfully:1.4),(textures of smooth skin,glossy melting cream,cold metal spoon,and sticky syrup:1.3),(background of surreal,fluffy cotton-candy clouds and giant candy sprinkles scattered in the sky:1.2),masterpiece,confectionery fantasy,sweet surrender,a delightful dream of being the world’s most coveted treat.,",
+          "n": ""
+        },
+        {
+          "name": "霜糖少女",
+          "p": "sitting on macaron,long sleeves,closed mouth,smile,sitting,hairband,puffy sleeves,on shoes,frilled dress,white pantyhose,personification,mini person,lolita fashion,minigirl,strawberry hair ornament,ice cream,macaron,candy,white dress,white skin,pink ribbon,cake slice,strawberry,",
+          "n": ""
+        },
+        {
+          "name": "果汁少女",
+          "p": "pov hand holding cup,1girl,drinking straw,ice cube,drinking straw,ice cube,looking at viewer,drinking glass,drink,in cup,mini person,in container,minigirl,smile,",
+          "n": ""
+        },
+        {
+          "name": "抹茶绿柚少女",
+          "p": "macaron,matcha (food),club (shape),broccoli,green flower,lime slice,peas,sparkle,easter egg,food theme,food art,green liquid,solo,1girl,(petite:1.10),smile,hair flaps,exposed forehead,holding giant fork,oversized object,clover print,lolita fashion,puritan collar,bolo tie,jewelry,long frilled sleeves,green dress,lace-trim,dress bow,mint hair ornament,lolita frilled hairband,ankle strap,midair,floating,",
+          "n": ""
+        },
+        {
+          "name": "沉入清柠水（推荐横图）",
+          "p": "1girl,:o,air bubble,arm up,bare legs,barefoot,blurry foreground,bubble,feet,floating hair,leg up,lime (fruit),lime slice,long sleeves,looking up,neckerchief,open hand,pleated skirt,sailor collar,school bag,school uniform,serafuku,soles,toes,underwater,",
+          "n": ""
+        },
+        {
+          "name": "甜品双子",
+          "p": "multiple girls,2girls,standing,food,indoors,star(symbol),blurry,teddy bear,minigirl,hugging object,spoon,oversized object,holding spoon,cherry,pudding,in food,depth of field,char1：looking at viewer,blush,open mouth,:d,hair bow,upper teeth only,serafuku,pleated skirt,school uniform,long sleeves,hairclip,red bow,blue skirt,kneehighs,fruit,no shoes,plaid skirt,blue jacket,black socks,blazer,white sailor collar,char2：looking at viewer,blush,smile,closed mouth,pleated skirt,school uniform,long sleeves,hairclip,blue bow,blue skirt,black pantyhose,heterochromia,fruit,no shoes,plaid skirt,blue jacket,blazer,white sailor collar,",
+          "n": ""
+        },
+        {
+          "name": "杯中美味水果冰激凌少女（增添no human的tag可转变为豪华水果冰激凌）",
+          "p": "in cup,oversized food,oversized object,parfait,ice cream,cinnamon stick,starfruit,blueberry,banana,banana slice,orange slice,chocolate syrup,",
+          "n": ""
+        },
+        {
+          "name": "夏日柠檬水内少女",
+          "p": "licking lips,striped swimsuit,navel,sitting on water,leaning back,ass visible through thighs,legs up,bare foot,(foot focus:1.10),oversized object,giant drinking glass,cocktail glass,lemon,lemon slice,giant straw,ice cube,from side,(from above:1.10),",
+          "n": ""
+        },
+        {
+          "name": "柚子茶少女",
+          "p": "looking at viewer,blush,shy,frown,embarrassed,cameltoe,very sweaty,steaming feet,micro bikini,side-tie bikini bottom,mini person,in glass,cocktail glass,ice cube,drinking straw,mint leaf,lemon slice,in food,(partially submerged:1.22),(lying:1.16),",
+          "n": ""
+        },
+        {
+          "name": "面碗内少女",
+          "p": "(huge boxed instant noodles,girls in instant noodles:1.10),",
+          "n": ""
+        },
+        {
+          "name": "泡面碗内",
+          "p": "(huge boxed instant noodles,very large instant noodles bucket,girls in instant noodles,lying in instant noodles:1.10),shorter height,",
+          "n": ""
+        },
+        {
+          "name": "牛肉汤里的少女",
+          "p": "(minigirl:1.10),on back,(frying pan:1.10),(ginger,meat,beef:1.16),steam,completely nude,in food,oil,collarbone,closed mouth,chili pepper,",
+          "n": ""
+        },
+        {
+          "name": "冰激凌内少女",
+          "p": "(minigirl:1.10),(cream body,in food,in glass:1.10),strawberry,ice cream,ass,heart,blush,looking at viewer,nude,looking back,single thighhigh,thigh ribbon,double bun,white thighhighs,hair ribbon,feet,from behind,toes,asymmetrical legwear,",
+          "n": ""
+        },
+        {
+          "name": "水果拼盘冰激凌少女",
+          "p": "cup,drinking glass,ice cream,strawberry,in container,sitting in container,grapes,orange (fruit),food on body,lemon,cream,parfait,lemon slice,whipped cream,blueberry,in food,orange slice,in cup,kiwi (fruit),raspberry,floating hair,",
+          "n": ""
+        },
+        {
+          "name": "美食环绕【tag分别为：牛排、牛肉、猪肉、肉、沙拉、奶油、酱汁、豆腐、碗、清酒】",
+          "p": "steak,beef,pork,meat,salad,cream,sauce,tofu,bowl,sake,",
+          "n": ""
+        },
+        {
+          "name": "一种基于快捷表情的美食串示例",
+          "p": "(artist:ningen mame:0.95),artist:ciloranko,(artist:sho (sho lwlw):0.95),(artist:as109:0.91),wlop,year 2024,(,:1.10),",
+          "n": ""
+        },
+        {
+          "name": "夏日餐桌对视（冰激凌）",
+          "p": "blue sky,camera,cherry,cloud,earrings,elbows on table,food,fruit,hair ribbon,hands on own face,ice cream,ice cream float,indoors,jewelry,lavender,looking at viewer,ocean,ribbon,smile,solo,spoon,white flower,window,wristwatch,",
+          "n": ""
+        },
+        {
+          "name": "烤薄饼喂食",
+          "p": "smile,open mouth,looking at viewer,holding fork,blush,indoors,blue dress,sitting,puffy short sleeves,blue choker,table,incoming food,chocolate,plate,blue shirt,feeding,frilled choker,upper body,:d,frilled sleeves,plant,collarbone,pov,on chair,frilled dress,window,pancake,sunlight,",
+          "n": ""
+        },
+        {
+          "name": "抱着法棍（抱枕？）",
+          "p": "(labcoat:1.05),black-framed eyewear,oversized shirt,open clothes,sleeves past wrists,(penetration,baguette,ride on baguette:1.05),nude,ass focus,hug baguette,barefoot,",
+          "n": ""
+        },
+        {
+          "name": "骑大香蕉",
+          "p": "(inflatable toy,banana boat:1.05),(straddling:1.10),",
+          "n": ""
+        },
+        {
+          "name": "腿夹西瓜",
+          "p": "watermelon between legs,legs clasp watermelon,",
+          "n": ""
+        },
+        {
+          "name": "趴在床上吃薯片",
+          "p": "potato chips,on stomach,from behind,knees apart feet together,lying,eating,foot focus,bag of chips,bare legs,jacket,white socks,mouth hold,playing mobile games,upside-down,",
+          "n": ""
+        },
+        {
+          "name": "整点薯条",
+          "p": "food,plate,no humans,fork,food focus,french fries,kitchen knife,table,",
+          "n": ""
+        },
+        {
+          "name": "死库水种水稻",
+          "p": "from side,(from behind:0.95),wading,(rice planting,holding plant,holding grass:1.10),school swimsuit,put on a straw hat,(dirty clothes,dirty face:1.10),(bent over:1.05),leaning forward,looking at viewer,standing,outdoors,(rice paddy,mud:1.10),blue sky,cloud,sun,film grain,grass,lens flare,non-circular lens flare,tree,tractor,grog,",
+          "n": ""
+        },
+        {
+          "name": "丰收时刻1",
+          "p": "cloudy sky,fantasy,farmer,farming,harvest,mountain,o3o,sky,sweatdrop,wheat,wheat field,",
+          "n": ""
+        },
+        {
+          "name": "丰收时刻2",
+          "p": "baguette,blush,bread,croissant,hair bow,holding basket,pretzel,red bow,upper body,one eye covered,white crop top,straw hat,field,sky,laughing,long braid,sweat,sunlight,",
+          "n": ""
+        },
+        {
+          "name": "采茶",
+          "p": "1girl,mountain herb garden,terraced slopes,medicinal plants,wicker basket,sunhat,harvesting herbs,mountain landscape,clean air,traditional knowledge,plant care,natural remedies,green valley,sustainable farming,herbalist,mountain village,organic cultivation,peaceful work,alpine scenery,nature connection,",
+          "n": ""
+        },
+        {
+          "name": "南瓜采收",
+          "p": "1girl,harvesting,picking pumpkin,reaching down,bending over,carrying pumpkin,happy expression,smiling,pumpkin patch,vast field,pumpkins,vines,dried corn stalks,autumn,overcast sky,soft diffused light,warm autumn colors,deep shadows,full body,mid-action,",
+          "n": ""
+        },
+        {
+          "name": "夏日柠檬水",
+          "p": "blurry foreground,(fisheye:1.10),bendy straw,blue flower,crop top,drinking glass,drinking straw,fruit,hair flower,hairclip,holding cup,ice cube,lemon,lemon slice,looking at viewer,midriff,navel,open mouth,white capelet,white flower,white shirt,white skirt,",
+          "n": ""
+        },
+        {
+          "name": "柠檬水",
+          "p": "bubble,cup,drinking glass,food,fruit,full body,in container,lemon,lemon slice,see-through,barefoot,",
+          "n": ""
+        },
+        {
+          "name": "果味缤纷",
+          "p": "fork,apron,rainbow,black gloves,lemon,long sleeves,orange (fruit),knife,frills,looking at viewer,white shorts,jacket,twintails,white headwear,open clothes,blueberry,lemon slice,spoon,english text,plate,kiwi (fruit),strawberry,coat,broccoli,orange slice,white jacket,open jacket,shrimp,shorts,shirt,open mouth,cake,necklace,floating hair,",
+          "n": ""
+        },
+        {
+          "name": "橘味潜水",
+          "p": "(orange light,orange theme,orange juice,orange liquid:1.10),air bubble,collarbone,hands up,headphones,looking at viewer,underwear,(fruit,orange slice:1.16),underwater,(goggles on eyes,orange goggles:1.16),one eye closed,smile,see-through sleeves,orange crop top,",
+          "n": ""
+        },
+        {
+          "name": "色情吃法系列",
+          "p": "",
+          "n": ""
+        },
+        {
+          "name": "吃胡萝卜（实际是伪装口交）",
+          "p": "(for above:1.10),loli,(carrot on mouth:1.10),pov hands,pov hands on head,leaning forward,drop,oppen mouth,@_@,worry,look down,hands support on table,blushing,sweating,on stomach in table,",
+          "n": ""
+        },
+        {
+          "name": "舔舐巧克力",
+          "p": "looking at viewer,face focus,close-up,cream on breasts,dynamic angle,licking fingers,saliva,holding chocolate,heart shape chocolate,melting chocolate,nude,cleavage,",
+          "n": ""
+        },
+        {
+          "name": "色情吃冰棒",
+          "p": "leaning foreward,from below,close-up,cleavage focus,bikini,cleavage slip,looking at viewer,outdoors,depth of field,tan,licking icepop,saliva,sweat,dropping,",
+          "n": ""
+        },
+        {
+          "name": "强塞法棍",
+          "p": "oral,fellatio,convenient censoring,(baguette:1.10),large breasts,arms behind back,;o,sweat,saliva trail,from side,sideboob,nude,nipples,sundress,shibari,arched back,upped body,half-closed eyes,tears,profile,",
+          "n": ""
+        },
+        {
+          "name": "吃巧克力香蕉",
+          "p": "school uniform,chocolate banana,sexually suggestive,holding food,open mouth,eating,tongue out,saliva trail,saliva,drooling,embarrassed,nose blush,from side,",
+          "n": ""
+        },
+        {
+          "name": "塞菠萝包",
+          "p": "oral,fellatio,(melon-bread:1.10),;o,sweat,saliva trail,from side,arched back,upped body,half-closed eyes,tears,",
+          "n": ""
+        },
+        {
+          "name": "想吃大香肠",
+          "p": "(sausage:1.10) over eyes,covering eyes,shy,veil,sexually suggestive,(sausage on face:0.91),saliva,blush,tongue out,drooling,heavy breathing,upper body,",
+          "n": ""
+        },
+        {
+          "name": "多人色情吃冰激凌（推荐横图）",
+          "p": "(3girls:1.10),light blush,suggestive food,(indoors:1.05),(night:1.10),ice cream,glowing,steaming body,facing viewer,face focus,front view,looking at viewer,(light up face:0.91),no extra head and people,heart-shaped pupils,upper body,cooperative,bedroom,",
+          "n": ""
+        },
+        {
+          "name": "色情吃冰棒 (2)",
+          "p": "staring at viewer,solo,(nude:1.05),erected nipples,looking at viewer,jewelry,portrait,close-up,black background,upper body,(simulated fellatio,popsicle in mouth:1.10),saliva,suggestive fluid,holding popsicle,melting popsicle,tongue out,(blush,horny:1.10),from side,naughty face,adjusting hair,(low brightness:1.10),",
+          "n": ""
+        }
+      ]
+    }
+  ]
+}

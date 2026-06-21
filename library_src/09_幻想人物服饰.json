@@ -1,0 +1,1705 @@
+{
+  "name": "幻想人物服饰",
+  "children": [
+    {
+      "name": "未来科幻",
+      "options": [
+        {
+          "name": "宇宙战姬",
+          "p": "1girl,solo,black hairband,looking at viewer,cleavage,reflective clothes,steam,see-through,fighting stance,white butterfly,wedding dress,veil,white thighhighs,bridal garter,strapless,frills,off-shoulder,clavicle,glowing wings,head gear,mechanical wings,mecha musume,glowing eyes,mechanical arms,mechanical leg,mechanical body,glowing core,holding weapon,raise sword,energy sword,space,earth,floating hair,",
+          "n": ""
+        },
+        {
+          "name": "机械覆骨连体紧身衣",
+          "p": "(function techwear:1.05),black bodysuit,(translucent black and purple corruption visor covered eyes,empty eyes:1.16),black and purple neon choker with thin mechanical spine in girl’s back,thin mechanical spine tail,expressionless,translucent black and purple corruption visor covered eyes,",
+          "n": ""
+        },
+        {
+          "name": "机甲医护人员",
+          "p": "wearing a form-fitting futuristic white power armor suit in white tones,massive bulky mechanical shoulder pads and armored limbs,breasts barely contained by the tight suit,prominent (red cross medical emblem on the shoulder:2.0),battle-damaged white armor with scratches,dents,rust spots and dirt,chain necklace with dog tags,various mechanical gadgets and tubes attached to the suit,standing confidently in a dynamic pose inside a dark sci-fi hangar or battlefield,cyberpunk medic,",
+          "n": ""
+        },
+        {
+          "name": "深潜者生物战甲",
+          "p": "1girl,solo,cowboy shot,warframe,metal mecha style clothes,black bodystocking,impossible bodystocking,glossy bodystocking,metal bodystocking,metail-bio-organic chest carapace,glow-in-dark vein webbing,hydraulic claw gauntlets,corroded metal greaves,segmented abdominal plating,blood-splattered utility belt,pulsating core reactor,mouth mask,dragon-head pauldrons,molten core glow,scale-textured rerebraces,tattered wing cape,",
+          "n": ""
+        },
+        {
+          "name": "核心技术",
+          "p": "cyberpunk style,white techwear coat,high collar,nano armor,glowing blue lines,(purple core in chest:1.05),glasses,calm expression,(cyberpunk kyoka suigetsu:1.05),data interface on wrist,standing,looking down,hands in pockets or adjusting glasses,(cyberpunk mouth mask:3.0),",
+          "n": ""
+        },
+        {
+          "name": "透明塑料大衣",
+          "p": "(oversized neon yellow coat,reflective stripe detailing,streetwear coat,techwear waterproof jacket,neon color block wear,utility buckle detail:1.05),",
+          "n": ""
+        },
+        {
+          "name": "原版杂件",
+          "p": "random high-fashion pose,dynamic or static,editorial stance,natural body movement,varied limb positioning,magazine-worthy positioning,high-fashion studio background,seamless backdrop,dramatic spotlight,editorial typography,",
+          "n": ""
+        },
+        {
+          "name": "数据修士",
+          "p": "grey cape,hooded cloak,holographic interface on one eye,indoors,hologram,",
+          "n": ""
+        },
+        {
+          "name": "六边形纹饰连体紧身衣作战服",
+          "p": "science fiction,gun,hooded cloak,thighs,mouth veil,(mechanical bodystocking:1.05),hexagonal pattern,hexagonal scale mail,hexagonal pattern,scale pattern,honeycomb texture,metallic scales,glowing accents,",
+          "n": ""
+        },
+        {
+          "name": "火力清理纵队",
+          "p": "(faceless:1.16),cyborg,from side,skull,solo,close up,action pose,(wearing a skull mask:1.28),minimalism,blending,flat color,limited palette,curiosity,horror,repairing,cable in body,current,wire,screw,machinery factory,bar code,holding big gun,warcraft armor,shoulder mounted artillery,gatling machine gun,terrifying,exposed mechanical components,exposed wire screw battery,physical terror,thrusters,columnar batteries,laser,dissection,(red light,light particles:1.05),circuit,shooting,fighting,firing,barcode,glowing red eyes,straw,red light,",
+          "n": ""
+        },
+        {
+          "name": "裁短上衣吊带操作员",
+          "p": "purple suit,open centre,long sleeves,tight pants,underboob,navel,mecha suit,mecha earband,suspenders,knee pads,shrug (clothing),fingerless gloves,standing,barcode tattoo,necktie,",
+          "n": ""
+        },
+        {
+          "name": "城市数据控制员",
+          "p": "cyberpunk,ethereal,holographic particles,glowing circuit patterns,transparent coat,glowing hem skirt,mechanical legs,floating geometric core,semi-transparent holographic wings,headband with led,floating headphones,data,futuristic,city reflection,",
+          "n": ""
+        },
+        {
+          "name": "兽耳数据分析师",
+          "p": "white marble,white boots,glowing skin,machinery,animal hood,criss-cross halter,capelet,print,colorful startrails,neon palette,adjusting eyewear,armor,black gloves,covered navel,glasses,headgear,mecha musume,personification,serious,shadow,tablet pc,",
+          "n": ""
+        },
+        {
+          "name": "科幻信息处理人员",
+          "p": "(shiny skin:1.05),(transparent jacket:1.16),off shoulder,(bodystocking,sheer bodystocking:1.05),holographic transparent belt,pencil skirt,tight skirt,see-through,science fiction,thigh strap,elbow gloves,open jacket,short dress,upper body,white dress,",
+          "n": ""
+        },
+        {
+          "name": "原版自带动作",
+          "p": "ass,from behind,from side,standing,legs together,feet ouf of frame,smile,open mouth,flying sweatdrops,blush,",
+          "n": ""
+        },
+        {
+          "name": "星际战甲",
+          "p": "close-up,upper body,looking at viewer,detailed body,hip robot joints,light skin,metal exoskeleton,science fiction,cable,mechanical parts,mechanical wings,muscle fibers,luminous component,jetpack,jetting,fighting stance,sci-fi stuff,cyber city,detailed background,",
+          "n": ""
+        },
+        {
+          "name": "赛博女巫",
+          "p": "cyberwitches,cyberpunk,hood,neon,witch hat,gloves,long sleeves,glowing,black headwear,bodysuit,latex,witch,",
+          "n": ""
+        },
+        {
+          "name": "飞船驾驶员（国家队ver）",
+          "p": "kos-mos,kos-mos re:,(1girl:1.10),1girl,all fours,ass,cockpit,from side,hanging breasts,headgear,machinery,pilot suit,restrained,science fiction,shiny clothes,tube,white bodysuit,",
+          "n": ""
+        },
+        {
+          "name": "机甲驾驶员",
+          "p": "robot,mecha,cyborg,black gloves,black jacket,black leotard,black pants,bottle,brown belt,glass bottle,handgun,holding bottle,thigh strap,",
+          "n": ""
+        },
+        {
+          "name": "力场甲兵",
+          "p": "armor,colored sclera,cyborg,forehead protector,glowing eyes,hex grid,",
+          "n": ""
+        },
+        {
+          "name": "机械装甲",
+          "p": "mechanical armor,chinese dress,mechanical mask,machinery,energy wings,mechanical arms,glowing,holding energy sword,",
+          "n": ""
+        },
+        {
+          "name": "星际战士",
+          "p": "cyberpunk,science fiction,cowboy shot,1girl,solo,power armor,red armor,spacesuit,smirk,holding gun,assault rifle,spacecraft interior,windows,starry sky,",
+          "n": ""
+        },
+        {
+          "name": "胶质躯壳",
+          "p": "(faceless:1.16),covered face,full latex helmet,head-mounted display,barcode,nude,latex skin,colored skin,black skin,rubber cat ear,(shiny skin:1.16),skin reflection,close-up,neon trim,",
+          "n": ""
+        },
+        {
+          "name": "标准连体作战服",
+          "p": "latex,latex bodysuit,seductive smile,dynamic pose,belt pouch,belt,holster,x-ray glasses,covered eyes,glowing eyes,",
+          "n": ""
+        },
+        {
+          "name": "紧身衣作战服1（权且作为基础款式收录）",
+          "p": "arm guards,bodysuit,holding sword,purple bodysuit,sword,",
+          "n": ""
+        },
+        {
+          "name": "紧身衣作战服2（古铠甲款式）",
+          "p": "armor,armored dress,black gloves,black legwear,chain,fur trim,gauntlets,greaves,headpiece,jacket,knee boots,looking at viewer,open jacket,",
+          "n": ""
+        },
+        {
+          "name": "紧身作战服3（中日混合机械装载款）",
+          "p": "mechanical armor,chinese dress,mechanical mask,wings,mechanical arms,holding mechanical katana,",
+          "n": ""
+        },
+        {
+          "name": "附带一点场景",
+          "p": "film grain,pastel colors,standing,see-through clothes,chinese buildings,falling petals,golden sky,sunset,cloud,glowing,close-up,",
+          "n": ""
+        },
+        {
+          "name": "紧身作战服4（黑客）",
+          "p": "black bodysuit,(machinery:1.10),hood,(flaming eye:1.10),black mask,holographic monitor,sexy,",
+          "n": ""
+        },
+        {
+          "name": "紧身作战服5（外套+比基尼+防毒面具）",
+          "p": "black bikini,black hairband,blue bodysuit,latex bodysuit,cutting clothes,gas mask,halterneck,navel,ponytail,steam,black coat,",
+          "n": ""
+        },
+        {
+          "name": "紧身作战服6（兽化装甲）",
+          "p": "nude,textured skin,metal skin,matte skin,glowing eyes,cable hair,full-coverage mechanical mask,steam body,claws,fighting stance,",
+          "n": ""
+        },
+        {
+          "name": "紧身作战服7（鳞装紫火甲）",
+          "p": "(revealing clothes:1.10),cyberpunk armor,(naked wizard robes:1.05),wings,scale armor,(latex bodysuit:0.91),purple fire,",
+          "n": ""
+        },
+        {
+          "name": "紧身作战服8（机械双拳）",
+          "p": "fist together,spark,mechanical ears,mecha tail,red tail,(mechanical arm:1.05),(highleg,black leotard:1.05),(barcode on leg:1.05),black thighhighs,mecha shoes,cleavage cutout,navel cutout,shiny skin,",
+          "n": ""
+        },
+        {
+          "name": "紧身作战服9（弹弓泳装）",
+          "p": "hairband,bare shoulders,bodystocking,see-through,bare legs,center opening,cleavage cutout,underboob,covered nipples,armor,",
+          "n": ""
+        },
+        {
+          "name": "紧身作战服10（高腰基础款）",
+          "p": "(deva battle suit:1.05),(white leotard:1.05),(highleg leotard:1.10),high collar,covered navel,(black ribbed thigh boots:1.05),elbow gloves,bare shoulders,(headgear:1.10),",
+          "n": ""
+        },
+        {
+          "name": "紧身作战服11（透明液体连体衣）",
+          "p": "(blue skin,translucent skin:1.10),(see-through aqua bodysuit:1.10),aqua thigh boots,wrist cuffs,midriff,aqua elbow gloves,",
+          "n": ""
+        },
+        {
+          "name": "紧身作战服12（一拉到底款式）",
+          "p": "earrings,high collar,zipper,hairclip,sheathed,katana,weapon on back,center opening,cleavage,collarbone,navel,sweat,white bodysuit,",
+          "n": ""
+        },
+        {
+          "name": "紧身作战服13（闪客）",
+          "p": "(naked latex bodysuit,light green bodysuit,latex gloves,mouth mask,cameltoe,covered nipples:1.16),chest harness,tablet pc,hood up,thigh strap,tool belt,",
+          "n": ""
+        },
+        {
+          "name": "紧身作战服14（霓虹战衣）",
+          "p": "arms at sides,shade,iridescent hair,neon pink theme,purple light,mecha musume,mech girl,technical,bodysuit,upper body,body tattoo,mechanical undulations,from side,",
+          "n": ""
+        },
+        {
+          "name": "紧身作战服15（紧身铠甲）",
+          "p": "sword,boots,gloves,sheath,full body,knee boots,armor,leotard,belt,scabbard,tight clothes,holding sword,thigh strap,cropped jacket,bodysuit,skin tight,tight pants,looking to the side,greaves,closed mouth,gauntlets,torn clothes,",
+          "n": ""
+        },
+        {
+          "name": "比基尼战场分析员",
+          "p": "barcode tattoo,fingerless gloves,elbow gloves,torn gloves,black gloves,bare shoulders,black thighhighs,sweat,black bikini,harness,evealing clothes,thigh strap,torn thighhighs,tablet pc,holstered weapon,underboob,thigh holster,headphones,gun,",
+          "n": ""
+        },
+        {
+          "name": "原短发猫娘版",
+          "p": "barcode tattoo,fingerless gloves,cat tail,cat ears,elbow gloves,torn gloves,cat girl,short hair,medium breasts,looking at viewer,ass,black gloves,bare shoulders,black thighhighs,sweat,black bikini,harness,revealing clothes,thigh strap,torn thighhighs,tablet pc,holstered weapon,tail raised,underboob,thigh holster,cowboy shot,headphones,bob cut,looking to the side,leaning forward,from side,open mouth,gun,chromatic aberration,",
+          "n": ""
+        },
+        {
+          "name": "赛博速递员",
+          "p": "neon lights,black fabric,glowing trim,high-waisted bottoms,halter top,led strips,glowing patterns,fingerless gloves,neon bracelets,thighhighs,combat boots,glowing visor cap,holographic visor,led choker,neon anklets,cyber earrings,glowing belt buckle,",
+          "n": ""
+        },
+        {
+          "name": "都市潜伏者",
+          "p": "cyberpunk,from below,blood stain,blood on face,blood on clothes,wiping blood,(black bodysuit:1.16),navel,half-closed eyes,black thighhighs,hood up,shrug (clothing),purple hoodie,cropped hoodie,sleeves past wrists,cable,city,cowboy shot,facial mark,looking at viewer,mechabare,neon palette,neon sign,night,outdoors,skinny,stairs,",
+          "n": ""
+        },
+        {
+          "name": "网络突击队",
+          "p": "(cyber sandals,cyber black thighhighs,stockings:1.16),black boots,metallic fabric,silver accents,crop top,high-waisted shorts,cybernetic implants,holographic patterns,fingerless gloves,utility belt,midriff,energy core,tactical pouches,wrist guards,",
+          "n": ""
+        },
+        {
+          "name": "网络行者",
+          "p": "black choker,sneakers,tight pants,pantylines,ass focus,tight,glowing,curvy,holographic jacket,iridescent jacket,off shoulder jacket,highleg panties,shiny skin,shiny clothes,open jacket,bursting breasts,camisole,thigh strap,skindentation,",
+          "n": ""
+        },
+        {
+          "name": "赛博街头小子",
+          "p": "(thigh boots:1.10),shorts,gauntlets,short sleeves,(collared shirt:1.05),navel,gloves,crop top,belt,(hoodie:1.05),single mechanical arm,red gemstone,(blue armor:1.05),facial tattoo,fallen down,cityscape,kneeling,looking afar,night,arm support,grin,floating hair,",
+          "n": ""
+        },
+        {
+          "name": "赛博比基尼街头服装（as109风格）",
+          "p": "(cyborg theme shoes:1.10),(glowing shoes:1.22),(see-through,latex clothes:1.10),(chewing gum:1.10),navel,(black thighhighs:1.05),hood up,shrug (clothing),glowing bikini,side-tie bikini bottom,purple hoodie,underboob,cropped hoodie,long sleeves,",
+          "n": ""
+        },
+        {
+          "name": "原版",
+          "p": "(night,colorful,purple theme:1.22),(backlighting:1.28),(close-up:1.10),from below,(feet focus:1.10),sitting,indian style,reaching one leg,arms support,(cyborg theme shoes:1.10),(glowing shoes:1.22),city,neon,(mechanical tail:1.10),(see-through,latex clothes:1.10),(chewing gum:1.10),navel,(black thighhighs:1.05),hood up,shrug (clothing),cat ear hood,glowing bikini,side-tie bikini bottom,purple hoodie,underboob,cropped hoodie,long sleeves,",
+          "n": ""
+        },
+        {
+          "name": "重装机兵",
+          "p": "armor,cowboy shot,cyborg,full armor,glowing,glowing eye,helmet,holding sword,holding weapon,one-eyed,power armor,reverse grip,covered face,",
+          "n": ""
+        },
+        {
+          "name": "机械重甲",
+          "p": "holding big gun,fighting stance,mechanical hands,(transparent glass helmet,wearing transparent glass mask:1.28),horrorwire,screw,machinery factory,barcode,warcraft armor,exposed mechanical components,thrusters,laser,(red light,light particles:1.05),circuit,shooting,firing,straw,mechanical wings,",
+          "n": ""
+        },
+        {
+          "name": "原版 (2)",
+          "p": "fighting stance,cowboy shot,head tilt,mechanical hands,solo,close-up,transparent glass helmet,(wearing a transparent glass mask:1.28),minimalism,blending,flat color,limited palette,curiosity,horror,repairing,cable in body,current,wire,screw,machinery factory,bar code,holding big gun,warcraft armor,shoulder mounted artillery,terrifying,exposed mechanical components,exposed wire screw battery,physical terror,thrusters,columnar batteries,laser,dissection,(red light,light particles:1.05),circuit,shooting,fighting,firing,barcode,straw,mechanical wings,",
+          "n": ""
+        },
+        {
+          "name": "机械改装剑姬",
+          "p": "creative,colour block background,kimono,metal body,single mechanical arm,nsfw,(body glow:1.05),red sword,blood,hex grid,sleeveless,",
+          "n": ""
+        },
+        {
+          "name": "机战天使",
+          "p": "halo,energy sword,planted mechanical ears,mechanical tail,mechanical wings,(single mechanical arm:1.10),(black highleg leotard:1.05),(barcode on leg:1.05),black thighhighs,cleavage cutout,navel cutout,white jacket,",
+          "n": ""
+        },
+        {
+          "name": "蒸汽专精",
+          "p": "victorian,steampunk,mechanical arms,lolita fashion,corset,hood up,hooded cape,thigh boots,gears,train,clock tower,",
+          "n": ""
+        }
+      ]
+    },
+    {
+      "name": "游戏服装",
+      "options": [
+        {
+          "name": "月计巴士拇指装束",
+          "p": "1girl,thumb (identity) (project moon),two swords,red hat,cowboy hat,looking at viewer,nice eyes,gold trim,gold trim hat,light yellow shirt,red coat,red pants,notched lapels,long coat,",
+          "n": ""
+        },
+        {
+          "name": "调酒师（吉尔）",
+          "p": "1girl,solo,high heels,sitting,long sleeves,black pantyhose,white shirt,looking at viewer,panties under pantyhose,smoking,full body,stool,red necktie,pencil skirt,puffy sleeves,black footwear,purple vest,miniskirt,blush,purple skirt,holding cigarette,thighband pantyhose,collared shirt,juliet sleeves,knee up,single shoe,pantyshot,bartender,",
+          "n": ""
+        },
+        {
+          "name": "十字神名风格制服",
+          "p": "(inverse color,alternate color:2.5),(inverse color clothes:1.3),(pale skin,white skin,white hair,alternate hair color,black halo,white hair:2.0),(yellow eyes,black x-shaped pupils,symbol-shaped pupils:2.0),white bodysuit with black lines,skin tight,respirator,glowing black lines,",
+          "n": ""
+        },
+        {
+          "name": "黑云会",
+          "p": "female samurai,dark gray kimono,light gray floral patterns,low-cut neckline,white ornate chest tattoos,matching obi belt,neat bun,red hairpins,katana,detailed hilt,grayscale shading,elegant,japanese traditional,cosplay as sayo(library of ruina),(black auspicious cloud tattoo:1.05),drawing katana,japanese house,",
+          "n": ""
+        },
+        {
+          "name": "维吉尔但丁合体",
+          "p": "2girls,girls only,(from below:1.05),outdoors,ruins,bokeh,night,full moon,dramatic shadow,light rendering,scenery,(devil may cry 5:3.0),char1：girl,(full body,on one knee,grin,smirk,(dante (devil may cry) (cosplay),ebony & ivory,rebellion (sword):1.16),handguns,holding guns,(outstretched arms,crossed wrists,both guns aiming at viewer:1.16),sword on back:1.28),(red coat,black shirt:1.16),char2：girl,(from behind,standing,behind another,head turn,looking back,(vergil (devil may cry) (cosplay),yamato (sword):1.16),right hand holding sword,left hand holding sheath,unsheathed,spread arms:1.28),floating gemstone circlet,detached wings,(blue coat:1.16),",
+          "n": ""
+        },
+        {
+          "name": "罗德岛预备医药制服",
+          "p": "reserve operator medic (arknights) (cosplay),",
+          "n": ""
+        },
+        {
+          "name": "皮卡丘连体衣",
+          "p": "(pikachu costume,yellow animal costume,hood:2.0),pikachu tail,",
+          "n": ""
+        },
+        {
+          "name": "怪猎狱狼龙铠甲",
+          "p": "1girl,solo,stygian zinogre armor (monster hunter),black armor,red glowing parts,wolf ears (helmet),horns,bulky armor,sharp edges,holding weapon,dual blades,red lightning,dragon energy,fisheye,foreshortening,dynamic angle,close up,hand reaching towards viewer,shouting,battle cry,fierce expression,glowing eyes,dark background,red lightning streaks,sparks,motion blur,",
+          "n": ""
+        },
+        {
+          "name": "丘丘人服装",
+          "p": "hilichurl tribal outfit,beast skin bikini,bone accessories,feather headdress,tribal tattoos,ego长枪,petals,blood,looking at viewer,transparent background,tree,torn clothes,1girl,holding weapon,closed mouth,falling petals,blood on clothes,male focus,standing,e.g.o (project moon),full body,red theme,polearm,robe,long sleeves,",
+          "n": ""
+        },
+        {
+          "name": "艾尔登法环隐士",
+          "p": "bare shoulders,black dress,black hat,black ribbon,blush,cleavage,cosplay,crossover,hair ribbon,holding staff,large hat,off shoulder,purple sleeves,recluse (elden ring) (cosplay),wide sleeves,witch hat,",
+          "n": ""
+        },
+        {
+          "name": "舰装日系婚服",
+          "p": "turret,1girl,japanese clothes,fox,uchikake,wataboushi,cannon,white kimono,wide sleeves,hood white bridal veil,bride,cherry blossoms,smile,bell,petals,white thighhighs,marry,seiza,",
+          "n": ""
+        },
+        {
+          "name": "防火女",
+          "p": "(fire keeper (cosplay):1.28),v arms,covered eyes,eye mask,black see-through dress,revealing clothes,black bodystocking,see-through,armor,black cape,black capelet,choker,pendant,pale skin,expressionless,day,indoors,greenhouse garden,tree,white rose,blurry foreground,",
+          "n": ""
+        },
+        {
+          "name": "红毛衣裤袜靴子（生化危机王阿姨cos）",
+          "p": "knee boots,(sleevesless,skin tight,red sweater:1.10),pantyhose,skindentation,",
+          "n": ""
+        },
+        {
+          "name": "战锤",
+          "p": "warhammer 40k,nsfw,terminator armor,power armor,muscular female,oversized limbs,intense angle,smoke of gunpowder,embers,",
+          "n": ""
+        },
+        {
+          "name": "宝可梦训练家服装",
+          "p": "holding poke ball,sweat,breathing fire,(girl ridding pokemon:1.05),(rayquaza(pokemon),large:1.10),poké ball,outdoors,poke ball (basic),black thighhighs,red headwear,fingerless gloves,black shirt,black gloves,zettai ryouiki,bag,baseball cap,stadium,microskirt,between breasts,elbow gloves,bare shoulders,",
+          "n": ""
+        },
+        {
+          "name": "致命公司员工服",
+          "p": "(yellow chemical protective clothing:1.05),(large broken glass helmet:1.16),oxygen tanks,mask,",
+          "n": ""
+        },
+        {
+          "name": "血源诅咒",
+          "p": "(bloodborne:1.10),glasses,teeth,hair over one eye,smile,(black silk stockings:1.05),capelet,circlet,black gothic empire waist dress,close-up,meat saw knife,blood sword,flint gun,",
+          "n": ""
+        },
+        {
+          "name": "血源教堂修士",
+          "p": "indoors,standing in ruined church,bloodborne clothing,hooded feather cloak,",
+          "n": ""
+        },
+        {
+          "name": "怪猎铠甲",
+          "p": "barioth (armor),monster hunter (series) (copyright),armor,hairband,sharp teeth,",
+          "n": ""
+        },
+        {
+          "name": "黑蚀龙铠甲（怪猎cos）",
+          "p": "gore magala armor,black cape,black breastplate,black armored gloves,black shoulder armor,black armored dress,black thigh armored boots,claws,black greatsword,holding black greatsword,weapon on back,red horn ornament,",
+          "n": ""
+        },
+        {
+          "name": "装甲大天使百夫长",
+          "p": "angel wings,armor,blade encarmine,blood angels,cherub,fire,flaming sword,glowing eyes,gold armor,halo,mask,ornate armor,ornate weapon,pauldrons,power armor,red gemstone,shoulder armor,sword,teardrop-shaped gem,",
+          "n": ""
+        },
+        {
+          "name": "图书馆特辑",
+          "p": "",
+          "n": ""
+        },
+        {
+          "name": "食指",
+          "p": "(library of ruina:1.16),looking at viewer,nice eyes,black suit,black gloves,white shirt,long white cloak,metal edge,stand,chains,",
+          "n": ""
+        },
+        {
+          "name": "拇指",
+          "p": "(library of ruina:1.16),looking at viewer,nice eyes,black suit,black shirt,black tie,red coat,gold edge,holding a gun,wooden butt,(sawed-off shotgun:1.16),6协,(library of ruina:1.16),looking at viewer,black dragon suit,white shirts,red tie,dragon pattern,golden grain,gorgeous red cloak,flame,flame grain,(fight posture:1.10),close-up,ram,w清扫,(library of ruina:1.16),vest,technical gloves,baseball cap,blue hat,(w logo:1.10),stand,fighting posture,black shirt,dark blue pants,make a fist,blue lightning,armor,",
+          "n": ""
+        },
+        {
+          "name": "兔子",
+          "p": "(library of ruina:1.16),black and orange combat suit,armor,orange short cloak,bulletproof armor,science fiction rifle,",
+          "n": ""
+        },
+        {
+          "name": "影刃",
+          "p": "armor,aura,cowboy shot,earrings,hair over one eye,holding sword,makeup,navel,purple lips,revealing clothes,single gauntlet,smile,soul edge (weapon),underboob,",
+          "n": ""
+        }
+      ]
+    },
+    {
+      "name": "中近世纪",
+      "options": [
+        {
+          "name": "村妇",
+          "p": "1girl,(village outfit,brown outfits:3.0),(country girl,simple dress,apron,soft colors,gentle smile,gentle gesture,warm sunlight,countryside:2.0),peaceful atmosphere,waving hand,friendly wave,waving at viewer,",
+          "n": ""
+        },
+        {
+          "name": "剑枪铁甲士兵",
+          "p": "2girls,sfw,cowboy shot,female focus,char1：girl,(full armor,plate armor,chain mail,holding pike (weapon),pike (weapon) over shoulder,blood on face,blood on armor:2.0),char1：girl,(full armor,plate armor,chain mail,holding sword,sword over shoulder,blood on face,blood on armor:2.0),",
+          "n": ""
+        },
+        {
+          "name": "枪骑兵",
+          "p": "1girl,armor,helmet,(red tabard:1.10),gauntlets,red cape,(breastplate:0.95),red skirt,armored boots,winged helmet,(armored skirt:1.05),(white thighhighs:1.05),garter straps,white fur,capelet,fur cape,shield,shoulder armor,blush,smile,horseback riding,surcoat,knight,polearm,(lance:1.10),wind,profile,",
+          "n": ""
+        },
+        {
+          "name": "教皇",
+          "p": "christianity,medieval,church,fantasy,gloriuos,cinematic lighting,cross,stained glass,holy light,god light,light beam,carved rood screen crucifixes,marble(stone),menorah,candlestan,pipe organ,close-up,solo,1girl,crown,red fur-trimmed cape,cross,gold trim,white wide sleeves,white cassock,clerical collar,on throne,reclining,holding the bible,head rest,",
+          "n": ""
+        },
+        {
+          "name": "骑士王",
+          "p": "knight,king,white armor,full armor,red runes,shoulder armor,breastplate,gauntlets,armored gloves,leather belt,armored legwear,torn cape,red cape,fur-trimmed cape,longsword,planted sword,grabbing sword,holding sword,spider lily,flower field,red spider lily,clouds,sky,rain,raining blood,dramatic lighting,angle view,from side,cowboy shot,",
+          "n": ""
+        },
+        {
+          "name": "双刃战斧",
+          "p": "armor,full armor,pauldrons,gauntlets,fingerless gloves,black pantyhose,armored boots,battle axe,double-sided axe,axe surrounded by flames,",
+          "n": ""
+        },
+        {
+          "name": "毒物药师",
+          "p": "ornate headdress,beaked headdress,mask on head,jewelry,earrings,vial earrings,white dress,coat dress,asymmetrical dress,high collar,black bodysuit,black gloves,high-heeled boots,straps,harness,belt,pouches,holding vial,glowing liquid,potion,smoke,vapor,mist,plague doctor motif,alchemist,healer,poisoner,",
+          "n": ""
+        },
+        {
+          "name": "僧侣",
+          "p": "monk,nun,(erotic monk costume:1.10),kasaya,saffron robe,yellow robe,(see-through:1.10),translucent,(prayer beads:1.10),(exposed breast:1.10),underboob,",
+          "n": ""
+        },
+        {
+          "name": "修士",
+          "p": "(gold patterns on clothes,white priestly robes,robes,priest clothing,many clothes,wide sleeves,shoulder jacket,cowboy shot:1.16),pleated skirt,(holding book:1.05),",
+          "n": ""
+        },
+        {
+          "name": "紧身长裤剑士",
+          "p": "fingerless gloves,shirt,puffy sleeves,corset,white pants,thigh gap knee pads,boots,",
+          "n": ""
+        },
+        {
+          "name": "沙漠盾枪兵",
+          "p": "sweat,smile,white dress,polearm,shield,holding weapon,chainmail,holding shield,soldier,army,shoulder armor,sand,see-through thighhigh,desert,",
+          "n": ""
+        },
+        {
+          "name": "摘花女",
+          "p": "flowing maxi dress,floral headscarf,layered necklaces,bangle bracelets,wavy hair,holding woven basket,barefoot,sitting on rug,outdoor garden,",
+          "n": ""
+        },
+        {
+          "name": "教堂骑卫",
+          "p": "(white theme,bright:1.10),cowboy shot,close-up,(two hand planted sword:1.10),(two hands on hilt:1.16),black robe,black long tabard,long skirt,gold trim,side cape,fur collar,belt,long sleeves,floral print,black gloves,expressionless,(church:1.16),sidelighting,indoor,",
+          "n": ""
+        },
+        {
+          "name": "疫医",
+          "p": "belt pouch,black boots,black cloak,black gloves,black hat,black pants,brown belt,buttons,closed mouth,double-breasted,elbow gloves,feather cape,grey coat,holding mask,knee boots,long coat,long sleeves,necklace,plague doctor mask,putting on mask,sam browne belt,sword,",
+          "n": ""
+        },
+        {
+          "name": "礼裙王卫",
+          "p": "looking at viewer,closed mouth,cleavage,standing,cowboy shot,black gloves,fingerless gloves,black dress,fur trim,expressionless,holding sword,cleavage cutout,crown,gem,lace trim,side slit,glint,two-sided fabric,blue gemstone,fur-trimmed cape,black cloak,",
+          "n": ""
+        },
+        {
+          "name": "学者",
+          "p": "victorian fashion,aqua skirt,(round monocle:1.05),ascot,vest,belt,military uniform,boots,black coat,(coat on shoulders:1.05),collared white shirt,white gloves,long skirt,long sleeves,",
+          "n": ""
+        },
+        {
+          "name": "红糖k",
+          "p": "crown,high heels,cape,looking at viewer,black thighhighs,standing,long sleeves,holding sword,red gloves,black footwear,dress,boots,checkered floor,rapier,card,playing card,",
+          "n": ""
+        },
+        {
+          "name": "扑克女王",
+          "p": "standing,holding crosier,joker (card),poker,drill hair,smile,sparkling eyes,red highleg leotard,lolita gothic,microskirt,evening gown,(red and black checkered pantyhose:1.10),eyepatch,high top hat,neck garter,thigh strap,",
+          "n": ""
+        },
+        {
+          "name": "皇室成员",
+          "p": "crown,scepter,coat on shoulders,bowtie,fur-trimmed coat,gloves,hair scrunchie,high collar,flower,white pants,",
+          "n": ""
+        },
+        {
+          "name": "国王",
+          "p": "crown,throne,sitting,coin,male focus,cape,holding staff,jewelry,gold,",
+          "n": ""
+        },
+        {
+          "name": "水晶鞋公主",
+          "p": "(see-through shoes,glass slippers:1.10),crown,princess,gorgeous aristocratic attire,princess dress,white thighhighs,wavy hair,",
+          "n": ""
+        },
+        {
+          "name": "贵族1",
+          "p": "diadem,(black tailcoat:1.05),(bloomers:1.05),red skirt,(white cape:1.10),white thighhighs,brown high heel boots,white gloves,high heel boots,white gloves,",
+          "n": ""
+        },
+        {
+          "name": "贵族2（近侍）",
+          "p": "black pants,blue jacket,frilled shirt collar,frilled sleeves,juliet sleeves,puffy sleeves,white ascot,",
+          "n": ""
+        },
+        {
+          "name": "其他版本",
+          "p": "hat,hat feather,holding cane,gloves,ascot,waistcoat,jacket,",
+          "n": ""
+        },
+        {
+          "name": "黑白贵族",
+          "p": "black coat,black,pants,closed mouth,cross necklace,greyscale,hand on own face,hand on own leg,looking at viewer,monochrome,ring,sitting,stud earrings,white ascot,",
+          "n": ""
+        },
+        {
+          "name": "刺剑手",
+          "p": "red dress,cleavage,brown cape,fur-trimmed cape,brown leather belt,golden belt buckle,brown leather gloves,black leather thigh boots,high heel boots,holding silver rapier,",
+          "n": ""
+        },
+        {
+          "name": "其他版本 (2)",
+          "p": "expressionless,black armor dress,gold and purple magic patterns,deep black cloak,black pleated skirt,dark black thighhighs,belt,collared shirt,open jacket,hand up,holding sword,rapier,pants,parted lips,smile,indoors,",
+          "n": ""
+        },
+        {
+          "name": "枪兵",
+          "p": "black shirt,white cloak,spear,black pencil skirt,standing,sleeveless,wrist guards,loose clothes,black chinese armor,",
+          "n": ""
+        },
+        {
+          "name": "决斗侠客",
+          "p": "(tricorne,black hat:1.10),black bow,black coat,blood on clothes,brown cape,hair bow,hat feather,sheath,rapier,white ascot,white gloves,grey pants,",
+          "n": ""
+        },
+        {
+          "name": "西洋剑士",
+          "p": "sheath,headband,black gloves,white headband,looking at viewer,white pants,sheathed,earrings,jewelry,closed mouth,holding sword,long sleeves,glint,frills,scabbard,brown belt,rapier,expressionless,circle,frilled shirt collar,blue jacket,",
+          "n": ""
+        },
+        {
+          "name": "火枪手",
+          "p": "(fur hat:1.05),red headwear,brown gloves,dark red coat,fur trim,buttons,(holding flintlock:1.10),(renaissance period:1.05),gunfire,bracket,crossbody tool belt,",
+          "n": ""
+        },
+        {
+          "name": "执旗骑士",
+          "p": "armor,armored dress,banner,black thighhighs,breasts apart,floating hair,fur trim,gauntlets,holding flag,petals,thighhighs,white dress,",
+          "n": ""
+        },
+        {
+          "name": "重甲",
+          "p": "(knight,no cape,black armor,horned helmet,gauntlets,armored boots,full armor:1.05),",
+          "n": ""
+        },
+        {
+          "name": "战袍护甲",
+          "p": "forehead protector,tabard,vambraces,faulds,knight armor,",
+          "n": ""
+        },
+        {
+          "name": "现代铠甲装束（外套+臂铠+腿甲+裙甲+头盔）",
+          "p": "armor,armored dress,black gloves,black legwear,chain,fur trim,gauntlets,greaves,helmet,jacket,thigh boots,open jacket,jacket on shoulders,",
+          "n": ""
+        },
+        {
+          "name": "啤酒馆老板娘",
+          "p": "bar (place),indoors,lamp,stool,beer,beer mug,cleavage cutout,bare shoulders,corset,dirndl,frilled hairband,german clothes,(light green dress,long dress:1.10),waist apron,white thighhighs,wrist scrunchie,",
+          "n": ""
+        },
+        {
+          "name": "吟游诗人",
+          "p": "(european clothing,celtic:1.05),red tunic,feather hair ornaments,(bard:1.05),frilled,tool belt,bag,scabbard,ascot,puff sleeves,vertical striped sleeves,brown leather vest,(playing harp:1.05),dress,pattern trim clothin,knee boots,",
+          "n": ""
+        },
+        {
+          "name": "林间吟游者",
+          "p": "brown skin,barefoot,holding lute,sitting on tree branch,crossed legs,bard outfit,revealing clothes,see-through,ornate tunic,ruffled blouse,leather corset,belt,magical elements,",
+          "n": ""
+        },
+        {
+          "name": "黑死病鸟面医师",
+          "p": "(plague doctor:1.16),crow mask,(crow:1.05),black hood,plague,black death,carrying a candle lamp,",
+          "n": ""
+        },
+        {
+          "name": "旅行者",
+          "p": "belt,brown gloves,tunic,brown boot,bag,",
+          "n": ""
+        },
+        {
+          "name": "华丽版",
+          "p": "black bow,brown capelet,brown cloak,brown hoodie,brown skirt,capelet,hood up,hooded capelet,knee strap,red shawl,single thighhigh,white shirt,",
+          "n": ""
+        },
+        {
+          "name": "寻宝客",
+          "p": "holding shovel,brown vest,sleeveless vest,white sleeves,orange pantyhose,brown boots,shoulder bag,tool belt,backpack,wide hat,",
+          "n": ""
+        },
+        {
+          "name": "猎杀女仆",
+          "p": "puffy short sleeves,red dress,card,looking at viewer,blood,black choker,playing card,white apron,blood on clothes,frilled apron,parted lips,red flower,smile,standing,blood on face,black bow,hair bow,frilled dress,pantyhose,diamond(shape),red rose,holding double-barreled shotgun,lift dress,",
+          "n": ""
+        },
+        {
+          "name": "雪地版本",
+          "p": "chromatic aberration,blood blood on clothes,blood on face,maid,maid headdress,white gloves,blood on hands,looking at viewer,black dress,adjusting gloves,long sleeves,maid apron,snow,outdoors,white apron,puffy sleeves,",
+          "n": ""
+        },
+        {
+          "name": "巨锤修女",
+          "p": "(1girl,solo focus,nun,nun clothes,nun hat,nun white skirt,church background,tally,body:1.10),(front view,solo focus,looking at viewer,holding giant hammer,incoming attack,angry,hissing,from below,standing,glowing eyes:1.16),",
+          "n": ""
+        },
+        {
+          "name": "圣战修女",
+          "p": "holding polearm,(armor under clothes:1.22),sword,sheath,chainmail,waist curtains,pelvic curtain,breast curtains,cross,tunic,(war nun:1.05),armor,standing,holding shield,spear,belt,cape,shy,scabbard,sheathed,knight,white cape,closed mouth,gauntlets,",
+          "n": ""
+        },
+        {
+          "name": "枪弹修女",
+          "p": "cross,nun,garter straps,torn clothes,torn thighhighs,shell casing,handgun,firing,on one knee,holding gun,black footwear,black thighhighs,looking at viewer,long sleeves,outdoors,aiming at viewer,lace-trimmed legwear,bullet,holster,squatting,dual wielding,open mouth,side slit,belt,cross necklace,torn dress,aiming,cloud,lace trim,cloudy sky,finger on trigger,thigh holster,garter belt,glint,black dress,veil,black glove,",
+          "n": ""
+        },
+        {
+          "name": "善后处理修女",
+          "p": "blood,black dress,short dress,nun,(trash bag,holding bag:1.05),black boots,white torn pantyhose,black capelet,sack,standing,black headwear,black bow,belt,(blood on hands,blood on face,blood on clothes:1.05),bowtie,cross,habit,",
+          "n": ""
+        }
+      ]
+    },
+    {
+      "name": "西幻奇幻",
+      "options": [
+        {
+          "name": "女仆骑士",
+          "p": "looking at viewer,closed mouth,expressionless,full body,standing,hand on hilt,planted,huge weapon,ornate weapon,maid,knight,armor,black ascot,black bow,maid headdress,breastplate,black dress,white dress,armored dress,frilled dress,long sleeves,gauntlets,arm shield:1.5,kite shield,corset,multiple belts,buckle,black skirt,long skirt,side slit,pelvic curtain,garter straps,black thighhighs,greaves,armored boots,high heel boots,",
+          "n": ""
+        },
+        {
+          "name": "铸造师",
+          "p": "1girl,solo,(gold aura,glowing,cracked skin,broken skin,grey colored skin,false arm,elden ring (object),broken stomach,sunken stomach,empty stomach,hole on body,golden order:2.0),topless female,no nipples,holding hammer,raise hammer,single hammer,looking at viewer,three quarter view,thighs,",
+          "n": ""
+        },
+        {
+          "name": "剑士学徒",
+          "p": "black hairband,brown footwear,brown vest,knee boots,leather vest,linoir,long sleeves,pants,holding sword,white shirt,wooden sword,",
+          "n": ""
+        },
+        {
+          "name": "盗贼",
+          "p": "(black leather eyepatch:2.0),(black metal long elbow gauntlets:2.0),(black metal thigh greaves:2.0),(black vest,black chest harness,framed breasts:2.0),(white sleeves dress shirts:2.0),(dark-purple sleeveless shrug,dark-purple puritan collar:2.0),(dark-purple frills on shoulders:2.0),(black leather pants:2.0),",
+          "n": "(backless:1.0),"
+        },
+        {
+          "name": "拳刃剑士",
+          "p": "full shot,panorama,dynamic posture,newest,1girl,solo,looking at viewer,jewelry,standing,weapon,shorts,elbow gloves,hood,sword,holding weapon,armor,short shorts,gradient background,thigh strap,mask,chain,knife,claws,hood up,contrapposto,mouth mask,weapon on back,claw ring,claw (weapon),sword behind back,",
+          "n": ""
+        },
+        {
+          "name": "侦探药师",
+          "p": "witch hat,belt,long sleeves,hat belt,holding vial,brown sleeves,black footwear,brown headwear,hat feather,collared dress,boots,brown capelet,brown dress,",
+          "n": ""
+        },
+        {
+          "name": "骨骼服饰",
+          "p": "bone throne,skull decorations,bone crown,skull necklace,gothic dress,skeletal print,dark cape,standing,arms akimbo,",
+          "n": ""
+        },
+        {
+          "name": "旅者药师",
+          "p": "vial,witch hat,long sleeves,belt,(tunic:1.10),(detachable cloak:1.16),waist apron,brown apron,belt pouch,white hat,leather gloves,",
+          "n": ""
+        },
+        {
+          "name": "月光大剑",
+          "p": "1girl,solo,expressionless,greatsword,holding weapon,standing,white gloves,black pantyhose,black coat,long sleeves,frilled dress,solo focus,star (sky),night sky,starry sky,full moon,weapon over shoulder,outdoors,",
+          "n": ""
+        },
+        {
+          "name": "屋顶剑士",
+          "p": "rustic town,traveling,looking about,close up,1girl,hood down,single ear piercing,red scarf,steel breastplate,armor,from above,wrist guards,gloves,wielding sword,single sword,large broadsword,town rooftops,standing on roof,black jacket,cropped jacket,sleeves rolled up,armor,(huge red cape:1.10),",
+          "n": ""
+        },
+        {
+          "name": "剑盾骑士",
+          "p": "1girl,solo,armor,high heels,holding sword,looking at viewer,full body,gauntlets,cape,boots,white theme,sitting,shoulder armor,flower,shield,smile,thighhighs,a shot with tension,colorful,splash of color,movie perspective,",
+          "n": ""
+        },
+        {
+          "name": "大剑执行官",
+          "p": "looking at viewer,standing,hand up,planted sword,closed mouth,expressionless,arm up,adjusting hair,greatsword,floating hair,reverse grip,blood,parted lips,fingerless gloves,blue gloves,white vest,white shorts,short shorts,black pantyhose,pantyhose under shorts,white shirt,collared shirt,red necktie,black coat,open coat,coat on shoulders,long sleeves,white footwear,fold-over boots,grey footwear,cross-laced footwear,lace-up boots,knee boots,pouch,black jacket,belt,thigh strap,belt pouch,drop shadow,thigh pouch,",
+          "n": ""
+        },
+        {
+          "name": "炼金学者",
+          "p": "multiple belt pouch,vial in belt pouch,thick thighs,brown belt,red partially fingerless gloves,corset,belt,(bare legs:1.2),colorful ribbon,belt buckle,vial in thigh strap,chest harness,harness,tight clothes,(white skirt suit,skirt side slit:cross-laced cutout:1.2),impossible clothes,white open coat,brown necktie,white collared shirt,(witch hat,a big clock on witch hat:clock hands:1.2),hat bow(monocle:opaque glasses:one eye covered by monocle,single monocle chain:1.5),puffy long sleeves,gold trim,single garter strap,thigh strap,red socks,",
+          "n": ""
+        },
+        {
+          "name": "亡灵公主",
+          "p": "sitting,detailed eyes,1girl,asymmetrical sleeves,black bow,black bowtie,black corset,black dress,black hairband,black nails,black ribbon,black shoes,bow hairband,brooch,closed mouth,colored sclera,colored skin,fingernails,frilled dress,frilled hairband,frilled shirt collar,frilled sleeves,frills,full body,gauze,gauze on cheek,gem,gothic lolita,grey dress,grey skin,grey thighhighs,hand to head,head tilt,high heels,layered dress,leg ribbon,lolita fashion,long fingernails,long sleeves,looking at viewer,mismatched pupils,mismatched sclera,mismatched sleeves,nail polish,pigeon-toed,red gemstone,red pupils,ringlets,see-through skirt layer,sideways glance,sleeves past wrists,stitched face,stitches,thighhighs,torn bow,torn clothes,torn dress,torn sleeves,torn thighhighs,turning head,two-tone dress,uneven sleeves,wide sleeves,wrist bow,yellow sclera,",
+          "n": ""
+        },
+        {
+          "name": "非对称服装游侠",
+          "p": "white shirt,wing collar,short sleeves,short over long sleeves,single bare shoulder,hair flower,cosmos,miniskirt,see-through sleeves,cropped jacket,green capelet,choker,shorts,single thighhigh,white thighhigh,eardrop,asymmetrical clothes,straps,holding bow (weapon),sandals,armlet,gladiator sandals,midair,",
+          "n": ""
+        },
+        {
+          "name": "火龙剑士",
+          "p": "full body,1girl,solo,(thin:1.22),very thin,(helmet:1.22),(knight helmet:1.16),devil helmet,dragon helmet,horns helmet,mask,(dragon mask:1.34),(demon horns:1.16),(curled horns:1.16),flame hair,hunched over,bare shoulders,ribs(sarashi:1.16),navel,bandages,armored dress,white pants,puffy pants,greaves,knee boots,white boots,half-naked,handcuffs,anklet,holding sword,sword,huge sword,rust sword,devil sword,(fighting stance:1.22),glowing eyes,(flame hair:1.28),standing,shouting,spread arms,runes,from side,ruins,east asian architecture,blue sky,sunset,horror (theme),",
+          "n": ""
+        },
+        {
+          "name": "征服天启骑士",
+          "p": "(wings trimmed armor:1.16),(armored long dress:1.28),(ornate petals-shaped armored long skirt:1.10),(breasts armor:1.28),(forehead protector,tabard,elbow pads,vambraces,white legs armor,white stomach armor,white knight armor,white greaves:1.22),(white armor:1.05),white shoulder armor with golden gemstone,arm armor,(full armor:1.16),golden trimmed armor,(double forked chest harness:1.10),chain,breast curtains under the breasts armor,(white cape:1.10),(holding a scythe decorated with intricately carved and gold jewelry:1.10),(dark red flames and multiple magical runes circles wrapped around scythe:1.16),fighting,battle,curvy,large breasts,(sagging breasts:0.91),black wings,(white knight armor unicorn:1.10),(riding unicorn:1.10),(motion lines:1.16),gunsmoke battlefield,dark clouds,very closer to viewer,dutch angle,wide-angle,solo,",
+          "n": ""
+        },
+        {
+          "name": "步枪游侠",
+          "p": "armored boots,bolt action,closed mouth,high heel boots,high heels,holding cup,hooded cloak,knife,lee-enfield,pants,rifle,sheath,sheathed,thigh sheath,white cloak,white gloves,white pants,",
+          "n": ""
+        },
+        {
+          "name": "常服游侠枪手",
+          "p": "holding sword,hoodie,black coat,standing,headlamp,open coat,sword,closed mouth,smile,hand in pocket,hood down,hooded coat,belt pouch,shorts,kneelhigh,boots,holding gun,backpack,",
+          "n": ""
+        },
+        {
+          "name": "废墟战士",
+          "p": "determined expression,(ornate armor:1.16),silver armor,(blue accents:1.05),leaf motif,pauldrons,gauntlets,greaves,standing,(holding sword:1.05),two-handed sword,sword tip down,(ready stance:1.05),knees bent,forest background,(ancient ruins:1.16),overgrown vines,mossy stones,sunlight filtering through trees,(god rays:1.05),“红斗篷”,green jade pendant,little red riding hood,hood up,red hooded cloak,torn clothes,black cross-laced shirt,midriff,linea alba,gold trim,sleeveless,shoulder belt,fingerless gloves,choker,asymmetrical clothes,black shorts,red half-skirt,utility belt,",
+          "n": ""
+        },
+        {
+          "name": "植物射手",
+          "p": "arrow (projectile),bird,yellow rose,hair flower,yellow flower,holding bow (weapon),single thighhigh,holding weapon,cleavage,holding arrow,vines,white gloves,looking at viewer,dress,hair bow,pink bow,see-through,standing,petals,head wreath,plant,asymmetrical legwear,single glove,water,uneven legwear,wading,showgirl skirt,green thighhighs,grey background,flower wreath,outdoors,sweat,panties,thigh strap,",
+          "n": ""
+        },
+        {
+          "name": "冰雪鳞甲公主",
+          "p": "(pale skin:1.05),ice,blue scale armor,blue sleeveless dress,ice dress,bare shoulders,",
+          "n": ""
+        },
+        {
+          "name": "冰霜之翼",
+          "p": "detailed ice,exoskeleton,(delicate and beautiful ice crystal wings:1.10),mecha goggles,ice elbow gloves,small horns,(white bodysuit:1.10),blush,ice wings,large wings,",
+          "n": ""
+        },
+        {
+          "name": "恶魔弓手",
+          "p": "bow (weapon),belt,holding bow (weapon),black gloves,black thighhighs,pouch,black shorts,arrow (projectile),black wings,hood,hood down,fur trim,petals,belt pouch,short sleeves,short shorts,holding arrow,fur-trimmed capelet,black shirt,",
+          "n": ""
+        },
+        {
+          "name": "装甲短剑",
+          "p": "armor,dagger,full armor,gauntlets,greaves,holding dagger,holding knife,veil,thighhighs,long skirt,knee up,",
+          "n": ""
+        },
+        {
+          "name": "战场执旗手",
+          "p": "wind,fighting stance,v-shaped eyebrows,open mouth,gorgeous armor,spear,flag on spear,broken armor,plate armor,full armor,chainmail,metal armor,hair black ribbon,holding polearm,outdoors,battlefield,sand storm,sandstorm,blood splatter,cuts,deep wound,blood on face,",
+          "n": ""
+        },
+        {
+          "name": "短上衣战士",
+          "p": "(skinny:1.22),armor,red cape,brown gloves,sword,red headband,breastplate,rib,shirt,short sleeves,shoulder pads,legs apart,midriff,hand up,headband,navel,white shirt,cropped shirt,crop top,",
+          "n": ""
+        },
+        {
+          "name": "赫尔墨斯之甲",
+          "p": "armor,religious style armor,gauntlets,decadence,leaning forward,(messy hair:1.10),white stocking,dark circles around eyes,legwear,valkyrie winged helmet,white armor,gold armor,glow,glowing eyes,armored dress,petticoat,leotard,",
+          "n": ""
+        },
+        {
+          "name": "流浪肌肉剑士",
+          "p": "muscular,pectorals,scar,gloves,holding sword,harness,bara,fur trim,chest harness,cape,smile,cowboy shot,covered abs,belt,scar on face,large pectorals,hand on own hip,black pants,tight clothes,jewelry,abs,looking to the side,",
+          "n": ""
+        },
+        {
+          "name": "锁链战士",
+          "p": "chain around arm,charin,chain bracelet,broken chain,pelvic curtain,white dress,gothic costume,white gauntlets,claws,expressionless,white fur-trimmed cape,",
+          "n": ""
+        },
+        {
+          "name": "银白骑士侍卫",
+          "p": "silver armor,gold trim armor,pauldrons,couter,vambraces,gauntlets,armored dress,thigh boots,white hooded cape,hood up,medium cape,front slit,",
+          "n": ""
+        },
+        {
+          "name": "死地领主",
+          "p": "long sleeves,jewelry,sitting,full body,male focus,wide sleeves,necklace,crown,staff,gem,skull,robe,skeleton,gold,black robe,from above,",
+          "n": ""
+        },
+        {
+          "name": "战损冒险者",
+          "p": "(bandage on one eye:1.10),cross necklace,(dirty clothes,burnt clothes,torn clothes:1.10),black gold short capelet,white dress,very long skirt,(bandaged hands:1.10),black gold belt,(bandaged leg:1.10),ankle lace-up shoes,black straw shoes,",
+          "n": ""
+        },
+        {
+          "name": "西幻冒险服装",
+          "p": "close-up,cross earings,ruby,(ruby necklace:1.05),dragon print,argyle,crease,frills,(brown capelet:1.05),neck ruff,frilled shirt,frills sleeves,center frills,white dress,short sleeves,gold bracelet,gold armlet,brown belt,brown red skirt,white waist apron,(red leg garter:1.05),(frills leg garter:1.05),(white thighhighs:1.28),red argyle thighhighs,black boots,cross-laced footwear,brown boots,",
+          "n": ""
+        },
+        {
+          "name": "长枪护卫",
+          "p": "armor,shield,polearm,helmet,pauldrons,shoulder armor,gauntlets,holding polearm,looking at viewer,greaves,clothing cutout,holding shield,armored boots,earrings,covered navel,spear,black leotard,cleavage,shoulder spikes,vambraces,gorget,grey thighhighs,breastplate,highleg,pointy ears,cleavage cutout,highleg leotard,gloves,",
+          "n": ""
+        },
+        {
+          "name": "大剑战士",
+          "p": "full armor,white tabard,long sleeves,gold trim,white side capelet,dark side shoulder armor,black gloves,argyle,belt,layered dress,thigh boots,happy,holding greatsword,",
+          "n": ""
+        },
+        {
+          "name": "野地宿营兽人",
+          "p": "dark skin,messy hair,groin,scar on stomach,single bare shoulder,grey cape,torn cape,black tube top,denim shorts,open shorts,single shoulder pad,brown belt,loose belt,brown gloves,black footwear,knee boots,",
+          "n": ""
+        },
+        {
+          "name": "原tag动作",
+          "p": "smirk,grin,looking to the side,hand on own hip,hand up,clenched hand,standing,legs apart,",
+          "n": ""
+        },
+        {
+          "name": "女祭司",
+          "p": "holding staff,mage staff,priest,nsfw,black bodystocking,(white tabard:1.10),shiny clothes,priest hat,pale skin,expressionless,(church:1.16),sidelighting,(dappled sunlight:1.10),light particles,glow light particles,",
+          "n": ""
+        },
+        {
+          "name": "棒棒糖守夜人",
+          "p": "holding lantern,black gloves,blue brooch,black dress,lollipop,mouth hold,white headwear,lace gloves,puffy short sleeves,lolita fashion,thigh strap,sparkle,blue flower,blue gemstone,cowlick,frills,white bow,",
+          "n": ""
+        },
+        {
+          "name": "宽大斗篷行者",
+          "p": "(very large cloak:1.22),(satin fabric emphasis:1.10),(dynamic cloak folds:1.16),(floating cloak:1.16),white-blouse,long poofy sleeves,coat under cloak,long black skirt,clothes flapping,hood down,",
+          "n": ""
+        },
+        {
+          "name": "神秘旅行商人",
+          "p": "hand on knee,black hood,(hood up,hood covered face:1.10),big hood,black robe,long dress,black thigh boots,long sleeve,sitting,(knight’s helmet:0.95),wooden wall,wooden floor,wrap,no eyes,carriage,close-up,lantern,crossed legs,",
+          "n": ""
+        },
+        {
+          "name": "猩红收割者",
+          "p": "(slime girl,liquid skin,membrane (anatomy),red skin,red wings,blood:1.10),holding scythe,red scythe,blood scythe,black fire,torn clothes,navel,budget sarashi,black dress,gothic lolita,cross-laced clothes,emotionless,bare shoulders,",
+          "n": ""
+        },
+        {
+          "name": "绿焰收割者",
+          "p": "scary,magical,epic scenery,from below,night sky,(hell:1.10),glowing-in-the-dark,hitodama,darkness,red moon,(black dress:1.16),lace trim dress,scythe,wings,naughty face,pantylines,chain,(claws:1.10),(skull:1.10),green fire,gauntlets,(claws gloves:1.10),capri pants,high heels,(burning green fire skull:1.16),totenkopf,(pale skin:1.05),earrings,red lips,shiny skin,shiny clothes,bursting breasts,(flaming weapon:0.82),(levitation:1.16),(green aura:1.16),(aura surrounding:1.16),smoke,dynamic pose,(green fire on scythe:1.16),(demonic powers:1.16),magical,epic scenery,green fire,dark aura,leaning forward,(holding scythe:1.16),fighting stance,(flying:1.16),",
+          "n": ""
+        },
+        {
+          "name": "德鲁伊（狼）",
+          "p": "(wolf hat,wearing wolf head on head,detailed realistic black wolf head:1.10),(holding wooden staff:1.05),magic on staff,bare shoulder,cape,vest,loincloth,patterned top,patterned clothing,necklace,fringe trim,pattern trim,(sylvan girl:1.10),(face tattoo:1.05),very long braid,pattern trim,crossbody,",
+          "n": ""
+        },
+        {
+          "name": "精灵守林员",
+          "p": "looking at viewer,dress,closed mouth,bare shoulders,standing,outdoors,cowboy shot,sleeveless,black gloves,day,belt,elbow gloves,fingerless gloves,blurry,black dress,cape,tree,blurry background,turtleneck,leaf,sunlight,elf,nature,light particles,forest,light rays,crown braid,arrow (projectile),quiver,grey cape,",
+          "n": ""
+        },
+        {
+          "name": "巡林弓箭手（与人外tag组中的人鹿娘搭配更佳）",
+          "p": "(antlers:1.10),armband,armor,arrow (projectile),belt,bow (weapon),breastplate,brown belt,chiton,hair bun,holding bow(weapon),looking ahead,nature,outdoors,quiver,see-through,single glove,tree,",
+          "n": ""
+        },
+        {
+          "name": "狩猎弓手",
+          "p": "armlet,armor,arrow(projectile),asymmetrical armor,bandeau,bow(weapon),bracelet,earrings,head chain,navel,quiver,shoulder armor,",
+          "n": ""
+        },
+        {
+          "name": "侦察弓手",
+          "p": "(archery:1.05),bow (weapon),leather breastsplate,green skirt,single shoulder armor,single bare shoulder,bare legs,",
+          "n": ""
+        },
+        {
+          "name": "龙骑弓手",
+          "p": "(archery:1.05),bow (weapon),looking at another,sweet smile,leather breastsplate,green skirt,single shoulder armor,single bare shoulder,bare legs,(a small dragon,the girl leaned against the dragon:1.05),lying,hug,",
+          "n": ""
+        },
+        {
+          "name": "林间游侠",
+          "p": "brown capelet,(green tube top:1.05),single fingerless glove,bandged wrist,bandaged hand,navel,short shorts,gloves,midriff,(thigh cutout:1.16),(black pantyhose,thigh inner vent:1.10),(toeless footwear,open heel boots,toes:1.16),feather trim,",
+          "n": ""
+        },
+        {
+          "name": "占卜术士",
+          "p": "diamond(shape),white flower headdress,(pure white shawl:1.10),(silver head chain:1.05),necklace,lace choker,ring,hood up,forehead jewel,earrings,crystal ball,",
+          "n": ""
+        },
+        {
+          "name": "占卜师",
+          "p": "black veil,(fortune teller:1.10),single bare shoulder,collarbone,(crystal ball:1.10),pendant necklace,long sleeves with intricate patterns,naked poncho,black poncho,starry sky print,purple fog,smile,",
+          "n": ""
+        },
+        {
+          "name": "邪占卜师",
+          "p": "looking at viewer,red eyeball monster,dark monster,hood up,robe,cute,white eyelashes,long sleeves,sleeves past fingers,sitting,wariza,hugging a crystal ball,blood,close-up,",
+          "n": ""
+        },
+        {
+          "name": "预言修女",
+          "p": "pantyhose under shorts,bare shoulders,purple veil,cleavage,shorts,detached sleeves,purple dress,thigh boots,magical crystal ball,",
+          "n": ""
+        },
+        {
+          "name": "冰雪公主（战斗服装ver）",
+          "p": "ice sculpture child,brass flat chest armor,brass gauntlets and thighhigh boots,little snow princess,transparent pale blue skin,long white hair,small crown,baby face,cute,smile,petit style,slender,smooth body shape,forcus on navel,nakey abdomen,kneeling,large shield,on snowy plains,starry sky at night,glowing snowflakes,",
+          "n": ""
+        },
+        {
+          "name": "亡灵骑士",
+          "p": "from outside,upper body,(crow:1.10),(devil tattoo:1.05),(walking,blue fire,holding sword,cross,sword,(sword glowing:1.10),bloody,chains,blue light,(wearing tattered clothes:1.05),steam,(torn cloak:1.10),blood,cemetery,soul,helmet,",
+          "n": ""
+        },
+        {
+          "name": "格斗家旅人",
+          "p": "red hairband,budget sarashi,topless,bandaged arm,(scar on body:1.10),fire,chain,holding gourd,bare legs,grin,straw sandals,(strong body,muscular:1.10),",
+          "n": ""
+        },
+        {
+          "name": "尖刺拳手",
+          "p": "arm armor,asymmetrical clothes,gold choker,red capelet,black gloves,criss-cross halter,elbow gloves,(spiked knuckles:1.10),",
+          "n": ""
+        },
+        {
+          "name": "死神少女",
+          "p": "raven,blood,black hair,long curly hair,purple pupils,wet body,sweat,gothic dress,lantern,(giant scythe:1.05),full-face blush,zoom layer,",
+          "n": ""
+        },
+        {
+          "name": "删减后",
+          "p": "raven,blood,gothic dress,lantern,(giant scythe:1.05),（另一个版本）,【blindfold,scythe,solo,grim reaper girl,red tights,visible through hair,wearing grim reaper clothes,hood】（服装主要部分）,scary,tear to pieces spaceskull skin,death scene,transparency white hair,pointed end black,skull eye,anatomy,dressing,phantom monsters,blood,aggressive stance,smile,",
+          "n": ""
+        },
+        {
+          "name": "日系和服死神",
+          "p": "hood up,japanese clothes,black thighhighs,looking at viewer,zettai ryouiki,wide sleeves,holding scythe,long sleeves,choker,wa lolita,floral print,microskirt,frills,black skirt,closed mouth,cloak,kimono,blush,blurry background,pussy juice trail,shinigami,spirit,night,",
+          "n": ""
+        },
+        {
+          "name": "金镰刀护卫",
+          "p": "long sleeves,fluffy skirt,luxurious white dress,silver patterns,bow tie,layered long skirt,gold-silver frills,golden high heels,gold accents,white hair flower,holding large scythe,white flowers,gold patterns,",
+          "n": ""
+        },
+        {
+          "name": "洛丽塔死神",
+          "p": "open dress,gothic lolita style,lolita hairband,lolita fashion,black shoes,holding (huge:1.05) scythe (weapon),sitting on floor,",
+          "n": ""
+        },
+        {
+          "name": "蓝玫瑰礼服死神",
+          "p": "(blue roses,pocket watch,gorgeous:1.10),(high slit silk evening gown,transparent evening gown,low cut,transparent gown,top hat,monocle,death scythe,huge scythe,red blade,golden leg ornaments,nipples:1.05),",
+          "n": ""
+        }
+      ]
+    },
+    {
+      "name": "魔法特辑",
+      "options": [
+        {
+          "name": "骨架死灵术士",
+          "p": "1girl,armor,bone armor,book,bracelet,capelet,covered navel,crown,fantasy,fire,floating,floating skull,green fire,grey capelet,grey headwear,hat,holding book,jewelry,necromancer,parted lips,pinky ring,ring,scar,scar on face,skull,solo,torn,torn capelet,torn clothes,witch hat,",
+          "n": ""
+        },
+        {
+          "name": "银甲魔法少女",
+          "p": "silver plate armor corset,white tabard mini skirt with cross emblem,shoulder pauldrons,cape with holy crest,gauntlet gloves,thighhigh armored boots,holding glowing longsword wand,",
+          "n": ""
+        },
+        {
+          "name": "黑白非对称魔法少女",
+          "p": "1girl,solo,(light pink dress:2.0),star hair clip,star earrings,black and white magical girl outfit,asymmetric design,gothic lolita,frilly dress,black choker with white bow and star pendant,off shoulder,strapless black and white corset,white lace trim,sweetheart neckline,multiple white bows on bust,exposed midriff,bare navel,detached puffy sleeves with white frills and black bows,black ruffled short skirt with white layered frills and asymmetric long white fabric tail,star and moon motifs,scattered star patterns,large white bow on hip,small bows everywhere,highly detailed clothing,intricate lace and embroidery,(single white tighhigh:2.0),(single black short sock:2.0),no shoes,",
+          "n": ""
+        },
+        {
+          "name": "原版杂项",
+          "p": "(standing:2.0),(front view,from above:2.0),tilt camera,light smile,eyes half open,(leaning back:2.0),(single hand covering eye:2.0),(single hand on hip:2.0),woode floor,",
+          "n": ""
+        },
+        {
+          "name": "短剑法师",
+          "p": "witch hat,conical hat,wide-brimmed hat,hair bow,jewel,purple capelet,short cape,gold trim,red brooch,black tight shirt,short sleeves,short frilled sleeves,black translucent bridal gauntlets,frills,purple dress,high waist,belt,double-breasted,pouch,waist pouch,holding paper,inverted vent,white skirt,frilled skirt,underskirt,black bodystocking,short boots,brown leather boots.white background.holding sword,short sword,",
+          "n": ""
+        },
+        {
+          "name": "法球女巫",
+          "p": "(witch:1.22),(victorian gothic:1.10),(pointed witch hat with black lace:1.16),(black velvet bustle dress:1.10),(s-curve silhouette:1.10),(leg-of-mutton sleeves:1.10),(high lace collar:1.10),(heavy velvet cloak with fur hood:1.16),(silver cross pendant:1.10),(holding a floating crystal ball:1.05),(dark purple magic aura:1.05),(pale skin:1.05),dark makeup,",
+          "n": ""
+        },
+        {
+          "name": "黑丝裁剪法师",
+          "p": "1girl,solo,highlegs,sitting,from above,black witch hat,staff,thighhighs,holding,black background,holding staff,garter straps,black thighhighs,bare shoulders,looking at viewer,black headwear,witch,choker,garter belt,navel,parted lips,leotard,large hat,colored eyelashes,silver eyebrows,feet,knees up,sheer thighhighs,see-through thighhighs,transparent thighhighs,",
+          "n": ""
+        },
+        {
+          "name": "护甲法师",
+          "p": "1girl,solo,cowboy shot,(dnd,fantasy:1.05),(warlock (dnd):1.05),necromancer,necromancy,wizard,holding staff,(chain mail lining:1.05),(brown leather-armor vest:1.05),cardigan,(edge pattern trim clothing:1.10),long sleeves,one shoulder cape,black shoulder armor with gold trim,leather armguard,tool belt,red ascot,witch hat,(double exposure hat,starry sky double exposure,hat chain:0.9),expressionless,",
+          "n": ""
+        },
+        {
+          "name": "紫披法师",
+          "p": "black turtleneck woolen shirt,buckle corset,dark purple long pleated skirt,dark purple capelet,dark purple sleeves,wide sleeves,black cuffs,black boots,black fingerless gloves,silver round clasp,wizard,black trim,",
+          "n": ""
+        },
+        {
+          "name": "夜巡魔女",
+          "p": "broom riding,starry sky,night,full moon,floating book,magic book,movie shot,looking away,holding the hat with hand,legs together,char1：girl,witch hat,hat bow,hat ribbon,witch,(grey pantyhose,gradient pantyhose,lace-up boots,brown knee boots,constellation print,constellation print in grey pantyhose:1.5)(gothic lolita,black lolita,frilled dress,frilled skirt,black puffy long sleeves,see-through sleeves,black lace glove,frilled glove,layered dress,skull hair ornament,ribbon trim,white ribbon,skull bowtie,center frills,two-sided cloak,eyewear strap,round eyewear,delicate,",
+          "n": ""
+        },
+        {
+          "name": "幽灵手术士",
+          "p": "armless amputee,double amputee,detached arms,ghost hands,blue fire,disembodied hand,large breasts,witch hat,hat chain,black sweater,cloak,high collar,belt collar,single shoulder pad,grey shoulder pad,shoulder belt,black corset,high belt,purple showgirl skirt,pelvic curtain,pantyhose,thigh boots,damaged boots,boot belts,",
+          "n": ""
+        },
+        {
+          "name": "原版杂项 (2)",
+          "p": "solo,cowboy shot,from side,large breasts,leaning forward,contrapposto,hand on own hip,adjusting headwear,looking at viewer,head tilt,upturned eyes,ahoge,",
+          "n": ""
+        },
+        {
+          "name": "现代法术人员",
+          "p": "one single fingerless glove,short gloves,skull icon chocker,2:1.5)black shirt with hexagram,black and white jacket,long sleeve jacket,leather belt,black lightning symbol on leg,tattoo,a dark magic book hanging at belt,middle shorts,blue shorts,black boots,black fingernails,",
+          "n": ""
+        },
+        {
+          "name": "催眠魔女",
+          "p": "1girl,very big witch hat,scar on neck,ringed eyes,messy hair,oversized clothes,single bare shoulder,wide sleeves,black hooded cloak,big eyes in witch hat,eye print in shirt,torn clothes,single leg black pantyhose,bandaged leg,bandaged hand,boots,gray shirt,torn pantyhose,scar on leg,",
+          "n": ""
+        },
+        {
+          "name": "南瓜魔女",
+          "p": "1girl,looking at viewer,blush,open mouth,white background,bare shoulders,cowboy shot,black gloves,black headwear,witch hat,frilled dress,black hairband,halloween,jack-o’-lantern,claw pose,halloween costume,pumpkin,orange dress,red pupils,",
+          "n": ""
+        },
+        {
+          "name": "丝线操控者",
+          "p": "1girl,solo,beret,black capelet,white ascot,buttons,dark background,frills,from side,glowing eyes,looking at viewer,profile,puppet strings,reaching towards viewer,smile,solo,string around finger,upper body,",
+          "n": ""
+        },
+        {
+          "name": "粉色飞行魔女",
+          "p": "sagging breasts,see-through cleavage,white dress,halter dress,light pink ascot,purple gem,center frill,sideboob,frill-trimmed dress,purple witch hat,hat star,white elbow gloves,white boots,ankle boots,high heels,white thighhighs,lace-trimmed thighhighs,light pink broom,crystal broom,",
+          "n": ""
+        },
+        {
+          "name": "原版飞行",
+          "p": "arm support,arm at side,hand up,hand in hair,adjusting hair,flying broom,in air,full body,looking away,facing away,:d,night,in sky,full moon,stary sky,moon light,from side,metro,broom sitting,",
+          "n": ""
+        },
+        {
+          "name": "黑色侧开蕾丝女巫",
+          "p": "witch,eyes visible through hair,skinny:pale skin,medium breasts,gothic lolita,black dress,see-through dress,side slit,wide sleeves,black thighhighs,witch hat,belt,lace,",
+          "n": ""
+        },
+        {
+          "name": "兽骨流浪祭司",
+          "p": "holding staff,looking at viewer,outdoors,snowing,black cloak,purple dress,animal skull,black cape,hooded cloak,bandage arms,",
+          "n": ""
+        },
+        {
+          "name": "小恶魔黑魔法少女",
+          "p": "black magical girl outfit,short skirt,lace-up corset,detached sleeves,cleavage cutout,ribbon choker,asymmetrical thighhighs,skull accessory,spiked heels,belt straps,star-shaped brooch,magic staff,buckled gloves,tattered skirt,bat motif,chain belt,arm warmers,looking at viewer,hairpins,eyepatch,",
+          "n": ""
+        },
+        {
+          "name": "纹身女巫",
+          "p": "black headwear,(veil,veil over eyes:1.16),eye mask,no eyes,head wings,(body markings,full-body tattoo,glowing tattoo,bodypaint:1.16),witch hat,long sleeves,cleavage,bare shoulders,collarbone,detached sleeves,wide sleeves,black dress,strapless,holding broom,witch,looking at viewer,blush,smile,parted lips,staff,broom,colored skin,grey skin,black skin,very dark skin,dark-skinned female,",
+          "n": ""
+        },
+        {
+          "name": "星月女巫",
+          "p": "tarot (medium),star (symbol),star,hexagram,crystal in lantern,blue fire,candle,candlestand,crow,purple butterfly,classical style decoration,decoration,blue rose,magic,fantasy,smile,witch hat,gold pattern,suit collar,frills,white layered dress,dark blue over skirt,puffy long sleeves,short over long sleeves,decorative adornments,capelet,two-sided fabric,ascot,black pantyhose,sitting,crossed ankles,on crescent,holding kerosene lamp,holding tarot card,",
+          "n": ""
+        },
+        {
+          "name": "紧身衣装甲巫师",
+          "p": "sideboob,mask,witch hat,white headwear,thigh boots,cape,white dress,covered nipples,belt,gauntlets,cloak,hood up,white bodysuit,",
+          "n": ""
+        },
+        {
+          "name": "红色衬衫女巫",
+          "p": "1girl,witch hat,black headwear,black necktie,collared shirt,red shirt,white gloves,wide sleeves,black jacket,black robe,buckle,belt,white skirt,pleated skirt,black thighhighs,thigh boots,black footwear,high heel boots,",
+          "n": ""
+        },
+        {
+          "name": "刺剑女巫",
+          "p": "witch hat,single bare shoulder,black dress,capelet,white dress,veil,capelet,side cape,holding rapier,fighting stance,knee up,thighhighs,mismatched legwear,",
+          "n": ""
+        },
+        {
+          "name": "鬼火少女",
+          "p": "will-o’-the-wisp (mythology),black thighhighs,collared shirt,detached sleeves,ghost,glitch,grey shirt,necktie,see-through,see-through skirt,sleeves past fingers,thighhighs,dusk ball,shade,glowstick,",
+          "n": ""
+        },
+        {
+          "name": "星辉魔法少女",
+          "p": "colorful outline,colored,colourful,colored shards,floating hair,dynamic pose,holding black staff,(skirt hold:1.10),witch hat,star (symbol),gem,off shoulder,pleated skirt,black,white,",
+          "n": ""
+        },
+        {
+          "name": "华丽洛丽塔粉色蓬蓬裙魔法少女",
+          "p": "magical girl,lolita fashion,pink latex bodysuit,pink skirt,pink pantyhose,mini hat,headband,capelet,high hell boots,heart hair ornament,lace-trimmed bloomers,tiered ruffled petticoat,bell-shaped puffy sleeves,corset-style waist,asymmetrical bow shoulder straps,gradient tulle overlay,pearl-button fastenings,star-embroidered garters,translucent chiffon arm drapes,crisscross back ribbons,heart-shaped knee patches,glitter-dusted hemline,satin opera gloves with lace cuffs,layered frilled ankle cuffs,holographic belt chain,candy-shaped pouch accessory,pleated chiffon overskirt,metallic thread embroidery,stocking tops,crystal droplet fringe,quilted heart-shaped bustle,",
+          "n": ""
+        },
+        {
+          "name": "华丽洛丽塔黑色魔法婚纱裙少女",
+          "p": "(magical girl,lolita fashion:1.05),black bodysuit,black wedding dress,(frills,gold trim,legs,long sleeves,elbow gloves,high heel boots,mini top hat,capelet,choker,rose hair ornament,hair ribbon,hair bow,bowtie,falling blue petals,blue rose:1.05),",
+          "n": ""
+        },
+        {
+          "name": "双人合并版",
+          "p": "2girls,yuri,full body,standing,impossible clothes,french kiss,symmetrical docking,looking at another,magical girl,lolita fashion,heterochromia,(pink latex bodysuit,|pink skirt:0.95),pink pantyhose,mini hat,headband,capelet,high hell boots,heart,heart hair ornament,blush,magical girl,lolita fashion,(black bodysuit|black wedding dress:0.95),frills,gold trim,legs,long sleeves,elbow gloves,high heel boots,mini top hat,capelet,choker,rose hair ornament,hair ribbon,hair bow,bowtie,falling blue petals,blue rose,blue rose ornament,light smile,torn clothes,pantyshot,",
+          "n": ""
+        },
+        {
+          "name": "女巫学徒",
+          "p": "witch hat,black headwear,black robe,black coat,off shoulder,brown shirt,brown skirt,wide sleeves,brown bag,high-waist skirt,open robe,ankle boots,black footwear,pointy footwear,broom,",
+          "n": ""
+        },
+        {
+          "name": "亡讯女巫",
+          "p": "pale skin,(oversized witch hat with crow skull:1.05),(tattered gothic dress:1.16),(torn black pantyhose:1.05),broken shackles,thigh garter,bone charms,necromantic sigil tattoos,",
+          "n": ""
+        },
+        {
+          "name": "冰系旅法师",
+          "p": "median furrow,frilled shirt,pleated skirt,black pantyhose,blue capelet,ascot,brooch,belt,beret,corset,black pantyhose,wrist cuffs,thigh strap,brown boots,dnd,fantasy,dim,(ice magic effect arround:1.10),(looking at ice book,looking object:1.05),(one hand holding a book,one cupping hand up,ice magic energy on hand:1.10),frilled dress,(many candles,disturbed books,messy books:1.05),wind,floating hair,floating magic spark,speed lines,wind line,bright,",
+          "n": ""
+        },
+        {
+          "name": "侍从术士",
+          "p": "hair clips,black robe,fur collar,black long tabard,long skirt,boots,gold trim,belt,long sleeves,side cape,black gloves,",
+          "n": ""
+        },
+        {
+          "name": "阴影术士",
+          "p": "(queen,empress:1.34),tiara,light blue gem,blush,pendant,necklace,talisman,lace trimmed,black stockings,garter belt,elbow gloves,(silk,sleeveless dress,skirt,pattern,long cape,robe,black hood,black mouth veil,armguard:1.16),purple energy power,holding dagger,",
+          "n": ""
+        },
+        {
+          "name": "原版",
+          "p": "(fantasy,medieval,dark theme:1.22),(queen,empress:1.34),tiara,light blue gem,blush,pendant,necklace,talisman,lace trimmed,black stockings,garter belt,elbow gloves,(royal,darkness,shadow,mist,phantom,confuse,hazy,night,in forest,trees:1.05),(silk,sleeveless dress,skirt,pattern,long cape,robe,black hood,black mouth veil,armguard:1.16),(master,spell,mana,release,casting spell,special effects,action,dynamic pose,element,purple energy power,holding dagger:1.16),display,",
+          "n": ""
+        },
+        {
+          "name": "霍格沃兹魔法教师",
+          "p": "black-framed eyewear,black shirt,chalkboard,dress,glasses,green dress,high collar,holding wand,indoors,long sleeves,looking at viewer,wide sleeves,wizard hat,",
+          "n": ""
+        },
+        {
+          "name": "魔法学员",
+          "p": "(wing collar:1.10),(green lining,ribbed sweater,beige sweater:1.05),wide sleeves,large hat,black witch hat,black robes,green hat bow,green ribbed necktie,grey skirt,lowleg skirt,pleated skirt,hand on own chest,white shirt,black thighhigh,",
+          "n": ""
+        },
+        {
+          "name": "死灵法师",
+          "p": "necromancer,necromancy,wizard,holding a staff,skull staff,(hooded:1.10),(one shoulder cape:1.05),(black shoulder armor with gold trim:1.05),leather armguard,(chain mail lining:1.05),(brown leather-armor vest:1.05),cardigan,red ascot,(edge pattern trim clothing:1.10),long sleeves,tool belt,",
+          "n": ""
+        },
+        {
+          "name": "植物术士",
+          "p": "sling bikini,sitting in tree,in tree,petals,glowing blue leaves,vine,moss,florakinesis,thorns,black thick liquid,magic,butterfly,forest,",
+          "n": ""
+        },
+        {
+          "name": "冰霜纯白法师",
+          "p": "bishop,(formal white bishop dress:1.05),(white bishop coat:1.10),white mage,white cape,detached sleeves,long sleeves,ring,belt,formal dress,(clear crystal mage staff made by blue jade with awesome decoration:1.10),one hand holding mage staff:1.05),",
+          "n": ""
+        },
+        {
+          "name": "热烈法师",
+          "p": "fire,cast spell,(red sleeves:1.10),detached sleeves,long frilled sleeves,wide sleeves,ribbed sleeves,red garter belt,red garter straps,(white shirt,covered navel:1.16),white thighhighs,black capelet,short capelet,black hairband,red pleated skirt,frilled skirt,gold trim,earrings,(mage staff:1.10),magic circle,crystal,",
+          "n": ""
+        },
+        {
+          "name": "徒手法师",
+          "p": "(hooded,breast curtains:1.05),wizard,black capelet,short capelet,tool belt,white ascot,robe,wide sleeves,gold trim clothing,magic energy effect,eyes make up,",
+          "n": ""
+        },
+        {
+          "name": "旅行法师",
+          "p": "dark blue capelet,holding staff,grey long tight dress,long sleeves,red choker,staff,black half gloves,belt,",
+          "n": ""
+        },
+        {
+          "name": "旅行法师（红）",
+          "p": "hair over shoulder,under-rim eyewear,bags under eyes,hooded cape,red cloak,red dress,beltskirt,cardigan,",
+          "n": ""
+        },
+        {
+          "name": "红色法师",
+          "p": "(holding a staff,red gem staff:1.10),(breast curtains:1.10),red torn robe,bare legs,white skin,",
+          "n": ""
+        },
+        {
+          "name": "魔女服装",
+          "p": "female character design,gorgeous western dresses,complex costume design. elegant style,lace and accessories,jewelry details,contrast color,witch hat,red rose elements,knolling layout,highly detailed,depth,many parts,",
+          "n": ""
+        },
+        {
+          "name": "魔毯飞行魔女（相对偏阿拉伯风格一点）",
+          "p": "magic carpet,floating,flying,boots,brown dress,cape,red headwear,waist ribbon waist ribbon,jewelry,pendant,ring,feather hair ornament,feathers,kneeling,looking away,outdoors,",
+          "n": ""
+        },
+        {
+          "name": "现代女巫",
+          "p": "(black witch hat,black coat:1.10),(black fingerless gloves:1.05),sunglasses,downblouse,undone necktie,denim shorts,white shirt,big bag,shoulder bag,",
+          "n": ""
+        },
+        {
+          "name": "热辣女巫",
+          "p": "witch hat,red headwear,jewelry,bare shoulders,earrings,o-ring,short dress,black panties,choker,nail polish,parted lips,sunglasses,side slit,",
+          "n": ""
+        },
+        {
+          "name": "摇滚魔女",
+          "p": "(red witch hat:1.10),brown nails,electric guitar,fingerless gloves,green-tinted eyewear,sunglasses,muscular female,navel,nude,shorts,crop top,chain,ring,sharp teeth,fire,broken rock,",
+          "n": ""
+        },
+        {
+          "name": "人偶魔女（菈妮cos）",
+          "p": "witch,doll joints,witch hat,large hat,fur cloak,white robe,sitting,own hands together,hands on own thighs,wing eyes,expressionless,",
+          "n": ""
+        },
+        {
+          "name": "活泼魔女（背包+灯笼）",
+          "p": "armlet,lantern,holding broom,backpack,detached sleeves,blue shirt,blue skirt,pleated skirt,thighhighs,thigh boots,ring,",
+          "n": ""
+        },
+        {
+          "name": "苹果女巫（蓝，阿米娅cos）",
+          "p": "black gloves,blue apple,blue bow,eyelashes,hand up,holding fruit,large hat,light,looking at viewer,off-shoulder dress,off shoulder,open mouth,ring,single glove,sleeveless dress,sparkle,star (symbol),strapless dress,tattoo,upper body,witch hat,",
+          "n": ""
+        },
+        {
+          "name": "苹果女巫（红）",
+          "p": "tongue out,flower,witch hat,holding apple,red dress,red hat,bare shoulders,layered dress,single thighhigh,red rose,black gloves,fishnet gloves,asymmetrical gloves,sleeveless dress,cowboy shot,black bow,black ribbon,black thighhighs,lace trim,frilled dress,nail polish,single glove,",
+          "n": ""
+        },
+        {
+          "name": "粉红童话女巫",
+          "p": "frilled dress,medium dress,pink dress,white dress,white collar,blue bowtie,layered sleeves,puffy long sleeves,frilled sleeves,white sleeves,wide sleeves,sleeve bow,sleeve ribbon,two-sided fabric,polka dot,heart print,floral print,star print,single thighhigh,white thighhighs,frilled socks,bow legwear,asymmetrical legwear,footwear bow,mary janes,high heels,pink footwear,witch hat,pink headwear,hat ribbon,hat flower,white headwear,hat bow,frilled hat,lace trim,pom pom (clothes),striped bow,gem,purple ribbon,broom,holding bouquet,holding stuffed toy,flower brooch,butterfly,",
+          "n": ""
+        },
+        {
+          "name": "原版（全tag占357容量，n3不可用）",
+          "p": "looking at viewer,smile,open mouth,long sleeves,white shirt,full body,wide sleeves,white dress,star (symbol),white thighhighs,high heels,head tilt,sparkle,white headwear,blue bow,witch hat,white socks,blush stickers,frilled dress,white flower,white bow,cat,frilled skirt,frilled sleeves,hat ribbon,pink bow,juliet sleeves,polka dot,gem,single thighhigh,pink dress,hat bow,butterfly,puffy long sleeves,lace trim,light blush,pom pom (clothes),white sleeves,mary janes,pink skirt,pink ribbon,asymmetrical legwear,broom,purple bow,hat ornament,dog,blue bowtie,bouquet,striped bow,collared dress,pink footwear,purple ribbon,hat flower,witch,pink headwear,layered sleeves,star print,mismatched legwear,holding animal,white collar,white rose,two-sided fabric,holding bouquet,holding stuffed toy,pink bowtie,pink rose,purple bowtie,purple theme,single sock,heart print,frilled hat,footwear bow,purple rose,rose print,single kneehigh,ankle socks,medium dress,frilled socks,sleeve garter,bow legwear,sleeve bow,sleeve ribbon,flower brooch,frilled headwear,",
+          "n": ""
+        },
+        {
+          "name": "魔女/女巫1（分离袖版）",
+          "p": "witch hat,hat feather,brown pantyhose,belt,detached sleeves,turtleneck dress,strapless dress,",
+          "n": ""
+        },
+        {
+          "name": "魔女/女巫2（晚礼服无袖版）",
+          "p": "backless dress,backless outfit,black dress,black ribbon,black thighhighs,covered navel,evening gown,hair ribbon,half gloves,hat ornament,jewelry,side slit,star earrings,starry sky,thighhighs,veil,witch hat,hand on headwear,hand on own thigh,",
+          "n": ""
+        },
+        {
+          "name": "女巫3（胸部开口）",
+          "p": "no bra,clothing cutout,long sleeves,wand,hair ribbon,frills,black thighhighs,frilled dress,black witch hat,key,striped ribbon,",
+          "n": ""
+        },
+        {
+          "name": "女巫4（侧开系带）",
+          "p": "split sleeves,silk dress,side slit,cross-laced slie,blue cape,black bow,white large witch hat,gold trim,lace gloves,sideboob,",
+          "n": ""
+        },
+        {
+          "name": "向日葵女巫",
+          "p": "sunflower,looking at viewer,holding flower,hair flower,yellow flower,portrait,witch hat,one eye covered,star (symbol),straight-on,yellow theme,covered mouth,upper body,crescent moon,hand up,black headwear,hat ribbon,orange ribbom,",
+          "n": ""
+        },
+        {
+          "name": "纱裙女巫",
+          "p": "black bow,gemstone necklace,split sleeves,silk dress,(big white witch hat:1.05),off shoulder shirt,see-through dress,",
+          "n": ""
+        },
+        {
+          "name": "采花的小女巫",
+          "p": "grey boots,holding basket,leg up,limited palette,long sleeves,white witch hat,white shirt,wide sleeves,flower on basket,",
+          "n": ""
+        },
+        {
+          "name": "魔法少女",
+          "p": "holding wand,detached sleeves,black boots,garter straps,high heels,standing,black thighhighs,long sleeves,blush,bare shoulders,bow,white shirt,wings,red skirt,frills,bubble skirt,hoop skirt,high-waist skirt,black corset,bare pectorals,strapless,magic girl,cleavage,hand up,",
+          "n": ""
+        },
+        {
+          "name": "巨锤魔法少女",
+          "p": "black gothic lolita fashion,holding white giant hammer (weapon),wings (blurred),white lace,pink frills,ribbons,pink accessories,powerful aura,",
+          "n": ""
+        },
+        {
+          "name": "其他版本",
+          "p": "hairpin,gothic lolita fashion,(see-through dress:1.16),top hat,high hat,holding a giant hammer (weapon),wings (blurred:1.05),white lace,pink frills,ribbons,pink accessories,powerful aura,reflection,large mirror,",
+          "n": ""
+        },
+        {
+          "name": "原版 (2)",
+          "p": "cowboy shot,from side,hairpin,looking at viewer,light smile,gothic lolita fashion,(see-through dress:1.63),pink,black,and white color scheme,top hat,high hat,holding a giant hammer (weapon:1.05),wings (blurred:1.05),intricate lace and frills with a mix of white and pink,ribbons,pink accessories,determined expression,powerful aura,reflection,large mirror,",
+          "n": ""
+        },
+        {
+          "name": "恶堕魔法少女",
+          "p": "empty eyes,gradient hair,black nails,asymmetrical legwear,spread legs,black choker,blush,breasts,bridal gauntlets,clothing cutout,corruption,dark persona,detached sleeves,earrings,groin,hair flower,high heels,highleg leotard,leotard,mismatched legwear,multicolored hair,navel piercing,pubic tattoo,sidelocks,single thigh boot,thigh gap,thighhighs,waist cape,",
+          "n": ""
+        },
+        {
+          "name": "其他版本 (2)",
+          "p": "pussy,bent over,elbow gloves,pale skin,1girl,1boy,purple pubic tattoo,blush,(ahegao:1.16),(penis covering eyes:1.16),nsfw,(pale skin:1.22),shiny skin,(large breasts:1.10),large areola,(huge penis:1.10),(brown penis:1.41),nude male,male standing beside,steaming body,saliva,pussy juice,cum in pussy,cum drip,cum string,ahegao,steaming body,glowing pubic tattoo,collar,red gem,leotard,latex,center opening,navel cutout,side cutout,frills,layered skirt,dark magical girl,shiny skin,miniskirt,",
+          "n": ""
+        },
+        {
+          "name": "恶堕魔法少女 (2)",
+          "p": "upper body,dark magical girl,corruption,dark persona,shiny skin,leotard,latex,center opening,navel cutout,side cutout,frills,layered skirt,miniskirt,elbow gloves,collar,purple pubic tattoo,glowing pubic tattoo,steaming body,",
+          "n": ""
+        },
+        {
+          "name": "恶堕之翼魔法少女",
+          "p": "(corruption,dark persona:1.05),(magical girl:1.05),tentacle clothes,black dress,(layered skirt:1.05),showgirl skirt,see-through dress,miniskirt,(purple dress:1.10),bodystocking,leotard under clothes,see-through,bare shoulders,detached sleeves,purple print,cross print,(inverted cross:1.05),chest jewel,ascot,black thighhighs,(energy wings,low wings:1.16),black crown,red gem,(neon trim:1.05),flame hair rendered in cel-shading style,glowing neon edges with halation effect gradient fire strands,burning cloak with splattered color transitions,fabric dissolving into liquid light,(neon wetlook:1.10),fluorescence overlay,retro wave light leaks,uv blacklight glow,acrylic pour patterns,led strip contour glowing,glass prism refractions,(glitch light distortion:0.91),digital void space,(high contrast:1.10),",
+          "n": ""
+        },
+        {
+          "name": "魔装少女",
+          "p": "mecha musume,body armor,white armor,black armor,chest tattoo,heart tattoo,thighhighs,high heel boots,thigh boots,see-through,see-through,center opening,areola slip,elbow gloves,see-through skirt,collarbone,navel,showgirl skirt,empty eyes,chest jewel,purple print,skindentation,covered navel,black leotard,glowing,energy wings,neon trim,",
+          "n": ""
+        },
+        {
+          "name": "向日葵魔法少女",
+          "p": "1girl,solo,sparkling eyes,standing,looking at viewer,smile,golden glowing,frilly,ruffles,layered clothing,ornate,eye-catching,sunshine theme,sunflower theme,sunflower motif,sunflower patterns,bright yellow,warm orange,rich green,golden accents,huge sunflower hair clips,sunflower crown,multiple oversized golden ribbons,sparkling hairpins,jingle bells attached to hair,frilled lace headpiece,glittery accents in hair,star-shaped pupils,sparkling eye makeup,long false eyelashes,tiny sunflower earrings,decorative face gems on cheeks,heart-shaped golden glasses,sunflower-shaped blush,sunflower print lace camisole,frilled lace vest with golden embroidery,puff sleeve blouse with oversized peter pan collar,sunflower lace trim at cuffs,ruffled high neck,sheer fabric overlay blouse,oversized sunflower pendant necklace,multiple layered pearl and golden bead necklaces,wide ribbon choker with sunflower charm and bells,elaborate tiered choker,corset-style vest with sunflower embroidery,lace-up front,golden buttons,oversized fluffy cardigan with sunflower patches and glitter,knitted sunflower motif sweater,sparkling short jacket,wide corset belt with large sunflower buckle,multiple golden chains draping from waist,cascading ribbons,decorative tassels,layered belts with studs,long frilled lace gloves with sunflower appliques,multiple stacked golden and yellow bracelets,sparkling rings on every finger,fluffy arm warmers with bows,ribbon-tied wrist cuffs with bells,multiple layered ruffled petticoats,sunflower print lace bloomers with golden trim,exaggerated tiered ruffled skirt with sunflower fabric,pleated mini skirt with golden embroidery,apron with a giant sunflower motif and cascading ribbons,sheer glitter overlay skirt,decorative skirt with bells and charms,sunflower pattern opaque tights,glittering golden shimmer stockings,frilled lace thigh-high socks with huge sunflower bows,striped leg warmers,fluffy leg warmers with pompoms,multiple layered socks with lace and ribbons,super platform boots with multiple golden buckles,huge sunflower embellishments,oversized bows,ribbon-laced,sparkling glitter finish,decorative charms attached to laces,oversized sunflower-shaped messenger bag with golden chains,cute sunflower plush toy attached to clothing,decorative backpack with ribbons and bells,sunflower parasol,cute keychains,",
+          "n": ""
+        },
+        {
+          "name": "原版 (3)",
+          "p": "loli,1girl,best quality,ultra detailed,intricate details,1girl,solo,adorable,happy,energetic,joyful,sparkling eyes,standing,looking at viewer,full body,big smile,golden glow,frilly,ruffles,bows,ribbons,layered clothing,maximalist fashion,hyper-detailed clothing,elaborate design,ornate,flashy,showy,eye-catching,sunshine theme,sunflower theme,sunflower motif,sunflower patterns,bright yellow,warm orange,rich green,golden accents,voluminous twin drills,very long curly hair,multiple elaborate braids,huge sunflower hair clips,sunflower crown,multiple oversized golden ribbons,sparkling hairpins,jingle bells attached to hair,frilled lace headpiece,glittery accents in hair,star-shaped pupils,sparkling eye makeup,long false eyelashes,tiny sunflower earrings,decorative face gems on cheeks,heart-shaped golden glasses,sunflower-shaped blush,sunflower print lace camisole,frilled lace vest with golden embroidery,puff sleeve blouse with oversized peter pan collar,sunflower lace trim at cuffs,ruffled high neck,sheer fabric overlay blouse,oversized sunflower pendant necklace,multiple layered pearl and golden bead necklaces,wide ribbon choker with sunflower charm and bells,elaborate tiered choker,corset-style vest with sunflower embroidery,lace-up front,golden buttons,oversized fluffy cardigan with sunflower patches and glitter,knitted sunflower motif sweater,sparkling short jacket,wide corset belt with large sunflower buckle,multiple golden chains draping from waist,cascading ribbons,decorative tassels,layered belts with studs,long frilled lace gloves with sunflower appliques,multiple stacked golden and yellow bracelets,sparkling rings on every finger,fluffy arm warmers with bows,ribbon-tied wrist cuffs with bells,multiple layered ruffled petticoats,sunflower print lace bloomers with golden trim,exaggerated tiered ruffled skirt with sunflower fabric,pleated mini skirt with golden embroidery,apron with a giant sunflower motif and cascading ribbons,sheer glitter overlay skirt,decorative skirt with bells and charms,sunflower pattern opaque tights,glittering golden shimmer stockings,frilled lace thigh-high socks with huge sunflower bows,striped leg warmers (yellow,orange,green),fluffy leg warmers with pompoms,multiple layered socks with lace and ribbons,super platform boots with multiple golden buckles,huge sunflower embellishments,oversized bows,ribbon-laced,sparkling glitter finish,decorative charms attached to laces,oversized sunflower-shaped messenger bag with golden chains,cute sunflower plush toy attached to clothing,decorative backpack with ribbons and bells,sunflower parasol,cute keychains,vibrant sunflower field,bright blue sky with fluffy clouds,sparkling sun rays,soft bokeh background,glowing sunlight,",
+          "n": ""
+        }
+      ]
+    },
+    {
+      "name": "野族传说",
+      "options": [
+        {
+          "name": "林间小红帽",
+          "p": "1girl,solo,outdoors,close-up,green jade pendant,little red riding hood,hood up,red hooded cloak,torn clothes,black cross-laced shirt,midriff,linea alba,gold trim,sleeveless,shoulder belt,fingerless gloves,choker,asymmetrical clothes,black shorts,red half-skirt,utility belt,shy,clutching chest,",
+          "n": ""
+        },
+        {
+          "name": "野人刺客",
+          "p": "1girl,loin cloth,thigh straps,tribal bra,striped face paint,1leg forward,sideboob,deep cleavage,angry face,angry eyebrows,holding dagger,holding dagger backhand,pointing at viewer,forest,trees,tent,people in background,tribal tattoos,",
+          "n": ""
+        },
+        {
+          "name": "野人战士",
+          "p": "dark skin,(scar:1.22),stomach,navel,facial mark,circlet,red scarf,silver pauldrons,silver armor,silver gloves,silver midriff,pelvic curtain,",
+          "n": ""
+        },
+        {
+          "name": "热带岛屿服饰",
+          "p": "tribal clothes,bohemian,off-shoulder,sarong,wrap skirt,striped skirt,cleavage,jewelry,bangles,gold bracelet,necklace,beads,feather,",
+          "n": ""
+        },
+        {
+          "name": "原版动作场景",
+          "p": "gentle smile,confident,looking at viewer,solo,sitting,on beach,relaxed pose,center,foreground,upper body,1girl,outdoors,beach,sand,sea,ocean,water,sunset,sky,clouds.,",
+          "n": ""
+        },
+        {
+          "name": "狼人战士",
+          "p": "1girl,solo,{{barbarian warrior,animal hood,fur collar,fur cuffs,axe,navel,fur trim,cape,torn clothes,{{{fur,alternative costume,wolf hood,{fur pasties,no bra,no panties.,",
+          "n": ""
+        },
+        {
+          "name": "面具幽魂",
+          "p": "looking at viewer,closed mouth,collarbone,upper body,hand up,off shoulder,blurry background,blood,mask,depth of field,expressionless,glowing,fire,light particles,glowing eyes,lens flare,one eye covered,blood on face,blood on clothes,scythe,glowing eye,blue fire,blood on weapon,unworn mask,holding mask,holding scythe,",
+          "n": ""
+        },
+        {
+          "name": "原野狩猎者",
+          "p": "glowing eyes,nordic tribal tattoos,rune-carved,leather armor,wolf pelt cloak,bone-handled hunting bow,",
+          "n": ""
+        },
+        {
+          "name": "原版（狐娘）",
+          "p": "silver fox ears with golden fur tips,glowing amber eyes,rune-carved leather armor,wolf pelt cloak,snow-dusted pine forest,aurora borealis backlight,ancient stone circle,holding bone-handled hunting bow,frost-covered birch trees,mist breath effect,nordic tribal tattoos,dynamic action pose,",
+          "n": ""
+        },
+        {
+          "name": "野族祭司",
+          "p": "tassel,long sleeves,knife,hood up,closed mouth,red dress,forehead mark,white choker,sheath,white hood,choker,white dress,collarbone,dagger,",
+          "n": ""
+        },
+        {
+          "name": "林间舞者",
+          "p": "dynamic pose,forest,dancing,thighhighs,ass,bare shoulders,clothing cutout,collarbone,criss-cross back-straps,curvy,elbow gloves,fingerless gloves,gem,gold footwear,gold trim,green gemstone,navel,long pelvic curtain,revealing clothes,see-through clothes,stiletto heels,stomach cutout,thigh gap,white gloves,",
+          "n": ""
+        },
+        {
+          "name": "瓦尔基里（北欧神话中引导死者灵魂前往奥丁神殿瓦尔哈拉的众多女性人物之一，此处仅作女武神装扮）",
+          "p": "(valkyrie:1.16),holding polearm,polearm,looking at viewer,armor,armored bodysuit,armored boots,armored gloves,armored skirt,black bodysuit,breastplate,fingerless gloves,hip armor,leg armor,shoulder armor,two-sided capelet,",
+          "n": ""
+        },
+        {
+          "name": "丛林野人",
+          "p": "dark skin,seductive smile,(bead thong:1.16),wet,see-through,(tribal tattoo:1.10),bodypaint,breast tattoo,arm tattoo,leg tattoo,pubic tattoo,(tube top,strapless:1.10),crop top,loincloth,pelvic curtain,gold trim,earrings,neck ring,armlet,bracelet,thighlet,navel piercing,",
+          "n": ""
+        },
+        {
+          "name": "酋长",
+          "p": "barbarian set (zelda) (cosplay),skull on head,horns,face tattoo,tribal,cape,belt,no panties,convenient censoring,underboob,cleavage,",
+          "n": ""
+        },
+        {
+          "name": "野人草裙",
+          "p": "navel,tribal,tooth necklace,(vines,leaf on breasts,leaves on breasts,upper body,leaf skirt,grass skirt:1.22),(feathers,wet,facial paint,facepaint,bare shoulders,earrings:1.10),",
+          "n": ""
+        },
+        {
+          "name": "羽饰近卫",
+          "p": "feather hair ornament,feathers,long fingernails,sharp fingernails,bare shoulders,revealing clothes,white thighhighs,wrist guards,pelvic curtain,midriff,",
+          "n": ""
+        },
+        {
+          "name": "金饰比基尼战甲",
+          "p": "armlet,bikini armor,bracelet,circlet,earrings,eyelashes,gold chain,gold choker,gold trim,green gemstone,half-closed eyes,head chain,loincloth,navel,neck ring,necklace,pelvic curtain,red cape,skindentation,midriff,thigh strap,thighlet,tiara,",
+          "n": ""
+        },
+        {
+          "name": "游牧战士",
+          "p": "argyle clothes,multicolored tabard,orange capri pants,armor,armlet,chestplate,(holding scabbard:1.10),bare shoulders,cross pattern,one mechanical arm,",
+          "n": ""
+        },
+        {
+          "name": "部落卫兵",
+          "p": "dark skin,(axe,holding polearm:1.16),(tribal,pelvic curtain,halterneck,white criss-cross halter,white bra:1.10),bare shoulders,barefoot,feather hair ornament,navel,covered nipples,bottomless,shiny skin,white thong,see-through,",
+          "n": ""
+        },
+        {
+          "name": "部落战士",
+          "p": "(scar across eye,scar on body:1.10)（此部分需在最前）,axe,(tribal,facial mark:1.10),midriff,bare shoulders bandages,dark skin,short dress,necklace,",
+          "n": ""
+        },
+        {
+          "name": "狼骑兵",
+          "p": "(skull on head:1.05),huge skull,white face mark,black fur-trimmed clothes,torn clothes,bare arms,tattoo on hand,huge white wolf riding,capelet,holding polearm,",
+          "n": ""
+        },
+        {
+          "name": "海神引路人",
+          "p": "(fog:1.05),(sea,dusk:1.05),(water tentacles,tentacles wings:1.05),blood,glowing eyes,glint,lantern,amulet,bandage over one eye,nun,wooden boat,sitting,",
+          "n": ""
+        },
+        {
+          "name": "操蛇之女",
+          "p": "(gigantic girl:1.05),kimono,chinese clothes,slit pupils,snakes hair,(tentacles hair:1.05),floating hair,(multicolored hair:1.05),a lot of snakes in background,(black lips:1.05),long eyelashes,(flower:1.05),ibex horns,forehead,brow,skeleton print,beautiful skull art,gold theme,silver background,shiney skin,cleavage,",
+          "n": ""
+        }
+      ]
+    },
+    {
+      "name": "其他",
+      "options": [
+        {
+          "name": "拟态大剑",
+          "p": "1girl,solo,medical eyepatch,chained,chained neck,chained feet,chained wrists,o-ring choker,detached sleeves,bandaged hand,flat chest,bandage breasts,navel,white short shorts,brown belt,bandaged leg,toeless legwear,torn legwear,barefoot,black gigantic sword,huge weapon,sitting,monster eyes on sword,",
+          "n": ""
+        },
+        {
+          "name": "未解放",
+          "p": "1girl,solo,medical eyepatch,chained,chained neck,chained feet,chained wrists,o-ring choker,detached sleeves,bandaged hand,flat chest,bandage breasts,navel,white short shorts,brown belt,bandaged leg,toeless legwear,torn legwear,barefoot,(black gigantic sword:1.05),(huge weapon:1.05),",
+          "n": ""
+        },
+        {
+          "name": "直播间弗兰肯斯坦",
+          "p": "1girl,solo,collarbone,stitches,bolt,gem,patchwork skin on body,(screw in head:0.91),solo,looking at viewer,smile,long sleeves,upper body,:d,black jacket,chair,polka dot,pink shirt,can,polka dot background,breast rest,holding can,keyboard (computer),energy drinkbreast rest,breasts on table,computer keyboard,jirai kei,",
+          "n": ""
+        },
+        {
+          "name": "熔火战甲",
+          "p": "blank stare,dilated pupil,black butterflies woven living clothes,red rose vines living clothes,tentacle clothes,combat attitude,a nimal arm,tentacle arm,knight,fire armor,armor formed by fire,(dragon scale armor:0.95),big arm of lava,holding polearm,holding lance,",
+          "n": ""
+        },
+        {
+          "name": "黑骨女王",
+          "p": "wings graffiti,brick wall,dark,glowing eyes,eye trail,looking at viewer,emotionless,black tiara,veil,black dress,sleeveless dress,cleavage,side slit,black cape,shoulder spikes,torn cape,detached sleeve,see-through sleeve,armlet,bracer,single black thighhigh,standing,leaning on the wall,holding a skull,",
+          "n": ""
+        },
+        {
+          "name": "卡牌少女",
+          "p": "summer red leather hooded coat,(shorts:1.05),zippers,bare legs,barefoot,sandals,(midriff,navel:1.05),black leather gloves,black hairband,(white collared shirt:1.05),cropped jacket,frilled sleeves,hair ribbon,orange neckerchief,black long dress,side slit,cross-laced slit,belt,playing card,between fingers,see-through silhouette,covered navel,",
+          "n": ""
+        },
+        {
+          "name": "杨戬",
+          "p": "(three-pointed double-edged glaive:1.10),third eye,(white clothes,white hanfu:1.22),close-up,full body,black armored boots,armor,arm guards,long sleeves,holding polearm,(three-pointed blade,central elongated blade,two integrated long side blades,smoothly merged spearhead,double-edged side cutters,slender long shaft,polished metal surface,subtle carvings:1.05),holding weapon,holding polearm,lightning,glowing floating yellow swords,glowing light trails,lightning,floating,in the air,fly,speed lines,motion lines,leaning forward,wide sleeves,snow,winter,snowing,snowflakes,",
+          "n": ""
+        },
+        {
+          "name": "血腥护士",
+          "p": "(blood-stained nurse cap,syringe choker,ecg ear clip,restraint belt bracelet,bandage off-the-shoulder top,blood-spattered ink splashed shirt dress,slashed stockings,restraint belt sandals:1.05),",
+          "n": ""
+        },
+        {
+          "name": "虚空之眼",
+          "p": "(black hole over one eye:1.10),(cracked skin:1.10),metal collar,upper body,veil,glowing eye,parted lips,looking at viewer,bare shoulders,gold chain,broken,one-eyed,revealing clothes,halterneck,(corruption:1.10),sideboob,(m87 black hole:1.10),",
+          "n": ""
+        },
+        {
+          "name": "黑洞之眼",
+          "p": "(cracked skin:1.10),(black hole over one eye:1.10),greyscale with colored background,greyscale with colored eyes,evil smile,looking at viewer,upper body,glowing eye,one-eyed,(corruption:1.10),blood tears,red theme,",
+          "n": ""
+        },
+        {
+          "name": "魔界战士",
+          "p": "(eternal night empress:1.10),(gothic queen:1.10),(dark gold-purple armor:1.10),(slim-fit plate armor:1.10),(three pairs of black wings:1.10),(purple soulfire aura:1.10),(curved demon horns:1.10),(leg armor with thigh slit:1.10),(hourglass figure:1.10),(runed combat staff:1.10),(flaming staff:1.10),(mystic muscle definition:1.10),(midnight sky background:1.10),(moonlight illumination:1.10),(dynamic swirling ash:1.10),(dark fantasy style:1.10),(volumetric flame effects:1.10),(dramatic pose:1.10),8号球衣（牢大ver）,yellow basketball uniform,(the word on clothes that says laker 8:1.16),1girl,smile teeth,",
+          "n": ""
+        },
+        {
+          "name": "伤残流民",
+          "p": "grey dress,sleevesless,(bandages,torn clothes,bandaged arm,bandaged head,bandaged leg:1.10),anklet,collarbone,no shoes,feet,",
+          "n": ""
+        },
+        {
+          "name": "日蚀收割者",
+          "p": "arm strap,bare shoulders,black dress,black hands,chain,cowboy shot,cracked skin,empty eyes,gradient skin,high collar,holding polearm,hole on body,hood up,hooded dress,impaled,pale skin,rain,side slit,solar eclipse,straight-on,",
+          "n": ""
+        },
+        {
+          "name": "快枪手",
+          "p": "fighting stance,black background,holding revolver,revolver,red scarf,cowboy shot,from back,looking back,black wide-brimmed hat,silver studs,brown leather jacket,high-collared shirt,adorned with intricate,silver embroidery,brown leather gloves,elbows gloves,broken glass,from side,blurry,serious,dim light,dust,shadow,looking at viewer,necktie,formal,suit,light smile,white shirt,closed mouth,scar face,",
+          "n": ""
+        },
+        {
+          "name": "西部沙盗",
+          "p": "looking at viewer,desert,highway,holding pistol,red square scarf,brown cowboy hat,motor vehicle,covered navel,arm belt,wide shot,eyepatch,gauntlets,belt,thigh strap,capelet,grin,crossed arms,smirk,sitting,crossed legs,sunset,smoke,",
+          "n": ""
+        },
+        {
+          "name": "印花剑客",
+          "p": "floral print,bowtie,shoulder armor,sleeveless,wrist ribbon,cross necklace,wide sleeves,collared dress,holding weapon,(floating sword,greatsword,huge weapon:1.10),shoulder cutout,planted sword,hands on hilt,",
+          "n": ""
+        },
+        {
+          "name": "牛仔",
+          "p": "cowboy hat,hat over one eye,holding gun,one eye covered,cowboy western,scarf,gloves,belt,shotgun,jacket,revolver,shield,armor,buckle,",
+          "n": ""
+        },
+        {
+          "name": "酒吧牛仔",
+          "p": "bar (place),western attire,leather vest with fringe,checkered shirt tied at midriff,bandana around neck,table,navel,shelf,holding mug,",
+          "n": ""
+        },
+        {
+          "name": "牛仔 (2)",
+          "p": "sheriff badge,torn brown trench coat,bison-hide leather coat,black cross-laced shirt,midriff,linea alba,brown shorts,cutoffs,concho belt,brass studs,dark green bandana,gloves,cowboy hat,holding lasso,",
+          "n": ""
+        },
+        {
+          "name": "其他版本1",
+          "p": "leaning to wall,glitch,serious,looking away,male crop top,torn two scarf,hair slicked back,brown cowboy hat,ripped jeans,windbreaker,lace trim,brown jacket,",
+          "n": ""
+        },
+        {
+          "name": "燧发枪牛仔",
+          "p": "cleavage,thigh strap,firelock,white dress,necklace,bare shoulders,jewelry,revolver,torn clothes,holster,off shoulder,antique firearm,corset,holding handgun,long sleeves,cowgirl,",
+          "n": ""
+        },
+        {
+          "name": "原版杂项",
+          "p": "sitting,crossed legs,barrel,looking at viewer,smile,",
+          "n": ""
+        },
+        {
+          "name": "饮酒牛仔",
+          "p": "1girl,motion lines,steam,full face blushing,solo,cowboy,sitting at bar,leaning on counter,holding shot glass,drinking whiskey,(wearing cowboy hat:1.16),hat brim casting shadow on face,(holster:1.10),(revolver:1.10),gun belt,pistol at hip,open vest,worn jeans,boots,wooden saloon,polished bar top,whiskey bottles,brass fixtures,smoky atmosphere,",
+          "n": ""
+        },
+        {
+          "name": "沙地摩托",
+          "p": "1girl,motion lines,steam,full face blushing,motorcyclist,biker,leaning against motorcycle,cruiser bike,harley davidson style,holding beer bottle,drinking beer,alcohol,wearing leather jacket,jeans,biker boots,sunglasses,dusty clothes,helmet on handlebars,desert highway,route 66,sunset,golden hour,orange sky,long shadows,tumbleweed,cactus,rugged,masculine,cool,cinematic shot,wide angle,",
+          "n": ""
+        },
+        {
+          "name": "供应奶的牛仔酒吧老板娘",
+          "p": "off shoulder,huge breasts,collarbone,bar (place),serving milk,western attire,leather vest with fringe,checkered shirt tied at midriff,bandana around neck,table,navel,shelf,holding mug,",
+          "n": ""
+        },
+        {
+          "name": "扮鬼魂服",
+          "p": "dot pupils,(white ghost costume:1.05),hood up,sleeves past wrists,see-through,wide sleeves,white robe,very long dress,",
+          "n": ""
+        },
+        {
+          "name": "其他版本",
+          "p": "blush,fingernails,navel,open mouth,(ghost costume,sheet ghost:1.10),star (symbol),wrist cuffs,",
+          "n": ""
+        },
+        {
+          "name": "残损鬼魂变装",
+          "p": "bare shoulders,blue headband,eyes visible through hair,feet,ghost,hair over one eye,hairclip,hitodama,see-through clothes,sitting,skull hair ornament,sleeves past fingers,soles,thick thighs,toes,torn clothes,white dress,white thighhighs,will-o’-the-wisp (mythology),",
+          "n": ""
+        },
+        {
+          "name": "怪盗舞者",
+          "p": "(eyes mask,feather mask:1.10),form fitting suit,silk cape,high heels,elbow gloves,pearl necklace,hidden wires,gold embroidery,diamond tiara,",
+          "n": ""
+        },
+        {
+          "name": "午夜西装骑士",
+          "p": "armor,jacket,cape,cloak,long sleeves,gauntlets,black pants,hood up,black gloves,",
+          "n": ""
+        },
+        {
+          "name": "原版",
+          "p": "cowboy shot,science fiction,standing,armor,jacket,cape,cloak,long sleeves,gauntlets,black pants,black gloves,looking at viewer,closed mouth,outdoors,city,building,skyscraper,cityscape,night,reflection,",
+          "n": ""
+        },
+        {
+          "name": "西装骑士护卫",
+          "p": "flower over eye,white thighhighs,white dress,purple ascot,purple trim,purple shirt,white gloves,gauntlets,white jacket,close-fitting dress,single slit,long sleeves,white skirt,",
+          "n": ""
+        },
+        {
+          "name": "采蘑菇的小家伙",
+          "p": "sanime girl,peasant girl,forest,frilly white dress,yellow ribbons,brown capelet with hood,stuffed sheep toy,white panties,white stockings,(brown medieval peasant shoes:1.05),(picking mushrooms from ground:1.10),holding basket,(dirty clothes:0.95),",
+          "n": ""
+        },
+        {
+          "name": "水果小红帽",
+          "p": "oversize object,from side,vine,1girl,:d,blush,brown boots,cleavage,frilled dress,frilled socks,fruit,hairclip,heart hair ornament,hood,hood up,kneehighs,lace-up boots,looking at viewer,on swing,parallel hairclips,red bow,red bowtie,red dress,red hood,sitting,smile,strawberry,swing,white socks,",
+          "n": ""
+        },
+        {
+          "name": "小红帽",
+          "p": "apple,hairclip,hood up,long sleeves,red capelet,holding basket,single braid,baguette,hooded capelet,white dress,red hood,black ribbon,hair over shoulder,",
+          "n": ""
+        },
+        {
+          "name": "小红帽（但是狼娘）",
+          "p": "wolf girl,apron,basket,blush,claw pose,cloak,cowboy shot,dress,fang,field,fingernails,flower field,forest,holding basket,hooded cloak,nature,outdoors,red dress,sharp fingernails,",
+          "n": ""
+        },
+        {
+          "name": "一版",
+          "p": "expressionless,hooded cape,red cape,wolf hood,blouse,girdling,checkered skirt,boots,(skin fang:1.05),",
+          "n": ""
+        },
+        {
+          "name": "二版",
+          "p": "upper body,hood up,red cape,fur trim,jacket,navel,short shorts,denim shorts,scar across eye,thighhighs fingerless gloves,",
+          "n": ""
+        },
+        {
+          "name": "喂白雪公主吃毒苹果的皇后",
+          "p": "holding fruit,black gloves,cleavage,red apple,red capelet,basket,holding basket,hair hood down,black dress,earrings,hair flower,blue rose,fur trim,red jacket,smile,frilled dress,x hair ornament,pink flower,short sleeves,pom pom (clothes),petals,EVA紧身衣,plugsuit,eyepatch,blush,bodysuitskin tight,interface headset,pilot suit,no shoes,covered feet,neon genesis evangelion,open cockpit,",
+          "n": ""
+        },
+        {
+          "name": "米老鼠cos",
+          "p": "(huge mouse ears,black bodystocking:1.10),no bra,red shorts,covered nipples,fake animal ears,topless,white gloves,suspenders,yellow slippers,",
+          "n": ""
+        }
+      ]
+    }
+  ]
+}
