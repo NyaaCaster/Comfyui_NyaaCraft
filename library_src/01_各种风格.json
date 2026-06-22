@@ -1,0 +1,420 @@
+{
+  "name": "各种风格",
+  "options": [
+    {
+      "name": "西幻",
+      "p": "(artist:as109,artist:wlop:0.91),((artist:wanke:0.95):1.05),(artist:ciloranko:0.95),(artist:hiten:0.91),artist:k-suwabe,(artist:mamimi:1.10),artist:okazu,dnd,fantasy,medieval,cowboy shot,official alternate costume,offcial art,",
+      "n": ""
+    },
+    {
+      "name": "不能天使风格",
+      "p": "(artist:terada_tera:1.3) (no lineart:1.10),",
+      "n": ""
+    },
+    {
+      "name": "上古galgame风格",
+      "p": "(artist:m&m (mickey and mackey):2.0),year_2023,year_2024,Q版画风1,artist:massakasama,(artist:fenrir_(fenriluuu):0.6),(artist:amonitto:0.5),(artist:op na yarou:0.6),(artist:channel_(caststation):0.4),year 2025,year 2024,",
+      "n": ""
+    },
+    {
+      "name": "表情包画风1",
+      "p": "miratsu (miratsu169),chibi,chibi only,year 2024,year 2025,perspective,",
+      "n": ""
+    },
+    {
+      "name": "表情包画风2",
+      "p": "Imazawa,deel (rkeg),kyou 039,chibi,",
+      "n": ""
+    },
+    {
+      "name": "恋人不行",
+      "p": "(artist:takeshima_eku:1.5),Incredibly absurdres,(masterpiece,best quality,absurdres,very aesthetic,detailed:5.0),colorful,4K,vardan,path tracing,anti-aliasing shader,subsurface scattering,light particles,light diffusion,smooth shading,cinematic angle,",
+      "n": "(Lineart:2.0),"
+    },
+    {
+      "name": "刮画线条",
+      "p": "(flat color:3.0),(high contrast,color contrast:5.0),(outline,no lineart,glowing outline,colorful outline:5.0),",
+      "n": ""
+    },
+    {
+      "name": "手绘美漫风格",
+      "p": "(faux traditional media,painterly,sketch,jaggy lines:1.3),(artist:squeaky (artist):1.5),artist:chronozbergh,(artist:rei (sanbonzakura):1.6),(spaghetti-bastard:1.1),",
+      "n": ""
+    },
+    {
+      "name": "月计",
+      "p": "(project moon,lobotomy_corporation,very aesthetic,official art,aesthetic:2.0),",
+      "n": ""
+    },
+    {
+      "name": "死或生",
+      "p": "dead or alive,official art,dead or alive xtreme,3d,:artist:fugtrup,artist:billyhhyb,artist:87yawa anagi,artist:seapall,realistic,year 2024,no text,best quality,very aesthetic,absurdres,",
+      "n": ""
+    },
+    {
+      "name": "彩铅画风（请勿与画师同用）",
+      "p": "faux traditional media,crayon (medium),crayon lines,",
+      "n": ""
+    },
+    {
+      "name": "蓝色单色草图",
+      "p": "graphic painting,(blue theme,blue background:5.0),(1 girl,solo,5:3.0)messy draft,(draft:5.0),(sketch:5.0),(messy lines,lineart:5.0),",
+      "n": ""
+    },
+    {
+      "name": "蓝红双色草稿风格",
+      "p": "messy sketch,pen sketch,scribble art,crosshatching,abstract lineart,chaotic lines,asymmetrical composition,blue ink,(pink ink:0.4),sketchbook style,minimalist background,hand-drawn texture,unfinished look,raw sketch aesthetic,pink theme,white theme,blue theme,dim light,",
+      "n": ""
+    },
+    {
+      "name": "色块像素（请勿添加额外画风）",
+      "p": "(no line art,flat,vague:2.0),no face,no eyes,no mouth,2d,no lines,flat color,pixel art,haku89,hamsterfragment,spoiledmuffin,itzah,momiahair,solo focus,year 2024,",
+      "n": ""
+    },
+    {
+      "name": "孤独摇滚番剧画风",
+      "p": "1girl,solo,(official style,bocchi the rock:1.2),anime screencap,anime coloring,anime drawings,year 2022,close up,",
+      "n": ""
+    },
+    {
+      "name": "扁脸q版（坨坨脸）",
+      "p": "(artist:diyap:1.5),game:trickcal,(chibi:2.0),",
+      "n": ""
+    },
+    {
+      "name": "彩色线条（看画风，不稳定）",
+      "p": "lineart,gradient line,light blue line,light purple line,light pink line,light yellow line,white background,",
+      "n": ""
+    },
+    {
+      "name": "碧蓝档案风格",
+      "p": "(blue archive game cg:4.0),yutokamizu,mx2j,doremi (doremi4704),black soul风格,artist:sushi yuusha toro,",
+      "n": ""
+    },
+    {
+      "name": "终末地3d画风",
+      "p": "ukai saki,mx2j,(game cg,arknights: endfield:2.5),(girls’ frontline 2: exilium,official art:2.5),(blender (medium),detailed skin,game screenshot,photorealistic,photo (medium):1.5),cel shading,year 2025,",
+      "n": "(realistic:2.0),(outline:5.0),"
+    },
+    {
+      "name": "平涂草稿风格",
+      "p": "(pastel theme,watercolor (medium),oil painting (medium),acrylic paint (medium),clean lineart,flat color:1.5),",
+      "n": ""
+    },
+    {
+      "name": "黑白漫画风格",
+      "p": "(high contrast,greyscale,jaggy lines,halftone shadow:2.0),",
+      "n": ""
+    },
+    {
+      "name": "复古漫画风格（需去除其他画师串）",
+      "p": "(artist:clamp_(circle),0.3:0.6)artist:yoneyama_mai,(artist:flieger,0.3:2.0)artist:oogure_ito,(artist:yuuki_nobuteru:1.3).year 2025,:manga cover,(cowboy shot,illustration,traditional media:1.2),1girl,real world location,",
+      "n": "(artist collaboration:4.0),"
+    },
+    {
+      "name": "魔裁主美",
+      "p": "umemaro (siona0908),year 2024,year 2025,",
+      "n": ""
+    },
+    {
+      "name": "柚子社表情包画风",
+      "p": "akaneya,chibi only,year 2024,year 2025,1girl,",
+      "n": ""
+    },
+    {
+      "name": "表情包画风",
+      "p": "(1girl,solo,chibi only,chibi:2.0),(zhibuji_loom,fuyukawa_kagari:0.7),futaba969649,(chibi:1.05),sketch,",
+      "n": ""
+    },
+    {
+      "name": "渐灰漫画风格（需去除其他画师串）",
+      "p": "(artist:pyon-kichi:1.51),(artist:lack:1.49),(artist:chomoran:2.33),(artist:healthyman:3.0),(artist:lam (ramdayo):0.75),(artist:re0n:2.56),(artist:higashide irodori:1.69),(artist:maki keigo:3.25),year 2025,year 2024,(lineart:1.75),(white border:1.25),(muted color:2.5),(location:0.5),best quality,masterpiece,highres,vivid,no text,best quality,amazing quality,very aesthetic,absurdres,very aesthetic,masterpiece,no text,",
+      "n": "(censored,bad anatomy:1.5),(upscaled:2.0),(multiple views:2.0),(artist collaboration:10.0),(simple background:3.0),(upscaled,blurry:2.0),"
+    },
+    {
+      "name": "油画涂抹风格（需去除其他画师串）",
+      "p": "realistic,(artist:tripdancer:1.5),(artist:au (d elete):0.8),(artist:96yottea:1.1),(artist:kyezzzz:2.1),realistic,(acrylic paint (medium),Palette knife painting:2.3),cool tone,balanced white lighting,partially colored,",
+      "n": "(knife:2.0),"
+    },
+    {
+      "name": "黑白手绘扫图风格（需去除其他画师串）",
+      "p": "(artist:nogiwa kaede:2.0),(artist: 3774.:1.6),(artist:yamamoto souichirou:0.5),(artist:muchi maro,:0.8),year 2024,year 2025,(pencil drawing,monochrome:3.0),(sketch,graphite (medium):3.0),",
+      "n": "(artist collaboration:1.0),(multiple views:1.0),"
+    },
+    {
+      "name": "真实照片背景",
+      "p": "photo background,real world location,",
+      "n": ""
+    },
+    {
+      "name": "圣堂彩窗风格",
+      "p": "mosaic pattern,stained glass,photomosaic,mosaic art,",
+      "n": ""
+    },
+    {
+      "name": "另一版本",
+      "p": "stained glass style,no face,(mosaic pattern,stained glass,photomosaic:3.0),",
+      "n": ""
+    },
+    {
+      "name": "梵高",
+      "p": "artist:vincent van gogh,artist:gustav klimt,",
+      "n": ""
+    },
+    {
+      "name": "复古油画（对二次元角色无效）",
+      "p": "classical oil painting style,cracked varnish effect,",
+      "n": ""
+    },
+    {
+      "name": "喵斯快跑",
+      "p": "muse dash,neon palette,artist:remsrar,cogecha,(kankan33333),yoneyama mai,(artist:sho (sho lwlw):0.95),colorful outline,chromatic aberration,rainbow gradient,",
+      "n": ""
+    },
+    {
+      "name": "原版部分内容",
+      "p": "star tattoo,facial tattoo,frilled choker,leaning back,nail polish,colored shards,floating hair,finger gun,zoom layer,",
+      "n": ""
+    },
+    {
+      "name": "显像管故障",
+      "p": "glowing lines,luminous lines,white lines,neon effect,lineart,monochrome,bloom,glitch effect,scanlines,abstract background,dark aesthetic,dramatic lighting,",
+      "n": ""
+    },
+    {
+      "name": "方块像素",
+      "p": "witch,witch hat,black robe,holding staff,torch,fire,flame,blocky,autumn,fall leaves,yellow leaves,path,cobblestone,fantasy,mage,wizard,cute,chibi,miniature,warm lighting,sunset,magical,stylized,lowpoly,cubic,",
+      "n": ""
+    },
+    {
+      "name": "黄色黑色平涂风格",
+      "p": "license plate,limited palette,spot color,flat color,monochrome,yellow theme,",
+      "n": ""
+    },
+    {
+      "name": "小玛丽风格",
+      "p": "cute style,chibi only,stick drawing style,(artist:horuhara:1.22),",
+      "n": ""
+    },
+    {
+      "name": "浮世绘风格（请勿添加额外画风）",
+      "p": "ukiyo-e,nihonga,fine art,japonisme,flat color,woodblock print,",
+      "n": ""
+    },
+    {
+      "name": "游戏战斗画面【败北r18差分：defeat,mating press,nude,】",
+      "p": "2characters,health bar at the top of the screen,fighting,char1：girl,char2：girl,",
+      "n": ""
+    },
+    {
+      "name": "黑白彩色",
+      "p": "greyscale with colored background,greyscale with colored eyes,",
+      "n": ""
+    },
+    {
+      "name": "日系蒸汽波风格",
+      "p": "(retrostyle,classical,old style anime,the image is very aesthetic,retro synthwave style.this image has pastel colors.sketch markings,jaggy lines,outrun (style):1.34),night,moon,full moon,(purple theme:1.05),n4像素风二则,",
+      "n": ""
+    },
+    {
+      "name": "其一",
+      "p": "(pixel art,16-bit color palette,color banding,PC-98:1.34),year 2024,photorealistic}}},",
+      "n": ""
+    },
+    {
+      "name": "其二",
+      "p": "(jaggy lines,flipnote studio (medium),flipnote:1.22),pixelated,sketch lines,spot color,3d画风,ukai saki,mx2j,(3d,blender (medium),1.85:2.75)realistic,photorealistic,photo (medium),bloom light,no lineart,year 2025,glossy skin,highres,volumetric lights,mmd3d画风,mikumikudance (medium),3d,mygo3d画风,(anime screenshot:1.16),(BanG Dream! It’s MyGO!!!!!:1.10),(year 2024:1.10),(3d:1.55),GBC3d画风,(girls_band_cry,girls_band_cry screenshot:1.05),(unity3d (medium),3d:1.10),(game screenshot:1.10),(official art:1.10),year 2024,",
+      "n": ""
+    },
+    {
+      "name": "恋活3d画风",
+      "p": "(koikatsu,koikatsu screenshot:1.28),(unity3d (medium),3d:1.05),(zbrush (medium):1.05),(game screenshot:1.10),",
+      "n": ""
+    },
+    {
+      "name": "少前3d画风",
+      "p": "(girls’ frontline 2: exilium,official art:1.10),(unity3d (medium),3d:1.55),(zbrush (medium):1.05),(game screenshot:1.63),depth of field,blurry background,channel画风,artist:channel_(caststation),year 2024,pastel color,",
+      "n": ""
+    },
+    {
+      "name": "日本波普风格（需去除画风应用）",
+      "p": "upper body composition,anime cel-shaded style,soft blush cheeks,pearl earrings,off-shoulder lace blouse,glowing neon choker,retro crt screen reflections on glasses,vaporwave color scheme,pink-and-teal gradient background,chromatic aberration effect,film grain texture,subtle rgb shift,anime-style rim lighting,translucent skin with subsurface scattering,detailed eyelash rendering,holographic star particles,1980s anime poster aesthetic,soft focus foreground,textured brush strokes,faded denim jacket collar visible,glowing liquid eyeliner,mismatched hair accessories,micro-detailed iris patterns,ambient neon signage glow,synthetic fabric sheen,cinematic depth blur,analog vhs tape artifacts,1999风格,(artist:yoneyama mai:1.10),(rella:1.05),(artist:reoen,xilmo:1.05),year 2024,(reverse:1999:1.16),grey theme,depth of field,cinematic lighting,film grain,",
+      "n": ""
+    },
+    {
+      "name": "抽象艺术（仅推荐单与画师串合用）",
+      "p": "(abstract art:1.16),guernica,picasso,block,splicing,abstraction,cubism,realism,surrealism,clutter,",
+      "n": ""
+    },
+    {
+      "name": "吊带袜天使风格",
+      "p": "(panty & stocking with garterbelt,panty & stockingwith garterbelt style:1.10),1girl,white background,chibi,",
+      "n": ""
+    },
+    {
+      "name": "动画画风1",
+      "p": "(mafuyu (chibi21):1.05),(rurudo,gusha s,hiro (dismaless),wlop,yoneyama mai,mikami mika:1.10),(murata range:0.91),",
+      "n": ""
+    },
+    {
+      "name": "动画画风2",
+      "p": "artist:(ogipote:0.95),morikura en,year 2024,anime screencap,(official style:1.05),anime screencap,anime coloring,anime drawings,year 2025,highres,no text,official style,anime screencap,anime coloring,anime drawings,",
+      "n": ""
+    },
+    {
+      "name": "加上动画片的名字能得到根原作很像的画风",
+      "p": "",
+      "n": ""
+    },
+    {
+      "name": "复古动画风",
+      "p": "(menma (enaic31):1.10),kisumi rei,bluethebone,(artist:sho (sho lwlw):0.95),year 2024,retro artstyle,(chiaroscuro:1.10),",
+      "n": ""
+    },
+    {
+      "name": "里番风格",
+      "p": "(artist:keihh,yamazaki jun,anime coloring:1.10),year 2024,",
+      "n": ""
+    },
+    {
+      "name": "里番动画画风",
+      "p": "strike the blood,shiny,anime coloring,",
+      "n": ""
+    },
+    {
+      "name": "漫画风格",
+      "p": "greyscale,monochrome,silent comic,linear hatching,",
+      "n": ""
+    },
+    {
+      "name": "水墨风",
+      "p": "(ink wash painting:1.22),lineart,monochrome,",
+      "n": ""
+    },
+    {
+      "name": "暗色",
+      "p": "(monochrome,black and white,pencil scratch lines,drawing,graphite(medium),greyscale:1.10),",
+      "n": ""
+    },
+    {
+      "name": "埃及壁画",
+      "p": "(egyptian mural,in mural:1.16),lineart,flat color (medium),(maximalism artstyle,geometric artstyle,junk art:1.10),",
+      "n": ""
+    },
+    {
+      "name": "其他版本",
+      "p": "from side,1girl,(egyptian clothes:2.0),(egyptian mural style:2.0),no face,solo,1girl,(wide shot:3.0),(egyptian mural,egyptian mural style,girl in egyptian mural,hieroglyphic:5.0),hieroglyphic,",
+      "n": ""
+    },
+    {
+      "name": "像素风格",
+      "p": "(pixel art,perfect pixel,8-bit,dithering:1.05),",
+      "n": ""
+    },
+    {
+      "name": "极简主义风格【附带草稿化Tag：(sketch:1.10)】",
+      "p": "minimalism,(faceless:1.05),(white skin),portrait,(no lineart:1.05),simple background,white background,blending,flat color,limited palette,high contrast,",
+      "n": ""
+    },
+    {
+      "name": "像素小房间",
+      "p": "(pixel art:1.16),carpet,chair,indoors,(isometric:1.22),light rays,plant,white background,",
+      "n": ""
+    },
+    {
+      "name": "杂彩乱色风格",
+      "p": "(ff gradient:1.10),(limited palette:1.10),high contrast,inverted colors,colorful,(stunning composition:1.05),【(torino aqua:0.95),anime,（效果优化组件）】 【后接画风tag，tag切勿指定颜色，需一定程度roll】,",
+      "n": ""
+    },
+    {
+      "name": "其他版本1",
+      "p": "multicolored,colored lineart,colorful,high contrast,",
+      "n": ""
+    },
+    {
+      "name": "几乎无色纯线条",
+      "p": "(lineart:1.34),no color,2版,(lineart,black and white:1.10),3版,(black and white,sketching,greyscale:1.16),",
+      "n": ""
+    },
+    {
+      "name": "黑白线稿或初步上色",
+      "p": "traditional media,greyscale,(artist:endou okito:1.10),artist:wanke,(artist:ebifurya:0.91),year 1990,",
+      "n": ""
+    },
+    {
+      "name": "其他版本 (2)",
+      "p": "traditional media,greyscale,(artist:endou okito:1.10),artist:wanke,(artist:ebifurya:0.91),(ibenz009:0.95),year 1990,jojo风格,(araki hirohiko(style):1.34),(jojo pose:1.10),(kujo jotaro’s pose(jojo):1.10),(emphasis lines:1.10),",
+      "n": ""
+    },
+    {
+      "name": "柚子社画风",
+      "p": "cafe stella to shinigami no chou (game cg),(senren banka (game cg):1.10),riddle joker (game cg),amairo islenauts (game cg),(ask (askzy),kobuichi,muririn:1.16),game cg,",
+      "n": ""
+    },
+    {
+      "name": "柚子社画风简化版",
+      "p": "amairo islenauts (game cg),(ask (askzy),kobuichi,muririn:1.16),",
+      "n": ""
+    },
+    {
+      "name": "型月武内风格",
+      "p": "(artist:koyama hirokazu:1.05),(artist:besmiled:1.05),(artist:longdq3008:1.10),(artist:takeuchi takashi:1.05),",
+      "n": ""
+    },
+    {
+      "name": "地狱把妹王画风",
+      "p": "(official art:1.10),(helltaker(copyright):1.10),(artist: vanripper:1.10),year 2024,",
+      "n": ""
+    },
+    {
+      "name": "手绘化",
+      "p": "graphite (medium),(monochrome:1.10),paper,art tools in frame,character name,pencil,traditional media,",
+      "n": ""
+    },
+    {
+      "name": "写实",
+      "p": "close-up,(realistic oil painting:1.10),",
+      "n": ""
+    },
+    {
+      "name": "其他版本1 (2)",
+      "p": "highres realistic,realistic,stunning composition,(photorealistic,photo background,background dataset,realistic background,:3.5),(oil painting (medium),watercolor (medium):1.5),",
+      "n": "(multiple view,zoom layer:3.0),(simple background:5.0),"
+    },
+    {
+      "name": "神奈川冲浪里，海浪背景",
+      "p": "《the great wave off kanagawa》,",
+      "n": ""
+    },
+    {
+      "name": "彩墨背景",
+      "p": "colorful,pop style,realistic,flat color,close shot,from side,paint splatter on face,arrogant,demented,3d建模1,[render,c4d,photo-referenced,(wlop:0.95),(nendoroid:1.22),handmade,3d,3d建模2（疑似无效，仅作保留）,3d,(artist:custom udon:1.16),",
+      "n": ""
+    },
+    {
+      "name": "我的世界画风",
+      "p": "(pixel art:1.55),(minecraft:1.28),year 2024,(artist:wanke,onineko:1.05),(wlop:0.95),(ningen mame:0.95),akakura,ciloranko,",
+      "n": ""
+    },
+    {
+      "name": "单色风格",
+      "p": "black background,purple background,two-tone background,close-up,eyelashes,hair slicked back,looking at viewer,monochrome,multicolored hair,open mouth,partially shaded face,portrait,sidelighting,spot color,",
+      "n": ""
+    },
+    {
+      "name": "日式蒸汽波风格",
+      "p": "upper body,anime cel-shaded style,retro CRT screen reflections on glasses,vaporwave color scheme,pink-and-teal gradient background,chromatic aberration effect,film grain texture,subtle RGB shift,anime-style rim lighting,translucent skin with subsurface scattering,detailed eyelash rendering,holographic star particles,1980s anime poster aesthetic,soft focus foreground,textured brush strokes,glowing liquid eyeliner,mismatched hair accessories,micro-detailed iris patterns,ambient neon signage glow,synthetic fabric sheen,cinematic depth blur,analog VHS tape artifacts,nostalgic cityscape silhouette,",
+      "n": ""
+    },
+    {
+      "name": "原版自带外貌部分",
+      "p": "faded denim jacket collar visible,pearl earrings,off-shoulder lace blouse,glowing neon choker,iridescent makeup highlights,soft blush cheeks,wavy pastel hair with cyan highlights,sparkling gradient eyes,",
+      "n": ""
+    },
+    {
+      "name": "疑似浅色风格（看画风生效）",
+      "p": "(limited palette:1.10),(animation paper,color trace:1.05),(colored:1.05),retro artstyle,",
+      "n": ""
+    }
+  ]
+}
